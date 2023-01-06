@@ -40,8 +40,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "z0z0r4@outlook.com"
-          git config --local user.name "z0z0r4"
+          git config --local user.email "github-bot@example.com"
+          git config --local user.name "Github-Bot"
           git add .
           git commit -m "Update wallpaper"
       
