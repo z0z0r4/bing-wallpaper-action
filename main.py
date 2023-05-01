@@ -39,7 +39,7 @@ async def get(url: str, *args, **kwargs) -> httpx.Response:
         return await client.get(url, timeout=60, *args, **kwargs)
 
 async def get_region_info(region: str):
-    jsonurl = f"https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt={region}"
+    jsonurl = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt={region}"
     img_info = (await get(jsonurl)).json()["images"][0]
     img_info["desc"] = get_description_from_browser(region=region, date=img_info["startdate"])
     return img_info
@@ -85,7 +85,7 @@ def get_description_from_browser(region: str, date: str):
     except Exception as e:
         pass
     # WebDriverWait(DRIVER, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="bs-readmore"]'))).click()
-    WebDriverWait(DRIVER, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="ency_desc_full"]')))
+    # WebDriverWait(DRIVER, 10).until(EC.presence_of_element_located((By.XPATH, '//*[@id="ency_desc_full"]')))
     element_xpath = '//*[@id="ency_desc_full"]'
     e = DRIVER.find_element(By.XPATH, element_xpath)
     text = e.text
