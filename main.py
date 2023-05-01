@@ -26,7 +26,7 @@ def init_driver():
     driver = webdriver.Chrome(options=options)
     return driver
 
-DRIVER = init_driver()
+# DRIVER = init_driver()
 
 if not os.path.exists(CACHE_PATH):
     os.makedirs(CACHE_PATH)
@@ -41,7 +41,7 @@ async def get(url: str, *args, **kwargs) -> httpx.Response:
 async def get_region_info(region: str):
     jsonurl = f"https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt={region}"
     img_info = (await get(jsonurl)).json()["images"][0]
-    img_info["desc"] = get_description_from_browser(region=region, date=img_info["startdate"])
+    # img_info["desc"] = get_description_from_browser(region=region, date=img_info["startdate"]) SB Bing
     return img_info
 
 async def cache_img(info: dict, region: str) -> None:
