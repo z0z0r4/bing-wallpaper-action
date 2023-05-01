@@ -76,6 +76,7 @@ def get_description_from_browser(region: str, date: str):
     url = f'https://www.bing.com/search?q=0&form=hpcapt&filters=HpDate:"{date}"&mkt={region}'
     DRIVER.get(url)
     DRIVER.implicitly_wait(1)
+    print(DRIVER.page_source)
     try:
         co = DRIVER.find_element(By.ID, 'bnp_btn_accept').click()
     except Exception as e:
