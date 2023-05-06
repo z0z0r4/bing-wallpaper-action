@@ -100,5 +100,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4bc40ab0a248b4e64a9a818819440707": {
+        "startdate": "20230506",
+        "fullstartdate": "202305062200",
+        "enddate": "20230507",
+        "url": "/th?id=OHR.SealLaughing_DE-DE9050321655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SealLaughing_DE-DE9050321655",
+        "copyright": "Kegelrobbenwelpen, Lundy Island, England (© Henley Spiers/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Kegelrobbe&form=hpcapt&filters=HpDate%3a%2220230506_2200%22",
+        "title": "Was gibt's da zu lachen?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230506_SealLaughing%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4bc40ab0a248b4e64a9a818819440707",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

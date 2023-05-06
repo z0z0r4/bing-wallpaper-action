@@ -100,5 +100,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cf0a56782e489ede1050f856ba864be1": {
+        "startdate": "20230506",
+        "fullstartdate": "202305062200",
+        "enddate": "20230507",
+        "url": "/th?id=OHR.OdocoileusVirginianus_ES-ES7304576288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OdocoileusVirginianus_ES-ES7304576288",
+        "copyright": "Cierva de cola blanca y cervatillo recién nacido, Montana, EE.UU. (© Donald M. Jones/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=ciervo+de+cola+blanca&form=hpcapt&filters=HpDate%3a%2220230506_2200%22",
+        "title": "¡Feliz Día de la Madre!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230506_OdocoileusVirginianus%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cf0a56782e489ede1050f856ba864be1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -100,5 +100,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e0a4c0ed44a51f3920767f29f689677a": {
+        "startdate": "20230506",
+        "fullstartdate": "202305061500",
+        "enddate": "20230507",
+        "url": "/th?id=OHR.SealLaughing_JA-JP4326487726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SealLaughing_JA-JP4326487726",
+        "copyright": "ランディ島, イギリス イングランド (© Henley Spiers/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E4%B8%96%E7%95%8C%E7%AC%91%E3%81%84%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220230506_1500%22",
+        "title": "今日は世界笑いの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230506_SealLaughing%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e0a4c0ed44a51f3920767f29f689677a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -100,5 +100,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0fb6440e828a7932d08065e6751423dc": {
+        "startdate": "20230506",
+        "fullstartdate": "202305062300",
+        "enddate": "20230507",
+        "url": "/th?id=OHR.SealLaughing_EN-GB5277006835_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SealLaughing_EN-GB5277006835",
+        "copyright": "Seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=grey+seal&form=hpcapt&filters=HpDate%3a%2220230506_2300%22",
+        "title": "What's so funny?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230506_SealLaughing%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0fb6440e828a7932d08065e6751423dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
