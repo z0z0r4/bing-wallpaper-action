@@ -151,5 +151,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9fc4dd8127e214315e2329a077a1384c": {
+        "startdate": "20230509",
+        "fullstartdate": "202305092200",
+        "enddate": "20230510",
+        "url": "/th?id=OHR.CordouanLighthouse_ES-ES6838746502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CordouanLighthouse_ES-ES6838746502",
+        "copyright": "Faro de Cordouan, Royan, Charente, Francia (© FRTimelapse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Faro+de+Cordouan%2c+Francia&form=hpcapt&filters=HpDate%3a%2220230509_2200%22",
+        "title": "Un faro en la luz dorada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230509_CordouanLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9fc4dd8127e214315e2329a077a1384c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
