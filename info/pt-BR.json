@@ -168,5 +168,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ce8744ff1bd1fcac5ffee546e4d6e426": {
+        "startdate": "20230510",
+        "fullstartdate": "202305100300",
+        "enddate": "20230511",
+        "url": "/th?id=OHR.CordouanLighthouse_PT-BR4280996810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CordouanLighthouse_PT-BR4280996810",
+        "copyright": "Farol de Cordouan, Royan, Charente, na França (© FRTimelapse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Farol+de+Cordouan&form=hpcapt&mkt=pt-br",
+        "title": "Um farol na luz dourada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230510_CordouanLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ce8744ff1bd1fcac5ffee546e4d6e426",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
