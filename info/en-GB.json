@@ -202,5 +202,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4462258ef60ef17d357451c8d63d990d": {
+        "startdate": "20230512",
+        "fullstartdate": "202305122300",
+        "enddate": "20230513",
+        "url": "/th?id=OHR.SonnyBonoPelicans_EN-GB9377908080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SonnyBonoPelicans_EN-GB9377908080",
+        "copyright": "Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=pelicans&form=hpcapt&filters=HpDate%3a%2220230512_2300%22",
+        "title": "'Tis the season for travel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230512_SonnyBonoPelicans%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "4462258ef60ef17d357451c8d63d990d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
