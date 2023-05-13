@@ -219,5 +219,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0e8a2113d4ad1423d8de87fa03fa3df2": {
+        "startdate": "20230513",
+        "fullstartdate": "202305130700",
+        "enddate": "20230514",
+        "url": "/th?id=OHR.Mannheim_ROW0375839889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Mannheim_ROW0375839889",
+        "copyright": "Mannheim Water Tower, Germany (© tichr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mannheim+Water+Tower&form=hpcapt&filters=HpDate%3a%2220230513_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230513_Mannheim%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0e8a2113d4ad1423d8de87fa03fa3df2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
