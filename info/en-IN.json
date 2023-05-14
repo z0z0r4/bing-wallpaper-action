@@ -236,5 +236,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5e5110dd604795f5035d05b92d4d9fe8": {
+        "startdate": "20230514",
+        "fullstartdate": "202305141830",
+        "enddate": "20230515",
+        "url": "/th?id=OHR.MorroJable_EN-IN0488952902_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MorroJable_EN-IN0488952902",
+        "copyright": "Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain (© Gavin Hellier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=canary+islands&form=hpcapt&filters=HpDate%3a%2220230514_1830%22",
+        "title": "An island crossroad of culture",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230514_MorroJable%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5e5110dd604795f5035d05b92d4d9fe8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
