@@ -287,5 +287,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7ddd0f055efb8fc47ac7c1d8d9b973b7": {
+        "startdate": "20230517",
+        "fullstartdate": "202305171830",
+        "enddate": "20230518",
+        "url": "/th?id=OHR.MuseoSoumaya_EN-IN1926951073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuseoSoumaya_EN-IN1926951073",
+        "copyright": "Museo Soumaya, Plaza Carso building, Mexico City, Mexico (© Juan Romero/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Plaza+Carso+building+Museo+Soumay%2c+California&form=hpcapt&filters=HpDate%3a%2220230517_1830%22",
+        "title": "Sunlight turning silver to gold",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230517_MuseoSoumaya%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "7ddd0f055efb8fc47ac7c1d8d9b973b7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

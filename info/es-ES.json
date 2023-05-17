@@ -287,5 +287,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ab19810d98631da6575332d89747c183": {
+        "startdate": "20230517",
+        "fullstartdate": "202305172200",
+        "enddate": "20230518",
+        "url": "/th?id=OHR.MuseoSoumaya_ES-ES7663567636_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuseoSoumaya_ES-ES7663567636",
+        "copyright": "Plaza Carso, Museo Soumaya, Ciudad de México, México (© Juan Romero/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Museo+Soumaya%2c+Ciudad+de+M%C3%A9xico%2c+M%C3%A9xico&form=hpcapt&filters=HpDate%3a%2220230517_2200%22",
+        "title": "La luz del sol convierte la plata en oro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230517_MuseoSoumaya%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "ab19810d98631da6575332d89747c183",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
