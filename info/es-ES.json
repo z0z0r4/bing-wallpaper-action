@@ -304,5 +304,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d419e8502a0f72959190c1dce090fec7": {
+        "startdate": "20230518",
+        "fullstartdate": "202305182200",
+        "enddate": "20230519",
+        "url": "/th?id=OHR.SumatranRhino_ES-ES0481030773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SumatranRhino_ES-ES0481030773",
+        "copyright": "Rinoceronte de Sumatra, Parque Nacional de Way Kambas, Indonesia (© Cyril Ruoso/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=El+rinoceronte+de+Sumatra&form=hpcapt&filters=HpDate%3a%2220230518_2200%22",
+        "title": "¿Cómo podemos ayudar a estos animales?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230518_SumatranRhino%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d419e8502a0f72959190c1dce090fec7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

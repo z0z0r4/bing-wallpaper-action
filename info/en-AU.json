@@ -304,5 +304,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "39cd84ec44cf634b726745e9c737f22f": {
+        "startdate": "20230518",
+        "fullstartdate": "202305180700",
+        "enddate": "20230519",
+        "url": "/th?id=OHR.SardineBurial_ROW1024631199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SardineBurial_ROW1024631199",
+        "copyright": "La Manga, Murcia, Spain (© SOMATUSCANI/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Manga+Murcia&form=hpcapt&filters=HpDate%3a%2220230518_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230518_SardineBurial%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "39cd84ec44cf634b726745e9c737f22f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
