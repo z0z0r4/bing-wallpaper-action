@@ -338,5 +338,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cb95c5462b913a589d19f86ff6a20f6a": {
+        "startdate": "20230520",
+        "fullstartdate": "202305200700",
+        "enddate": "20230521",
+        "url": "/th?id=OHR.EuropeanHoneybee_ROW6575584380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EuropeanHoneybee_ROW6575584380",
+        "copyright": "European honey bees in Sheffield, England (© Deborah Vernon/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=european+honey+bee&form=hpcapt&filters=HpDate%3a%2220230520_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230520_EuropeanHoneybee%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cb95c5462b913a589d19f86ff6a20f6a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -338,5 +338,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0c67aef76b3349807784b6bb2ba6dae1": {
+        "startdate": "20230520",
+        "fullstartdate": "202305201830",
+        "enddate": "20230521",
+        "url": "/th?id=OHR.PontdArcole_EN-IN6509712562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PontdArcole_EN-IN6509712562",
+        "copyright": "River Seine, Paris, France (© StockByM/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=seine+river&form=hpcapt&filters=HpDate%3a%2220230520_1830%22",
+        "title": "A bridge that holds up history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230520_PontdArcole%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0c67aef76b3349807784b6bb2ba6dae1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
