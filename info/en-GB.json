@@ -372,5 +372,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e826564b11ae30de09f46c9933897d06": {
+        "startdate": "20230522",
+        "fullstartdate": "202305222300",
+        "enddate": "20230523",
+        "url": "/th?id=OHR.WesternBoxTurtle_EN-GB7102181609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WesternBoxTurtle_EN-GB7102181609",
+        "copyright": "Western box turtle (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=western+box+turtle+&form=hpcapt&filters=HpDate%3a%2220230522_2300%22",
+        "title": "Let’s protect our turtles",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230522_WesternBoxTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e826564b11ae30de09f46c9933897d06",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

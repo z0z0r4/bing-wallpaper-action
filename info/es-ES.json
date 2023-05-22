@@ -372,5 +372,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2d1ca08c1809282d9f6db05c33ec8929": {
+        "startdate": "20230522",
+        "fullstartdate": "202305222200",
+        "enddate": "20230523",
+        "url": "/th?id=OHR.WesternBoxTurtle_ES-ES0948780387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WesternBoxTurtle_ES-ES0948780387",
+        "copyright": "Tortuga de Caja occidental (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=tortuga+de+caja&form=hpcapt&filters=HpDate%3a%2220230522_2200%22",
+        "title": "Protejamos nuestras tortugas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230522_WesternBoxTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2d1ca08c1809282d9f6db05c33ec8929",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

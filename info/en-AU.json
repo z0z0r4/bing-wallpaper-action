@@ -372,5 +372,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8bd914dd40413a5792c2141e22e20e99": {
+        "startdate": "20230522",
+        "fullstartdate": "202305220700",
+        "enddate": "20230523",
+        "url": "/th?id=OHR.BiodiverseCostaRica_ROW6865341828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BiodiverseCostaRica_ROW6865341828",
+        "copyright": "Arenal Volcano, Monteverde, Costa Rica (© Kevin Wells/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=monteverde+costa+rica&form=hpcapt&filters=HpDate%3a%2220230522_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230522_BiodiverseCostaRica%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8bd914dd40413a5792c2141e22e20e99",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
