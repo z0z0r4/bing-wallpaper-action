@@ -406,5 +406,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8655bce8990ee634d90e9a17edf67d5a": {
+        "startdate": "20230524",
+        "fullstartdate": "202305240300",
+        "enddate": "20230525",
+        "url": "/th?id=OHR.OldFortress_PT-BR6093588176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OldFortress_PT-BR6093588176",
+        "copyright": "A Velha Fortaleza de Corfu, na Grécia (© Netfalls Remy Musser/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Velha+Fortaleza+de+Corfu&form=hpcapt&mkt=pt-br",
+        "title": "Onde a história ganha vida",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230524_OldFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8655bce8990ee634d90e9a17edf67d5a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

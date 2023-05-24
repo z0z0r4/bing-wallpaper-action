@@ -406,5 +406,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a38dea4c1e09bf7a07e2a8fbf1258911": {
+        "startdate": "20230524",
+        "fullstartdate": "202305240700",
+        "enddate": "20230525",
+        "url": "/th?id=OHR.OldFortress_ROW7106554851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OldFortress_ROW7106554851",
+        "copyright": "The Old Fortress of Corfu (© Netfalls Remy Musser/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Old+Fortress+of+Corfu&form=hpcapt&filters=HpDate%3a%2220230524_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230524_OldFortress%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a38dea4c1e09bf7a07e2a8fbf1258911",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
