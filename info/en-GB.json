@@ -423,5 +423,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "726048bf8d842baec238d7926a391209": {
+        "startdate": "20230525",
+        "fullstartdate": "202305252300",
+        "enddate": "20230526",
+        "url": "/th?id=OHR.WatSriSawai_EN-GB7423413292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WatSriSawai_EN-GB7423413292",
+        "copyright": "Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Wat+Sri+Sawai+Thailand&form=hpcapt&filters=HpDate%3a%2220230525_2300%22",
+        "title": "Finding beauty in ruins",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230525_WatSriSawai%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "726048bf8d842baec238d7926a391209",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

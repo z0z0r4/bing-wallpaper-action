@@ -423,5 +423,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "945b769dada75cecbb841ba1504fe023": {
+        "startdate": "20230525",
+        "fullstartdate": "202305252200",
+        "enddate": "20230526",
+        "url": "/th?id=OHR.WatSriSawai_DE-DE3655938171_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WatSriSawai_DE-DE3655938171",
+        "copyright": "Wat Sri Sawai im historischen Park von Sukhothai, Thailand (© Casper1774 Studio/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Wat+Sri+Sawai+&form=hpcapt&filters=HpDate%3a%2220230525_2200%22",
+        "title": "Weisheit, Geschichte und Ruinen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230525_WatSriSawai%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "945b769dada75cecbb841ba1504fe023",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
