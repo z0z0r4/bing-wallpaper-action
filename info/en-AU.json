@@ -457,5 +457,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d0fb2011a82e15af06f8ef5ec5e8814e": {
+        "startdate": "20230527",
+        "fullstartdate": "202305270700",
+        "enddate": "20230528",
+        "url": "/th?id=OHR.AloeDichotomum_ROW7447252290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AloeDichotomum_ROW7447252290",
+        "copyright": "Plant life in Namibia (© Fotofeeling/DEEPOL by plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=quiver+tree&form=hpcapt&filters=HpDate%3a%2220230527_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230527_AloeDichotomum%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d0fb2011a82e15af06f8ef5ec5e8814e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

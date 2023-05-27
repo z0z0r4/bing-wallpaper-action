@@ -457,5 +457,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "563629afd2496a574a88f37596e6dc86": {
+        "startdate": "20230527",
+        "fullstartdate": "202305272200",
+        "enddate": "20230528",
+        "url": "/th?id=OHR.ElRocio_ES-ES0246161840_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElRocio_ES-ES0246161840",
+        "copyright": "Romería de El Rocío, Huelva, Andalucía, España (© Peter Adams/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Romer%C3%ADa+de+El+Roc%C3%ADo&form=hpcapt&filters=HpDate%3a%2220230527_2200%22",
+        "title": "¿Dónde van estos peregrinos?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230527_ElRocio%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "563629afd2496a574a88f37596e6dc86",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
