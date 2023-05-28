@@ -474,5 +474,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3ff2c0703ba7e48c050f62af5ec4248d": {
+        "startdate": "20230528",
+        "fullstartdate": "202305280700",
+        "enddate": "20230529",
+        "url": "/th?id=OHR.TegallalangTerrace_ROW7553382539_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TegallalangTerrace_ROW7553382539",
+        "copyright": "Tegalalang terrace farms in Ubud, Indonesia (© Cavan Images/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ubud&form=hpcapt&filters=HpDate%3a%2220230528_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230528_TegallalangTerrace%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3ff2c0703ba7e48c050f62af5ec4248d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

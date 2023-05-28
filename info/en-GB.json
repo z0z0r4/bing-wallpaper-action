@@ -474,5 +474,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bf463728ca7d99e0b4d480685b9e7b71": {
+        "startdate": "20230528",
+        "fullstartdate": "202305282300",
+        "enddate": "20230529",
+        "url": "/th?id=OHR.FitzwilliamMuseum_EN-GB7777112861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FitzwilliamMuseum_EN-GB7777112861",
+        "copyright": "Art Gallery Hall, Fitzwilliam Museum, UK (© Pompaem Gogh/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Fitzwilliam+Museum%2c+Cambridge&form=hpcapt&filters=HpDate%3a%2220230528_2300%22",
+        "title": "A stunning chamber for beautiful art",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230528_FitzwilliamMuseum%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bf463728ca7d99e0b4d480685b9e7b71",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
