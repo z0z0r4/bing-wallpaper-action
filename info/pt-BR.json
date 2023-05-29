@@ -491,5 +491,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "025af7a228a6344ece6a8f528d0ec45d": {
+        "startdate": "20230529",
+        "fullstartdate": "202305290300",
+        "enddate": "20230530",
+        "url": "/th?id=OHR.Antilles_PT-BR7757709340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Antilles_PT-BR7757709340",
+        "copyright": "Grand Cul-de-Sac Marin, Parque Nacional de Guadalupe, Pequenas Antilhas (© Hemis/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=grand+cul+de+sac+marin&form=hpcapt&mkt=pt-br",
+        "title": "A beleza selvagem do Caribe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230529_Antilles%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "025af7a228a6344ece6a8f528d0ec45d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

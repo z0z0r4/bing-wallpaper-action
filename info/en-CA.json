@@ -491,5 +491,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "925c4ee945c083d12758cb715aa6a45f": {
+        "startdate": "20230529",
+        "fullstartdate": "202305290400",
+        "enddate": "20230530",
+        "url": "/th?id=OHR.WesternBrookPond_EN-CA4178913007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WesternBrookPond_EN-CA4178913007",
+        "copyright": "Boardwalk on hiking trail to Western Brook Pond in Gros Morne National Park (© Cavan Images - Offset/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Boardwalk+on+Western+Brook+Pond+in+Gros+Morne+National+Park&form=hpcapt&filters=HpDate%3a%2220230529_0400%22",
+        "title": "A starry night!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230529_WesternBrookPond%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "925c4ee945c083d12758cb715aa6a45f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
