@@ -542,5 +542,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "847f4272f38cba8ed8190a2521e0a712": {
+        "startdate": "20230601",
+        "fullstartdate": "202306012200",
+        "enddate": "20230602",
+        "url": "/th?id=OHR.GemsbokNamibia_FR-FR1640230400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GemsbokNamibia_FR-FR1640230400",
+        "copyright": "Oryx gazelle dans les dunes de sable, Namibie (© Sergey Gorshkov/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=oryx+gazelle&form=hpcapt&filters=HpDate%3a%2220230601_2200%22",
+        "title": "L’oryx de l’extrême",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230601_GemsbokNamibia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "847f4272f38cba8ed8190a2521e0a712",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

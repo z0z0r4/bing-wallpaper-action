@@ -542,5 +542,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "78a1566561104100f4093b5ce7f41a03": {
+        "startdate": "20230601",
+        "fullstartdate": "202306010700",
+        "enddate": "20230602",
+        "url": "/th?id=OHR.ReefAwareness_ROW8415751670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ReefAwareness_ROW8415751670",
+        "copyright": "Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+Barrier+Reef&form=hpcapt&filters=HpDate%3a%2220230601_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230601_ReefAwareness%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "78a1566561104100f4093b5ce7f41a03",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
