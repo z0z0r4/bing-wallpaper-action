@@ -559,5 +559,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b1c0c849ebaab8003840e5e19e3f89cd": {
+        "startdate": "20230602",
+        "fullstartdate": "202306020300",
+        "enddate": "20230603",
+        "url": "/th?id=OHR.GemsbokNamibia_PT-BR5415413384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GemsbokNamibia_PT-BR5415413384",
+        "copyright": "Gemsbok (Oryx gazella) em dunas de areia, Namíbia (© Sergey Gorshkov/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=gemsbok&form=hpcapt&mkt=pt-br",
+        "title": "Cercado por um mar de areia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_GemsbokNamibia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b1c0c849ebaab8003840e5e19e3f89cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

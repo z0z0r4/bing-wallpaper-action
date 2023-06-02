@@ -559,5 +559,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fdb65ee20edbdaffa594c470a668bf1f": {
+        "startdate": "20230602",
+        "fullstartdate": "202306020700",
+        "enddate": "20230603",
+        "url": "/th?id=OHR.GemsbokNamibia_ROW1218334401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GemsbokNamibia_ROW1218334401",
+        "copyright": "Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=gemsbok&form=hpcapt&filters=HpDate%3a%2220230602_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_GemsbokNamibia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fdb65ee20edbdaffa594c470a668bf1f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

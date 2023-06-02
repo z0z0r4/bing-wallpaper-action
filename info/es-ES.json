@@ -559,5 +559,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a16e5fe80352a3dce76f7b3e83e74f27": {
+        "startdate": "20230602",
+        "fullstartdate": "202306022200",
+        "enddate": "20230603",
+        "url": "/th?id=OHR.SouthKaibabTrail_ES-ES6499899678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SouthKaibabTrail_ES-ES6499899678",
+        "copyright": "Sendero South Kaibab Trail en el Parque Nacional del Gran Cañón, Arizona, EE.UU. (© Roman Khomlyak/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+del+Gran+Ca%C3%B1%C3%B3n%2c+Arizona%2c+EE.UU.&form=hpcapt&filters=HpDate%3a%2220230602_2200%22",
+        "title": "Un vistazo al más grandioso de los cañones",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230602_SouthKaibabTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a16e5fe80352a3dce76f7b3e83e74f27",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
