@@ -576,5 +576,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "96b3a15285dfd10c2f55b2f5f714c85c": {
+        "startdate": "20230603",
+        "fullstartdate": "202306032200",
+        "enddate": "20230604",
+        "url": "/th?id=OHR.MauiBeach_ES-ES6617224094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MauiBeach_ES-ES6617224094",
+        "copyright": "Playa de arena negra del Parque Estatal de Wai'anapanapa, Maui, Hawaii, EE.UU. (© Matt Anderson Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Waianapanapa&form=hpcapt&filters=HpDate%3a%2220230603_2200%22",
+        "title": "Arenas negras en un paraíso tropical",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230603_MauiBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "96b3a15285dfd10c2f55b2f5f714c85c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

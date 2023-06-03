@@ -576,5 +576,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5cd0d9aeda75e2398cc72095bef90198": {
+        "startdate": "20230603",
+        "fullstartdate": "202306030700",
+        "enddate": "20230604",
+        "url": "/th?id=OHR.SouthKaibabTrail_ROW7974015329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SouthKaibabTrail_ROW7974015329",
+        "copyright": "South Kaibab Trail in Grand Canyon National Park, Arizona, USA (© Roman Khomlyak/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=grand+canyon&form=hpcapt&filters=HpDate%3a%2220230603_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230603_SouthKaibabTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5cd0d9aeda75e2398cc72095bef90198",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
