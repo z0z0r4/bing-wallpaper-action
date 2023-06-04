@@ -593,5 +593,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ca16402acba7c926006fcf087e70c8e5": {
+        "startdate": "20230604",
+        "fullstartdate": "202306042300",
+        "enddate": "20230605",
+        "url": "/th?id=OHR.PlasticParrotfish_EN-GB9687576751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlasticParrotfish_EN-GB9687576751",
+        "copyright": "'Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota (© Michael Siluk/UCG/Universal Images Group via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=world+environment+day&form=hpcapt&filters=HpDate%3a%2220230604_2300%22",
+        "title": "Piecing together a better tomorrow",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230604_PlasticParrotfish%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "ca16402acba7c926006fcf087e70c8e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

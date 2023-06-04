@@ -593,5 +593,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3e1f789c413af1033d7d00ebcf9af483": {
+        "startdate": "20230604",
+        "fullstartdate": "202306040300",
+        "enddate": "20230605",
+        "url": "/th?id=OHR.MauiBeach_PT-BR5937841050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MauiBeach_PT-BR5937841050",
+        "copyright": "Wai'anapanapa State Park praia de areia preta, Maui, Havaí, EUA (© Matt Anderson Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=waianapanapa+state+park&form=hpcapt&mkt=pt-br",
+        "title": "Areias negras em um paraíso tropical",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230604_MauiBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3e1f789c413af1033d7d00ebcf9af483",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
