@@ -610,5 +610,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2256fe537e0579eaaa80d3344cf5183e": {
+        "startdate": "20230605",
+        "fullstartdate": "202306050700",
+        "enddate": "20230606",
+        "url": "/th?id=OHR.WaterfallsSunwaptaValley_ROW8446716544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaterfallsSunwaptaValley_ROW8446716544",
+        "copyright": "Waterfalls in Sunwapta Valley, Jasper National Park, Canada (© Delpixart/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sunwapta+Falls&form=hpcapt&filters=HpDate%3a%2220230605_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230605_WaterfallsSunwaptaValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2256fe537e0579eaaa80d3344cf5183e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

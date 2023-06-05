@@ -610,5 +610,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "74b1bc3c036bf6e5eff3cc9f93e6e5e6": {
+        "startdate": "20230605",
+        "fullstartdate": "202306052300",
+        "enddate": "20230606",
+        "url": "/th?id=OHR.CliffsEtretat_EN-GB9799848049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CliffsEtretat_EN-GB9799848049",
+        "copyright": "The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Chalk+cliffs+of+Etretat+in+Normandy&form=hpcapt&filters=HpDate%3a%2220230605_2300%22",
+        "title": "Remembering D-Day",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230605_CliffsEtretat%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "74b1bc3c036bf6e5eff3cc9f93e6e5e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
