@@ -627,5 +627,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0d8bac04494b52b0786fef04d4c1bfa5": {
+        "startdate": "20230606",
+        "fullstartdate": "202306060300",
+        "enddate": "20230607",
+        "url": "/th?id=OHR.CliffsEtretat_PT-BR6788899813_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CliffsEtretat_PT-BR6788899813",
+        "copyright": "Os penhascos de giz de Étretat, Normandia, França (© MarcelloLand/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=os+penhascos+de+giz+de+etretat+normandia&form=hpcapt&mkt=pt-br",
+        "title": "lembrando o dia D",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230606_CliffsEtretat%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0d8bac04494b52b0786fef04d4c1bfa5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -627,5 +627,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bf9cf0edf3d1eee5901da0b1e8bd2a8c": {
+        "startdate": "20230606",
+        "fullstartdate": "202306062200",
+        "enddate": "20230607",
+        "url": "/th?id=OHR.ChacoCulture_ES-ES0673787899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChacoCulture_ES-ES0673787899",
+        "copyright": "Pueblo Bonito, Parque Histórico Nacional de la Cultura Chaco, Nuevo México, EE.UU. (© Ian Shive/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Pueblo+Bonito%2c+Ca%C3%B1%C3%B3n+del+Chaco&form=hpcapt&filters=HpDate%3a%2220230606_2200%22",
+        "title": "Si estas paredes pudieran hablar...",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230606_ChacoCulture%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bf9cf0edf3d1eee5901da0b1e8bd2a8c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
