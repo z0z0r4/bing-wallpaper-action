@@ -644,5 +644,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4736eaf6e13c2ae4b886a5cf20772014": {
+        "startdate": "20230607",
+        "fullstartdate": "202306072200",
+        "enddate": "20230608",
+        "url": "/th?id=OHR.PlayfulHumpback_FR-FR3535501721_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlayfulHumpback_FR-FR3535501721",
+        "copyright": "Baleine à bosse (© Philip Thurston/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=baleine+%C3%A0+bosse&form=hpcapt&filters=HpDate%3a%2220230607_2200%22",
+        "title": "Le doux chant des baleines",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230607_PlayfulHumpback%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4736eaf6e13c2ae4b886a5cf20772014",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

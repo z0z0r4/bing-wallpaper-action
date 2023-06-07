@@ -644,5 +644,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b1c22eedf01d85644409e86ab2f26805": {
+        "startdate": "20230607",
+        "fullstartdate": "202306072200",
+        "enddate": "20230608",
+        "url": "/th?id=OHR.PlayfulHumpback_DE-DE4104793691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlayfulHumpback_DE-DE4104793691",
+        "copyright": "Buckelwal (© Philip Thurston/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Buckelwal&form=hpcapt&filters=HpDate%3a%2220230607_2200%22",
+        "title": "Dort, wo der Buckelwal singt",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230607_PlayfulHumpback%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b1c22eedf01d85644409e86ab2f26805",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

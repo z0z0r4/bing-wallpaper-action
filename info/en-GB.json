@@ -644,5 +644,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2e0d1cc3acbbdbc6d781501438d16f2f": {
+        "startdate": "20230607",
+        "fullstartdate": "202306072300",
+        "enddate": "20230608",
+        "url": "/th?id=OHR.PlayfulHumpback_EN-GB9991991463_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlayfulHumpback_EN-GB9991991463",
+        "copyright": "Humpback whale (© Philip Thurston/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Humpback+whale&form=hpcapt&filters=HpDate%3a%2220230607_2300%22",
+        "title": "Where the humpback whale sings",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230607_PlayfulHumpback%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2e0d1cc3acbbdbc6d781501438d16f2f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
