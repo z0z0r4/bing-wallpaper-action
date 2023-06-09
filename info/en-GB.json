@@ -678,5 +678,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2f5283701e495071434648aa217260ab": {
+        "startdate": "20230609",
+        "fullstartdate": "202306092300",
+        "enddate": "20230610",
+        "url": "/th?id=OHR.PortugalDay_EN-GB0196698327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PortugalDay_EN-GB0196698327",
+        "copyright": "Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Porto+Cathedral&form=hpcapt&filters=HpDate%3a%2220230609_2300%22",
+        "title": "Blue hues and ceramic scenes of Porto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230609_PortugalDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2f5283701e495071434648aa217260ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

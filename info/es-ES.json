@@ -678,5 +678,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6d5136eda31b8243cae19f90dac3d9c3": {
+        "startdate": "20230609",
+        "fullstartdate": "202306092200",
+        "enddate": "20230610",
+        "url": "/th?id=OHR.PortugalDay_ES-ES0944935821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PortugalDay_ES-ES0944935821",
+        "copyright": "Catedral de Oporto, Portugal (© Reinhard Schmid/Huber/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Catedral+de+Oporto+en+Portugal&form=hpcapt&filters=HpDate%3a%2220230609_2200%22",
+        "title": "Cerámicas azules con escenas de Oporto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230609_PortugalDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6d5136eda31b8243cae19f90dac3d9c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
