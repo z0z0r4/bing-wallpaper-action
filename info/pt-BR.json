@@ -712,5 +712,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "12db6af9641cb01844b99bf811f0cce8": {
+        "startdate": "20230611",
+        "fullstartdate": "202306110300",
+        "enddate": "20230612",
+        "url": "/th?id=OHR.GoliathHeron_PT-BR9417001385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoliathHeron_PT-BR9417001385",
+        "copyright": "Garça Goliath no Parque Nacional Kruger, África do Sul (© Johan Swanepoel/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Gar%C3%A7a+Goliath&form=hpcapt&mkt=pt-br",
+        "title": "Aconchegado e caçando",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230611_GoliathHeron%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "12db6af9641cb01844b99bf811f0cce8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

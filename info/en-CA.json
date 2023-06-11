@@ -712,5 +712,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "59d41772e531e529b679e433ae2eaac6": {
+        "startdate": "20230611",
+        "fullstartdate": "202306110400",
+        "enddate": "20230612",
+        "url": "/th?id=OHR.GoliathHeron_EN-CA1899093038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoliathHeron_EN-CA1899093038",
+        "copyright": "Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Goliath+heron&form=hpcapt&filters=HpDate%3a%2220230611_0400%22",
+        "title": "Huddled and hunting",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230611_GoliathHeron%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "59d41772e531e529b679e433ae2eaac6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
