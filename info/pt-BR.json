@@ -729,5 +729,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "191468279d81f8da8e427c1e9ca2920f": {
+        "startdate": "20230612",
+        "fullstartdate": "202306120300",
+        "enddate": "20230613",
+        "url": "/th?id=OHR.BigBendAnniv_PT-BR9746173577_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BigBendAnniv_PT-BR9746173577",
+        "copyright": "Planta de pera espinhosa, Big Bend National Park, Texas, EUA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Big+Bend+National+Park%2c+Texas&form=hpcapt&mkt=pt-br",
+        "title": "Festa de aniversário de Big Bend",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230612_BigBendAnniv%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "191468279d81f8da8e427c1e9ca2920f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
