@@ -746,5 +746,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b49d4124e977f16de84ae13b7502420f": {
+        "startdate": "20230613",
+        "fullstartdate": "202306132200",
+        "enddate": "20230614",
+        "url": "/th?id=OHR.PortugalDay_FR-FR4102767310_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PortugalDay_FR-FR4102767310",
+        "copyright": "Cathédrale de Porto, Portugal (© Reinhard Schmid/Huber/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=cathedrale+de+porto&form=hpcapt&filters=HpDate%3a%2220230613_2200%22",
+        "title": "Teintes bleues et scènes sur céramique de Porto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230613_PortugalDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b49d4124e977f16de84ae13b7502420f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
