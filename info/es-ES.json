@@ -780,5 +780,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "405b164505d0d9ec4f491b91a33214ff": {
+        "startdate": "20230615",
+        "fullstartdate": "202306152200",
+        "enddate": "20230616",
+        "url": "/th?id=OHR.HawksbillTurtle_ES-ES3306641934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawksbillTurtle_ES-ES3306641934",
+        "copyright": "Tortuga carey nadando cerca de la Isla de Aka, Okinawa, Japón (© Robert Mallon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tortuga+Carey&form=hpcapt&filters=HpDate%3a%2220230615_2200%22",
+        "title": "Tortuga marina en su paraíso turquesa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230615_HawksbillTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "405b164505d0d9ec4f491b91a33214ff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -780,5 +780,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3c0994db23c1dc25fba2e7ffa0a34931": {
+        "startdate": "20230615",
+        "fullstartdate": "202306150300",
+        "enddate": "20230616",
+        "url": "/th?id=OHR.SmokyFireflies_PT-BR0661449530_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SmokyFireflies_PT-BR0661449530",
+        "copyright": "Vagalumes síncronos, Parque Nacional Great Smoky Mountains, Tennessee, EUA (© Floris Van Bruegel/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Vagalumes&form=hpcapt&mkt=pt-br",
+        "title": "Brilha brilha, bichinhos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230615_SmokyFireflies%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3c0994db23c1dc25fba2e7ffa0a34931",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -780,5 +780,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "16aee5af1329df2df0979d644a4d531d": {
+        "startdate": "20230615",
+        "fullstartdate": "202306151830",
+        "enddate": "20230616",
+        "url": "/th?id=OHR.HawksbillTurtle_EN-IN7548105542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawksbillTurtle_EN-IN7548105542",
+        "copyright": "Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hawksbill+Sea+Turtle&form=hpcapt&filters=HpDate%3a%2220230615_1830%22",
+        "title": "Shell-ebrating sea turtles",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230615_HawksbillTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "16aee5af1329df2df0979d644a4d531d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -780,5 +780,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ab5da8e19622deddf0b565f493116e08": {
+        "startdate": "20230615",
+        "fullstartdate": "202306150700",
+        "enddate": "20230616",
+        "url": "/th?id=OHR.SmokyFireflies_ROW1818817703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SmokyFireflies_ROW1818817703",
+        "copyright": "Synchronous fireflies, Great Smoky Mountains National Park, Tennessee, USA (© Floris Van Bruegel/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Fireflies&form=hpcapt&filters=HpDate%3a%2220230615_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230615_SmokyFireflies%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ab5da8e19622deddf0b565f493116e08",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
