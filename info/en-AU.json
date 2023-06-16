@@ -797,5 +797,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9368db3f9414b53cdd90a1937488be5b": {
+        "startdate": "20230616",
+        "fullstartdate": "202306160700",
+        "enddate": "20230617",
+        "url": "/th?id=OHR.HawksbillTurtle_ROW6932141533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawksbillTurtle_ROW6932141533",
+        "copyright": "Hawksbill sea turtle swims near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hawksbill+Sea+Turtle+&form=hpcapt&filters=HpDate%3a%2220230616_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230616_HawksbillTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9368db3f9414b53cdd90a1937488be5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
