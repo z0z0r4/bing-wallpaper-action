@@ -831,5 +831,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "41fb9221d61cd6b0a3e22d0143845188": {
+        "startdate": "20230618",
+        "fullstartdate": "202306182200",
+        "enddate": "20230619",
+        "url": "/th?id=OHR.Fawn_DE-DE1059166078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fawn_DE-DE1059166078",
+        "copyright": "Rehkitz im Gras in der Normandie, Frankreich (© Gerard Lacz/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=Rehkitz&form=hpcapt&filters=HpDate%3a%2220230618_2200%22",
+        "title": "Renn Reh renn!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230618_Fawn%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "41fb9221d61cd6b0a3e22d0143845188",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

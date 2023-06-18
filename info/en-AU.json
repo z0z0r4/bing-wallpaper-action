@@ -831,5 +831,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "24d370e892eb875a1ee5827765b57ad5": {
+        "startdate": "20230618",
+        "fullstartdate": "202306180700",
+        "enddate": "20230619",
+        "url": "/th?id=OHR.TernFather_ROW8289485728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TernFather_ROW8289485728",
+        "copyright": "Common tern father with chick, Nickerson Beach, Long Island, New York, USA (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=common+tern&form=hpcapt&filters=HpDate%3a%2220230618_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230618_TernFather%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "24d370e892eb875a1ee5827765b57ad5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

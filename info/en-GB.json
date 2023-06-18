@@ -831,5 +831,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b398a6a86ddca85b559765bb780bb85f": {
+        "startdate": "20230618",
+        "fullstartdate": "202306182300",
+        "enddate": "20230619",
+        "url": "/th?id=OHR.Fawn_EN-GB3370685571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Fawn_EN-GB3370685571",
+        "copyright": "Roe deer fawn running on grass in Normandy, France (© Gerard Lacz/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=roe+deer&form=hpcapt&filters=HpDate%3a%2220230618_2300%22",
+        "title": "Here we go!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230618_Fawn%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b398a6a86ddca85b559765bb780bb85f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
