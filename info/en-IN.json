@@ -865,5 +865,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "85b90ab4bcecc6cf6bdf1a1bba95000c": {
+        "startdate": "20230620",
+        "fullstartdate": "202306201830",
+        "enddate": "20230621",
+        "url": "/th?id=OHR.StonehengeSalisbury_EN-IN0612027189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StonehengeSalisbury_EN-IN0612027189",
+        "copyright": "Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Stonehenge+england&form=hpcapt&filters=HpDate%3a%2220230620_1830%22",
+        "title": "The mystery of Stonehenge",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230620_StonehengeSalisbury%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "85b90ab4bcecc6cf6bdf1a1bba95000c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

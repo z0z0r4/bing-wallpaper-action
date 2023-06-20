@@ -865,5 +865,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1160cc444c2927e7c251ef8d891ac493": {
+        "startdate": "20230620",
+        "fullstartdate": "202306200300",
+        "enddate": "20230621",
+        "url": "/th?id=OHR.EagleTree_PT-BR1918929782_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EagleTree_PT-BR1918929782",
+        "copyright": "Águia careca, Floresta Nacional de Tongass, Alasca, EUA (© Jaynes Gallery/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=+%C3%81guia+careca&form=hpcapt&mkt=pt-br",
+        "title": "Comemorando um ícone americano",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230620_EagleTree%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1160cc444c2927e7c251ef8d891ac493",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
