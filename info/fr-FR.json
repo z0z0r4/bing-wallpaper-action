@@ -882,5 +882,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d78cfa351c83c5ecf5aff63f22b861ae": {
+        "startdate": "20230621",
+        "fullstartdate": "202306212200",
+        "enddate": "20230622",
+        "url": "/th?id=OHR.PeruAmazon_FR-FR7280583164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeruAmazon_FR-FR7280583164",
+        "copyright": "Forêt amazonienne, Pérou (© Rhett Ayers Butler/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=For%C3%AAt+amazonienne+&form=hpcapt&filters=HpDate%3a%2220230621_2200%22",
+        "title": "Un monde extraordinaire se cache ici",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230621_PeruAmazon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d78cfa351c83c5ecf5aff63f22b861ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
