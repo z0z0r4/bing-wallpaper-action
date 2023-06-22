@@ -899,5 +899,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fb46e7ed1011ea0555ab6c640d2006bb": {
+        "startdate": "20230622",
+        "fullstartdate": "202306220700",
+        "enddate": "20230623",
+        "url": "/th?id=OHR.PeruAmazon_ROW8799044659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeruAmazon_ROW8799044659",
+        "copyright": "Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Peruvian+Amazonia&form=hpcapt&filters=HpDate%3a%2220230622_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230622_PeruAmazon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fb46e7ed1011ea0555ab6c640d2006bb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

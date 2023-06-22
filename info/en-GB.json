@@ -899,5 +899,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ea0f53100c4b8b1c03d55810e9744605": {
+        "startdate": "20230622",
+        "fullstartdate": "202306222300",
+        "enddate": "20230623",
+        "url": "/th?id=OHR.PollinatorMonarch_EN-GB6254720731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PollinatorMonarch_EN-GB6254720731",
+        "copyright": "Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monarch+butterflies&form=hpcapt&filters=HpDate%3a%2220230622_2300%22",
+        "title": "Butterfly, fly away",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230622_PollinatorMonarch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ea0f53100c4b8b1c03d55810e9744605",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

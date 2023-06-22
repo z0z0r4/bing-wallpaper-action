@@ -899,5 +899,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4c75040ce5518e62dcf1d250ef79f6ca": {
+        "startdate": "20230622",
+        "fullstartdate": "202306222200",
+        "enddate": "20230623",
+        "url": "/th?id=OHR.PollinatorMonarch_ES-ES2233119306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PollinatorMonarch_ES-ES2233119306",
+        "copyright": "Mariposas monarca alimentándose de las flores silvestres de la estrella fugaz (© bookguy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=mariposa+monarca&form=hpcapt&filters=HpDate%3a%2220230622_2200%22",
+        "title": "Mariposa, ¡vuela lejos!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230622_PollinatorMonarch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4c75040ce5518e62dcf1d250ef79f6ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -899,5 +899,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2f15398bded06302647ebeabedd3938d": {
+        "startdate": "20230622",
+        "fullstartdate": "202306220400",
+        "enddate": "20230623",
+        "url": "/th?id=OHR.PeruAmazon_EN-CA6924554340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeruAmazon_EN-CA6924554340",
+        "copyright": "Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Peruvian+Amazonia&form=hpcapt&filters=HpDate%3a%2220230622_0400%22",
+        "title": "A world within a world",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230622_PeruAmazon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2f15398bded06302647ebeabedd3938d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

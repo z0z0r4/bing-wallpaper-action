@@ -899,5 +899,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "48662b454557101367d18b1862bd0894": {
+        "startdate": "20230622",
+        "fullstartdate": "202306220300",
+        "enddate": "20230623",
+        "url": "/th?id=OHR.PeruAmazon_PT-BR7421781188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeruAmazon_PT-BR7421781188",
+        "copyright": "Amazônia peruana, Peru (© Rhett Ayers Butler/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Amaz%C3%B4nia+peruana&form=hpcapt&mkt=pt-br",
+        "title": "Um mundo dentro de um mundo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230622_PeruAmazon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "48662b454557101367d18b1862bd0894",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
