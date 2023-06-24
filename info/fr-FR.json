@@ -933,5 +933,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "067051c77b4353066c0ef9ab2d74f8b6": {
+        "startdate": "20230624",
+        "fullstartdate": "202306242200",
+        "enddate": "20230625",
+        "url": "/th?id=OHR.PetraTreasury_FR-FR9534450320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PetraTreasury_FR-FR9534450320",
+        "copyright": "Khazneh, Pétra, Jordanie (© WitthayaP/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=petra+jordanie&form=hpcapt&filters=HpDate%3a%2220230624_2200%22",
+        "title": "Petra, la belle endormie du désert",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230624_PetraTreasury%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "067051c77b4353066c0ef9ab2d74f8b6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
