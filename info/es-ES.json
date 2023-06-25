@@ -950,5 +950,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a607485b0fc5969906ec786f4e1e4ae4": {
+        "startdate": "20230625",
+        "fullstartdate": "202306252200",
+        "enddate": "20230626",
+        "url": "/th?id=OHR.VillandryGarden_ES-ES0802817383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VillandryGarden_ES-ES0802817383",
+        "copyright": "Castillo de Villandry y su jardín, Valle del Loira, Francia (© VLADJ55/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Castillo+de+Villandry+en+Francia&form=hpcapt&filters=HpDate%3a%2220230625_2200%22",
+        "title": "Un laberinto de lujo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230625_VillandryGarden%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a607485b0fc5969906ec786f4e1e4ae4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

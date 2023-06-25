@@ -950,5 +950,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "daac4e69385ef33f33b9ef9ba0c51a7c": {
+        "startdate": "20230625",
+        "fullstartdate": "202306250300",
+        "enddate": "20230626",
+        "url": "/th?id=OHR.PetraTreasury_PT-BR8415620611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PetraTreasury_PT-BR8415620611",
+        "copyright": "Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Al-Khazneh+de+Petra+Jordan&form=hpcapt&mkt=pt-br",
+        "title": "Um templo para valorizar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230625_PetraTreasury%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "daac4e69385ef33f33b9ef9ba0c51a7c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

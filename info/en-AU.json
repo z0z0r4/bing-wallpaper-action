@@ -950,5 +950,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "84a7f62f133c9b47955dbf4259b9373b": {
+        "startdate": "20230625",
+        "fullstartdate": "202306250700",
+        "enddate": "20230626",
+        "url": "/th?id=OHR.PetraTreasury_ROW9243459268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PetraTreasury_ROW9243459268",
+        "copyright": "The Treasury of Petra, Jordan (© WitthayaP/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=the+petra+treasury&form=hpcapt&filters=HpDate%3a%2220230625_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230625_PetraTreasury%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "84a7f62f133c9b47955dbf4259b9373b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

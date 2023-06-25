@@ -950,5 +950,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fe794635e66e6f089b979ec4deab48df": {
+        "startdate": "20230625",
+        "fullstartdate": "202306252300",
+        "enddate": "20230626",
+        "url": "/th?id=OHR.VillandryGarden_EN-GB7083830994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VillandryGarden_EN-GB7083830994",
+        "copyright": "Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=chateau+of+villandry+france&form=hpcapt&filters=HpDate%3a%2220230625_2300%22",
+        "title": "A labyrinth of luxury",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230625_VillandryGarden%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fe794635e66e6f089b979ec4deab48df",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
