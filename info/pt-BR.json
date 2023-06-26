@@ -967,5 +967,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "35f781fdbe45ae8184e8da25331ae2bd": {
+        "startdate": "20230626",
+        "fullstartdate": "202306260300",
+        "enddate": "20230627",
+        "url": "/th?id=OHR.VillandryGarden_PT-BR8698616986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VillandryGarden_PT-BR8698616986",
+        "copyright": "Chateau de Villandry e seu jardim, Vale do Loire, França (© VLADJ55/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Chateau+de+villandry+Fran%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Um labirinto de luxo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230626_VillandryGarden%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "35f781fdbe45ae8184e8da25331ae2bd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
