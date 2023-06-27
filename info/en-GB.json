@@ -984,5 +984,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "50ec17b8d72e00b20151c2d419397764": {
+        "startdate": "20230627",
+        "fullstartdate": "202306272300",
+        "enddate": "20230628",
+        "url": "/th?id=OHR.ProcidaItaly_EN-GB9713968263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ProcidaItaly_EN-GB9713968263",
+        "copyright": "Procida, Italy (© Sean Pavone/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=procida+italy&form=hpcapt&filters=HpDate%3a%2220230627_2300%22",
+        "title": "A vibrant, sun-drenched island",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230627_ProcidaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "50ec17b8d72e00b20151c2d419397764",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

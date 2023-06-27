@@ -984,5 +984,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "82107d444096fffa4886c8a43ad12ed5": {
+        "startdate": "20230627",
+        "fullstartdate": "202306272200",
+        "enddate": "20230628",
+        "url": "/th?id=OHR.PrideMunich_DE-DE6752546135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PrideMunich_DE-DE6752546135",
+        "copyright": "Regenbogenfahnen am Münchner Rathaus (© FooTToo/iStock/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=LGBT+Pride&form=hpcapt&filters=HpDate%3a%2220230627_2200%22",
+        "title": "Pride in Minga",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230627_PrideMunich%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "82107d444096fffa4886c8a43ad12ed5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
