@@ -1001,5 +1001,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6960a8b7fcc51ee3d8c2ef9e1ab8e4ab": {
+        "startdate": "20230628",
+        "fullstartdate": "202306280700",
+        "enddate": "20230629",
+        "url": "/th?id=OHR.ItalyCinqueTerre_ROW9714075261_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItalyCinqueTerre_ROW9714075261",
+        "copyright": "Vernazza in the Cinque Terre region of Italy (© Rubin Versigny/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vernazza+Cinque+Terre&form=hpcapt&filters=HpDate%3a%2220230628_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230628_ItalyCinqueTerre%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6960a8b7fcc51ee3d8c2ef9e1ab8e4ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
