@@ -1018,5 +1018,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "68bee3dcf29c9df4e20ddb214e312d30": {
+        "startdate": "20230629",
+        "fullstartdate": "202306290700",
+        "enddate": "20230630",
+        "url": "/th?id=OHR.BanyakIslands_ROW9848506157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BanyakIslands_ROW9848506157",
+        "copyright": "Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Imagesz)",
+        "copyrightlink": "https://www.bing.com/search?q=Banyak+Islands&form=hpcapt&filters=HpDate%3a%2220230629_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230629_BanyakIslands%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "68bee3dcf29c9df4e20ddb214e312d30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

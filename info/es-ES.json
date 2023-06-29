@@ -1018,5 +1018,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dcb17a36afd59ca04d0e8a4f948ae2dd": {
+        "startdate": "20230629",
+        "fullstartdate": "202306292200",
+        "enddate": "20230630",
+        "url": "/th?id=OHR.ClamBears_ES-ES4527663075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ClamBears_ES-ES4527663075",
+        "copyright": "Madre y osezno de oso pardo, Parque Nacional y Reserva del Lago Clark, Alaska, EE.UU. (© Carlos Carreno/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=oso+pardo&form=hpcapt&filters=HpDate%3a%2220230629_2200%22",
+        "title": "¿Dónde se te cayó el pescado, hijo?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230629_ClamBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dcb17a36afd59ca04d0e8a4f948ae2dd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
