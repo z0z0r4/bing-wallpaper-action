@@ -1035,5 +1035,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "04d4c76343c559b34bfc136b70e0f773": {
+        "startdate": "20230630",
+        "fullstartdate": "202306301830",
+        "enddate": "20230701",
+        "url": "/th?id=OHR.PelotonPont_EN-IN5341162153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PelotonPont_EN-IN5341162153",
+        "copyright": "Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=pont+du+gard+france&form=hpcapt&filters=HpDate%3a%2220230630_1830%22",
+        "title": "What is this grand structure?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230630_PelotonPont%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "04d4c76343c559b34bfc136b70e0f773",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

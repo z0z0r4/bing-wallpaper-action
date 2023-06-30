@@ -1035,5 +1035,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f0ae17a0e84ec985e569081fd1ecd605": {
+        "startdate": "20230630",
+        "fullstartdate": "202306300400",
+        "enddate": "20230701",
+        "url": "/th?id=OHR.ClamBears_EN-CA1275958061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ClamBears_EN-CA1275958061",
+        "copyright": "Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220230630_0400%22",
+        "title": "Where did you drop the fish, son?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230630_ClamBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f0ae17a0e84ec985e569081fd1ecd605",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

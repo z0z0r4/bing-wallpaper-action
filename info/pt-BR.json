@@ -1035,5 +1035,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3361df014df483c736e5f1c3761f9db0": {
+        "startdate": "20230630",
+        "fullstartdate": "202306300300",
+        "enddate": "20230701",
+        "url": "/th?id=OHR.ClamBears_PT-BR5661111850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ClamBears_PT-BR5661111850",
+        "copyright": "Mãe e filhote de urso pardo, Lake Clark National Park and Preserve, Alasca (© Carlos Carreno/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=urso+pardo&form=hpcapt&mkt=pt-br",
+        "title": "Onde você largou o peixe, filho?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230630_ClamBears%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3361df014df483c736e5f1c3761f9db0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

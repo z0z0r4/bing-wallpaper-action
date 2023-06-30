@@ -1035,5 +1035,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7c326f71dc6ed5151367f38f373aad4f": {
+        "startdate": "20230630",
+        "fullstartdate": "202306302200",
+        "enddate": "20230701",
+        "url": "/th?id=OHR.PelotonPont_ES-ES5136624994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PelotonPont_ES-ES5136624994",
+        "copyright": "Ciclistas del Tour de Francia cruzando el Puente del Gard, Francia (© Gonzalo Fuentes/Reuters)",
+        "copyrightlink": "https://www.bing.com/search?q=Tour+de+Francia&form=hpcapt&filters=HpDate%3a%2220230630_2200%22",
+        "title": "¿Listo para el Grand Départ?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230630_PelotonPont%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "7c326f71dc6ed5151367f38f373aad4f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
