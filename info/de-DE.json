@@ -1052,5 +1052,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3cb8789204c50debea6bf85ae7665957": {
+        "startdate": "20230701",
+        "fullstartdate": "202307012200",
+        "enddate": "20230702",
+        "url": "/th?id=OHR.HalfwayBoats_DE-DE4239098314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HalfwayBoats_DE-DE4239098314",
+        "copyright": "Aquädukt Veluwemeer, Niederlande (© Frolova_Elena/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Veluwemeer+Aqu%C3%A4dukt&form=hpcapt&filters=HpDate%3a%2220230701_2200%22",
+        "title": "Halbzeit: Wir sind auf Kurs",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230701_HalfwayBoats%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3cb8789204c50debea6bf85ae7665957",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

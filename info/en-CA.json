@@ -1052,5 +1052,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "577caec8c72c4e365db665ffe8c8cff6": {
+        "startdate": "20230701",
+        "fullstartdate": "202307010400",
+        "enddate": "20230702",
+        "url": "/th?id=OHR.CanadaDay_EN-CA1530076015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CanadaDay_EN-CA1530076015",
+        "copyright": "Parliament Hill in Ottawa, Ontario, Canada (© f11photo/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Parliament+Hill+in+Ottawa%2c+Ontario&form=hpcapt&filters=HpDate%3a%2220230701_0400%22",
+        "title": "Happy Canada Day!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230701_CanadaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "577caec8c72c4e365db665ffe8c8cff6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

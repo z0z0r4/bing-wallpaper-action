@@ -1052,5 +1052,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aaad53b2c9a510c387713a2caf5f2fe7": {
+        "startdate": "20230701",
+        "fullstartdate": "202307012200",
+        "enddate": "20230702",
+        "url": "/th?id=OHR.HalfwayBoats_ES-ES5466545154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HalfwayBoats_ES-ES5466545154",
+        "copyright": "Acueducto de Veluwemeer, Países Bajos (© Frolova_Elena/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Acueducto+de+Veluwemeer%2c+Paises+Bajos&form=hpcapt&filters=HpDate%3a%2220230701_2200%22",
+        "title": "Estamos a mitad de camino",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230701_HalfwayBoats%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aaad53b2c9a510c387713a2caf5f2fe7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
