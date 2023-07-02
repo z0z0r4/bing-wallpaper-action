@@ -1069,5 +1069,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "62cc493c2cf287e18a32e79dcf430609": {
+        "startdate": "20230702",
+        "fullstartdate": "202307020300",
+        "enddate": "20230703",
+        "url": "/th?id=OHR.HalfwayBoats_PT-BR6600769834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HalfwayBoats_PT-BR6600769834",
+        "copyright": "Aqueduto de Veluwemeer, na Holanda (© Frolova_Elena/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Aqueduto+de+Veluwemeer&form=hpcapt&mkt=pt-br",
+        "title": "Estamos a meio caminho",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230702_HalfwayBoats%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "62cc493c2cf287e18a32e79dcf430609",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

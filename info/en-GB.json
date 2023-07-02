@@ -1069,5 +1069,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "73bab39f41458cdca8ec494ca070114d": {
+        "startdate": "20230702",
+        "fullstartdate": "202307022300",
+        "enddate": "20230703",
+        "url": "/th?id=OHR.Wimbledon_EN-GB2899114060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Wimbledon_EN-GB2899114060",
+        "copyright": "Ground View of Centre Court, Wimbledon Tennis Championships, A.E.L.T.C, London, Britain (© Mark Greenwood/Ips/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Wimbledon&form=hpcapt&filters=HpDate%3a%2220230702_2300%22",
+        "title": "Grand slam tournament",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230702_Wimbledon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "73bab39f41458cdca8ec494ca070114d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
