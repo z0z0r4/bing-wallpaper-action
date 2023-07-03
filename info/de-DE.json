@@ -1086,5 +1086,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b2cd8e2beded0bd82d5a01193701146b": {
+        "startdate": "20230703",
+        "fullstartdate": "202307032200",
+        "enddate": "20230704",
+        "url": "/th?id=OHR.GrasslandsNationalParkSaskachewan_DE-DE4287828345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrasslandsNationalParkSaskachewan_DE-DE4287828345",
+        "copyright": "Grassland-Nationalpark, Saskatchewan, Kanada (© Robert Postma/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grasland-Nationalpark&form=hpcapt&filters=HpDate%3a%2220230703_2200%22",
+        "title": "Das Gras ist auf der anderen Seite viel grüner",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230703_GrasslandsNationalParkSaskachewan%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b2cd8e2beded0bd82d5a01193701146b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

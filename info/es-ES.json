@@ -1086,5 +1086,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3518c578e6d8f679962014613f9cdb25": {
+        "startdate": "20230703",
+        "fullstartdate": "202307032200",
+        "enddate": "20230704",
+        "url": "/th?id=OHR.GrasslandsNationalParkSaskachewan_ES-ES7995297579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrasslandsNationalParkSaskachewan_ES-ES7995297579",
+        "copyright": "Parque Nacional de Grasslands, Saskatchewan, Canadá (© Robert Postma/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Grasslands&form=hpcapt&filters=HpDate%3a%2220230703_2200%22",
+        "title": "Un verde único",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230703_GrasslandsNationalParkSaskachewan%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3518c578e6d8f679962014613f9cdb25",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

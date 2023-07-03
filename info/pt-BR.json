@@ -1086,5 +1086,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "79c87e9b18704d5b2a647d4bd64293f0": {
+        "startdate": "20230703",
+        "fullstartdate": "202307030300",
+        "enddate": "20230704",
+        "url": "/th?id=OHR.CoyoteBanff_PT-BR7233283124_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoyoteBanff_PT-BR7233283124",
+        "copyright": "Um coiote em Banff, no Canadá (© Harry Collins/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=coiote+animal&form=hpcapt&mkt=pt-br",
+        "title": "Quente o suficiente para uivar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230703_CoyoteBanff%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "79c87e9b18704d5b2a647d4bd64293f0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

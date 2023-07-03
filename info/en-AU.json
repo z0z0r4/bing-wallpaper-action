@@ -1086,5 +1086,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c8a46faaee21948f8bdcdbdc6dab58e3": {
+        "startdate": "20230703",
+        "fullstartdate": "202307030700",
+        "enddate": "20230704",
+        "url": "/th?id=OHR.CoyoteBanff_ROW2615713574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CoyoteBanff_ROW2615713574",
+        "copyright": "A coyote in Banff, Canada (© Harry Collins/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=coyote+animal&form=hpcapt&filters=HpDate%3a%2220230703_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230703_CoyoteBanff%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c8a46faaee21948f8bdcdbdc6dab58e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
