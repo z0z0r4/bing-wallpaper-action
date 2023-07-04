@@ -1103,5 +1103,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1bd32ce4a8a94dde23f6da2da7a9f82b": {
+        "startdate": "20230704",
+        "fullstartdate": "202307040300",
+        "enddate": "20230705",
+        "url": "/th?id=OHR.GrasslandsNationalParkSaskachewan_PT-BR8783608554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrasslandsNationalParkSaskachewan_PT-BR8783608554",
+        "copyright": "Grasslands National Park, Saskatchewan, Canadá (© Robert Postma/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=grasslands+national+park&form=hpcapt&mkt=pt-br",
+        "title": "A grama parece mais verde deste lado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230704_GrasslandsNationalParkSaskachewan%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1bd32ce4a8a94dde23f6da2da7a9f82b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
