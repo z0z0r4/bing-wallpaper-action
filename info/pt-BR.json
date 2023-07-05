@@ -1120,5 +1120,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a7cc9514bac27d0e67a89eceb60ad041": {
+        "startdate": "20230705",
+        "fullstartdate": "202307050300",
+        "enddate": "20230706",
+        "url": "/th?id=OHR.CorfuBeach_PT-BR9062903399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CorfuBeach_PT-BR9062903399",
+        "copyright": "Praia de Porto Timoni, Corfu, Grécia (© nantonov/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=corfu&form=hpcapt&mkt=pt-br",
+        "title": "Escolha o seu paraíso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230705_CorfuBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a7cc9514bac27d0e67a89eceb60ad041",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

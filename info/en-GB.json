@@ -1120,5 +1120,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aa3ccd1ef58d057de3e3f26bf36ee873": {
+        "startdate": "20230705",
+        "fullstartdate": "202307052300",
+        "enddate": "20230706",
+        "url": "/th?id=OHR.KissingPenguins_EN-GB3095500691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KissingPenguins_EN-GB3095500691",
+        "copyright": "Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Southern+rockhopper+penguins&form=hpcapt&filters=HpDate%3a%2220230705_2300%22",
+        "title": "A peck between penguins",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230705_KissingPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aa3ccd1ef58d057de3e3f26bf36ee873",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

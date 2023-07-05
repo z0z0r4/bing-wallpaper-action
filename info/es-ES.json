@@ -1120,5 +1120,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0403c5869486bbb2c4c8d956d68e1b65": {
+        "startdate": "20230705",
+        "fullstartdate": "202307052200",
+        "enddate": "20230706",
+        "url": "/th?id=OHR.ComparsaPamplona_ES-ES4789815957_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ComparsaPamplona_ES-ES4789815957",
+        "copyright": "Catedral de Santa María la Real, siglo XV, Pamplona, España (© SvetlanaSF/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Catedral+de+Pamplona&form=hpcapt&filters=HpDate%3a%2220230705_2200%22",
+        "title": "Prepárate para salir a la comparsa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230705_ComparsaPamplona%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0403c5869486bbb2c4c8d956d68e1b65",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
