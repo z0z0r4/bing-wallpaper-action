@@ -1137,5 +1137,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "996845904d37cbdddc0eb9f6dd93bd67": {
+        "startdate": "20230706",
+        "fullstartdate": "202307060300",
+        "enddate": "20230707",
+        "url": "/th?id=OHR.KissingPenguins_PT-BR9632546224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KissingPenguins_PT-BR9632546224",
+        "copyright": "Pinguins Rockhopper do Sul, Ilhas Malvinas (© Tony Beck/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pinguins+Rockhopper+do+Sul&form=hpcapt&mkt=pt-br",
+        "title": "Onde esses pinguins estão se beijando?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230706_KissingPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "996845904d37cbdddc0eb9f6dd93bd67",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
