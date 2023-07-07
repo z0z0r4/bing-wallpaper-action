@@ -1154,5 +1154,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d3ce99fe2841e545a0a596d15fb8ba1d": {
+        "startdate": "20230707",
+        "fullstartdate": "202307070300",
+        "enddate": "20230708",
+        "url": "/th?id=OHR.CocoaPods_PT-BR0249334987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CocoaPods_PT-BR0249334987",
+        "copyright": "Vagens de cacau de Ambanja, Madagascar (© pierivb/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vagens+de+cacau&form=hpcapt&mkt=pt-br",
+        "title": "Vagens de cacau de Ambanja, Madagascar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230707_CocoaPods%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d3ce99fe2841e545a0a596d15fb8ba1d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

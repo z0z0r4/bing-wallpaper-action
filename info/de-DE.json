@@ -1154,5 +1154,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a109e0d7bd58ac6359d1c83adfcdd08d": {
+        "startdate": "20230707",
+        "fullstartdate": "202307072200",
+        "enddate": "20230708",
+        "url": "/th?id=OHR.CooperChapel_DE-DE3457658081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CooperChapel_DE-DE3457658081",
+        "copyright": "Mildred B. Cooper Gedächtniskapelle, Bella Vista, Arkansas, USA (© Eddie Brady/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kapelle&form=hpcapt&filters=HpDate%3a%2220230707_2200%22",
+        "title": "Heiligtum unter den Bäumen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230707_CooperChapel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a109e0d7bd58ac6359d1c83adfcdd08d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
