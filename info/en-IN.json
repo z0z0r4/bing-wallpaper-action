@@ -1171,5 +1171,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "334dd2e8eadec411ae0379700ee5d8c3": {
+        "startdate": "20230708",
+        "fullstartdate": "202307081830",
+        "enddate": "20230709",
+        "url": "/th?id=OHR.MoselleRiver_EN-IN8992065685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoselleRiver_EN-IN8992065685",
+        "copyright": "Moselle River loop near Kröv, Germany (© Jorg Greuel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Moselle+River&form=hpcapt&filters=HpDate%3a%2220230708_1830%22",
+        "title": "Staying in the loop",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230708_MoselleRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "334dd2e8eadec411ae0379700ee5d8c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

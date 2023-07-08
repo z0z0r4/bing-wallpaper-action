@@ -1171,5 +1171,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7cbc39514f889bbda30f9813e2bb42cf": {
+        "startdate": "20230708",
+        "fullstartdate": "202307080300",
+        "enddate": "20230709",
+        "url": "/th?id=OHR.CooperChapel_PT-BR0663109436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CooperChapel_PT-BR0663109436",
+        "copyright": "Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas, EUA (© Eddie Brady/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mildred+B.+Cooper+Memorial+Chapel+em+Arkansas&form=hpcapt&mkt=pt-br",
+        "title": "Santuário entre as árvores",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230708_CooperChapel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7cbc39514f889bbda30f9813e2bb42cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
