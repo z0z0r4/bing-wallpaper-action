@@ -1188,5 +1188,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9700e568e750ddaf1ad88c1bda4febb8": {
+        "startdate": "20230709",
+        "fullstartdate": "202307090300",
+        "enddate": "20230710",
+        "url": "/th?id=OHR.MoselleRiver_PT-BR0973965999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoselleRiver_PT-BR0973965999",
+        "copyright": "Circuito do rio Moselle perto de Kröv, Alemanha (© Jorg Greuel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=rio+Moselle&form=hpcapt&mkt=pt-br",
+        "title": "Ficando no circuito",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230709_MoselleRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9700e568e750ddaf1ad88c1bda4febb8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
