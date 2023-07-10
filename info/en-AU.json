@@ -1205,5 +1205,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "07bec369650396b04e67fea79af776fe": {
+        "startdate": "20230710",
+        "fullstartdate": "202307100700",
+        "enddate": "20230711",
+        "url": "/th?id=OHR.SomersetLavender_ROW3782254470_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SomersetLavender_ROW3782254470",
+        "copyright": "Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lavender+flower&form=hpcapt&filters=HpDate%3a%2220230710_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230710_SomersetLavender%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "07bec369650396b04e67fea79af776fe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

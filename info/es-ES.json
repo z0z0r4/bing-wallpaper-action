@@ -1205,5 +1205,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b029b94fa418d9c99a100d160b1c1c08": {
+        "startdate": "20230710",
+        "fullstartdate": "202307102200",
+        "enddate": "20230711",
+        "url": "/th?id=OHR.WorldPopDay_ES-ES2607091741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WorldPopDay_ES-ES2607091741",
+        "copyright": "Hong Kong RAE, China (© leungchopan/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ciudad+de+Hong+Kong&form=hpcapt&filters=HpDate%3a%2220230710_2200%22",
+        "title": "Un mar de humanidad",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230710_WorldPopDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b029b94fa418d9c99a100d160b1c1c08",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
