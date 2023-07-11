@@ -1222,5 +1222,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "61cb48b1c813c91fa7a3d15e10d8bfa1": {
+        "startdate": "20230711",
+        "fullstartdate": "202307112200",
+        "enddate": "20230712",
+        "url": "/th?id=OHR.AsturiasCovadonga_ES-ES5405317829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AsturiasCovadonga_ES-ES5405317829",
+        "copyright": "Lagos de Covadonga, Asturias, España (© Alicia Garcia Benito/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lagos+de+Covadonga%2c+Asturias%2c+Espa%C3%B1a&form=hpcapt&filters=HpDate%3a%2220230711_2200%22",
+        "title": "Prepárate para hidratarte con estas vistas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230711_AsturiasCovadonga%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "61cb48b1c813c91fa7a3d15e10d8bfa1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
