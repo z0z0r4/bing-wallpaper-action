@@ -1256,5 +1256,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "70458b247a733221624ae253cf89fcd1": {
+        "startdate": "20230713",
+        "fullstartdate": "202307130300",
+        "enddate": "20230714",
+        "url": "/th?id=OHR.ZhangyeGeopark_PT-BR2713024275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ZhangyeGeopark_PT-BR2713024275",
+        "copyright": "Zhang Ye, Geoparque Nacional, Gansu, China (© TONNAJA/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Zhangye+Geoparque+Nacional&form=hpcapt&mkt=pt-br",
+        "title": "Andando em um arco-íris rochoso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230713_ZhangyeGeopark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "70458b247a733221624ae253cf89fcd1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
