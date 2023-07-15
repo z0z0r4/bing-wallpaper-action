@@ -1290,5 +1290,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6939600b3f08843d7dc634be3c40dad4": {
+        "startdate": "20230715",
+        "fullstartdate": "202307152200",
+        "enddate": "20230716",
+        "url": "/th?id=OHR.BearHoleBrook_ES-ES3265013467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BearHoleBrook_ES-ES3265013467",
+        "copyright": "Arroyo Bear Hole, Montañas Catskill, Nueva York, EE.UU. (© GummyBone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monta%C3%B1as+de+Catskill&form=hpcapt&filters=HpDate%3a%2220230715_2200%22",
+        "title": "Murmurando sin parar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230715_BearHoleBrook%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6939600b3f08843d7dc634be3c40dad4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
