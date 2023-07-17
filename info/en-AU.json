@@ -1324,5 +1324,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d79124fa59c2e1870809e695db816152": {
+        "startdate": "20230717",
+        "fullstartdate": "202307170700",
+        "enddate": "20230718",
+        "url": "/th?id=OHR.CavanCastle_ROW4551496642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CavanCastle_ROW4551496642",
+        "copyright": "Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Cloughoughter+Castle&form=hpcapt&filters=HpDate%3a%2220230717_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230717_CavanCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d79124fa59c2e1870809e695db816152",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

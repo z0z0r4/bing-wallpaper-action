@@ -1324,5 +1324,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b76bad62fb8056c1adbe21c93f568edd": {
+        "startdate": "20230717",
+        "fullstartdate": "202307172200",
+        "enddate": "20230718",
+        "url": "/th?id=OHR.BucerosBicornis_ES-ES3494607604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BucerosBicornis_ES-ES3494607604",
+        "copyright": "Cálao bicorne en el Parque Nacional de Khao Yai, Tailandia (© kajornyot wildlife photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=c%C3%A1lao+bicorne&form=hpcapt&filters=HpDate%3a%2220230717_2200%22",
+        "title": "Esta ave presume de pico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230717_BucerosBicornis%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b76bad62fb8056c1adbe21c93f568edd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
