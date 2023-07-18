@@ -1341,5 +1341,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "648c5374787de5a5dc207598e6f88134": {
+        "startdate": "20230718",
+        "fullstartdate": "202307182200",
+        "enddate": "20230719",
+        "url": "/th?id=OHR.CrescentLake_ES-ES3629924640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CrescentLake_ES-ES3629924640",
+        "copyright": "Lago Crescent cerca de Dunhuang, provincia de Gansu, China (© R7 Photo/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Oasis+de+Dunhuang%2c+ciudad+de+China&form=hpcapt&filters=HpDate%3a%2220230718_2200%22",
+        "title": "Este lago no es un espejismo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230718_CrescentLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "648c5374787de5a5dc207598e6f88134",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
