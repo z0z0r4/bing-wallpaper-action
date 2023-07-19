@@ -1358,5 +1358,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a013117cd0900420b29e3ea375a9506d": {
+        "startdate": "20230719",
+        "fullstartdate": "202307192300",
+        "enddate": "20230720",
+        "url": "/th?id=OHR.MoonDayArtemis_EN-GB7995664444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoonDayArtemis_EN-GB7995664444",
+        "copyright": "The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=moon&form=hpcapt&filters=HpDate%3a%2220230719_2300%22",
+        "title": "Celebrating our looming lunar neighbour",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230719_MoonDayArtemis%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a013117cd0900420b29e3ea375a9506d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1358,5 +1358,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3bc4d62f538a0143fbfdec6c768bfaab": {
+        "startdate": "20230719",
+        "fullstartdate": "202307190300",
+        "enddate": "20230720",
+        "url": "/th?id=OHR.CrescentLake_PT-BR4521081721_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CrescentLake_PT-BR4521081721",
+        "copyright": "Lago Crescente em Dunhuang, na China (© R7 Photo/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Crescente+Gansu&form=hpcapt&mkt=pt-br",
+        "title": "Este lago não é nenhuma miragem",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230719_CrescentLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3bc4d62f538a0143fbfdec6c768bfaab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

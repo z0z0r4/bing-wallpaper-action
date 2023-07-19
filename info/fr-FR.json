@@ -1358,5 +1358,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4e0f5f3b4db7f53abb763e2c4a4b29a9": {
+        "startdate": "20230719",
+        "fullstartdate": "202307192200",
+        "enddate": "20230720",
+        "url": "/th?id=OHR.MoonDayArtemis_FR-FR9915827128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoonDayArtemis_FR-FR9915827128",
+        "copyright": "La lune vue depuis le vaisseau spatial Orion de la mission Artemis de la NASA (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=lune&form=hpcapt&filters=HpDate%3a%2220230719_2200%22",
+        "title": "La lumière de nos nuits",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230719_MoonDayArtemis%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4e0f5f3b4db7f53abb763e2c4a4b29a9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
