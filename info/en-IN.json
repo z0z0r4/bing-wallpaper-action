@@ -1375,5 +1375,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f8054b20e9bf6bd35ce7e7793d750c5f": {
+        "startdate": "20230720",
+        "fullstartdate": "202307201830",
+        "enddate": "20230721",
+        "url": "/th?id=OHR.BridgeNorway_EN-IN2026468738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BridgeNorway_EN-IN2026468738",
+        "copyright": "Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Storseisundet+Bridge&form=hpcapt&filters=HpDate%3a%2220230720_1830%22",
+        "title": "Connecting the dots",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230720_BridgeNorway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f8054b20e9bf6bd35ce7e7793d750c5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
