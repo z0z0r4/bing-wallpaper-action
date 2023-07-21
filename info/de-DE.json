@@ -1392,5 +1392,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "53fd0116757a506a97bd809eabbbe95c": {
+        "startdate": "20230721",
+        "fullstartdate": "202307212200",
+        "enddate": "20230722",
+        "url": "/th?id=OHR.HammockDay_DE-DE0611362682_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HammockDay_DE-DE0611362682",
+        "copyright": "Hängematten-Camping in einer Sumpfzypresse, Florida, USA (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=H%C3%A4ngematte&form=hpcapt&filters=HpDate%3a%2220230721_2200%22",
+        "title": "Mal abhängen?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230721_HammockDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "53fd0116757a506a97bd809eabbbe95c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1392,5 +1392,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "79d58c4c0205abacffbaa05705c2a5f7": {
+        "startdate": "20230721",
+        "fullstartdate": "202307210300",
+        "enddate": "20230722",
+        "url": "/th?id=OHR.BridgeNorway_PT-BR6731279312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BridgeNorway_PT-BR6731279312",
+        "copyright": "Ponte Storseisundet, Atlantic Ocean Road, Noruega (© Morten Falch Sortland/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ponte+Storseisundet&form=hpcapt&mkt=pt-br",
+        "title": "Ligando os pontos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230721_BridgeNorway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "79d58c4c0205abacffbaa05705c2a5f7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1392,5 +1392,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bcbb7eff503cf9ac14983ce93b407a53": {
+        "startdate": "20230721",
+        "fullstartdate": "202307211830",
+        "enddate": "20230722",
+        "url": "/th?id=OHR.HammockDay_EN-IN2217412387_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HammockDay_EN-IN2217412387",
+        "copyright": "Hammock camping in a bald cypress tree, Florida, USA (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=hammock+camping&form=hpcapt&filters=HpDate%3a%2220230721_1830%22",
+        "title": "Want to hang about?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230721_HammockDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bcbb7eff503cf9ac14983ce93b407a53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

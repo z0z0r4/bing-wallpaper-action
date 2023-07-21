@@ -1392,5 +1392,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2e28c3cd14cf019edc5e89dbd0cff4b3": {
+        "startdate": "20230721",
+        "fullstartdate": "202307212200",
+        "enddate": "20230722",
+        "url": "/th?id=OHR.HammockDay_ES-ES4414764833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HammockDay_ES-ES4414764833",
+        "copyright": "Acampada de hamaca en un ciprés calvo, Florida, EE.UU. (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=acampada+de+hamaca&form=hpcapt&filters=HpDate%3a%2220230721_2200%22",
+        "title": "Tumbado a la bartola",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230721_HammockDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2e28c3cd14cf019edc5e89dbd0cff4b3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
