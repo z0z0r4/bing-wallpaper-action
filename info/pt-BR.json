@@ -1409,5 +1409,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "effc3e722bc59d87c61daf493325b799": {
+        "startdate": "20230722",
+        "fullstartdate": "202307220300",
+        "enddate": "20230723",
+        "url": "/th?id=OHR.HammockDay_PT-BR7138304791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HammockDay_PT-BR7138304791",
+        "copyright": "Rede de acampamento em um cipreste careca, Flórida, nos EUA (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Rede+de+acampamento&form=hpcapt&mkt=pt-br",
+        "title": "Quer sair?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230722_HammockDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "effc3e722bc59d87c61daf493325b799",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1409,5 +1409,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "242b75d9ef5d653d816dff06977f0f93": {
+        "startdate": "20230722",
+        "fullstartdate": "202307222200",
+        "enddate": "20230723",
+        "url": "/th?id=OHR.TeaEstate_ES-ES4580884639_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeaEstate_ES-ES4580884639",
+        "copyright": "Plantación de té Edinburgh, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nuwara+Eliya+en+Sri+Lanka&form=hpcapt&filters=HpDate%3a%2220230722_2200%22",
+        "title": "¿Te apetece un té?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230722_TeaEstate%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "242b75d9ef5d653d816dff06977f0f93",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

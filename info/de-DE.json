@@ -1409,5 +1409,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7b376ba34c671053b78bb243ad23aa9e": {
+        "startdate": "20230722",
+        "fullstartdate": "202307222200",
+        "enddate": "20230723",
+        "url": "/th?id=OHR.TeaEstate_DE-DE1060002531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeaEstate_DE-DE1060002531",
+        "copyright": "Edinburgh Teeplantage, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nuwara+Eliya&form=hpcapt&filters=HpDate%3a%2220230722_2200%22",
+        "title": "Der Tee ist das Ziel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230722_TeaEstate%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7b376ba34c671053b78bb243ad23aa9e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
