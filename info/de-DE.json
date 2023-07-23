@@ -1426,5 +1426,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dbff515975a776e1ceb620577e0ebfd0": {
+        "startdate": "20230723",
+        "fullstartdate": "202307232200",
+        "enddate": "20230724",
+        "url": "/th?id=OHR.ZebraCousins_DE-DE3138525092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ZebraCousins_DE-DE3138525092",
+        "copyright": "Zebras im Tarangire-Nationalpark, Tansania (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cousin&form=hpcapt&filters=HpDate%3a%2220230723_2200%22",
+        "title": "Ein Tag für Cousins und Cousinen aller Art",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230723_ZebraCousins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dbff515975a776e1ceb620577e0ebfd0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1426,5 +1426,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7fd06e905dacffb352e9b5704ca2c751": {
+        "startdate": "20230723",
+        "fullstartdate": "202307230300",
+        "enddate": "20230724",
+        "url": "/th?id=OHR.TeaEstate_PT-BR7362336385_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeaEstate_PT-BR7362336385",
+        "copyright": "Propriedade do Chá de Edimburgo, Nuwara Elijah, Sri Lanka  (© Jeremy Woodhouse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nuwara+Eliya&form=hpcapt&mkt=pt-br",
+        "title": "Olá, é 'chá' que você está procurando?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230723_TeaEstate%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7fd06e905dacffb352e9b5704ca2c751",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
