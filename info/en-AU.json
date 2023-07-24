@@ -1443,5 +1443,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5684fec4118fa43e301748bca0148309": {
+        "startdate": "20230724",
+        "fullstartdate": "202307240700",
+        "enddate": "20230725",
+        "url": "/th?id=OHR.ZebraCousins_ROW5641777951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ZebraCousins_ROW5641777951",
+        "copyright": "Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=tarangire+national+park&form=hpcapt&filters=HpDate%3a%2220230724_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230724_ZebraCousins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5684fec4118fa43e301748bca0148309",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
