@@ -1460,5 +1460,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b5dc38f22c06c53c784ffeaea717bf25": {
+        "startdate": "20230725",
+        "fullstartdate": "202307252200",
+        "enddate": "20230726",
+        "url": "/th?id=OHR.MangrovePark_ES-ES5613548226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MangrovePark_ES-ES5613548226",
+        "copyright": "Parque nacional de los Manglares, Abu Dabi, Emiratos Árabes Unidos (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+de+los+Manglares&form=hpcapt&filters=HpDate%3a%2220230725_2200%22",
+        "title": "¡Saluda a las halófitas!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230725_MangrovePark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b5dc38f22c06c53c784ffeaea717bf25",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

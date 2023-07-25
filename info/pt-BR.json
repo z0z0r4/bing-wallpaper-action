@@ -1460,5 +1460,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4e226cb0a836cfb2bd9eb85df3765fe3": {
+        "startdate": "20230725",
+        "fullstartdate": "202307250300",
+        "enddate": "20230726",
+        "url": "/th?id=OHR.LasLagunas_PT-BR7962535557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LasLagunas_PT-BR7962535557",
+        "copyright": "Lagoa Torrevieja, Alicante, na Espanha (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=laguna+de+torrevieja&form=hpcapt&mkt=pt-br",
+        "title": "Onde fica esse lago rosa?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230725_LasLagunas%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4e226cb0a836cfb2bd9eb85df3765fe3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

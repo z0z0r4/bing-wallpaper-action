@@ -1460,5 +1460,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "54d3fb2ca2492474a6217d8e6915df34": {
+        "startdate": "20230725",
+        "fullstartdate": "202307252300",
+        "enddate": "20230726",
+        "url": "/th?id=OHR.OlympicPark_EN-GB3430975053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OlympicPark_EN-GB3430975053",
+        "copyright": "ondon Aquatics Centre at the Queen Elizabeth Olympic Park in Stratford (© Stefano Ravera/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=London+Aquatics+Centre&form=hpcapt&filters=HpDate%3a%2220230725_2300%22",
+        "title": "Go with the flow",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230725_OlympicPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "54d3fb2ca2492474a6217d8e6915df34",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
