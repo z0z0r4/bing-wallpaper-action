@@ -1477,5 +1477,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "778d049c29f38a2867dc1d717567b485": {
+        "startdate": "20230726",
+        "fullstartdate": "202307262200",
+        "enddate": "20230727",
+        "url": "/th?id=OHR.ParisLouvre_ES-ES5817467821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisLouvre_ES-ES5817467821",
+        "copyright": "Arco del Triunfo del Carrusel y Pirámide del Louvre, París, Francia (© Jon Hicks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Par%C3%ADs+Francia&form=hpcapt&filters=HpDate%3a%2220230726_2200%22",
+        "title": "Una pose triunfante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230726_ParisLouvre%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "778d049c29f38a2867dc1d717567b485",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

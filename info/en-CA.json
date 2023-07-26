@@ -1477,5 +1477,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "620e11b2cb3d2dde45722c1ada45e312": {
+        "startdate": "20230726",
+        "fullstartdate": "202307260400",
+        "enddate": "20230727",
+        "url": "/th?id=OHR.MangrovePark_EN-CA8930885606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MangrovePark_EN-CA8930885606",
+        "copyright": "Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=mangrove&form=hpcapt&filters=HpDate%3a%2220230726_0400%22",
+        "title": "Say hello to these halophytes!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230726_MangrovePark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "620e11b2cb3d2dde45722c1ada45e312",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

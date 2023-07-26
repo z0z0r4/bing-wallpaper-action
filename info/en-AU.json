@@ -1477,5 +1477,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "231d69e3ede6c7fe1a0799557a6c1f24": {
+        "startdate": "20230726",
+        "fullstartdate": "202307260700",
+        "enddate": "20230727",
+        "url": "/th?id=OHR.MangrovePark_ROW5862204066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MangrovePark_ROW5862204066",
+        "copyright": "Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=mangrove&form=hpcapt&filters=HpDate%3a%2220230726_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230726_MangrovePark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "231d69e3ede6c7fe1a0799557a6c1f24",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
