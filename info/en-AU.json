@@ -1494,5 +1494,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "46effb99fd9b00f59d8b79563b33444c": {
+        "startdate": "20230727",
+        "fullstartdate": "202307270700",
+        "enddate": "20230728",
+        "url": "/th?id=OHR.ParisLouvre_ROW5954962961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisLouvre_ROW5954962961",
+        "copyright": "Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=arc+de+triomphe+du+carrousel&form=hpcapt&filters=HpDate%3a%2220230727_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230727_ParisLouvre%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "46effb99fd9b00f59d8b79563b33444c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
