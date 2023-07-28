@@ -1511,5 +1511,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a027d72f62061a01856fe7a4d18ab7d9": {
+        "startdate": "20230728",
+        "fullstartdate": "202307280300",
+        "enddate": "20230729",
+        "url": "/th?id=OHR.SanBlasIslands_PT-BR0401979810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanBlasIslands_PT-BR0401979810",
+        "copyright": "Ilhas San Blas, Panamá (© bgremler/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilhas+San+Blas&form=hpcapt&mkt=pt-br",
+        "title": "Uma ilha azul",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230728_SanBlasIslands%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a027d72f62061a01856fe7a4d18ab7d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

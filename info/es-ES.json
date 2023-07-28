@@ -1511,5 +1511,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4b2593c46ea9448318d02e9b7ec5563c": {
+        "startdate": "20230728",
+        "fullstartdate": "202307282200",
+        "enddate": "20230729",
+        "url": "/th?id=OHR.TigerIndia_ES-ES2284216149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TigerIndia_ES-ES2284216149",
+        "copyright": "Tigre de Bengala, Parque Nacional de Ranthambore, India (© Andy Rouse/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Tigre+de+Bengala&form=hpcapt&filters=HpDate%3a%2220230728_2200%22",
+        "title": "Rayas a la vista",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230728_TigerIndia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4b2593c46ea9448318d02e9b7ec5563c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
