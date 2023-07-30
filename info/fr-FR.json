@@ -1545,5 +1545,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "55208804ad09e8c75c712c3dba5a0d84": {
+        "startdate": "20230730",
+        "fullstartdate": "202307302200",
+        "enddate": "20230731",
+        "url": "/th?id=OHR.RockHouse_FR-FR0741762840_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RockHouse_FR-FR0741762840",
+        "copyright": "Rock House, Parc d’État de Hocking Hills, Ohio, États-Unis (© Kenneth Keifer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Les+Hocking+Hills+Ohio&form=hpcapt&filters=HpDate%3a%2220230730_2200%22",
+        "title": "Des falaises gorgées d’histoire",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230730_RockHouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "55208804ad09e8c75c712c3dba5a0d84",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

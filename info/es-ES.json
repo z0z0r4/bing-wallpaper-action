@@ -1545,5 +1545,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1e2ace9029be8cc14f96120fa9bb7d79": {
+        "startdate": "20230730",
+        "fullstartdate": "202307302200",
+        "enddate": "20230731",
+        "url": "/th?id=OHR.RockHouse_ES-ES2728189388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RockHouse_ES-ES2728189388",
+        "copyright": "Casa Cueva, Parque Estatal de Hocking Hills, Ohio, EE.UU. (© Kenneth Keifer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Estatal+de+Hocking+Hills+en+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220230730_2200%22",
+        "title": "¿Hay alguien en casa?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230730_RockHouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1e2ace9029be8cc14f96120fa9bb7d79",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

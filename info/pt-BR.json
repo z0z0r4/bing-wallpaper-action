@@ -1545,5 +1545,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "59b5f7d9a28ef4a9df0f929a76c4f43e": {
+        "startdate": "20230730",
+        "fullstartdate": "202307300300",
+        "enddate": "20230731",
+        "url": "/th?id=OHR.PalouseHills_PT-BR1134118082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PalouseHills_PT-BR1134118082",
+        "copyright": "Terras agrícolas em Palouse, Washington (© EJ-J/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=palouse&form=hpcapt&mkt=pt-br",
+        "title": "Perfeito, Palouse pastoral",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230730_PalouseHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "59b5f7d9a28ef4a9df0f929a76c4f43e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

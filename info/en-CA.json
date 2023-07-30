@@ -1545,5 +1545,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1d83fee85164d26b2bf82938bf40e9a0": {
+        "startdate": "20230730",
+        "fullstartdate": "202307300400",
+        "enddate": "20230731",
+        "url": "/th?id=OHR.PalouseHills_EN-CA7890546720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PalouseHills_EN-CA7890546720",
+        "copyright": "Farmland in the Palouse, Washington (© EJ-J/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=palouse&form=hpcapt&filters=HpDate%3a%2220230730_0400%22",
+        "title": "Perfect, pastoral Palouse",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230730_PalouseHills%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1d83fee85164d26b2bf82938bf40e9a0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
