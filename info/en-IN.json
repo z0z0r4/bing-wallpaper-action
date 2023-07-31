@@ -1562,5 +1562,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2de7ce0264c1761eadede410a033dff1": {
+        "startdate": "20230731",
+        "fullstartdate": "202307311830",
+        "enddate": "20230801",
+        "url": "/th?id=OHR.DenaliClimber_EN-IN8763043099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DenaliClimber_EN-IN8763043099",
+        "copyright": "Mount Foraker viewed from Denali, Denali National Park, Alaska, USA (© Andrew Peacock/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=denali+mountain&form=hpcapt&filters=HpDate%3a%2220230731_1830%22",
+        "title": "There's no denying the power of Denali",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230731_DenaliClimber%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2de7ce0264c1761eadede410a033dff1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

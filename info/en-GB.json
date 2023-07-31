@@ -1562,5 +1562,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "531d3566e192269836f3ce9a95906e3a": {
+        "startdate": "20230731",
+        "fullstartdate": "202307312300",
+        "enddate": "20230801",
+        "url": "/th?id=OHR.DenaliClimber_EN-GB1414013985_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DenaliClimber_EN-GB1414013985",
+        "copyright": "Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=denali+mountain&form=hpcapt&filters=HpDate%3a%2220230731_2300%22",
+        "title": "There's no denying the power of Denali",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230731_DenaliClimber%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "531d3566e192269836f3ce9a95906e3a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
