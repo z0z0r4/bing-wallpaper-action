@@ -1579,5 +1579,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "da362f204065d873fa5233cded3a7144": {
+        "startdate": "20230801",
+        "fullstartdate": "202308010700",
+        "enddate": "20230802",
+        "url": "/th?id=OHR.DenaliClimber_ROW2123581329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DenaliClimber_ROW2123581329",
+        "copyright": "Mount Foraker viewed from Denali, Denali National Park, Alaska, USA (© Andrew Peacock/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=denali+mountain&form=hpcapt&filters=HpDate%3a%2220230801_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230801_DenaliClimber%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "da362f204065d873fa5233cded3a7144",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
