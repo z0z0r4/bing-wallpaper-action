@@ -1596,5 +1596,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "65d3853b30fb8f4cac2d71c297859893": {
+        "startdate": "20230802",
+        "fullstartdate": "202308020300",
+        "enddate": "20230803",
+        "url": "/th?id=OHR.CapitolButte_PT-BR1710363839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapitolButte_PT-BR1710363839",
+        "copyright": "Colina de arenito no Parque Nacional Capitol Reef, Utah, EUA  (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Capitol+Reef&form=hpcapt&mkt=pt-br",
+        "title": "A paleta de um pintor com os tons da natureza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230802_CapitolButte%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "65d3853b30fb8f4cac2d71c297859893",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
