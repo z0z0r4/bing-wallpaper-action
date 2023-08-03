@@ -1613,5 +1613,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a4c768394725787b8b293f635ce8c958": {
+        "startdate": "20230803",
+        "fullstartdate": "202308031500",
+        "enddate": "20230804",
+        "url": "/th?id=OHR.NaganoPond_JA-JP0131888809_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NaganoPond_JA-JP0131888809",
+        "copyright": "鏡池, 長野県 長野市 (© Shoji Fujita/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%8F%A1%E6%B1%A0&form=hpcapt&filters=HpDate%3a%2220230803_1500%22",
+        "title": "鏡のように静かな池",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230803_NaganoPond%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a4c768394725787b8b293f635ce8c958",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
