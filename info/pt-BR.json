@@ -1630,5 +1630,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "02f8483d32c1f4150e1f1560b5721bd6": {
+        "startdate": "20230804",
+        "fullstartdate": "202308040300",
+        "enddate": "20230805",
+        "url": "/th?id=OHR.GothicRuins_PT-BR2280028094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GothicRuins_PT-BR2280028094",
+        "copyright": "Abadia de Tintern, País de Gales  (© matthibcn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Abadia+de+Tintern&form=hpcapt&mkt=pt-br",
+        "title": "Uma janela suspensa para o passado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230804_GothicRuins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "02f8483d32c1f4150e1f1560b5721bd6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1630,5 +1630,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a323cc7afb8ab7e857305e3bceb76115": {
+        "startdate": "20230804",
+        "fullstartdate": "202308042200",
+        "enddate": "20230805",
+        "url": "/th?id=OHR.AtlanticPuffin_FR-FR7137446812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AtlanticPuffin_FR-FR7137446812",
+        "copyright": "Macareux moine, Islande (© Peter Hering/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=macareux+moine&form=hpcapt&filters=HpDate%3a%2220230804_2200%22",
+        "title": "Quel drôle de nom d’oiseau",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230804_AtlanticPuffin%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a323cc7afb8ab7e857305e3bceb76115",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

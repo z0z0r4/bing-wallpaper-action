@@ -1630,5 +1630,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "09af24e8f320ae41f7ac2135e6c94178": {
+        "startdate": "20230804",
+        "fullstartdate": "202308042200",
+        "enddate": "20230805",
+        "url": "/th?id=OHR.Bogenbruecke_DE-DE4748287145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Bogenbruecke_DE-DE4748287145",
+        "copyright": "Rakotzbrücke in Kromlau, Landkreis Görlitz, Sachsen (© DieterMeyrl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kromlau&form=hpcapt&filters=HpDate%3a%2220230804_2200%22",
+        "title": "Der See und seine Brücke uns entzücke!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230804_Bogenbruecke%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "09af24e8f320ae41f7ac2135e6c94178",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

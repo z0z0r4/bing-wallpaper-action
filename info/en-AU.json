@@ -1630,5 +1630,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "080b79799c6b2841b08efacabd95cde6": {
+        "startdate": "20230804",
+        "fullstartdate": "202308040700",
+        "enddate": "20230805",
+        "url": "/th?id=OHR.GothicRuins_ROW2796747781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GothicRuins_ROW2796747781",
+        "copyright": "Tintern Abbey, Wales (© matthibcn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tintern+Abbey+Wales&form=hpcapt&filters=HpDate%3a%2220230804_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230804_GothicRuins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "080b79799c6b2841b08efacabd95cde6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
