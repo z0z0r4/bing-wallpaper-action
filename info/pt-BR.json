@@ -1647,5 +1647,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "960720a0ebf0bb13efab30b9a97a12aa": {
+        "startdate": "20230805",
+        "fullstartdate": "202308050300",
+        "enddate": "20230806",
+        "url": "/th?id=OHR.AtlanticPuffin_PT-BR2602630164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AtlanticPuffin_PT-BR2602630164",
+        "copyright": "Papagaio do Atlântico, Islândia  (© Peter Hering/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Papagaio+do+Atl%C3%A2ntico&form=hpcapt&mkt=pt-br",
+        "title": "É a temporada de puffling!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230805_AtlanticPuffin%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "960720a0ebf0bb13efab30b9a97a12aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
