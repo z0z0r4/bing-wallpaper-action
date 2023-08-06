@@ -1664,5 +1664,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a5edceb20ba77039601043e0679e001a": {
+        "startdate": "20230806",
+        "fullstartdate": "202308060300",
+        "enddate": "20230807",
+        "url": "/th?id=OHR.NaganoPond_PT-BR2909637050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NaganoPond_PT-BR2909637050",
+        "copyright": "Kagami-ike (Lagoa do Espelho), Nagano, Japão © Shoji Fujita/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nagano&form=hpcapt&mkt=pt-br",
+        "title": "Um espelho que reflete a beleza da natureza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230806_NaganoPond%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a5edceb20ba77039601043e0679e001a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
