@@ -1681,5 +1681,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "142ab80ea0722ae0009f1bc54a09e311": {
+        "startdate": "20230807",
+        "fullstartdate": "202308070300",
+        "enddate": "20230808",
+        "url": "/th?id=OHR.BodieNC_PT-BR3349046886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BodieNC_PT-BR3349046886",
+        "copyright": "Farol da Ilha Bodie, Nags Head, Carolina do Norte, EUA (© Michael Ver Sprill/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Farol+da+Ilha+Bodie&form=hpcapt&mkt=pt-br",
+        "title": "Um na terra, um milhão no espaço",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_BodieNC%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "142ab80ea0722ae0009f1bc54a09e311",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

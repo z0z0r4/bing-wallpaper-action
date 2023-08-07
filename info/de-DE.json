@@ -1681,5 +1681,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2817836a8e19191464f8eb8e355d8746": {
+        "startdate": "20230807",
+        "fullstartdate": "202308072200",
+        "enddate": "20230808",
+        "url": "/th?id=OHR.InfinityTaipei_DE-DE3086691041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InfinityTaipei_DE-DE3086691041",
+        "copyright": "Autobahnen in Taipeh, Taiwan (© Tavarius/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Taipeh&form=hpcapt&filters=HpDate%3a%2220230807_2200%22",
+        "title": "Ins Unendliche und zurück",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_InfinityTaipei%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2817836a8e19191464f8eb8e355d8746",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

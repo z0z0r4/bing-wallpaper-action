@@ -1681,5 +1681,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cf297a2297135b0447bcbf393f75dcce": {
+        "startdate": "20230807",
+        "fullstartdate": "202308070700",
+        "enddate": "20230808",
+        "url": "/th?id=OHR.BodieNC_ROW3179695505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BodieNC_ROW3179695505",
+        "copyright": "Bodie Island Lighthouse, Nags Head, North Carolina, USA (© Michael Ver Sprill/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=bodie+island+lighthouse&form=hpcapt&filters=HpDate%3a%2220230807_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230807_BodieNC%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cf297a2297135b0447bcbf393f75dcce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
