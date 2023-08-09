@@ -1715,5 +1715,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "58345e87d2012b3d3a1731fc359fb0bb": {
+        "startdate": "20230809",
+        "fullstartdate": "202308090700",
+        "enddate": "20230810",
+        "url": "/th?id=OHR.PandiZucchero_ROW3714567304_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PandiZucchero_ROW3714567304",
+        "copyright": "Pan di Zucchero sea stack in Masua, Sardinia, Italy (© DaLiu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pan+di+Zucchero+Masua+Italy&form=hpcapt&filters=HpDate%3a%2220230809_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230809_PandiZucchero%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "58345e87d2012b3d3a1731fc359fb0bb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

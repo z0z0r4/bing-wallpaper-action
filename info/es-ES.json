@@ -1715,5 +1715,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "addd7cacf774487202bc5ef82d2ad2ee": {
+        "startdate": "20230809",
+        "fullstartdate": "202308092200",
+        "enddate": "20230810",
+        "url": "/th?id=OHR.WorldLionDay_ES-ES6884222096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WorldLionDay_ES-ES6884222096",
+        "copyright": "Un león en Maasai Mara, Kenia (© Scott Davis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=El+le%C3%B3n+africano&form=hpcapt&filters=HpDate%3a%2220230809_2200%22",
+        "title": "¿\"El Rey de la jungla\"? No",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230809_WorldLionDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "addd7cacf774487202bc5ef82d2ad2ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
