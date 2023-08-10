@@ -1732,5 +1732,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1aeffedcfe09e84ec8bbc29c6e989b79": {
+        "startdate": "20230810",
+        "fullstartdate": "202308102200",
+        "enddate": "20230811",
+        "url": "/th?id=OHR.JupiterArtland_DE-DE5348039414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JupiterArtland_DE-DE5348039414",
+        "copyright": "Schwimmbad „Gateway“ im Jupiter Artland Skulpturenpark, Edinburgh, Schottland (© Owen Humphreys/PA Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Edinburgh&form=hpcapt&filters=HpDate%3a%2220230810_2200%22",
+        "title": "Ein Schwimmbad voller Kunst",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230810_JupiterArtland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1aeffedcfe09e84ec8bbc29c6e989b79",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

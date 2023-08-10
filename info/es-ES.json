@@ -1732,5 +1732,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "25451c55687557967694df567a6c4e67": {
+        "startdate": "20230810",
+        "fullstartdate": "202308102200",
+        "enddate": "20230811",
+        "url": "/th?id=OHR.JupiterArtland_ES-ES8553540755_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JupiterArtland_ES-ES8553540755",
+        "copyright": "Piscina \"Gateway\" en el parque de esculturas Jupiter Artland, Edimburgo, Escocia (© Owen Humphreys/PA Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=festival+de+arte+de+edimburgo&form=hpcapt&filters=HpDate%3a%2220230810_2200%22",
+        "title": "Un chapuzón único",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230810_JupiterArtland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "25451c55687557967694df567a6c4e67",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
