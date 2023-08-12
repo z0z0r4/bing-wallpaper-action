@@ -1766,5 +1766,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c12e6a6c23d5b9de74b2c619ad9567a2": {
+        "startdate": "20230812",
+        "fullstartdate": "202308122200",
+        "enddate": "20230813",
+        "url": "/th?id=OHR.PerseidsOregon_FR-FR3598672190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PerseidsOregon_FR-FR3598672190",
+        "copyright": "Pluie d´étoiles filantes des Perséides, Cottonwood Canyon State Park, Oregon, États-Unis (© Joshua Meador/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=essaim+de+meteores+perseides&form=hpcapt&filters=HpDate%3a%2220230812_2200%22",
+        "title": "Des météores en cascade",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230812_PerseidsOregon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c12e6a6c23d5b9de74b2c619ad9567a2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

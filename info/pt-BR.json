@@ -1766,5 +1766,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0ea5d6e4400b5e681abe6817e21e0e18": {
+        "startdate": "20230812",
+        "fullstartdate": "202308120300",
+        "enddate": "20230813",
+        "url": "/th?id=OHR.ThreeElephants_PT-BR3742812979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThreeElephants_PT-BR3742812979",
+        "copyright": "Família de elefantes no Parque Nacional Amboseli, no Quênia (© Ibrahim Suha Derbent/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+mundial+do+elefante&form=hpcapt&mkt=pt-br",
+        "title": "Protegendo os gigantes gentis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230812_ThreeElephants%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0ea5d6e4400b5e681abe6817e21e0e18",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

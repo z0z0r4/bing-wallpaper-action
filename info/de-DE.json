@@ -1766,5 +1766,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8ade539eb5773115c19b4e168956f7ff": {
+        "startdate": "20230812",
+        "fullstartdate": "202308122200",
+        "enddate": "20230813",
+        "url": "/th?id=OHR.PerseidsOregon_DE-DE7453606880_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PerseidsOregon_DE-DE7453606880",
+        "copyright": "Perseiden-Meteorstrom, Cottonwood Canyon State Park, Oregon, USA (© Joshua Meador/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Perseiden&form=hpcapt&filters=HpDate%3a%2220230812_2200%22",
+        "title": "Sobald Sie eine Sternschnuppe sehen, wünschen Sie sich etwas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230812_PerseidsOregon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8ade539eb5773115c19b4e168956f7ff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
