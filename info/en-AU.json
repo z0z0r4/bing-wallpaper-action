@@ -1783,5 +1783,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e50e97eef64828ed64a305f2f7666589": {
+        "startdate": "20230813",
+        "fullstartdate": "202308130700",
+        "enddate": "20230814",
+        "url": "/th?id=OHR.PerseidsOregon_ROW1614140268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PerseidsOregon_ROW1614140268",
+        "copyright": "Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=perseid+meteor+shower&form=hpcapt&filters=HpDate%3a%2220230813_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230813_PerseidsOregon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e50e97eef64828ed64a305f2f7666589",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
