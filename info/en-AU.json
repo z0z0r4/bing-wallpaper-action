@@ -1800,5 +1800,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "18c716c2d65cde2fbc4902c8e72e36e1": {
+        "startdate": "20230814",
+        "fullstartdate": "202308140700",
+        "enddate": "20230815",
+        "url": "/th?id=OHR.GeckoLeaf_ROW1753443584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GeckoLeaf_ROW1753443584",
+        "copyright": "Tiny gecko on leaf spear (© Darren Greenwood/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=gecko+lizard&form=hpcapt&filters=HpDate%3a%2220230814_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230814_GeckoLeaf%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "18c716c2d65cde2fbc4902c8e72e36e1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
