@@ -1817,5 +1817,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d842ed3e18da7f0e37fe1b436c34a85d": {
+        "startdate": "20230815",
+        "fullstartdate": "202308152200",
+        "enddate": "20230816",
+        "url": "/th?id=OHR.KeyWestBridge_ES-ES4220778190_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KeyWestBridge_ES-ES4220778190",
+        "copyright": "Autopista Overseas Highway de los Cayos, Florida, EE.UU. (© Evgeny Vasenev/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=+Overseas+Highway+de+Florida&form=hpcapt&filters=HpDate%3a%2220230815_2200%22",
+        "title": "Ruta en mar abierto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230815_KeyWestBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d842ed3e18da7f0e37fe1b436c34a85d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
