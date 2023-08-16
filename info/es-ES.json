@@ -1834,5 +1834,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a2e6fd16ea6b6c97bd40e849cd1f6293": {
+        "startdate": "20230816",
+        "fullstartdate": "202308162200",
+        "enddate": "20230817",
+        "url": "/th?id=OHR.TaorminaSquare_ES-ES3572734351_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TaorminaSquare_ES-ES3572734351",
+        "copyright": "Piazza IX Aprile, Taormina, Sicilia, Italia (© rudi1976/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Taormina&form=hpcapt&filters=HpDate%3a%2220230816_2200%22",
+        "title": "Un paisaje resplandeciente",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_TaorminaSquare%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a2e6fd16ea6b6c97bd40e849cd1f6293",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1834,5 +1834,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aad33126e60c4528dcce64d3b59722da": {
+        "startdate": "20230816",
+        "fullstartdate": "202308160300",
+        "enddate": "20230817",
+        "url": "/th?id=OHR.KeyWestBridge_PT-BR4840240790_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KeyWestBridge_PT-BR4840240790",
+        "copyright": "Seven Mile Bridge em Key West, Flórida, nos EUA (© Evgeny Vasenev/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Seven+Mile+Bridge&form=hpcapt&mkt=pt-br",
+        "title": "Uma chave para viajar pela ilha",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_KeyWestBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aad33126e60c4528dcce64d3b59722da",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

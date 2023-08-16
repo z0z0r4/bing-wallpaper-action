@@ -1834,5 +1834,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ebb1eaede0363ee05f435cdb977d2b4c": {
+        "startdate": "20230816",
+        "fullstartdate": "202308162300",
+        "enddate": "20230817",
+        "url": "/th?id=OHR.InfinityTaipei_EN-GB3498072213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.InfinityTaipei_EN-GB3498072213",
+        "copyright": "Highways in Taipei, Taiwan (© Tavarius/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=taipei+city&form=hpcapt&filters=HpDate%3a%2220230816_2300%22",
+        "title": "To the infinite and back",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_InfinityTaipei%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ebb1eaede0363ee05f435cdb977d2b4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

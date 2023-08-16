@@ -1834,5 +1834,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0333e6235427404fc89cecc5d056ac38": {
+        "startdate": "20230816",
+        "fullstartdate": "202308162200",
+        "enddate": "20230817",
+        "url": "/th?id=OHR.BucerosBicornis_DE-DE7282207548_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BucerosBicornis_DE-DE7282207548",
+        "copyright": "Doppelhornvogel, Nationalpark Khao Yai, Thailand (© kajornyot wildlife photography/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Doppelhornvogel&form=hpcapt&filters=HpDate%3a%2220230816_2200%22",
+        "title": "Majestätischer Vogel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_BucerosBicornis%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0333e6235427404fc89cecc5d056ac38",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1834,5 +1834,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "92d70f7cee1eb63c688ed110f7ff4d43": {
+        "startdate": "20230816",
+        "fullstartdate": "202308160700",
+        "enddate": "20230817",
+        "url": "/th?id=OHR.KeyWestBridge_ROW2589819219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KeyWestBridge_ROW2589819219",
+        "copyright": "Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=overseas+highway&form=hpcapt&filters=HpDate%3a%2220230816_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230816_KeyWestBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "92d70f7cee1eb63c688ed110f7ff4d43",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
