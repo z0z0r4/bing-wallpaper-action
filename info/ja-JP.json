@@ -1851,5 +1851,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8f0aafd0bdd93fa1445a0f81711ff42f": {
+        "startdate": "20230817",
+        "fullstartdate": "202308171500",
+        "enddate": "20230818",
+        "url": "/th?id=OHR.AvatarMountain_JA-JP2526230045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AvatarMountain_JA-JP2526230045",
+        "copyright": "張家界国家森林公園, 中国 湖南省 (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%BC%B5%E5%AE%B6%E7%95%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220230817_1500%22",
+        "title": "石柱が林立するアバターの世界",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230817_AvatarMountain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8f0aafd0bdd93fa1445a0f81711ff42f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1851,5 +1851,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "17eeaafadc2e0ca7bf0b70042d453d04": {
+        "startdate": "20230817",
+        "fullstartdate": "202308170300",
+        "enddate": "20230818",
+        "url": "/th?id=OHR.CamelsAbove_PT-BR2394632603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CamelsAbove_PT-BR2394632603",
+        "copyright": "Camelos no deserto, Emirados Árabes Unidos (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=camelos&form=hpcapt&mkt=pt-br",
+        "title": "Navios do deserto, ahoy!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230817_CamelsAbove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "17eeaafadc2e0ca7bf0b70042d453d04",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

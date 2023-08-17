@@ -1851,5 +1851,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3ed4104db48677a5bb2a60690c1dcba3": {
+        "startdate": "20230817",
+        "fullstartdate": "202308170700",
+        "enddate": "20230818",
+        "url": "/th?id=OHR.Rothenburg_ROW1531649708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Rothenburg_ROW1531649708",
+        "copyright": "Rothenburg ob der Tauber, Bavaria, Germany (© RudyBalasko/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rothenburg+ob+der+Tauber&form=hpcapt&filters=HpDate%3a%2220230817_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230817_Rothenburg%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3ed4104db48677a5bb2a60690c1dcba3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
