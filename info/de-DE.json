@@ -1868,5 +1868,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c09bbc4197531aff7e16bbad5c7fcfce": {
+        "startdate": "20230818",
+        "fullstartdate": "202308182200",
+        "enddate": "20230819",
+        "url": "/th?id=OHR.CameraSquirrel_DE-DE9987181480_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CameraSquirrel_DE-DE9987181480",
+        "copyright": "Ein Eichhörnchen schaut in das Objektiv einer Kamera (© Alfredo Piedrafita/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fotografie&form=hpcapt&filters=HpDate%3a%2220230818_2200%22",
+        "title": "Bitte lächeln!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230818_CameraSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c09bbc4197531aff7e16bbad5c7fcfce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
