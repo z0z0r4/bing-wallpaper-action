@@ -1885,5 +1885,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0c8aa42fd5b9d90021bc8b98f5c07aca": {
+        "startdate": "20230819",
+        "fullstartdate": "202308190700",
+        "enddate": "20230820",
+        "url": "/th?id=OHR.CameraSquirrel_ROW3178486610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CameraSquirrel_ROW3178486610",
+        "copyright": "Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=photography&form=hpcapt&filters=HpDate%3a%2220230819_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230819_CameraSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0c8aa42fd5b9d90021bc8b98f5c07aca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

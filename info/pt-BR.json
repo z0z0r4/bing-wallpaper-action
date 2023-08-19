@@ -1885,5 +1885,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b5ee031cb4e38ad56de9d3371a99b598": {
+        "startdate": "20230819",
+        "fullstartdate": "202308190300",
+        "enddate": "20230820",
+        "url": "/th?id=OHR.CameraSquirrel_PT-BR6385198760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CameraSquirrel_PT-BR6385198760",
+        "copyright": "Esquilo olhando na lente de uma câmera (© Alfredo Piedrafita/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=fotografia&form=hpcapt&mkt=pt-br",
+        "title": "Estou pronto para o meu close-up, Sr. DeSquirrel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230819_CameraSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b5ee031cb4e38ad56de9d3371a99b598",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
