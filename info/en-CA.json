@@ -1902,5 +1902,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ad3da4c3fc08e52b4a12117d3bf87e21": {
+        "startdate": "20230820",
+        "fullstartdate": "202308200400",
+        "enddate": "20230821",
+        "url": "/th?id=OHR.StartPointLight_EN-CA6009184679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StartPointLight_EN-CA6009184679",
+        "copyright": "Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Start+Point+Lighthouse&form=hpcapt&filters=HpDate%3a%2220230820_0400%22",
+        "title": "Sentinel of the sea",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230820_StartPointLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ad3da4c3fc08e52b4a12117d3bf87e21",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

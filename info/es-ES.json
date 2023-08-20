@@ -1902,5 +1902,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e05566c8a559c5623e889a289b4174e3": {
+        "startdate": "20230820",
+        "fullstartdate": "202308202200",
+        "enddate": "20230821",
+        "url": "/th?id=OHR.EmeraldLakeYukon_ES-ES6112379724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EmeraldLakeYukon_ES-ES6112379724",
+        "copyright": "Lago Esmeralda, Sur de la carretera Klondike, Yukón, Canadá (© artherng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Yukon+en+Canad%C3%A1&form=hpcapt&filters=HpDate%3a%2220230820_2200%22",
+        "title": "Resplandor interior",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230820_EmeraldLakeYukon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e05566c8a559c5623e889a289b4174e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

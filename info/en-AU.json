@@ -1902,5 +1902,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "af0c7a9a16aa40930a1fda8448c8b481": {
+        "startdate": "20230820",
+        "fullstartdate": "202308200700",
+        "enddate": "20230821",
+        "url": "/th?id=OHR.StartPointLight_ROW3327480520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StartPointLight_ROW3327480520",
+        "copyright": "Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Start+Point+Lighthouse&form=hpcapt&filters=HpDate%3a%2220230820_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230820_StartPointLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "af0c7a9a16aa40930a1fda8448c8b481",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
