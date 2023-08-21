@@ -1919,5 +1919,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3c92e7944c246e9dcc3c051c84871e49": {
+        "startdate": "20230821",
+        "fullstartdate": "202308210300",
+        "enddate": "20230822",
+        "url": "/th?id=OHR.EmeraldLakeYukon_PT-BR6870373450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EmeraldLakeYukon_PT-BR6870373450",
+        "copyright": "Lago Esmeralda, South Klondike Highway, Yukon, no Canadá (© artherng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=yukon+canada&form=hpcapt&mkt=pt-br",
+        "title": "Um dia de descoberta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230821_EmeraldLakeYukon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3c92e7944c246e9dcc3c051c84871e49",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -1919,5 +1919,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b9600a274c2170bcffeedbc78900ef3c": {
+        "startdate": "20230821",
+        "fullstartdate": "202308212300",
+        "enddate": "20230822",
+        "url": "/th?id=OHR.TunisiaAmphitheatre_EN-GB8662535269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TunisiaAmphitheatre_EN-GB8662535269",
+        "copyright": "Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Amphitheatre+of+El+Jem&form=hpcapt&filters=HpDate%3a%2220230821_2300%22",
+        "title": "A 'standing ovation' to Roman architecture",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230821_TunisiaAmphitheatre%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b9600a274c2170bcffeedbc78900ef3c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

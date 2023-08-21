@@ -1919,5 +1919,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "323c2ddfd2674d96d98e7eee94451c5e": {
+        "startdate": "20230821",
+        "fullstartdate": "202308212200",
+        "enddate": "20230822",
+        "url": "/th?id=OHR.TunisiaAmphitheatre_ES-ES6251726563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TunisiaAmphitheatre_ES-ES6251726563",
+        "copyright": "Anfiteatro de El Djem, Túnez (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Anfiteatro+de+El+Jem%2c+T%C3%BAnez&form=hpcapt&filters=HpDate%3a%2220230821_2200%22",
+        "title": "Ovación cerrada a la arquitectura romana",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230821_TunisiaAmphitheatre%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "323c2ddfd2674d96d98e7eee94451c5e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
