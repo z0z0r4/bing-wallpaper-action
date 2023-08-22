@@ -1936,5 +1936,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "402012a03ce4c36fc95d57c9842eb198": {
+        "startdate": "20230822",
+        "fullstartdate": "202308222200",
+        "enddate": "20230823",
+        "url": "/th?id=OHR.SkogafossWaterfall_ES-ES6467802413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SkogafossWaterfall_ES-ES6467802413",
+        "copyright": "Cascada Skógafoss, Islandia (© Maridav/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Cascada+Skogafoss+Islandia&form=hpcapt&filters=HpDate%3a%2220230822_2200%22",
+        "title": "Un buen chapuzón",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230822_SkogafossWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "402012a03ce4c36fc95d57c9842eb198",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
