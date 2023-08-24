@@ -1970,5 +1970,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2022f5e2940184a2221a1d631b4043a5": {
+        "startdate": "20230824",
+        "fullstartdate": "202308242200",
+        "enddate": "20230825",
+        "url": "/th?id=OHR.Battleofflowers_ES-ES3497092168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Battleofflowers_ES-ES3497092168",
+        "copyright": "Fiesta de la Batalla de las flores, Laredo, Cantabria, España (© Helena Garcia Huertas/shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Batalla+de+las+flores+Laredo&form=hpcapt&filters=HpDate%3a%2220230824_2200%22",
+        "title": "Una fiesta aromática",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230824_Battleofflowers%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2022f5e2940184a2221a1d631b4043a5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

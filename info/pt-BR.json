@@ -1970,5 +1970,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "719a251b241748410c4bb280b01de572": {
+        "startdate": "20230824",
+        "fullstartdate": "202308240300",
+        "enddate": "20230825",
+        "url": "/th?id=OHR.SharkFinCove_PT-BR7883835575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SharkFinCove_PT-BR7883835575",
+        "copyright": "Shark Fin Cove, Davenport, Califórnia, nos EUA (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=pilhas+do+mar&form=hpcapt&mkt=pt-br",
+        "title": "Que vista fantástica!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230824_SharkFinCove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "719a251b241748410c4bb280b01de572",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
