@@ -1987,5 +1987,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a6d8213d6a6c8c0b8be59f6c6e7a114c": {
+        "startdate": "20230825",
+        "fullstartdate": "202308250300",
+        "enddate": "20230826",
+        "url": "/th?id=OHR.YellowstoneFalls_PT-BR9098060623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowstoneFalls_PT-BR9098060623",
+        "copyright": "Lower Yellowstone Falls, Parque Nacional de Yellowstone, Wyoming (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Yellowstone&form=hpcapt&mkt=pt-br",
+        "title": "Esta terra é sua terra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230825_YellowstoneFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a6d8213d6a6c8c0b8be59f6c6e7a114c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

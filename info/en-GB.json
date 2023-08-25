@@ -1987,5 +1987,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6ea068d4a9973e50fde6fd0374cb77c2": {
+        "startdate": "20230825",
+        "fullstartdate": "202308252300",
+        "enddate": "20230826",
+        "url": "/th?id=OHR.MuseumIsland_EN-GB2659579604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuseumIsland_EN-GB2659579604",
+        "copyright": "Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Museum+Island+Berlin&form=hpcapt&filters=HpDate%3a%2220230825_2300%22",
+        "title": "A night at the museums",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230825_MuseumIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6ea068d4a9973e50fde6fd0374cb77c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
