@@ -2004,5 +2004,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2ce7db649049506be968f00d3ed34f55": {
+        "startdate": "20230826",
+        "fullstartdate": "202308260300",
+        "enddate": "20230827",
+        "url": "/th?id=OHR.MuseumIsland_PT-BR8963448703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MuseumIsland_PT-BR8963448703",
+        "copyright": "Catedral de Berlim e Ilha dos Museus, Berlim, Alemanha (© Rudy Balasko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=ilha+dos+museus+de+berlim&form=hpcapt&mkt=pt-br",
+        "title": "Uma noite nos museus",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230826_MuseumIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2ce7db649049506be968f00d3ed34f55",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
