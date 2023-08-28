@@ -2038,5 +2038,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ad15da04b0d8085449d086df72176ba4": {
+        "startdate": "20230828",
+        "fullstartdate": "202308282200",
+        "enddate": "20230829",
+        "url": "/th?id=OHR.NakupendaBeach_ES-ES5976546973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NakupendaBeach_ES-ES5976546973",
+        "copyright": "Reserva Natural de Nakupenda Beach, Zanzíbar, Tanzania (© Lubos Paukeje/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Reserva+Natural+de+Nakupenda+Beach+en+Tanzania&form=hpcapt&filters=HpDate%3a%2220230828_2200%22",
+        "title": "¿La playa más exclusiva del mundo?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230828_NakupendaBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ad15da04b0d8085449d086df72176ba4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

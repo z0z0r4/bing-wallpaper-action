@@ -2038,5 +2038,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "40e9f8d0bd42005deea059df1a090610": {
+        "startdate": "20230828",
+        "fullstartdate": "202308280700",
+        "enddate": "20230829",
+        "url": "/th?id=OHR.DubrovnikHarbor_ROW0894703666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DubrovnikHarbor_ROW0894703666",
+        "copyright": "Fort Lovrijenac, West Harbour, Dubrovnik, Croatia (© Benny Marty/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=dubrovnik+croatia&form=hpcapt&filters=HpDate%3a%2220230828_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230828_DubrovnikHarbor%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "40e9f8d0bd42005deea059df1a090610",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
