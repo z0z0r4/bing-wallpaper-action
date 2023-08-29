@@ -2055,5 +2055,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6769f38fba34d9f66fffda9521882815": {
+        "startdate": "20230829",
+        "fullstartdate": "202308292200",
+        "enddate": "20230830",
+        "url": "/th?id=OHR.NingalooShark_ES-ES4277361949_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NingalooShark_ES-ES4277361949",
+        "copyright": "Tiburón ballena, Arrecife Ningaloo, Australia Occidental (© Jason Edwards/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tibur%C3%B3n+ballena+que+es&form=hpcapt&filters=HpDate%3a%2220230829_2200%22",
+        "title": "El gran amigo de un buceador",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230829_NingalooShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6769f38fba34d9f66fffda9521882815",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
