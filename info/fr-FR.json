@@ -2089,5 +2089,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e8fb87f441f6640e185078dc2c4629db": {
+        "startdate": "20230831",
+        "fullstartdate": "202308312200",
+        "enddate": "20230901",
+        "url": "/th?id=OHR.TurkeyTailMush_FR-FR8157290874_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TurkeyTailMush_FR-FR8157290874",
+        "copyright": "Champignon queue de dinde, Brevard, Caroline du Nord, États-Unis (© Bill Gozansky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=champignon&form=hpcapt&filters=HpDate%3a%2220230831_2200%22",
+        "title": "Un petit tour en forêt ?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230831_TurkeyTailMush%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e8fb87f441f6640e185078dc2c4629db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

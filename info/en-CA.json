@@ -2089,5 +2089,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cc7be6c464979bb8e404b252a7d71e7b": {
+        "startdate": "20230831",
+        "fullstartdate": "202308310400",
+        "enddate": "20230901",
+        "url": "/th?id=OHR.IronwoodCactus_EN-CA1040501441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IronwoodCactus_EN-CA1040501441",
+        "copyright": "Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220230831_0400%22",
+        "title": "'Saguaro' you today?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230831_IronwoodCactus%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cc7be6c464979bb8e404b252a7d71e7b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

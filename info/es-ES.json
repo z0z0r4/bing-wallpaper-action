@@ -2089,5 +2089,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ed11be57d2ef6ceb5460532fbfcd500a": {
+        "startdate": "20230831",
+        "fullstartdate": "202308312200",
+        "enddate": "20230901",
+        "url": "/th?id=OHR.TurkeyTailMush_ES-ES2759829479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TurkeyTailMush_ES-ES2759829479",
+        "copyright": "Setas cola de pavo, Brevard, Carolina del Norte, EE.UU. (© Bill Gozansky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=setas&form=hpcapt&filters=HpDate%3a%2220230831_2200%22",
+        "title": "¿Vamos a coger setas?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230831_TurkeyTailMush%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ed11be57d2ef6ceb5460532fbfcd500a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
