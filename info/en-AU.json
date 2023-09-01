@@ -2106,5 +2106,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "17a8adea9eade6f2ac7c87adc00b7c47": {
+        "startdate": "20230901",
+        "fullstartdate": "202309010700",
+        "enddate": "20230902",
+        "url": "/th?id=OHR.TurkeyTailMush_ROW7577262493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TurkeyTailMush_ROW7577262493",
+        "copyright": "Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=mushrooms&form=hpcapt&filters=HpDate%3a%2220230901_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230901_TurkeyTailMush%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "17a8adea9eade6f2ac7c87adc00b7c47",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

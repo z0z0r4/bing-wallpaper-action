@@ -2106,5 +2106,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e11a247685b99b6677c223dc6949fbd8": {
+        "startdate": "20230901",
+        "fullstartdate": "202309012200",
+        "enddate": "20230902",
+        "url": "/th?id=OHR.TinyHummer_ES-ES2909315471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TinyHummer_ES-ES2909315471",
+        "copyright": "Colibrí de Allen, Santa Cruz, California, EE.UU. (© mallardg500/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Colibr%C3%AD+de+Allen&form=hpcapt&filters=HpDate%3a%2220230901_2200%22",
+        "title": "Parada para una bebida en flor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230901_TinyHummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e11a247685b99b6677c223dc6949fbd8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

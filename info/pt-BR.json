@@ -2106,5 +2106,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "09876ebb9d4390d8ac50cfb5851232a5": {
+        "startdate": "20230901",
+        "fullstartdate": "202309010300",
+        "enddate": "20230902",
+        "url": "/th?id=OHR.TurkeyTailMush_PT-BR7169836000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TurkeyTailMush_PT-BR7169836000",
+        "copyright": "Cogumelo de cauda de peru, Brevard, Carolina do Norte, EUA (© Bill Gozansky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Cogumelos&form=hpcapt&mkt=pt-br",
+        "title": "Quer ficar com um fungo?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230901_TurkeyTailMush%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "09876ebb9d4390d8ac50cfb5851232a5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

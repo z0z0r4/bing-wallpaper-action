@@ -2106,5 +2106,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e81172ee467eaaade08ba46fe78cb666": {
+        "startdate": "20230901",
+        "fullstartdate": "202309010400",
+        "enddate": "20230902",
+        "url": "/th?id=OHR.TurkeyTailMush_EN-CA2729302762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TurkeyTailMush_EN-CA2729302762",
+        "copyright": "Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=mushrooms&form=hpcapt&filters=HpDate%3a%2220230901_0400%22",
+        "title": "Wanna hang with a fungi?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230901_TurkeyTailMush%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e81172ee467eaaade08ba46fe78cb666",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

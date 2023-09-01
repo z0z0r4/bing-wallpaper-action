@@ -2106,5 +2106,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "687b81a6e4d0eea88bc0fe73e1770216": {
+        "startdate": "20230901",
+        "fullstartdate": "202309012200",
+        "enddate": "20230902",
+        "url": "/th?id=OHR.TinyHummer_DE-DE8472975008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TinyHummer_DE-DE8472975008",
+        "copyright": "Allenkolibri, Santa Cruz, Kalifornien, USA (© mallardg500/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Allenkolibri&form=hpcapt&filters=HpDate%3a%2220230901_2200%22",
+        "title": "Zwischenstopp, um Energie zu laden",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230901_TinyHummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "687b81a6e4d0eea88bc0fe73e1770216",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
