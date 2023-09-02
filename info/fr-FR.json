@@ -2123,5 +2123,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e9e20544cca734879b697084d7991319": {
+        "startdate": "20230902",
+        "fullstartdate": "202309022200",
+        "enddate": "20230903",
+        "url": "/th?id=OHR.ManhattanAerial_FR-FR8563550071_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ManhattanAerial_FR-FR8563550071",
+        "copyright": "Vue aérienne de Manhattan, New York, États-Unis (© Wojtek Zagorski/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Manhattan&form=hpcapt&filters=HpDate%3a%2220230902_2200%22",
+        "title": "La ville qui ne dort jamais !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230902_ManhattanAerial%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e9e20544cca734879b697084d7991319",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

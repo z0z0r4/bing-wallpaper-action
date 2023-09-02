@@ -2123,5 +2123,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1e57044efac744f10402cbcdb11c7af7": {
+        "startdate": "20230902",
+        "fullstartdate": "202309020300",
+        "enddate": "20230903",
+        "url": "/th?id=OHR.TinyHummer_PT-BR7642539069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TinyHummer_PT-BR7642539069",
+        "copyright": "Beija-flor de Allen, Santa Cruz, Califórnia, EUA (© mallardg500/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Beija-flor+de+Allen&form=hpcapt&mkt=pt-br",
+        "title": "Parando para uma bebida de flor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230902_TinyHummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1e57044efac744f10402cbcdb11c7af7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
