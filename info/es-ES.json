@@ -2140,5 +2140,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "634ad9adf096c7ce828c09a708a4330f": {
+        "startdate": "20230903",
+        "fullstartdate": "202309032200",
+        "enddate": "20230904",
+        "url": "/th?id=OHR.BourgesMarsh_ES-ES3211578621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BourgesMarsh_ES-ES3211578621",
+        "copyright": "Marismas de Bourges , Francia (© Tuul & Bruno Morandi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bourges&form=hpcapt&filters=HpDate%3a%2220230903_2200%22",
+        "title": "Un remanso de verdor en el corazón de la ciudad",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230903_BourgesMarsh%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "634ad9adf096c7ce828c09a708a4330f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
