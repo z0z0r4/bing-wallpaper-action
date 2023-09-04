@@ -2157,5 +2157,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9d14d659b3ce0f36b338e0d6fa3ea5cd": {
+        "startdate": "20230904",
+        "fullstartdate": "202309040400",
+        "enddate": "20230905",
+        "url": "/th?id=OHR.CamelsAbove_EN-CA7725955202_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CamelsAbove_EN-CA7725955202",
+        "copyright": "Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=camels&form=hpcapt&filters=HpDate%3a%2220230904_0400%22",
+        "title": "Ships of the desert, ahoy!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230904_CamelsAbove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9d14d659b3ce0f36b338e0d6fa3ea5cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
