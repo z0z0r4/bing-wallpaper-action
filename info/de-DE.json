@@ -2174,5 +2174,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "158ba796ad0d29913647617b80ec67b8": {
+        "startdate": "20230905",
+        "fullstartdate": "202309052200",
+        "enddate": "20230906",
+        "url": "/th?id=OHR.CreteHarbor_DE-DE5407686384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CreteHarbor_DE-DE5407686384",
+        "copyright": "Alter venezianischer Hafen, Rethymno, Kreta, Griechenland (© Gatsi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alter+venezianischer+Hafen%2c+Rethymno%2c+Insel+Kreta%2c+Griechenland&form=hpcapt&filters=HpDate%3a%2220230905_2200%22",
+        "title": "Wo liegt dieser antike Hafen?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230905_CreteHarbor%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "158ba796ad0d29913647617b80ec67b8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
