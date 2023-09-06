@@ -2191,5 +2191,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0f2c893dbdb87b459ca375d1e72a97f9": {
+        "startdate": "20230906",
+        "fullstartdate": "202309060300",
+        "enddate": "20230907",
+        "url": "/th?id=OHR.CreteHarbor_PT-BR1581901908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CreteHarbor_PT-BR1581901908",
+        "copyright": "Antigo porto veneziano, Rethymno, Ilha de Creta, Grécia (© Gatsi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=rethymno+Creta+Gr%C3%A9cia&form=hpcapt&mkt=pt-br",
+        "title": "Pronto para lançar âncora?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_CreteHarbor%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0f2c893dbdb87b459ca375d1e72a97f9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

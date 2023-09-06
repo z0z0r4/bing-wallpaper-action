@@ -2191,5 +2191,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f26cd0025c557cdf692ce3995d4b0879": {
+        "startdate": "20230906",
+        "fullstartdate": "202309061600",
+        "enddate": "20230907",
+        "url": "/th?id=OHR.CamelsAbove_ZH-CN1389810021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CamelsAbove_ZH-CN1389810021",
+        "copyright": "沙漠中的骆驼，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%AA%86%E9%A9%BC&form=hpcapt&mkt=zh-cn",
+        "title": "沙漠之舟",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_CamelsAbove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f26cd0025c557cdf692ce3995d4b0879",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -2191,5 +2191,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f4d25d0b3a426a5b9f64eace09cdfa71": {
+        "startdate": "20230906",
+        "fullstartdate": "202309060700",
+        "enddate": "20230907",
+        "url": "/th?id=OHR.CreteHarbor_ROW0842955338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CreteHarbor_ROW0842955338",
+        "copyright": "Old Venetian harbour, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=rethymno+crete+greece&form=hpcapt&filters=HpDate%3a%2220230906_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230906_CreteHarbor%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f4d25d0b3a426a5b9f64eace09cdfa71",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
