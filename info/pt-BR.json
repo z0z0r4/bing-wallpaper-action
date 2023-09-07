@@ -2208,5 +2208,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "51f91ff868ae59d8d3c0538c94df7f49": {
+        "startdate": "20230907",
+        "fullstartdate": "202309070300",
+        "enddate": "20230908",
+        "url": "/th?id=OHR.MonumentoIpiranga_PT-BR3590337434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MonumentoIpiranga_PT-BR3590337434",
+        "copyright": "Ipiranga, São Paulo, Brasil (© Photo by filipefrazao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monumento+Ipiranga&form=hpcapt&mkt=pt-br",
+        "title": "Ordem e Progresso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230907_MonumentoIpiranga%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "51f91ff868ae59d8d3c0538c94df7f49",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
