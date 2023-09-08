@@ -2225,5 +2225,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "09372ba1ca569c2f9ea19273846c3976": {
+        "startdate": "20230908",
+        "fullstartdate": "202309082200",
+        "enddate": "20230909",
+        "url": "/th?id=OHR.AyutthayaTemple_ES-ES7307510230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AyutthayaTemple_ES-ES7307510230",
+        "copyright": "Templo Wat Chaiwatthanaram, Parque Histórico de Ayutthaya, Tailandia (© Weerasak Saeku/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+hist%C3%B3rico+de+Ayutthaya+en+Tailandia&form=hpcapt&filters=HpDate%3a%2220230908_2200%22",
+        "title": "Ruinas de un templo real",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230908_AyutthayaTemple%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "09372ba1ca569c2f9ea19273846c3976",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

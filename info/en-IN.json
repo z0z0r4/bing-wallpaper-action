@@ -2225,5 +2225,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "df29b552d066291ca482dd7d53dd4fb7": {
+        "startdate": "20230908",
+        "fullstartdate": "202309081830",
+        "enddate": "20230909",
+        "url": "/th?id=OHR.AyutthayaTemple_EN-IN1810641935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AyutthayaTemple_EN-IN1810641935",
+        "copyright": "Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=ayutthaya+historical+park+thailand&form=hpcapt&filters=HpDate%3a%2220230908_1830%22",
+        "title": "Ruins of a royal temple",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230908_AyutthayaTemple%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "df29b552d066291ca482dd7d53dd4fb7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
