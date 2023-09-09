@@ -2242,5 +2242,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "70bf339261fc1823f1aa7dca2edda7e3": {
+        "startdate": "20230909",
+        "fullstartdate": "202309092300",
+        "enddate": "20230910",
+        "url": "/th?id=OHR.MarathonMedoc_EN-GB3127993394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MarathonMedoc_EN-GB3127993394",
+        "copyright": "Bordeaux, France (© Esperanza33/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=M%C3%A9doc+region&form=hpcapt&filters=HpDate%3a%2220230909_2300%22",
+        "title": "A misty Médoc morning",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230909_MarathonMedoc%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "70bf339261fc1823f1aa7dca2edda7e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

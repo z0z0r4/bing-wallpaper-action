@@ -2242,5 +2242,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c6d6a3669f6ae1fc82a1ab590d41571d": {
+        "startdate": "20230909",
+        "fullstartdate": "202309092200",
+        "enddate": "20230910",
+        "url": "/th?id=OHR.WalrusSvalbard_ES-ES7420549958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalrusSvalbard_ES-ES7420549958",
+        "copyright": "Pareja de morsas en el Océano Glacial Ártico, Svalbard, Noruega (© Mark Smith/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=morsas+marinas&form=hpcapt&filters=HpDate%3a%2220230909_2200%22",
+        "title": "Unos bigotes la mar de adorables",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230909_WalrusSvalbard%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c6d6a3669f6ae1fc82a1ab590d41571d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
