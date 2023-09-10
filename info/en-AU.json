@@ -2259,5 +2259,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9a7da37cf631cd1713c4ac66f26943cf": {
+        "startdate": "20230910",
+        "fullstartdate": "202309100700",
+        "enddate": "20230911",
+        "url": "/th?id=OHR.WalrusSvalbard_ROW2067563033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalrusSvalbard_ROW2067563033",
+        "copyright": "Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Walrus&form=hpcapt&filters=HpDate%3a%2220230910_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230910_WalrusSvalbard%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9a7da37cf631cd1713c4ac66f26943cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

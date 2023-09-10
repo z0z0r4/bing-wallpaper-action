@@ -2259,5 +2259,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "489af6aa39e873a3cb1e207e4a875ae1": {
+        "startdate": "20230910",
+        "fullstartdate": "202309100300",
+        "enddate": "20230911",
+        "url": "/th?id=OHR.WalrusSvalbard_PT-BR0496764214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WalrusSvalbard_PT-BR0496764214",
+        "copyright": "Casal de morsas no mar em Svalbard, Noruega (© Mark Smith/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+dos+av%C3%B3s&form=hpcapt&mkt=pt-br",
+        "title": "Sabedoria de whisky",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230910_WalrusSvalbard%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "489af6aa39e873a3cb1e207e4a875ae1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
