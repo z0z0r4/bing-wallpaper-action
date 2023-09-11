@@ -2276,5 +2276,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "97ceb11936a0dcad308e0a1698543fcb": {
+        "startdate": "20230911",
+        "fullstartdate": "202309110700",
+        "enddate": "20230912",
+        "url": "/th?id=OHR.MarathonMedoc_ROW2237999704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MarathonMedoc_ROW2237999704",
+        "copyright": "Sunrise at a vineyard in Bordeaux, France (© Esperanza33/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Medoc+region&form=hpcapt&filters=HpDate%3a%2220230911_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230911_MarathonMedoc%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "97ceb11936a0dcad308e0a1698543fcb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

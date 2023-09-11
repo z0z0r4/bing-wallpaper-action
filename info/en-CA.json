@@ -2276,5 +2276,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d1925bb8da058da0664ecdec7895210e": {
+        "startdate": "20230911",
+        "fullstartdate": "202309110400",
+        "enddate": "20230912",
+        "url": "/th?id=OHR.FrenchRiver_EN-CA1479049417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrenchRiver_EN-CA1479049417",
+        "copyright": "French River, Ontario, Canada (© Tim Fitzharris/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=French+River%2c+central+Ontario&form=hpcapt&filters=HpDate%3a%2220230911_0400%22",
+        "title": "A place to reflect",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230911_FrenchRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d1925bb8da058da0664ecdec7895210e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
