@@ -2293,5 +2293,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "69987bb070dd35c628153068793e5d93": {
+        "startdate": "20230912",
+        "fullstartdate": "202309122200",
+        "enddate": "20230913",
+        "url": "/th?id=OHR.HemakutaHill_ES-ES7845334706_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HemakutaHill_ES-ES7845334706",
+        "copyright": "Templos de la colina Hemakuta, Hampi, Karnataka, India (© Images of india/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Hampi+India&form=hpcapt&filters=HpDate%3a%2220230912_2200%22",
+        "title": "Susurros del pasado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_HemakutaHill%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "69987bb070dd35c628153068793e5d93",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

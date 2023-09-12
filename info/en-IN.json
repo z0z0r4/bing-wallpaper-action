@@ -2293,5 +2293,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "31226cb818450dd51565fc8acbd421c3": {
+        "startdate": "20230912",
+        "fullstartdate": "202309121830",
+        "enddate": "20230913",
+        "url": "/th?id=OHR.HemakutaHill_EN-IN7925715215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HemakutaHill_EN-IN7925715215",
+        "copyright": "Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Hemakuta+Hill+Hampi&form=hpcapt&filters=HpDate%3a%2220230912_1830%22",
+        "title": "Whispers of the past",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_HemakutaHill%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "31226cb818450dd51565fc8acbd421c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

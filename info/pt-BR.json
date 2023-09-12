@@ -2293,5 +2293,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "03aa18e5f7874c0bf558112100ac20ef": {
+        "startdate": "20230912",
+        "fullstartdate": "202309120300",
+        "enddate": "20230913",
+        "url": "/th?id=OHR.NorthSeaStairs_PT-BR3028511993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NorthSeaStairs_PT-BR3028511993",
+        "copyright": "Mar do Norte ao pôr do sol, Norddorf, Ilha Amrum, Alemanha (© Frederick Doerschem/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Norddorf&form=hpcapt&mkt=pt-br",
+        "title": "Próxima parada, o horizonte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230912_NorthSeaStairs%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "03aa18e5f7874c0bf558112100ac20ef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
