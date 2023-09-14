@@ -2327,5 +2327,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8191a5ed45f9a1f5eba58e15b03647d8": {
+        "startdate": "20230914",
+        "fullstartdate": "202309142300",
+        "enddate": "20230915",
+        "url": "/th?id=OHR.GlenariffForest_EN-GB9562740615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GlenariffForest_EN-GB9562740615",
+        "copyright": "Sunset in Glenariff Forest Park, County Antrim, Ireland (© Peter Zelei/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Glenariff+Forest+Park&form=hpcapt&filters=HpDate%3a%2220230914_2300%22",
+        "title": "The Queen of the Glens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230914_GlenariffForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8191a5ed45f9a1f5eba58e15b03647d8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

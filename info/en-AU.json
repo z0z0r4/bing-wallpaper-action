@@ -2327,5 +2327,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8afaa306659e30e7e80f0379a289c64e": {
+        "startdate": "20230914",
+        "fullstartdate": "202309140700",
+        "enddate": "20230915",
+        "url": "/th?id=OHR.MongoliaHorses_ROW2735773489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MongoliaHorses_ROW2735773489",
+        "copyright": "Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Przewalski%27s+horse&form=hpcapt&filters=HpDate%3a%2220230914_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230914_MongoliaHorses%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8afaa306659e30e7e80f0379a289c64e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
