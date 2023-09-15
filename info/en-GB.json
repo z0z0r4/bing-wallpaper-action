@@ -2344,5 +2344,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c45f12bb4b9e754c08a900402a4212d0": {
+        "startdate": "20230915",
+        "fullstartdate": "202309152300",
+        "enddate": "20230916",
+        "url": "/th?id=OHR.OktoberfestWorkers_EN-GB2543811228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OktoberfestWorkers_EN-GB2543811228",
+        "copyright": "A beer tent at Oktoberfest in Theresienwiese, Munich, Germany (© Peter Kneffel/picture alliance via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=oktoberfest+munich&form=hpcapt&filters=HpDate%3a%2220230915_2300%22",
+        "title": "Prost to you and yours!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230915_OktoberfestWorkers%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "c45f12bb4b9e754c08a900402a4212d0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

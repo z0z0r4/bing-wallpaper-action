@@ -2344,5 +2344,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "eaf49179b5d92ddffb63d4717fe6230b": {
+        "startdate": "20230915",
+        "fullstartdate": "202309150300",
+        "enddate": "20230916",
+        "url": "/th?id=OHR.GlenariffForest_PT-BR9967588359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GlenariffForest_PT-BR9967588359",
+        "copyright": "Pôr do sol no Glenariff Forest Park, Condado de Antrim, na Irlanda (© Peter Zelei/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parque+florestal+glenriff+irlanda&form=hpcapt&mkt=pt-br",
+        "title": "A Rainha dos Vales",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230915_GlenariffForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "eaf49179b5d92ddffb63d4717fe6230b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
