@@ -2361,5 +2361,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2bd807d85af1e365ce237799c7287f9d": {
+        "startdate": "20230916",
+        "fullstartdate": "202309160700",
+        "enddate": "20230917",
+        "url": "/th?id=OHR.SplugenPass_ROW3105766651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SplugenPass_ROW3105766651",
+        "copyright": "Splügen Pass, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Splugen+Pass&form=hpcapt&filters=HpDate%3a%2220230916_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230916_SplugenPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2bd807d85af1e365ce237799c7287f9d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

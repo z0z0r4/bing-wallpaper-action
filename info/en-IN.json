@@ -2361,5 +2361,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "eb3b0131e9dbcf90e357432f54069d9c": {
+        "startdate": "20230916",
+        "fullstartdate": "202309161830",
+        "enddate": "20230917",
+        "url": "/th?id=OHR.CubanTody_EN-IN2474265176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CubanTody_EN-IN2474265176",
+        "copyright": "Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Cuban+tody&form=hpcapt&filters=HpDate%3a%2220230916_1830%22",
+        "title": "Can you answer the call?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230916_CubanTody%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "eb3b0131e9dbcf90e357432f54069d9c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

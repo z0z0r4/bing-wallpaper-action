@@ -2361,5 +2361,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0c8abbd3082ed71e9115d7db07460bf8": {
+        "startdate": "20230916",
+        "fullstartdate": "202309160300",
+        "enddate": "20230917",
+        "url": "/th?id=OHR.SplugenPass_PT-BR0721190806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SplugenPass_PT-BR0721190806",
+        "copyright": "Passo Splügen, Grisões, Suíça (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Splugen+Pass&form=hpcapt&mkt=pt-br",
+        "title": "Apertem os cintos!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230916_SplugenPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0c8abbd3082ed71e9115d7db07460bf8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
