@@ -2378,5 +2378,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7d01c3c1e2df73147f1adc318820ba16": {
+        "startdate": "20230917",
+        "fullstartdate": "202309172200",
+        "enddate": "20230918",
+        "url": "/th?id=OHR.MilkyWayPortugal_ES-ES8399966635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilkyWayPortugal_ES-ES8399966635",
+        "copyright": "Vía Láctea sobre el Parque Natural del Sudoeste Alentejano y Costa Vicentina, Portugal (© Daniel Garrido/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parque+natural+del+suroeste+alentejano+y+costa+vicentina&form=hpcapt&filters=HpDate%3a%2220230917_2200%22",
+        "title": "Un primo nocturno del arco iris",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230917_MilkyWayPortugal%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7d01c3c1e2df73147f1adc318820ba16",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
