@@ -2395,5 +2395,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "acec594ba55927bce69df799fe285964": {
+        "startdate": "20230918",
+        "fullstartdate": "202309180400",
+        "enddate": "20230919",
+        "url": "/th?id=OHR.MilkyWayPortugal_EN-CA8363323553_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilkyWayPortugal_EN-CA8363323553",
+        "copyright": "Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Southwest+Alentejo+and+Vicentine+Coast+Natural+Park&form=hpcapt&filters=HpDate%3a%2220230918_0400%22",
+        "title": "A rainbow's nocturnal cousin",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230918_MilkyWayPortugal%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "acec594ba55927bce69df799fe285964",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
