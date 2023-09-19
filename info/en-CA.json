@@ -2412,5 +2412,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e3ba18f28c0096a5c82d25fc563f7efc": {
+        "startdate": "20230919",
+        "fullstartdate": "202309190400",
+        "enddate": "20230920",
+        "url": "/th?id=OHR.SplugenPass_EN-CA0023641893_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SplugenPass_EN-CA0023641893",
+        "copyright": "Splügen Pass, Graubunden, Switzerland (© Roberto Moiola/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Splugen+Pass&form=hpcapt&filters=HpDate%3a%2220230919_0400%22",
+        "title": "Fasten your seatbelts!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230919_SplugenPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e3ba18f28c0096a5c82d25fc563f7efc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

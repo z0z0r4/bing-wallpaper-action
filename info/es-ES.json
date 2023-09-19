@@ -2412,5 +2412,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "101c741eb6cc4e805951b928dd99b6f0": {
+        "startdate": "20230919",
+        "fullstartdate": "202309192200",
+        "enddate": "20230920",
+        "url": "/th?id=OHR.ColomaresCastle_ES-ES7485421006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColomaresCastle_ES-ES7485421006",
+        "copyright": "Castillo de Colomares en Benalmádena, Málaga, Andalucía, España (© VictoriaSh/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=castillo+de+Colomares&form=hpcapt&filters=HpDate%3a%2220230919_2200%22",
+        "title": "¡Castillo a la vista!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230919_ColomaresCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "101c741eb6cc4e805951b928dd99b6f0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

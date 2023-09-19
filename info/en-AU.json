@@ -2412,5 +2412,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "00430acb936a373cd2e643c594d41a53": {
+        "startdate": "20230919",
+        "fullstartdate": "202309190700",
+        "enddate": "20230920",
+        "url": "/th?id=OHR.HadriansWallUK_ROW3660390861_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HadriansWallUK_ROW3660390861",
+        "copyright": "Hadrian's Wall, Northumberland National Park, England (© daverhead/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hadrian%27s+Wall&form=hpcapt&filters=HpDate%3a%2220230919_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230919_HadriansWallUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "00430acb936a373cd2e643c594d41a53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

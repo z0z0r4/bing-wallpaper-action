@@ -2412,5 +2412,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "92b66d4a99eafada3b84d2d21cd57dcf": {
+        "startdate": "20230919",
+        "fullstartdate": "202309191500",
+        "enddate": "20230920",
+        "url": "/th?id=OHR.ArkadiaPark_JA-JP2000756191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArkadiaPark_JA-JP2000756191",
+        "copyright": "アルカディア公園, ポーランド (© PATSTOCK/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arkadia+Park+Poland&form=hpcapt&filters=HpDate%3a%2220230919_1500%22",
+        "title": "ローマ風の水道橋",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230919_ArkadiaPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "92b66d4a99eafada3b84d2d21cd57dcf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
