@@ -2429,5 +2429,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "42c617a8ab9f222159cf90fd3ad3bd33": {
+        "startdate": "20230920",
+        "fullstartdate": "202309200400",
+        "enddate": "20230921",
+        "url": "/th?id=OHR.ArkadiaPark_EN-CA0264862956_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArkadiaPark_EN-CA0264862956",
+        "copyright": "Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arkadia+Park+Lowicz&form=hpcapt&filters=HpDate%3a%2220230920_0400%22",
+        "title": "Water under and over the bridge",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230920_ArkadiaPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "42c617a8ab9f222159cf90fd3ad3bd33",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

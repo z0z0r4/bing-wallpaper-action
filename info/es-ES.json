@@ -2429,5 +2429,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9a4aadfe2aa79f6b3c023bfb03a8755d": {
+        "startdate": "20230920",
+        "fullstartdate": "202309202200",
+        "enddate": "20230921",
+        "url": "/th?id=OHR.NobelNorway_ES-ES8976171103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NobelNorway_ES-ES8976171103",
+        "copyright": "Interior del Centro Nobel de la Paz, Oslo, Noruega (© Ilyas Ayub/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Centro+Nobel+de+la+Paz%2c+Oslo%2c+Noruega&form=hpcapt&filters=HpDate%3a%2220230920_2200%22",
+        "title": "Reconocimiento a los luchadores por la paz",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230920_NobelNorway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9a4aadfe2aa79f6b3c023bfb03a8755d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
