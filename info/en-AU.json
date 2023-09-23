@@ -2480,5 +2480,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c5bd64d7de8420e1d15363f3893550e3": {
+        "startdate": "20230923",
+        "fullstartdate": "202309230700",
+        "enddate": "20230924",
+        "url": "/th?id=OHR.CottonwoodCanyon_ROW6889292331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CottonwoodCanyon_ROW6889292331",
+        "copyright": "Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=coyote+gulch&form=hpcapt&filters=HpDate%3a%2220230923_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230923_CottonwoodCanyon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c5bd64d7de8420e1d15363f3893550e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

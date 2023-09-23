@@ -2480,5 +2480,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d87d1c745045f0e89b088983b1abdb3b": {
+        "startdate": "20230923",
+        "fullstartdate": "202309232300",
+        "enddate": "20230924",
+        "url": "/th?id=OHR.FraserRiverBC_EN-GB9942100747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FraserRiverBC_EN-GB9942100747",
+        "copyright": "The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Rivers+Day&form=hpcapt&filters=HpDate%3a%2220230923_2300%22",
+        "title": "Trickle, babble or roar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230923_FraserRiverBC%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d87d1c745045f0e89b088983b1abdb3b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
