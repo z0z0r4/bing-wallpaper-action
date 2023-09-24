@@ -2497,5 +2497,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b42040d9db2fe152eb7d874ed21d851f": {
+        "startdate": "20230924",
+        "fullstartdate": "202309241500",
+        "enddate": "20230925",
+        "url": "/th?id=OHR.GlacierBayOtter_JA-JP4374732070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GlacierBayOtter_JA-JP4374732070",
+        "copyright": "グレイシャーベイ国立公園, 米国 アラスカ州 (© Andrew Peacock/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%A9%E3%83%83%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220230924_1500%22",
+        "title": "昆布を巻き付けて休むラッコ",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230924_GlacierBayOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b42040d9db2fe152eb7d874ed21d851f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
