@@ -2531,5 +2531,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "efa36cc5a92c045b20ad40932e1cbb1a": {
+        "startdate": "20230926",
+        "fullstartdate": "202309261500",
+        "enddate": "20230927",
+        "url": "/th?id=OHR.CapriKrupp_JA-JP5333872542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapriKrupp_JA-JP5333872542",
+        "copyright": "カプリ島のクルップ通り, イタリア (© Mikolaj Niemczewski/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%97%E3%83%AA%E5%B3%B6%E3%81%AE%E3%82%AF%E3%83%AB%E3%83%83%E3%83%97%E9%80%9A%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220230926_1500%22",
+        "title": "180 度に蛇行してゆく小道",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230926_CapriKrupp%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "efa36cc5a92c045b20ad40932e1cbb1a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
