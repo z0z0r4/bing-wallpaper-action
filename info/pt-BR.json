@@ -2548,5 +2548,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dac248f7cf325a7a5ea4946041a7a085": {
+        "startdate": "20230927",
+        "fullstartdate": "202309270300",
+        "enddate": "20230928",
+        "url": "/th?id=OHR.CapriKrupp_PT-BR6134486389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapriKrupp_PT-BR6134486389",
+        "copyright": "A trilha Via Krupp na ilha de Capri, Itália (© Mikolaj Niemczewski/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Via+Krupp+Italia&form=hpcapt&mkt=pt-br",
+        "title": "Lento e constante sobe o penhasco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230927_CapriKrupp%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dac248f7cf325a7a5ea4946041a7a085",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
