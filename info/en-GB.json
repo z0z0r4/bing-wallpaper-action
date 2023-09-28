@@ -2565,5 +2565,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1f82776eeafe823441064ae163cd15f7": {
+        "startdate": "20230928",
+        "fullstartdate": "202309282300",
+        "enddate": "20230929",
+        "url": "/th?id=OHR.CastleCoch_EN-GB9159929259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleCoch_EN-GB9159929259",
+        "copyright": "Castell Coch, Tongwynlais, Cardiff, Wales, United Kingdom, Europe (© Billy Stock/robertharding/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Castell+Coch&form=hpcapt&filters=HpDate%3a%2220230928_2300%22",
+        "title": "A fairytale castle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230928_CastleCoch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1f82776eeafe823441064ae163cd15f7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

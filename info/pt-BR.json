@@ -2565,5 +2565,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1b33c0c00fdcacb754aa0c31ba2f270c": {
+        "startdate": "20230928",
+        "fullstartdate": "202309280300",
+        "enddate": "20230929",
+        "url": "/th?id=OHR.MaritimeDay_PT-BR6479092304_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaritimeDay_PT-BR6479092304",
+        "copyright": "Navio porta-contêineres perto de um porto comercial na Tailândia (© Suriyapong Thongsawang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+mar%C3%ADtimo+mundial&form=hpcapt&mkt=pt-br",
+        "title": "Ah, capitão!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230928_MaritimeDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1b33c0c00fdcacb754aa0c31ba2f270c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
