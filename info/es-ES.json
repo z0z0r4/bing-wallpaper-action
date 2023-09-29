@@ -2582,5 +2582,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cd4e2c2bc18bea0a1fb090c6aca9a9c0": {
+        "startdate": "20230929",
+        "fullstartdate": "202309292200",
+        "enddate": "20230930",
+        "url": "/th?id=OHR.ShenandoahFoliage_ES-ES0953486275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShenandoahFoliage_ES-ES0953486275",
+        "copyright": "Colores otoñales en el Parque Nacional de Shenandoah, Virginia, EE.UU. (© Michael Ver Sprill/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parque+nacional+shenandoah+senderos&form=hpcapt&filters=HpDate%3a%2220230929_2200%22",
+        "title": "¿Dónde se encuentran estas coloridas hojas?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230929_ShenandoahFoliage%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cd4e2c2bc18bea0a1fb090c6aca9a9c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
