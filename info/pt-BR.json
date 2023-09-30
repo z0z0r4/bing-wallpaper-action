@@ -2599,5 +2599,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "15533d7f6dc10161ba65fa4ea4f3a370": {
+        "startdate": "20230930",
+        "fullstartdate": "202309300300",
+        "enddate": "20231001",
+        "url": "/th?id=OHR.ShenandoahFoliage_PT-BR9012725885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShenandoahFoliage_PT-BR9012725885",
+        "copyright": "Cores do outono no Parque Nacional de Shenandoah, Virgínia, EUA (© Michael Ver Sprill/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=+Parque+Nacional+de+Shenandoah+&form=hpcapt&mkt=pt-br",
+        "title": "Oh Shenandoah",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230930_ShenandoahFoliage%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "15533d7f6dc10161ba65fa4ea4f3a370",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -2599,5 +2599,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4da1782fa9a2c43e45304052937b7d7a": {
+        "startdate": "20230930",
+        "fullstartdate": "202309300700",
+        "enddate": "20231001",
+        "url": "/th?id=OHR.ShenandoahFoliage_ROW0089262779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShenandoahFoliage_ROW0089262779",
+        "copyright": "Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Shenandoah+National+Park&form=hpcapt&filters=HpDate%3a%2220230930_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20230930_ShenandoahFoliage%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4da1782fa9a2c43e45304052937b7d7a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
