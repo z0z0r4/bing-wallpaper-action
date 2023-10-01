@@ -2616,5 +2616,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "74fa345cf765fe34c2cd560e33aedaf5": {
+        "startdate": "20231001",
+        "fullstartdate": "202310012200",
+        "enddate": "20231002",
+        "url": "/th?id=OHR.VuittonFoundation_FR-FR7982017521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VuittonFoundation_FR-FR7982017521",
+        "copyright": "Fondation Louis Vuitton, Bois de Boulogne, Paris (© Atlantide Phototravel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=fondation+d%27entreprise+LouisVuitton&form=hpcapt&filters=HpDate%3a%2220231001_2200%22",
+        "title": "Un centre artistique à la mode",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231001_VuittonFoundation%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "74fa345cf765fe34c2cd560e33aedaf5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

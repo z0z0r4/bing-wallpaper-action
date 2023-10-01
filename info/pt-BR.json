@@ -2616,5 +2616,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ddd49fa497cff7c68f10b33cd4c5568d": {
+        "startdate": "20231001",
+        "fullstartdate": "202310010300",
+        "enddate": "20231002",
+        "url": "/th?id=OHR.LakeBledSunrise_PT-BR7689736785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeBledSunrise_PT-BR7689736785",
+        "copyright": "Lago Bled do ponto de vista de Osojnica ao nascer do sol, Eslovênia (© Rasica/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Bled&form=hpcapt&mkt=pt-br",
+        "title": "Onde está essa cena do nascer do sol?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231001_LakeBledSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ddd49fa497cff7c68f10b33cd4c5568d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
