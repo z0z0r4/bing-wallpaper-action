@@ -2633,5 +2633,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1f11e75026facd4ccccee0f88e851155": {
+        "startdate": "20231002",
+        "fullstartdate": "202310022200",
+        "enddate": "20231003",
+        "url": "/th?id=OHR.GermanFlagWall_DE-DE4359380085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GermanFlagWall_DE-DE4359380085",
+        "copyright": "Berliner Mauer (© frankpeters/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=hpcapt&filters=HpDate%3a%2220231002_2200%22",
+        "title": "Mauern sprengen, nicht Welten engen!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231002_GermanFlagWall%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1f11e75026facd4ccccee0f88e851155",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

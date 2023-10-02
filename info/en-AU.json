@@ -2633,5 +2633,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bb8d8b8a389664c6168da9b99ebed2ad": {
+        "startdate": "20231002",
+        "fullstartdate": "202310020700",
+        "enddate": "20231003",
+        "url": "/th?id=OHR.VerdonCanyon_ROW0852943172_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VerdonCanyon_ROW0852943172",
+        "copyright": "Verdon Gorge, Provence-Alpes-Côte d'Azur, France (© luisapuccini/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Verdon+Gorge&form=hpcapt&filters=HpDate%3a%2220231002_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231002_VerdonCanyon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bb8d8b8a389664c6168da9b99ebed2ad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
