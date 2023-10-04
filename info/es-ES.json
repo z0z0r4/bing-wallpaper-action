@@ -2667,5 +2667,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a8baa19309fc329d2548a30482348d65": {
+        "startdate": "20231004",
+        "fullstartdate": "202310042200",
+        "enddate": "20231005",
+        "url": "/th?id=OHR.GentooJump_ES-ES1727367009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GentooJump_ES-ES1727367009",
+        "copyright": "Pingüinos papúa, Antártida (© Art Wolfe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=El+ping%C3%BCino+papua&form=hpcapt&filters=HpDate%3a%2220231004_2200%22",
+        "title": "¿Nos damos un chapuzón refrescante?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231004_GentooJump%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a8baa19309fc329d2548a30482348d65",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

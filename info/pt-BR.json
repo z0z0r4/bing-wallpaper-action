@@ -2667,5 +2667,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1be0533c1ec119882f7d2875fc6e02ee": {
+        "startdate": "20231004",
+        "fullstartdate": "202310040300",
+        "enddate": "20231005",
+        "url": "/th?id=OHR.TarantulaNebula_PT-BR8856801522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TarantulaNebula_PT-BR8856801522",
+        "copyright": "Estrelas jovens se formando na Nebulosa da Tarântula, Telescópio Espacial James Webb (© NASA, ESA, CSA, STScI, Webb ERO Production Team)",
+        "copyrightlink": "https://www.bing.com/search?q=Nebulosa+da+Tar%C3%A2ntula&form=hpcapt&mkt=pt-br",
+        "title": "Uma teia de estrelas de aranha",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231004_TarantulaNebula%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1be0533c1ec119882f7d2875fc6e02ee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
