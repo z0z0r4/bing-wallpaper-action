@@ -2684,5 +2684,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c4db417ec0f1e8deb927315beca76d53": {
+        "startdate": "20231005",
+        "fullstartdate": "202310050700",
+        "enddate": "20231006",
+        "url": "/th?id=OHR.GentooJump_ROW1875270884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GentooJump_ROW1875270884",
+        "copyright": "Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gentoo+Penguins&form=hpcapt&filters=HpDate%3a%2220231005_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231005_GentooJump%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c4db417ec0f1e8deb927315beca76d53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
