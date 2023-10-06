@@ -2701,5 +2701,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0d5313ee8e1234f984016f3d5853a72a": {
+        "startdate": "20231006",
+        "fullstartdate": "202310062200",
+        "enddate": "20231007",
+        "url": "/th?id=OHR.GrizzlyFalls_DE-DE2440984688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlyFalls_DE-DE2440984688",
+        "copyright": "Grizzlybären beim Lachsfang an den Brooks Falls, Katmai National Park, Alaska, USA (© oksana.perkins/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Grizzlyb%C3%A4ren&form=hpcapt&filters=HpDate%3a%2220231006_2200%22",
+        "title": "Zeit für Lachs zur Selbstbedienung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231006_GrizzlyFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0d5313ee8e1234f984016f3d5853a72a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
