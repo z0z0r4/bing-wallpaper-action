@@ -2718,5 +2718,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a2cfe5bf70f70985abbad70320bc48b1": {
+        "startdate": "20231007",
+        "fullstartdate": "202310072200",
+        "enddate": "20231008",
+        "url": "/th?id=OHR.OctoClam_ES-ES9783274037_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OctoClam_ES-ES9783274037",
+        "copyright": "Pulpo escondido dentro de una almeja gigante, mar de Célebes, Indonesia (© Alex Mustard/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+internacional+del+pulpo&form=hpcapt&filters=HpDate%3a%2220231007_2200%22",
+        "title": "¡Veo, veo!, ¿qué ves?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231007_OctoClam%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a2cfe5bf70f70985abbad70320bc48b1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

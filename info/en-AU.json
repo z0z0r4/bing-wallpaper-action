@@ -2718,5 +2718,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "678894042a4558cebb49069d3dd897f4": {
+        "startdate": "20231007",
+        "fullstartdate": "202310070700",
+        "enddate": "20231008",
+        "url": "/th?id=OHR.GrizzlyFalls_ROW0382993442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrizzlyFalls_ROW0382993442",
+        "copyright": "Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Grizzly+bears&form=hpcapt&filters=HpDate%3a%2220231007_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231007_GrizzlyFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "678894042a4558cebb49069d3dd897f4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
