@@ -2735,5 +2735,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5ed260fa8ba986fd13e0d1a4e78ecfa8": {
+        "startdate": "20231008",
+        "fullstartdate": "202310082200",
+        "enddate": "20231009",
+        "url": "/th?id=OHR.FremontPetroglyph_ES-ES9957087297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FremontPetroglyph_ES-ES9957087297",
+        "copyright": "Petroglifos de Fremont, Monumento Nacional de los Dinosaurios, Jensen, Utah, EE.UU. (© Dan Leeth/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+de+los+Dinosaurios+en+EE.UU.&form=hpcapt&filters=HpDate%3a%2220231008_2200%22",
+        "title": "Pinturas con historias",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231008_FremontPetroglyph%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5ed260fa8ba986fd13e0d1a4e78ecfa8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

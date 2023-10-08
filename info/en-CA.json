@@ -2735,5 +2735,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fa8fd1a3e1937938e7683ccc36b3efd3": {
+        "startdate": "20231008",
+        "fullstartdate": "202310080400",
+        "enddate": "20231009",
+        "url": "/th?id=OHR.OctoClam_EN-CA5481938975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OctoClam_EN-CA5481938975",
+        "copyright": "Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=world+octopus+day&form=hpcapt&filters=HpDate%3a%2220231008_0400%22",
+        "title": "Need some 'shell'ter?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231008_OctoClam%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fa8fd1a3e1937938e7683ccc36b3efd3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
