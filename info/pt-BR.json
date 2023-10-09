@@ -2752,5 +2752,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "820c041c422b07e7abaabf5ea14c3a01": {
+        "startdate": "20231009",
+        "fullstartdate": "202310090300",
+        "enddate": "20231010",
+        "url": "/th?id=OHR.VeniceSkatePark_PT-BR5979346434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceSkatePark_PT-BR5979346434",
+        "copyright": "Skatepark de Venice Beach ao pôr do sol, Los Angeles, Califórnia, EUA (© EXTREME-PHOTOGRAPHER/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Skatepark+de+Venice&form=hpcapt&mkt=pt-br",
+        "title": "Ondas para rodas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231009_VeniceSkatePark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "820c041c422b07e7abaabf5ea14c3a01",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -2752,5 +2752,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "45f2afb4f141d22d345120b851960e2b": {
+        "startdate": "20231009",
+        "fullstartdate": "202310092300",
+        "enddate": "20231010",
+        "url": "/th?id=OHR.SoprisSunrise_EN-GB2329457022_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SoprisSunrise_EN-GB2329457022",
+        "copyright": "Mount Sopris, Colorado, USA (© Jason Hatfield/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Mount+Sopris&form=hpcapt&filters=HpDate%3a%2220231009_2300%22",
+        "title": "Rocky Mountain high",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231009_SoprisSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "45f2afb4f141d22d345120b851960e2b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
