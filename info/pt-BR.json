@@ -2769,5 +2769,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a3185de9a307d6fd2510afc08d0d7a47": {
+        "startdate": "20231010",
+        "fullstartdate": "202310100300",
+        "enddate": "20231011",
+        "url": "/th?id=OHR.SoprisSunrise_PT-BR5575727511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SoprisSunrise_PT-BR5575727511",
+        "copyright": "Monte Sopris, Colorado, EUA (© Jason Hatfield/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Monte+Sopris+em+Colorado&form=hpcapt&mkt=pt-br",
+        "title": "Altas Montanhas Rochosas.",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231010_SoprisSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a3185de9a307d6fd2510afc08d0d7a47",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

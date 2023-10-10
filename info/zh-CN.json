@@ -2769,5 +2769,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3ea069510aef9000b957858d9292a612": {
+        "startdate": "20231010",
+        "fullstartdate": "202310101600",
+        "enddate": "20231011",
+        "url": "/th?id=OHR.JohnDayFossil_ZH-CN6265838332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JohnDayFossil_ZH-CN6265838332",
+        "copyright": "约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国 (© Ben Herndon/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%BD%A9%E7%BB%98%E5%B1%B1&form=hpcapt&mkt=zh-cn",
+        "title": "消失的回声",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231010_JohnDayFossil%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3ea069510aef9000b957858d9292a612",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

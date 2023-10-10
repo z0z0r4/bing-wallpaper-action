@@ -2769,5 +2769,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4e0b6e6285fe204ca014173b831f5820": {
+        "startdate": "20231010",
+        "fullstartdate": "202310102200",
+        "enddate": "20231011",
+        "url": "/th?id=OHR.JohnDayFossil_DE-DE7440643159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JohnDayFossil_DE-DE7440643159",
+        "copyright": "Die Painted Hills im John Day Fossil Beds National Monument, Oregon, USA (© Ben Herndon/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Painted+Hills+Oregon&form=hpcapt&filters=HpDate%3a%2220231010_2200%22",
+        "title": "Echos des Aussterbens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231010_JohnDayFossil%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4e0b6e6285fe204ca014173b831f5820",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
