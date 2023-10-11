@@ -2786,5 +2786,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ff3dc121bfdca97072f5c3ad25497c83": {
+        "startdate": "20231011",
+        "fullstartdate": "202310110300",
+        "enddate": "20231012",
+        "url": "/th?id=OHR.JohnDayFossil_PT-BR5921609845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JohnDayFossil_PT-BR5921609845",
+        "copyright": "As Colinas Pintadas no Monumento Nacional John Day Fossil Beds, Oregon, EUA. (© Ben Herndon/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Colinas+pintadas+de+Oregon&form=hpcapt&mkt=pt-br",
+        "title": "Ressonâncias da Extinção",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231011_JohnDayFossil%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ff3dc121bfdca97072f5c3ad25497c83",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

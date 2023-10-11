@@ -2786,5 +2786,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "87793c648adcd6b023fe0277c9008bcf": {
+        "startdate": "20231011",
+        "fullstartdate": "202310110700",
+        "enddate": "20231012",
+        "url": "/th?id=OHR.JohnDayFossil_ROW0705325597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JohnDayFossil_ROW0705325597",
+        "copyright": "The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Painted+Hills+Oregon&form=hpcapt&filters=HpDate%3a%2220231011_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231011_JohnDayFossil%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "87793c648adcd6b023fe0277c9008bcf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
