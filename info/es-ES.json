@@ -2803,5 +2803,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f43c8a7e0d603ad557cde47f69975590": {
+        "startdate": "20231012",
+        "fullstartdate": "202310122200",
+        "enddate": "20231013",
+        "url": "/th?id=OHR.ViesteItaly_ES-ES5247898725_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ViesteItaly_ES-ES5247898725",
+        "copyright": "Vieste, en la provincia de Foggia, Región de Apulia, Italia (© Pilat666/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vieste+en+Italia&form=hpcapt&filters=HpDate%3a%2220231012_2200%22",
+        "title": "¡Viviendo al límite!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231012_ViesteItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f43c8a7e0d603ad557cde47f69975590",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
