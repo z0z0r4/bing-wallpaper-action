@@ -2820,5 +2820,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c4dd7122e28ee9f78f320ca7e9621554": {
+        "startdate": "20231013",
+        "fullstartdate": "202310130300",
+        "enddate": "20231014",
+        "url": "/th?id=OHR.ViesteItaly_PT-BR8163447010_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ViesteItaly_PT-BR8163447010",
+        "copyright": "Vieste na Península de Gargano, Apúlia, Italia. (© Pilat666/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vieste&form=hpcapt&mkt=pt-br",
+        "title": "Vida na costa.",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231013_ViesteItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c4dd7122e28ee9f78f320ca7e9621554",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

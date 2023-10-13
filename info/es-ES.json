@@ -2820,5 +2820,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6b0fa124b56978f4fcb4897a646b81d5": {
+        "startdate": "20231013",
+        "fullstartdate": "202310132200",
+        "enddate": "20231014",
+        "url": "/th?id=OHR.RingEclipse_ES-ES5502461115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RingEclipse_ES-ES5502461115",
+        "copyright": "Eclipse solar anular o \"anillo de fuego\", Doha, Catar (© Sorin Furcoi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Eclipse+solar+anular&form=hpcapt&filters=HpDate%3a%2220231013_2200%22",
+        "title": "Un panorama eclipsante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231013_RingEclipse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6b0fa124b56978f4fcb4897a646b81d5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
