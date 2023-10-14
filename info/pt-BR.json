@@ -2837,5 +2837,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3f54d1e24dc6d6ccc877d22be89132a6": {
+        "startdate": "20231014",
+        "fullstartdate": "202310140300",
+        "enddate": "20231015",
+        "url": "/th?id=OHR.RingEclipse_PT-BR8456160531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RingEclipse_PT-BR8456160531",
+        "copyright": "Eclipse solar anular “Anel de Fogo”, Doha, Catar. (© Sorin Furcoi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Eclipse+solar+anel+de+fogo&form=hpcapt&mkt=pt-br",
+        "title": "E queima, queima, queima",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_RingEclipse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3f54d1e24dc6d6ccc877d22be89132a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

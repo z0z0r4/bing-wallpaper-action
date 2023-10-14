@@ -2837,5 +2837,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0f765d99aefc803e4efa707b26ca24f8": {
+        "startdate": "20231014",
+        "fullstartdate": "202310141500",
+        "enddate": "20231015",
+        "url": "/th?id=OHR.RingEclipse_JA-JP9257563062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RingEclipse_JA-JP9257563062",
+        "copyright": "金環日食, カタール ドーハ (© Sorin Furcoi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%87%91%E7%92%B0%E6%97%A5%E9%A3%9F&form=hpcapt&filters=HpDate%3a%2220231014_1500%22",
+        "title": "太陽と月のダンス",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_RingEclipse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0f765d99aefc803e4efa707b26ca24f8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

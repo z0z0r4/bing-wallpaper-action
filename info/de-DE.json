@@ -2837,5 +2837,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5d0e5e0988238c6c3c5c490afa5b0cc7": {
+        "startdate": "20231014",
+        "fullstartdate": "202310142200",
+        "enddate": "20231015",
+        "url": "/th?id=OHR.AutumnHedgehog_DE-DE4330196137_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnHedgehog_DE-DE4330196137",
+        "copyright": "Europäischer Igel, der sich in der Baumrinde versteckt, Sussex, England (© Jules Cox/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Igel&form=hpcapt&filters=HpDate%3a%2220231014_2200%22",
+        "title": "Kein Platz mehr hier!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_AutumnHedgehog%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5d0e5e0988238c6c3c5c490afa5b0cc7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

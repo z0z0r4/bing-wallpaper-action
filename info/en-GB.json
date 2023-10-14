@@ -2837,5 +2837,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "765824e52ce88a678c9a4e50b26aafed": {
+        "startdate": "20231014",
+        "fullstartdate": "202310142300",
+        "enddate": "20231015",
+        "url": "/th?id=OHR.AutumnHedgehog_EN-GB3716298220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnHedgehog_EN-GB3716298220",
+        "copyright": "European hedgehog sheltering in tree bark, Sussex (© Jules Cox/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=European+hedgehog&form=hpcapt&filters=HpDate%3a%2220231014_2300%22",
+        "title": "This spot's taken",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_AutumnHedgehog%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "765824e52ce88a678c9a4e50b26aafed",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

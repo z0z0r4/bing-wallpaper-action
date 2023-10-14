@@ -2837,5 +2837,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e4ff3a6a81a53784ffc14c0de6dc6833": {
+        "startdate": "20231014",
+        "fullstartdate": "202310140700",
+        "enddate": "20231015",
+        "url": "/th?id=OHR.RingEclipse_ROW0931082623_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RingEclipse_ROW0931082623",
+        "copyright": "'Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Annular+solar+eclipse&form=hpcapt&filters=HpDate%3a%2220231014_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231014_RingEclipse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e4ff3a6a81a53784ffc14c0de6dc6833",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
