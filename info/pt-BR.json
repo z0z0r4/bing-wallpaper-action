@@ -2854,5 +2854,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "323ace952362eaa1f6cb4b85f42a2ca1": {
+        "startdate": "20231015",
+        "fullstartdate": "202310150300",
+        "enddate": "20231016",
+        "url": "/th?id=OHR.GentooJump_PT-BR8915637831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GentooJump_PT-BR8915637831",
+        "copyright": "Pingüins Gentoo, Antártida. (© Art Wolfe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pinguins-Gentoo&form=hpcapt&mkt=pt-br",
+        "title": "Aqui está como se faz!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231015_GentooJump%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "323ace952362eaa1f6cb4b85f42a2ca1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
