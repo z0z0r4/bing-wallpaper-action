@@ -2871,5 +2871,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e20e71ddda072df17d1ec22246714fb9": {
+        "startdate": "20231016",
+        "fullstartdate": "202310160400",
+        "enddate": "20231017",
+        "url": "/th?id=OHR.GoldenEnchantments_EN-CA6678798259_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoldenEnchantments_EN-CA6678798259",
+        "copyright": "Golden larches and Prusik Peak, Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=the+enchantments+Washington&form=hpcapt&filters=HpDate%3a%2220231016_0400%22",
+        "title": "Enchanting indeed",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231016_GoldenEnchantments%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e20e71ddda072df17d1ec22246714fb9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

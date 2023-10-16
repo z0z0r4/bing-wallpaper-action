@@ -2871,5 +2871,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "44ccafa160faa9f56023df8606c126a8": {
+        "startdate": "20231016",
+        "fullstartdate": "202310160300",
+        "enddate": "20231017",
+        "url": "/th?id=OHR.GoldenEnchantments_PT-BR9264199227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoldenEnchantments_PT-BR9264199227",
+        "copyright": "Lariços dourados e Pico Prusik, Echantments, Washington, EUA. (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Os+Lagos+Encantados+de+Washington&form=hpcapt&mkt=pt-br",
+        "title": "Verdadeiramente encantador.",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231016_GoldenEnchantments%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "44ccafa160faa9f56023df8606c126a8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
