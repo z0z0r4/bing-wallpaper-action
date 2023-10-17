@@ -2888,5 +2888,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4f5ef411f4327e9ec5e0ac6c7f495651": {
+        "startdate": "20231017",
+        "fullstartdate": "202310170700",
+        "enddate": "20231018",
+        "url": "/th?id=OHR.GenoeseTower_ROW1222279439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GenoeseTower_ROW1222279439",
+        "copyright": "Genoese tower Torra di a Parata, Ajaccio, Corsica, France (© Jon Ingall/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Torra+di+a+Parata&form=hpcapt&filters=HpDate%3a%2220231017_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231017_GenoeseTower%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4f5ef411f4327e9ec5e0ac6c7f495651",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

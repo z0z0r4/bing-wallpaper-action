@@ -2888,5 +2888,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d4f33ca1c44ed5d0c91249aa19d8267e": {
+        "startdate": "20231017",
+        "fullstartdate": "202310170400",
+        "enddate": "20231018",
+        "url": "/th?id=OHR.ViesteItaly_EN-CA4053574764_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ViesteItaly_EN-CA4053574764",
+        "copyright": "Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vieste&form=hpcapt&filters=HpDate%3a%2220231017_0400%22",
+        "title": "Life on the edge",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231017_ViesteItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d4f33ca1c44ed5d0c91249aa19d8267e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
