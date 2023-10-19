@@ -2922,5 +2922,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7835d3a97032fda50ffd673b5b3fad12": {
+        "startdate": "20231019",
+        "fullstartdate": "202310192200",
+        "enddate": "20231020",
+        "url": "/th?id=OHR.PygmySloth_FR-FR4389776641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PygmySloth_FR-FR4389776641",
+        "copyright": "Bébé paresseux nain, île Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+internationale+du+paresseux&form=hpcapt&filters=HpDate%3a%2220231019_2200%22",
+        "title": "Une petite sieste ?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231019_PygmySloth%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7835d3a97032fda50ffd673b5b3fad12",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

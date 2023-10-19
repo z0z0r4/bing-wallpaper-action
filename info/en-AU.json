@@ -2922,5 +2922,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "54ad691a8005bcaab69754d6a90dbe98": {
+        "startdate": "20231019",
+        "fullstartdate": "202310190700",
+        "enddate": "20231020",
+        "url": "/th?id=OHR.CastellyGwyntUK_ROW1394649288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastellyGwyntUK_ROW1394649288",
+        "copyright": "Castell y Gwynt, Snowdonia, Wales (© Alan Novelli/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Castell+y+Gwynt&form=hpcapt&filters=HpDate%3a%2220231019_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231019_CastellyGwyntUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "54ad691a8005bcaab69754d6a90dbe98",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
