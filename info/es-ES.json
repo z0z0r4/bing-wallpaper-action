@@ -2939,5 +2939,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f4390ee5a579a2d873c36d649c16d361": {
+        "startdate": "20231020",
+        "fullstartdate": "202310202200",
+        "enddate": "20231021",
+        "url": "/th?id=OHR.PersepolisRelief_ES-ES3472864500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PersepolisRelief_ES-ES3472864500",
+        "copyright": "Grabados en la antigua ciudad persa de Persépolis, Irán (© Ozbalci/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pers%C3%A9polis+ciudad&form=hpcapt&filters=HpDate%3a%2220231020_2200%22",
+        "title": "¡Mira qué nivel de precisión!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231020_PersepolisRelief%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f4390ee5a579a2d873c36d649c16d361",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
