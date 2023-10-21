@@ -2956,5 +2956,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "27835f7690532dfbba4aefca7323ff11": {
+        "startdate": "20231021",
+        "fullstartdate": "202310210400",
+        "enddate": "20231022",
+        "url": "/th?id=OHR.PersepolisRelief_EN-CA3883150383_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PersepolisRelief_EN-CA3883150383",
+        "copyright": "Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=city+of+Persepolis&form=hpcapt&filters=HpDate%3a%2220231021_0400%22",
+        "title": "Wow, what a relief!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231021_PersepolisRelief%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "27835f7690532dfbba4aefca7323ff11",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

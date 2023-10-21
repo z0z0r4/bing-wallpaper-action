@@ -2956,5 +2956,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "04f49186b84e16376dbb46889f5e70ea": {
+        "startdate": "20231021",
+        "fullstartdate": "202310212200",
+        "enddate": "20231022",
+        "url": "/th?id=OHR.AstoriaBridge_FR-FR4917607488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AstoriaBridge_FR-FR4917607488",
+        "copyright": "Pont Astoria-Megler sur le fleuve Columbia, Astoria, Oregon, États-Unis (© Dan Mihai/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=+pont+Astoria-Megler&form=hpcapt&filters=HpDate%3a%2220231021_2200%22",
+        "title": "Un pont dans tous ses états !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231021_AstoriaBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "04f49186b84e16376dbb46889f5e70ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
