@@ -2990,5 +2990,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6ce178bb58485ced1aa105f77c418627": {
+        "startdate": "20231024",
+        "fullstartdate": "202310242200",
+        "enddate": "20231025",
+        "url": "/th?id=OHR.GrandStaircase_ES-ES4652634549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandStaircase_ES-ES4652634549",
+        "copyright": "Álamos en el Monumento Nacional Grand Staircase-Escalante, Utah, EE.UU. (© Jeff Foott/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Monumento+nacional+de+Grand+Staircase-Escalante&form=hpcapt&filters=HpDate%3a%2220231024_2200%22",
+        "title": "Un toque de oro otoñal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231024_GrandStaircase%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6ce178bb58485ced1aa105f77c418627",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

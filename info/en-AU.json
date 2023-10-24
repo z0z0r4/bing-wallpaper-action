@@ -2990,5 +2990,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c338c4b9d821acaa21e875841a0ea8b5": {
+        "startdate": "20231024",
+        "fullstartdate": "202310240700",
+        "enddate": "20231025",
+        "url": "/th?id=OHR.FuzerCastle_ROW5526919204_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FuzerCastle_ROW5526919204",
+        "copyright": "Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=hungary&form=hpcapt&filters=HpDate%3a%2220231024_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231024_FuzerCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c338c4b9d821acaa21e875841a0ea8b5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
