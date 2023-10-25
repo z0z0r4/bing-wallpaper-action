@@ -3007,5 +3007,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e83baad8b6846d1d35cd481b0b6df456": {
+        "startdate": "20231025",
+        "fullstartdate": "202310250700",
+        "enddate": "20231026",
+        "url": "/th?id=OHR.GrandStaircase_ROW5865725347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandStaircase_ROW5865725347",
+        "copyright": "Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand+Staircase-Escalante+National+Monument+Utah&form=hpcapt&filters=HpDate%3a%2220231025_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231025_GrandStaircase%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e83baad8b6846d1d35cd481b0b6df456",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

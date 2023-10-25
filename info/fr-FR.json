@@ -3007,5 +3007,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "faa73e2d17bda7a601222d1c8db9cb5f": {
+        "startdate": "20231025",
+        "fullstartdate": "202310252200",
+        "enddate": "20231026",
+        "url": "/th?id=OHR.ViennaAutumn_FR-FR6349704805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ViennaAutumn_FR-FR6349704805",
+        "copyright": "Feuillage d'automne dans le parc du château de Schönbrunn, Vienne, Autriche (© rusm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=ch%C3%A2teau+de+Sch%C3%B6nbrunn+&form=hpcapt&filters=HpDate%3a%2220231025_2200%22",
+        "title": "Un paysage de conte de fées",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231025_ViennaAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "faa73e2d17bda7a601222d1c8db9cb5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
