@@ -3024,5 +3024,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1ef244b6aa9e85c857026e0fb4ef5da7": {
+        "startdate": "20231026",
+        "fullstartdate": "202310262200",
+        "enddate": "20231027",
+        "url": "/th?id=OHR.OldBridgeSkye_ES-ES9518252617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OldBridgeSkye_ES-ES9518252617",
+        "copyright": "Puente viejo de Sligachan, Isla de Skye, Escocia (© Aliaume Chapelle/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Isla+de+Skye&form=hpcapt&filters=HpDate%3a%2220231026_2200%22",
+        "title": "Aguas encantadas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231026_OldBridgeSkye%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1ef244b6aa9e85c857026e0fb4ef5da7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

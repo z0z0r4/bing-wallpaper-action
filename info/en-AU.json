@@ -3024,5 +3024,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "44ffede44c5e22aadbba0907a08e6958": {
+        "startdate": "20231026",
+        "fullstartdate": "202310260700",
+        "enddate": "20231027",
+        "url": "/th?id=OHR.ViennaAutumn_ROW6120946302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ViennaAutumn_ROW6120946302",
+        "copyright": "Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sch%C3%B6nbrunn+Palace+Park+Vienna&form=hpcapt&filters=HpDate%3a%2220231026_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231026_ViennaAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "44ffede44c5e22aadbba0907a08e6958",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
