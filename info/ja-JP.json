@@ -3041,5 +3041,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "628bb2e6dffc6d40f281e1d72b27911f": {
+        "startdate": "20231027",
+        "fullstartdate": "202310271500",
+        "enddate": "20231028",
+        "url": "/th?id=OHR.FiveWinds_JA-JP4074287650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FiveWinds_JA-JP4074287650",
+        "copyright": "コンスエグラ, スペイン カスティーリャ＝ラ・マンチャ州 (© Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B3%E3%83%B3%E3%82%B9%E3%82%A8%E3%82%B0%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220231027_1500%22",
+        "title": "風車の町",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231027_FiveWinds%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "628bb2e6dffc6d40f281e1d72b27911f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

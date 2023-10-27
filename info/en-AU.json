@@ -3041,5 +3041,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e2482e2f29c8e4447c994f4e204321f8": {
+        "startdate": "20231027",
+        "fullstartdate": "202310270700",
+        "enddate": "20231028",
+        "url": "/th?id=OHR.OldBridgeSkye_ROW6424792895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OldBridgeSkye_ROW6424792895",
+        "copyright": "Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Sligachan+Old+Bridge&form=hpcapt&filters=HpDate%3a%2220231027_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231027_OldBridgeSkye%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e2482e2f29c8e4447c994f4e204321f8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

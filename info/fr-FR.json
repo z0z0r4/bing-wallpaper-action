@@ -3041,5 +3041,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "24d927b2809b388fce66461c746245cb": {
+        "startdate": "20231027",
+        "fullstartdate": "202310272200",
+        "enddate": "20231028",
+        "url": "/th?id=OHR.FiveWinds_FR-FR7441990953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FiveWinds_FR-FR7441990953",
+        "copyright": "Moulins à vent dans la région de Castille-La Manche, Espagne (© Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castille-La+Manche&form=hpcapt&filters=HpDate%3a%2220231027_2200%22",
+        "title": "Des moulins à vent légendaires et épiques",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231027_FiveWinds%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "24d927b2809b388fce66461c746245cb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
