@@ -3075,5 +3075,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4a47f8015644849c9bbb78d579a1d3ca": {
+        "startdate": "20231029",
+        "fullstartdate": "202310292300",
+        "enddate": "20231030",
+        "url": "/th?id=OHR.AutumnRaven_FR-FR8284652857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AutumnRaven_FR-FR8284652857",
+        "copyright": "Grand corbeau assis sur une branche (© WildMedia/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=grand+corbeau+oiseau&form=hpcapt&filters=HpDate%3a%2220231029_2300%22",
+        "title": "Jamais plus !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231029_AutumnRaven%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4a47f8015644849c9bbb78d579a1d3ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
