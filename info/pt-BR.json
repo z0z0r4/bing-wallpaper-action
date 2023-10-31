@@ -3109,5 +3109,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0a0fac7365d4c9549a1fa53fd1cf9cdf": {
+        "startdate": "20231031",
+        "fullstartdate": "202310310300",
+        "enddate": "20231101",
+        "url": "/th?id=OHR.HalloweenPorchAI_PT-BR0951998014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HalloweenPorchAI_PT-BR0951998014",
+        "copyright": "Abóboras de Halloween em uma varanda (© Bing Image Creator)",
+        "copyrightlink": "https://www.bing.com/search?q=Ab%C3%B3boras+de+Halloween&form=hpcapt&mkt=pt-br",
+        "title": "Mantendo tudo assustador de verdade",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231031_HalloweenPorchAI%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0a0fac7365d4c9549a1fa53fd1cf9cdf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

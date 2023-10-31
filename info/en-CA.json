@@ -3109,5 +3109,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9b4f714c8b8afbce3324d416c52b0b44": {
+        "startdate": "20231031",
+        "fullstartdate": "202310310400",
+        "enddate": "20231101",
+        "url": "/th?id=OHR.HalloweenPorchAI_EN-CA3930068285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HalloweenPorchAI_EN-CA3930068285",
+        "copyright": "Halloween jack-o'-lanterns on a porch (© Bing Image Creator)",
+        "copyrightlink": "https://www.bing.com/search?q=jack+o+lantern&form=hpcapt&filters=HpDate%3a%2220231031_0400%22",
+        "title": "Creepin' it real",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231031_HalloweenPorchAI%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9b4f714c8b8afbce3324d416c52b0b44",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
