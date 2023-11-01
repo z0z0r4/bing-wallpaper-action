@@ -3126,5 +3126,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4acff3e659cb74109d1ea36679e70646": {
+        "startdate": "20231101",
+        "fullstartdate": "202311010300",
+        "enddate": "20231102",
+        "url": "/th?id=OHR.HautBarr_PT-BR1136803227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HautBarr_PT-BR1136803227",
+        "copyright": "Castelo de Haut-Barr, Pays de Saverne, Vosges, França (© Andrea Pistolesi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=castelo+haut-barr+na+Fran%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Você sabia do \"Olho da Alsácia\"?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231101_HautBarr%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4acff3e659cb74109d1ea36679e70646",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
