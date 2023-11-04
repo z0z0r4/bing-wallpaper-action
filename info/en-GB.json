@@ -3160,5 +3160,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4cf0da5dbea6749e71d66b189656584e": {
+        "startdate": "20231104",
+        "fullstartdate": "202311040000",
+        "enddate": "20231105",
+        "url": "/th?id=OHR.SilencioSpain_EN-GB8484169314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SilencioSpain_EN-GB8484169314",
+        "copyright": "Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Asturias+Spain&form=hpcapt&filters=HpDate%3a%2220231104_0000%22",
+        "title": "A quiet place, indeed",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231104_SilencioSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4cf0da5dbea6749e71d66b189656584e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
