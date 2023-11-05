@@ -3194,5 +3194,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d2977f869e96ab4b4bd262e9b863e7cb": {
+        "startdate": "20231105",
+        "fullstartdate": "202311052300",
+        "enddate": "20231106",
+        "url": "/th?id=OHR.LagoPehoe_ES-ES5224775398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LagoPehoe_ES-ES5224775398",
+        "copyright": "Lago Pehoé, Parque Nacional Torres del Paine, sur de Chile (© OST/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parque+nacional+Torres+del+Paine&form=hpcapt&filters=HpDate%3a%2220231105_2300%22",
+        "title": "Luces con efectos especiales",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231105_LagoPehoe%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d2977f869e96ab4b4bd262e9b863e7cb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
