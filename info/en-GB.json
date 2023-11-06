@@ -3194,5 +3194,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "df0ed558ee8d568a93f707611886d5d2": {
+        "startdate": "20231106",
+        "fullstartdate": "202311060000",
+        "enddate": "20231107",
+        "url": "/th?id=OHR.LagoPehoe_EN-GB9271592844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LagoPehoe_EN-GB9271592844",
+        "copyright": "Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Torres+del+Paine+National+Park+Chile&form=hpcapt&filters=HpDate%3a%2220231106_0000%22",
+        "title": "Shine a light into your blues",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231106_LagoPehoe%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "df0ed558ee8d568a93f707611886d5d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

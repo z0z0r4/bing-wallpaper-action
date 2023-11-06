@@ -3211,5 +3211,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c5df0789bd08d22eb7ec06f51bacd4a7": {
+        "startdate": "20231106",
+        "fullstartdate": "202311060800",
+        "enddate": "20231107",
+        "url": "/th?id=OHR.LagoPehoe_ROW8483133966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LagoPehoe_ROW8483133966",
+        "copyright": "Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Torres+del+Paine+National+Park+Chile&form=hpcapt&filters=HpDate%3a%2220231106_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231106_LagoPehoe%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c5df0789bd08d22eb7ec06f51bacd4a7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
