@@ -3262,5 +3262,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e00cb613d8103e9820139f3b3f8356a5": {
+        "startdate": "20231109",
+        "fullstartdate": "202311090300",
+        "enddate": "20231110",
+        "url": "/th?id=OHR.NorwayBirch_PT-BR8138936699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NorwayBirch_PT-BR8138936699",
+        "copyright": "Bétulas no outono, Drammen, Noruega (©  Baac3nes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=B%C3%A9tulas+no+outono&form=hpcapt&mkt=pt-br",
+        "title": "Tons de outono",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231109_NorwayBirch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e00cb613d8103e9820139f3b3f8356a5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

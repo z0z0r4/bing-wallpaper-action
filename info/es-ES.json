@@ -3262,5 +3262,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6aa076aa0e3702d7162289598929ed4b": {
+        "startdate": "20231109",
+        "fullstartdate": "202311092300",
+        "enddate": "20231110",
+        "url": "/th?id=OHR.BadlandsSunrise_ES-ES5802974564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadlandsSunrise_ES-ES5802974564",
+        "copyright": "Parque Nacional de Badlands, Dakota del Sur, EE.UU. (© Grant Ordelheide/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Badlands&form=hpcapt&filters=HpDate%3a%2220231109_2300%22",
+        "title": "Combinación de rayos y arena",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231109_BadlandsSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6aa076aa0e3702d7162289598929ed4b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
