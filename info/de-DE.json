@@ -3279,5 +3279,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "03b6e0c9d0b9c18791b87d0ccaff71d2": {
+        "startdate": "20231110",
+        "fullstartdate": "202311102300",
+        "enddate": "20231111",
+        "url": "/th?id=OHR.ValDiFunes_DE-DE1024519394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValDiFunes_DE-DE1024519394",
+        "copyright": "Villnöß, Dolomiten im Hintergrund, Südtirol, Italien (© Achim Thomae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Villn%C3%B6%C3%9F+S%C3%BCdtirol+Italien&form=hpcapt&filters=HpDate%3a%2220231110_2300%22",
+        "title": "Wie im Bilderbuch!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231110_ValDiFunes%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "03b6e0c9d0b9c18791b87d0ccaff71d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
