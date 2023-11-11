@@ -3296,5 +3296,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4c52d55a01f38b6d0fdc2854c73b447c": {
+        "startdate": "20231111",
+        "fullstartdate": "202311110800",
+        "enddate": "20231112",
+        "url": "/th?id=OHR.ValDiFunes_ROW3744120142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValDiFunes_ROW3744120142",
+        "copyright": "Villnöß with the Dolomites in the background, South Tyrol, Italy (© Achim Thomae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Villn%C3%B6%C3%9F&form=hpcapt&filters=HpDate%3a%2220231111_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_ValDiFunes%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4c52d55a01f38b6d0fdc2854c73b447c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

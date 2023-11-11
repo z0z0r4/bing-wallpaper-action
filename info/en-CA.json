@@ -3296,5 +3296,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0bd744be4a5b4c9ca8cac9dbadfdcdbb": {
+        "startdate": "20231111",
+        "fullstartdate": "202311110500",
+        "enddate": "20231112",
+        "url": "/th?id=OHR.YoungPeaks_EN-CA5929270890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YoungPeaks_EN-CA5929270890",
+        "copyright": "Autumnal woodland and Young Peak, British Columbia, Canada (© David Noton/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=Young+Peak+British+Columbia&form=hpcapt&filters=HpDate%3a%2220231111_0500%22",
+        "title": "Forever Young",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231111_YoungPeaks%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0bd744be4a5b4c9ca8cac9dbadfdcdbb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
