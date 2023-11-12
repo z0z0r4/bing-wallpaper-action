@@ -3313,5 +3313,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a6e5e06801910e0a92349d6290511761": {
+        "startdate": "20231112",
+        "fullstartdate": "202311120800",
+        "enddate": "20231113",
+        "url": "/th?id=OHR.MallarDucks_ROW3997027342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MallarDucks_ROW3997027342",
+        "copyright": "Two mallard ducks on a pond in autumn (© sun ok/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Mallard+duck&form=hpcapt&filters=HpDate%3a%2220231112_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231112_MallarDucks%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a6e5e06801910e0a92349d6290511761",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

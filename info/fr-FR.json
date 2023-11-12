@@ -3313,5 +3313,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "33862c718f66bf06ff47e06970721476": {
+        "startdate": "20231112",
+        "fullstartdate": "202311122300",
+        "enddate": "20231113",
+        "url": "/th?id=OHR.OliveOrchard_FR-FR6246633206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OliveOrchard_FR-FR6246633206",
+        "copyright": "Vieille oliveraie dans la Serra de Tramuntana, Majorque, Espagne (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Majorque&form=hpcapt&filters=HpDate%3a%2220231112_2300%22",
+        "title": "De l'arbre à la table !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231112_OliveOrchard%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "33862c718f66bf06ff47e06970721476",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
