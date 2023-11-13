@@ -3330,5 +3330,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "160926abccbfbc219fc8309eaef34b35": {
+        "startdate": "20231113",
+        "fullstartdate": "202311130800",
+        "enddate": "20231114",
+        "url": "/th?id=OHR.OliveOrchard_ROW4284986499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OliveOrchard_ROW4284986499",
+        "copyright": "Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Majorca+Spain&form=hpcapt&filters=HpDate%3a%2220231113_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231113_OliveOrchard%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "160926abccbfbc219fc8309eaef34b35",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
