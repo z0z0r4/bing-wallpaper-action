@@ -3347,5 +3347,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "88a01219022af491a64990abed40d820": {
+        "startdate": "20231114",
+        "fullstartdate": "202311140800",
+        "enddate": "20231115",
+        "url": "/th?id=OHR.RussellLupines_ROW4780775110_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RussellLupines_ROW4780775110",
+        "copyright": "Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Russell+Lupine&form=hpcapt&filters=HpDate%3a%2220231114_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231114_RussellLupines%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "88a01219022af491a64990abed40d820",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
