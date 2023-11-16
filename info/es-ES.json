@@ -3381,5 +3381,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7d0377e632b285307596cb9d11546cea": {
+        "startdate": "20231116",
+        "fullstartdate": "202311162300",
+        "enddate": "20231117",
+        "url": "/th?id=OHR.BadRiver_ES-ES4057697814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadRiver_ES-ES4057697814",
+        "copyright": "Río Bad en el Parque Estatal de Copper Falls, Wisconsin, EE.UU. (© Big Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wisconsin+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220231116_2300%22",
+        "title": "¡Vamos a la aventura!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231116_BadRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7d0377e632b285307596cb9d11546cea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

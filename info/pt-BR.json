@@ -3381,5 +3381,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "eb86cc6bc14724677de1b96f39fd24e3": {
+        "startdate": "20231116",
+        "fullstartdate": "202311160300",
+        "enddate": "20231117",
+        "url": "/th?id=OHR.AthensAcropolis_PT-BR9783837981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AthensAcropolis_PT-BR9783837981",
+        "copyright": "Vista sobre Atenas e a Acrópole, Grécia (© Mlenny/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+Filosofia&form=hpcapt&mkt=pt-br",
+        "title": "O berço da filosofia ocidental",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231116_AthensAcropolis%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "eb86cc6bc14724677de1b96f39fd24e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

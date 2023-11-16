@@ -3381,5 +3381,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "59bb8b0ac872e5e13717d48e1c6dca9c": {
+        "startdate": "20231116",
+        "fullstartdate": "202311162300",
+        "enddate": "20231117",
+        "url": "/th?id=OHR.BadRiver_FR-FR0662194139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadRiver_FR-FR0662194139",
+        "copyright": "Rivière Bad River dans le parc d'État de Copper Falls, Wisconsin, États-Unis (© Big Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=wisconsin+randonn%C3%A9e&form=hpcapt&filters=HpDate%3a%2220231116_2300%22",
+        "title": "Á vos baskets !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231116_BadRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "59bb8b0ac872e5e13717d48e1c6dca9c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
