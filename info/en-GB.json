@@ -3381,5 +3381,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b70ff02380b817579f227421d59b1468": {
+        "startdate": "20231117",
+        "fullstartdate": "202311170000",
+        "enddate": "20231118",
+        "url": "/th?id=OHR.MeonHillViewUK_EN-GB5301951758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MeonHillViewUK_EN-GB5301951758",
+        "copyright": "Meon Hill, Gloucestershire, England (© Stuart Black/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Gloucestershire+England&form=hpcapt&filters=HpDate%3a%2220231117_0000%22",
+        "title": "The rest is mystery",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231117_MeonHillViewUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b70ff02380b817579f227421d59b1468",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

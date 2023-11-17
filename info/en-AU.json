@@ -3398,5 +3398,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8d01da1293e155a3af3b28913264a74c": {
+        "startdate": "20231117",
+        "fullstartdate": "202311170800",
+        "enddate": "20231118",
+        "url": "/th?id=OHR.BadRiver_ROW8208145013_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BadRiver_ROW8208145013",
+        "copyright": "Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Copper+Falls+State+Park&form=hpcapt&filters=HpDate%3a%2220231117_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231117_BadRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8d01da1293e155a3af3b28913264a74c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
