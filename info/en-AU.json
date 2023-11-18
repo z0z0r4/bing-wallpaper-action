@@ -3415,5 +3415,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "97e346dcbe6a9fc1d70549bde534b60d": {
+        "startdate": "20231118",
+        "fullstartdate": "202311180800",
+        "enddate": "20231119",
+        "url": "/th?id=OHR.MilsePolarBear_ROW8277838069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilsePolarBear_ROW8277838069",
+        "copyright": "Polar bear mother and cubs, Churchill, Manitoba, Canada (© Thorsten Milse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Churchill+Manitoba&form=hpcapt&filters=HpDate%3a%2220231118_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231118_MilsePolarBear%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "97e346dcbe6a9fc1d70549bde534b60d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

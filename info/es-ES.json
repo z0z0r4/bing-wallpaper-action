@@ -3415,5 +3415,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4563315bcaeeaebdab177ce5311d79ea": {
+        "startdate": "20231118",
+        "fullstartdate": "202311182300",
+        "enddate": "20231119",
+        "url": "/th?id=OHR.FrozenBog_ES-ES4333267452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrozenBog_ES-ES4333267452",
+        "copyright": "Reserva Natural de Alam-Pedja, Estonia (© Sven Zacek/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Reserva+Natural+de+Alam-Pedja&form=hpcapt&filters=HpDate%3a%2220231118_2300%22",
+        "title": "¡Pisa con cuidado!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231118_FrozenBog%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4563315bcaeeaebdab177ce5311d79ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
