@@ -3432,5 +3432,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8de6fe980daf5bf696e022cb61b6da4c": {
+        "startdate": "20231119",
+        "fullstartdate": "202311192300",
+        "enddate": "20231120",
+        "url": "/th?id=OHR.ChapmanAdventure_DE-DE7123511876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChapmanAdventure_DE-DE7123511876",
+        "copyright": "Chapman-Abenteuerspielplatz auf dem Gathering Place, Tulsa, Oklahoma, USA (© Susan Vineyard/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Kindertag&form=hpcapt&filters=HpDate%3a%2220231119_2300%22",
+        "title": "Jeder Tag ist ein Spieltag!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231119_ChapmanAdventure%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "8de6fe980daf5bf696e022cb61b6da4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -3415,5 +3415,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "85098d85bb655d077662bd01ee3fcbc0": {
+        "startdate": "20231119",
+        "fullstartdate": "202311190000",
+        "enddate": "20231120",
+        "url": "/th?id=OHR.FrozenBog_EN-GB6787545750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrozenBog_EN-GB6787545750",
+        "copyright": "Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Alam-Pedja+Nature+Reserve&form=hpcapt&filters=HpDate%3a%2220231119_0000%22",
+        "title": "Tread carefully!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231119_FrozenBog%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "85098d85bb655d077662bd01ee3fcbc0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
