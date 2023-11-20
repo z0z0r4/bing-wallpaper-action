@@ -3449,5 +3449,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "72371a54c978a187cd5920c96918f882": {
+        "startdate": "20231120",
+        "fullstartdate": "202311201830",
+        "enddate": "20231121",
+        "url": "/th?id=OHR.HelloSeal_EN-IN4183768158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HelloSeal_EN-IN4183768158",
+        "copyright": "Grey seal pup on the beach of Norfolk, England (© Vince Burton/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=grey+seal&form=hpcapt&filters=HpDate%3a%2220231120_1830%22",
+        "title": "Welcome to the world, pup!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231120_HelloSeal%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "72371a54c978a187cd5920c96918f882",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -3449,5 +3449,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "949a8571800a171f68fe51f3e3a427ec": {
+        "startdate": "20231120",
+        "fullstartdate": "202311200800",
+        "enddate": "20231121",
+        "url": "/th?id=OHR.CastleCoch_ROW8419231737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CastleCoch_ROW8419231737",
+        "copyright": "Castell Coch, Tongwynlais, South Wales (© Billy Stock/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Castell+Coch&form=hpcapt&filters=HpDate%3a%2220231120_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231120_CastleCoch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "949a8571800a171f68fe51f3e3a427ec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
