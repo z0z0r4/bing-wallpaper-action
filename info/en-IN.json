@@ -3483,5 +3483,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "999bec040f21148d91d2609ed57b2af2": {
+        "startdate": "20231122",
+        "fullstartdate": "202311221830",
+        "enddate": "20231123",
+        "url": "/th?id=OHR.VictoriaMemorialIndia_EN-IN2578716156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VictoriaMemorialIndia_EN-IN2578716156",
+        "copyright": "Beautiful foggy winter sunrise at Victoria Memorial, Kolkata, India. (© DebashisK/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Victoria+Memorial+India&form=hpcapt&filters=HpDate%3a%2220231122_1830%22",
+        "title": "Memories in the mist",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231122_VictoriaMemorialIndia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "999bec040f21148d91d2609ed57b2af2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

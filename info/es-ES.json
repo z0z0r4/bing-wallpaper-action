@@ -3483,5 +3483,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "614c25eff3b33e53a227a6ef0e521dcb": {
+        "startdate": "20231122",
+        "fullstartdate": "202311222300",
+        "enddate": "20231123",
+        "url": "/th?id=OHR.TeideNational_ES-ES5257401293_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeideNational_ES-ES5257401293",
+        "copyright": "Parque Nacional del Teide, Santa Cruz de Tenerife, España (© Javier Martínez Morán/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Teide+Tenerife&form=hpcapt&filters=HpDate%3a%2220231122_2300%22",
+        "title": "¡Desde las profundidades hasta los cielos!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231122_TeideNational%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "614c25eff3b33e53a227a6ef0e521dcb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
