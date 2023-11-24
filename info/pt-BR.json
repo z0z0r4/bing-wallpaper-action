@@ -3517,5 +3517,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "90f253c7baf547bbf64ce37a77ee45db": {
+        "startdate": "20231124",
+        "fullstartdate": "202311240300",
+        "enddate": "20231125",
+        "url": "/th?id=OHR.HallofMosses_PT-BR6641708132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HallofMosses_PT-BR6641708132",
+        "copyright": "Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Ol%C3%ADmpico+e+a+Floresta+Tropical+de+Hoh&form=hpcapt&mkt=pt-br",
+        "title": "Um tipo único de floresta tropical",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231124_HallofMosses%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "90f253c7baf547bbf64ce37a77ee45db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -3517,5 +3517,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aaecd72dfbf37094dcf9e310c7533cb6": {
+        "startdate": "20231124",
+        "fullstartdate": "202311240800",
+        "enddate": "20231125",
+        "url": "/th?id=OHR.HallofMosses_ROW8720599078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HallofMosses_ROW8720599078",
+        "copyright": "Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington (© James Randklev/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=hoh+rain+forest&form=hpcapt&filters=HpDate%3a%2220231124_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231124_HallofMosses%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aaecd72dfbf37094dcf9e310c7533cb6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

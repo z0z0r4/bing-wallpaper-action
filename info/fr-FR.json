@@ -3517,5 +3517,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fa6e1d36afe09c12490fd4607dcea736": {
+        "startdate": "20231124",
+        "fullstartdate": "202311242300",
+        "enddate": "20231125",
+        "url": "/th?id=OHR.TajoRiver_FR-FR5340325022_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TajoRiver_FR-FR5340325022",
+        "copyright": "Tolède, Espagne (© Carlos Fernandez/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tol%C3%A8de&form=hpcapt&filters=HpDate%3a%2220231124_2300%22",
+        "title": "Une ville, trois cultures",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231124_TajoRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fa6e1d36afe09c12490fd4607dcea736",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

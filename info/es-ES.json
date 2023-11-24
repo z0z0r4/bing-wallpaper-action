@@ -3517,5 +3517,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c97716514d0210574f36d8fffe683915": {
+        "startdate": "20231124",
+        "fullstartdate": "202311242300",
+        "enddate": "20231125",
+        "url": "/th?id=OHR.TajoRiver_ES-ES5973247580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TajoRiver_ES-ES5973247580",
+        "copyright": "Toledo, España (© Carlos Fernandez/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Toledo+Espa%C3%B1a&form=hpcapt&filters=HpDate%3a%2220231124_2300%22",
+        "title": "¡Una ciudad mágica!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231124_TajoRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c97716514d0210574f36d8fffe683915",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
