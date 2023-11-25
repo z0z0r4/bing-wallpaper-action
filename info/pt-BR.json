@@ -3534,5 +3534,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fca5159ded17f80b889772253638e762": {
+        "startdate": "20231125",
+        "fullstartdate": "202311250300",
+        "enddate": "20231126",
+        "url": "/th?id=OHR.TajoRiver_PT-BR6877712566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TajoRiver_PT-BR6877712566",
+        "copyright": "Toledo, Spain (© Carlos Fernandez/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=+Toledo+Espanha&form=hpcapt&mkt=pt-br",
+        "title": "A história intemporal de Toledo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231125_TajoRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fca5159ded17f80b889772253638e762",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

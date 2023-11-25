@@ -3534,5 +3534,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7ec77b868a532bc09fd55af7b2f60614": {
+        "startdate": "20231125",
+        "fullstartdate": "202311251500",
+        "enddate": "20231126",
+        "url": "/th?id=OHR.BathingDay2023_JA-JP8643192749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BathingDay2023_JA-JP8643192749",
+        "copyright": "修善寺温泉街, 静岡県 伊豆市 (© JaCZhou 2015/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%BF%AE%E5%96%84%E5%AF%BA%E6%B8%A9%E6%B3%89%E8%A1%97&form=hpcapt&filters=HpDate%3a%2220231125_1500%22",
+        "title": "今日は「いい風呂の日」",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231125_BathingDay2023%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7ec77b868a532bc09fd55af7b2f60614",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
