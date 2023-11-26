@@ -3551,5 +3551,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d745d45a1de68f7ba53d8227378d1172": {
+        "startdate": "20231126",
+        "fullstartdate": "202311262300",
+        "enddate": "20231127",
+        "url": "/th?id=OHR.RioNegro_ES-ES6222339808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RioNegro_ES-ES6222339808",
+        "copyright": "Río Negro, cuenca del Amazonas, Brasil (© Timothy Allen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rio+Negro+Brasil&form=hpcapt&filters=HpDate%3a%2220231126_2300%22",
+        "title": "¡El río que sonríe!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231126_RioNegro%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d745d45a1de68f7ba53d8227378d1172",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

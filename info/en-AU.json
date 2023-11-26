@@ -3551,5 +3551,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cb5d95de82c025f69532c34c31eb5258": {
+        "startdate": "20231126",
+        "fullstartdate": "202311260800",
+        "enddate": "20231127",
+        "url": "/th?id=OHR.BradgateFallow_ROW8870334567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BradgateFallow_ROW8870334567",
+        "copyright": "Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Fallow+deer&form=hpcapt&filters=HpDate%3a%2220231126_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231126_BradgateFallow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cb5d95de82c025f69532c34c31eb5258",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
