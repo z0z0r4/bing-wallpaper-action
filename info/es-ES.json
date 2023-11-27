@@ -3568,5 +3568,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d0508ad0a4f2423fa5e2583fd43577b4": {
+        "startdate": "20231127",
+        "fullstartdate": "202311272300",
+        "enddate": "20231128",
+        "url": "/th?id=OHR.HumanKindness_ES-ES6358639283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HumanKindness_ES-ES6358639283",
+        "copyright": "Fresco gigante del artista Saype en Estambul, Turquía (© Chris McGrath/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Estambul&form=hpcapt&filters=HpDate%3a%2220231127_2300%22",
+        "title": "¡Pinturas al aire fresco!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231127_HumanKindness%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "d0508ad0a4f2423fa5e2583fd43577b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

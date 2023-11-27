@@ -3568,5 +3568,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2809f82de856ea47205b946ded939b19": {
+        "startdate": "20231127",
+        "fullstartdate": "202311270800",
+        "enddate": "20231128",
+        "url": "/th?id=OHR.RioNegro_ROW9293014046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RioNegro_ROW9293014046",
+        "copyright": "Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rio+Negro+river&form=hpcapt&filters=HpDate%3a%2220231127_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231127_RioNegro%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2809f82de856ea47205b946ded939b19",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
