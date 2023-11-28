@@ -3585,5 +3585,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e6f24ada936dde0884e806b1a678c7c1": {
+        "startdate": "20231128",
+        "fullstartdate": "202311280800",
+        "enddate": "20231129",
+        "url": "/th?id=OHR.AssiniboineProvincialPark_ROW9470886401_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AssiniboineProvincialPark_ROW9470886401",
+        "copyright": "Mount Assiniboine Provincial Park, Canada (© matt macpherson/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mount+Assiniboine+Provincial+Park&form=hpcapt&filters=HpDate%3a%2220231128_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231128_AssiniboineProvincialPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e6f24ada936dde0884e806b1a678c7c1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
