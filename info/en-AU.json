@@ -3602,5 +3602,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3ef6e30f6f0dee44ed1011a52e4879a8": {
+        "startdate": "20231129",
+        "fullstartdate": "202311290800",
+        "enddate": "20231130",
+        "url": "/th?id=OHR.SchwerinerSchloss_ROW9723994138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SchwerinerSchloss_ROW9723994138",
+        "copyright": "Schwerin Castle on Lake Schwerin, Mecklenburg-Vorpommern, Germany (© Hannes Wendt/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Schwerin+Castle&form=hpcapt&filters=HpDate%3a%2220231129_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231129_SchwerinerSchloss%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3ef6e30f6f0dee44ed1011a52e4879a8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

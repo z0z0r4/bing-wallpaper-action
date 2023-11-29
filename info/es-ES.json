@@ -3602,5 +3602,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "17eed049d701173d617f559baeec60ea": {
+        "startdate": "20231129",
+        "fullstartdate": "202311292300",
+        "enddate": "20231130",
+        "url": "/th?id=OHR.TrotternishStorr_ES-ES6640552170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrotternishStorr_ES-ES6640552170",
+        "copyright": "El Storr, un afloramiento rocoso en la isla de Skye, Escocia, Reino Unido (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=isla+de+Skye&form=hpcapt&filters=HpDate%3a%2220231129_2300%22",
+        "title": "¡Nos vamos de excursión!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231129_TrotternishStorr%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "17eed049d701173d617f559baeec60ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
