@@ -3619,5 +3619,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fe93e2d91504af4558b0b7e1160f11d3": {
+        "startdate": "20231130",
+        "fullstartdate": "202311302300",
+        "enddate": "20231201",
+        "url": "/th?id=OHR.SierraNevadaGranada_ES-ES5604012292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SierraNevadaGranada_ES-ES5604012292",
+        "copyright": "Pradollano, Parque Nacional de Sierra Nevada, Granada, Andalucía, España (© iStock/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=sierra+nevada+Granada&form=hpcapt&filters=HpDate%3a%2220231130_2300%22",
+        "title": "¡Coge tu tabla o los esquíes, que nos vamos!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231130_SierraNevadaGranada%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fe93e2d91504af4558b0b7e1160f11d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

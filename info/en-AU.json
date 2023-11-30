@@ -3619,5 +3619,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "71cdd0922e6c2548a1f2450654f23404": {
+        "startdate": "20231130",
+        "fullstartdate": "202311300800",
+        "enddate": "20231201",
+        "url": "/th?id=OHR.TrotternishStorr_ROW9568788023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrotternishStorr_ROW9568788023",
+        "copyright": "The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Isle+of+Skye+Scotland&form=hpcapt&filters=HpDate%3a%2220231130_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231130_TrotternishStorr%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "71cdd0922e6c2548a1f2450654f23404",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
