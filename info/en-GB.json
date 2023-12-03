@@ -3653,5 +3653,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b91cdc3328eccd75c60f5e3adf45a853": {
+        "startdate": "20231203",
+        "fullstartdate": "202312030000",
+        "enddate": "20231204",
+        "url": "/th?id=OHR.AdventSundayUK_EN-GB6836867238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AdventSundayUK_EN-GB6836867238",
+        "copyright": "Castleton, Derbyshire, England (© Daveduke/Moment Open/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Advent+Sunday&form=hpcapt&filters=HpDate%3a%2220231203_0000%22",
+        "title": "Ready, set, cheer!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231203_AdventSundayUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b91cdc3328eccd75c60f5e3adf45a853",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

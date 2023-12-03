@@ -3670,5 +3670,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "db93aa54f803def91ec8fe1b93df4b28": {
+        "startdate": "20231203",
+        "fullstartdate": "202312032300",
+        "enddate": "20231204",
+        "url": "/th?id=OHR.CheetahDay_FR-FR9981866703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CheetahDay_FR-FR9981866703",
+        "copyright": "Une mère guépard et ses petits dans la réserve nationale du Masai Mara, au Kenya (© Scott Davis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=gu%C3%A9pard&form=hpcapt&filters=HpDate%3a%2220231203_2300%22",
+        "title": "Le félin le plus rapide du monde !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231203_CheetahDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "db93aa54f803def91ec8fe1b93df4b28",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

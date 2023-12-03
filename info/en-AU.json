@@ -3670,5 +3670,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e8000594a88ba0d6c7ae5910b27911aa": {
+        "startdate": "20231203",
+        "fullstartdate": "202312030800",
+        "enddate": "20231204",
+        "url": "/th?id=OHR.VermilionCliffs_ROW7938636506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VermilionCliffs_ROW7938636506",
+        "copyright": "Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Vermilion+Cliffs+National+Monument&form=hpcapt&filters=HpDate%3a%2220231203_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231203_VermilionCliffs%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e8000594a88ba0d6c7ae5910b27911aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
