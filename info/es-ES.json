@@ -3687,5 +3687,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d3f8980dd1719ca0f39b04a9119f7b94": {
+        "startdate": "20231204",
+        "fullstartdate": "202312042300",
+        "enddate": "20231205",
+        "url": "/th?id=OHR.AlpsCastles_ES-ES0525825978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpsCastles_ES-ES0525825978",
+        "copyright": "Castillos de Neuschwanstein y Hohenschwangau, Alpes bávaros, Alemania (© Harald Nachtmann/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castillos+de+Neuschwanstein+y+Hohenschwangau&form=hpcapt&filters=HpDate%3a%2220231204_2300%22",
+        "title": "Sacado de un cuento de hadas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231204_AlpsCastles%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d3f8980dd1719ca0f39b04a9119f7b94",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
