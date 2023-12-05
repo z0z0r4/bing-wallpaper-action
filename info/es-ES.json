@@ -3704,5 +3704,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3fa6a76bf07bdeec27bc08d84ea138e9": {
+        "startdate": "20231205",
+        "fullstartdate": "202312052300",
+        "enddate": "20231206",
+        "url": "/th?id=OHR.DiaConstitucion_ES-ES6067761704_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiaConstitucion_ES-ES6067761704",
+        "copyright": "Congreso de los diputados, Madrid, España (© Serge Mouraret/Alamy Foto de stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Aniversario+de+la+Constituci%C3%B3n+Espa%C3%B1ola&form=hpcapt&filters=HpDate%3a%2220231205_2300%22",
+        "title": "¡Hoy es un gran día!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231205_DiaConstitucion%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3fa6a76bf07bdeec27bc08d84ea138e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
