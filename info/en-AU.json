@@ -3721,5 +3721,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c5d80a6b9dd5ed3115e5b9bb1b4a7fa1": {
+        "startdate": "20231206",
+        "fullstartdate": "202312060800",
+        "enddate": "20231207",
+        "url": "/th?id=OHR.DardagnaWaterfalls_ROW8435833274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DardagnaWaterfalls_ROW8435833274",
+        "copyright": "Dardagna waterfalls, Bologna, Italy (© Alberto Ghizzi Panizza/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=Dardagna+waterfalls&form=hpcapt&filters=HpDate%3a%2220231206_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231206_DardagnaWaterfalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c5d80a6b9dd5ed3115e5b9bb1b4a7fa1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

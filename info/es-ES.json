@@ -3721,5 +3721,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "32077f8118301e2ef5691528fb8e1af4": {
+        "startdate": "20231206",
+        "fullstartdate": "202312062300",
+        "enddate": "20231207",
+        "url": "/th?id=OHR.GrandCanyonVerdon_ES-ES4353910010_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandCanyonVerdon_ES-ES4353910010",
+        "copyright": "Una mañana de niebla en las gargantas del Verdon, en los Alpes de Alta Provenza, Francia (© Hemis/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Gargantas+del+verdon&form=hpcapt&filters=HpDate%3a%2220231206_2300%22",
+        "title": "El Gran Cañón de Europa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231206_GrandCanyonVerdon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "32077f8118301e2ef5691528fb8e1af4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
