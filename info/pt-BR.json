@@ -3738,5 +3738,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d84255af23f71483d078c16acc4873a0": {
+        "startdate": "20231207",
+        "fullstartdate": "202312070300",
+        "enddate": "20231208",
+        "url": "/th?id=OHR.GrandCanyonVerdon_PT-BR9952684873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandCanyonVerdon_PT-BR9952684873",
+        "copyright": "A foggy morning at Verdon Gorge in the Alpes-de-Haute-Provence of France (© Hemis/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Grande+Canyon+Verdon+Fran%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Desfiladeiros majestosos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231207_GrandCanyonVerdon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d84255af23f71483d078c16acc4873a0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

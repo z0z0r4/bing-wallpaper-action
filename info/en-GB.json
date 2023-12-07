@@ -3721,5 +3721,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2c23cb59e7efb7fce35791420911bcbb": {
+        "startdate": "20231207",
+        "fullstartdate": "202312070000",
+        "enddate": "20231208",
+        "url": "/th?id=OHR.GrandCanyonVerdon_EN-GB3267938575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandCanyonVerdon_EN-GB3267938575",
+        "copyright": "Verdon Gorge, Provence-Alpes-Côte d'Azur, France (© Hemis/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Verdon+Gorge&form=hpcapt&filters=HpDate%3a%2220231207_0000%22",
+        "title": "Isn't it just 'gorges'?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231207_GrandCanyonVerdon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2c23cb59e7efb7fce35791420911bcbb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

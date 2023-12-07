@@ -3738,5 +3738,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "055520aef971173b4d4b76804052d36d": {
+        "startdate": "20231207",
+        "fullstartdate": "202312070800",
+        "enddate": "20231208",
+        "url": "/th?id=OHR.GrandCanyonVerdon_ROW8614363933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandCanyonVerdon_ROW8614363933",
+        "copyright": "A foggy morning at Verdon Gorge in the Alpes-de-Haute-Provence of France (© Hemis/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Verdon+Gorge&form=hpcapt&filters=HpDate%3a%2220231207_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231207_GrandCanyonVerdon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "055520aef971173b4d4b76804052d36d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

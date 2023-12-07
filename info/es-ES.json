@@ -3738,5 +3738,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "92b103a0417114d4bf709ba80aa885bb": {
+        "startdate": "20231207",
+        "fullstartdate": "202312072300",
+        "enddate": "20231208",
+        "url": "/th?id=OHR.JerseyIsland_ES-ES4734552777_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JerseyIsland_ES-ES4734552777",
+        "copyright": "Puerto de La Rocque, St. Clement, Isla de Jersey (© Reinhard Schmid/Huber/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Isla+de+Jersey&form=hpcapt&filters=HpDate%3a%2220231207_2300%22",
+        "title": "Un lugar de sonidos relajantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231207_JerseyIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "92b103a0417114d4bf709ba80aa885bb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
