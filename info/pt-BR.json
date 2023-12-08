@@ -3755,5 +3755,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b0aab85a27861734998378ab0c18986e": {
+        "startdate": "20231208",
+        "fullstartdate": "202312080300",
+        "enddate": "20231209",
+        "url": "/th?id=OHR.JerseyIsland_PT-BR0126731270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JerseyIsland_PT-BR0126731270",
+        "copyright": "La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=ilha+de+jersey&form=hpcapt&mkt=pt-br",
+        "title": "Não naquela costa de Jersey",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231208_JerseyIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b0aab85a27861734998378ab0c18986e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

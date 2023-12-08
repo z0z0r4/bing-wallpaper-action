@@ -3755,5 +3755,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1b81abf2317f50ecbde078f6d5583f62": {
+        "startdate": "20231208",
+        "fullstartdate": "202312082300",
+        "enddate": "20231209",
+        "url": "/th?id=OHR.PatagoniaGuanaco_ES-ES4871228557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PatagoniaGuanaco_ES-ES4871228557",
+        "copyright": "Guanacos, Parque Nacional Los Glaciares, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Guanaco+animal&form=hpcapt&filters=HpDate%3a%2220231208_2300%22",
+        "title": "Un paisaje que llama la atención",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231208_PatagoniaGuanaco%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1b81abf2317f50ecbde078f6d5583f62",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
