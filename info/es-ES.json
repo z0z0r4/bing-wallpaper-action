@@ -3789,5 +3789,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ba83d61d26ee580c09ddebaf79a01170": {
+        "startdate": "20231210",
+        "fullstartdate": "202312102300",
+        "enddate": "20231211",
+        "url": "/th?id=OHR.MountainDayChina_ES-ES0104105727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MountainDayChina_ES-ES0104105727",
+        "copyright": "Invierno en las montañas de Huangshan, China (© Hung Chung Chih/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Montes+Huang&form=hpcapt&filters=HpDate%3a%2220231210_2300%22",
+        "title": "¡Una vista de vértigo!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231210_MountainDayChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ba83d61d26ee580c09ddebaf79a01170",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

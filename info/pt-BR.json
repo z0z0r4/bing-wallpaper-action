@@ -3789,5 +3789,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dd3d1610c1b19bf2fd8cf65564f9cadd": {
+        "startdate": "20231210",
+        "fullstartdate": "202312100300",
+        "enddate": "20231211",
+        "url": "/th?id=OHR.SaharaDunes_PT-BR0559111753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaharaDunes_PT-BR0559111753",
+        "copyright": "Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=deserto+do+saara&form=hpcapt&mkt=pt-br",
+        "title": "Cada dia uma duna diferente",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231210_SaharaDunes%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "dd3d1610c1b19bf2fd8cf65564f9cadd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

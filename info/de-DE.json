@@ -3789,5 +3789,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "03ae647a0d2a958042b5b3f8641b47ed": {
+        "startdate": "20231210",
+        "fullstartdate": "202312102300",
+        "enddate": "20231211",
+        "url": "/th?id=OHR.MountainDayChina_DE-DE7862538166_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MountainDayChina_DE-DE7862538166",
+        "copyright": "Winter im Gebirge Huang Shan, China (© Hung Chung Chih/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Huang+Shan%2c+China&form=hpcapt&filters=HpDate%3a%2220231210_2300%22",
+        "title": "Lust auf Bergsteigen?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231210_MountainDayChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "03ae647a0d2a958042b5b3f8641b47ed",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

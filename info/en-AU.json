@@ -3789,5 +3789,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3f691a59815360d4f57b833bc3476199": {
+        "startdate": "20231210",
+        "fullstartdate": "202312100800",
+        "enddate": "20231211",
+        "url": "/th?id=OHR.LlanberisSnowdoniaSunset_ROW9081464988_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LlanberisSnowdoniaSunset_ROW9081464988",
+        "copyright": "Llyn Padarn lake, Snowdonia, Wales (© Joe Daniel Price/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Llyn+Padarn+Wales&form=hpcapt&filters=HpDate%3a%2220231210_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231210_LlanberisSnowdoniaSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3f691a59815360d4f57b833bc3476199",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
