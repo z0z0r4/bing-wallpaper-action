@@ -3806,5 +3806,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "59ad1664ec71a8f53845d8b472c81628": {
+        "startdate": "20231211",
+        "fullstartdate": "202312112300",
+        "enddate": "20231212",
+        "url": "/th?id=OHR.Poinsettia_DE-DE8566445332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Poinsettia_DE-DE8566445332",
+        "copyright": "Weihnachtsstern (© Yarygin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Weihnachtsstern&form=hpcapt&filters=HpDate%3a%2220231211_2300%22",
+        "title": "Pflanzen wir Weihnachtssterne!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231211_Poinsettia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "59ad1664ec71a8f53845d8b472c81628",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

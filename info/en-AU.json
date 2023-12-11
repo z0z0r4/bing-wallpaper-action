@@ -3806,5 +3806,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e59d72d6a1da245250966d89814a74ef": {
+        "startdate": "20231211",
+        "fullstartdate": "202312110800",
+        "enddate": "20231212",
+        "url": "/th?id=OHR.MountainDayChina_ROW9220649952_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MountainDayChina_ROW9220649952",
+        "copyright": "Winter in Huangshan Mountains, China (© Hung Chung Chih/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Huangshan+Mountains+China&form=hpcapt&filters=HpDate%3a%2220231211_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231211_MountainDayChina%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e59d72d6a1da245250966d89814a74ef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

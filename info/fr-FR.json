@@ -3806,5 +3806,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5b699d889b8a3a88dc55d5322e6dc109": {
+        "startdate": "20231211",
+        "fullstartdate": "202312112300",
+        "enddate": "20231212",
+        "url": "/th?id=OHR.Poinsettia_FR-FR9360811330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Poinsettia_FR-FR9360811330",
+        "copyright": "Poinsettia rouge (© Yarygin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=poinsettia+Genre+de+plantes&form=hpcapt&filters=HpDate%3a%2220231211_2300%22",
+        "title": "Les « Étoiles de Noël » sont de retour !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231211_Poinsettia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5b699d889b8a3a88dc55d5322e6dc109",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
