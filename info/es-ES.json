@@ -3857,5 +3857,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b9526e7db107c52dbc4b64fd482d198b": {
+        "startdate": "20231214",
+        "fullstartdate": "202312142300",
+        "enddate": "20231215",
+        "url": "/th?id=OHR.SantaPark_ES-ES1775631224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaPark_ES-ES1775631224",
+        "copyright": "Parque de Santa Claus en Rovaniemi, Laponia, Finlandia (© lukutin77/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=pueblo+de+santa+claus&form=hpcapt&filters=HpDate%3a%2220231214_2300%22",
+        "title": "El jardín de Santa Claus",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231214_SantaPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b9526e7db107c52dbc4b64fd482d198b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

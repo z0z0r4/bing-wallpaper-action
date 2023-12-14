@@ -3857,5 +3857,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "40cbcd8e748cb8fb98bfead7e3f2165e": {
+        "startdate": "20231214",
+        "fullstartdate": "202312141830",
+        "enddate": "20231215",
+        "url": "/th?id=OHR.SantaPark_EN-IN0838447771_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaPark_EN-IN0838447771",
+        "copyright": "SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=SantaPark+Finland&form=hpcapt&filters=HpDate%3a%2220231214_1830%22",
+        "title": "Santa's playground",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231214_SantaPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "40cbcd8e748cb8fb98bfead7e3f2165e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
