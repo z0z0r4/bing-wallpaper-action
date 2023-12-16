@@ -3891,5 +3891,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7ca77bd8255b5eb818669e6c642efb31": {
+        "startdate": "20231216",
+        "fullstartdate": "202312160300",
+        "enddate": "20231217",
+        "url": "/th?id=OHR.GrandPlaceXmas_PT-BR7345216772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandPlaceXmas_PT-BR7345216772",
+        "copyright": "Casas da Guilda da Grand-Place, Bruxelas, Bélgica (© Richard Taylor/Sime/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand-Place+de+Bruxelas&form=hpcapt&mkt=pt-br",
+        "title": "Um alegre caso de azuis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231216_GrandPlaceXmas%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7ca77bd8255b5eb818669e6c642efb31",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
