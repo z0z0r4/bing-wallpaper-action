@@ -3908,5 +3908,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e53f9793a61e048a160db56b9504e94d": {
+        "startdate": "20231217",
+        "fullstartdate": "202312171600",
+        "enddate": "20231218",
+        "url": "/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapitolReefSnow_ZH-CN0085775882",
+        "copyright": "圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9C%86%E9%A1%B6%E7%A4%81%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+        "title": "山峦积雪",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231217_CapitolReefSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e53f9793a61e048a160db56b9504e94d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

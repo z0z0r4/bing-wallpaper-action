@@ -3908,5 +3908,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "05fe4841f2ab9b6420f043ac4eefd005": {
+        "startdate": "20231217",
+        "fullstartdate": "202312172300",
+        "enddate": "20231218",
+        "url": "/th?id=OHR.CapitolReefSnow_DE-DE9763583316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapitolReefSnow_DE-DE9763583316",
+        "copyright": "Capitol-Reef-Nationalpark, Utah, USA (© Jeff Clay/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Capitol-Reef-Nationalpark&form=hpcapt&filters=HpDate%3a%2220231217_2300%22",
+        "title": "Schneit es in der Wüste wirklich?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231217_CapitolReefSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "05fe4841f2ab9b6420f043ac4eefd005",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

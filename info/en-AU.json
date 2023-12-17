@@ -3908,5 +3908,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e964286f14bd18e645143a83e388b28a": {
+        "startdate": "20231217",
+        "fullstartdate": "202312170800",
+        "enddate": "20231218",
+        "url": "/th?id=OHR.WinterWaxwings_ROW5231052812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WinterWaxwings_ROW5231052812",
+        "copyright": "Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bohemian+waxwings&form=hpcapt&filters=HpDate%3a%2220231217_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231217_WinterWaxwings%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e964286f14bd18e645143a83e388b28a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

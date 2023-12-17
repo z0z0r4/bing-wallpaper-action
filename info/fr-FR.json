@@ -3908,5 +3908,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2f69e23db23b2f2bb4a307aabdc8702f": {
+        "startdate": "20231217",
+        "fullstartdate": "202312172300",
+        "enddate": "20231218",
+        "url": "/th?id=OHR.Beaufortain_FR-FR7561012950_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Beaufortain_FR-FR7561012950",
+        "copyright": "Station de ski du col des Saisies à l'aube, Beaufortain, Savoie, France (© SPANI Arnaud/hemis.fr/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=beaufortain&form=hpcapt&filters=HpDate%3a%2220231217_2300%22",
+        "title": "Un petit coin de paradis savoyard !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231217_Beaufortain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2f69e23db23b2f2bb4a307aabdc8702f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
