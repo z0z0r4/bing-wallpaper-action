@@ -3925,5 +3925,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5d45b7f8edc07669ec39f2a979803117": {
+        "startdate": "20231218",
+        "fullstartdate": "202312182300",
+        "enddate": "20231219",
+        "url": "/th?id=OHR.WarsawChristmas_ES-ES2780904824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WarsawChristmas_ES-ES2780904824",
+        "copyright": "Árbol de Navidad en la Plaza del Castillo, Varsovia, Polonia (© Panther Media GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Varsovia+Polonia&form=hpcapt&filters=HpDate%3a%2220231218_2300%22",
+        "title": "Parada de Santa Claus en Polonia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231218_WarsawChristmas%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5d45b7f8edc07669ec39f2a979803117",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

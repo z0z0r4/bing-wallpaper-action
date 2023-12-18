@@ -3925,5 +3925,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c9401494334436b42980aae9f02ba07e": {
+        "startdate": "20231218",
+        "fullstartdate": "202312180300",
+        "enddate": "20231219",
+        "url": "/th?id=OHR.CapitolReefSnow_PT-BR7723404626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapitolReefSnow_PT-BR7723404626",
+        "copyright": "Parque Nacional Capitol Reef, Utah, EUA (© Jeff Clay/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=O+Parque+Nacional+Capitol+Reef+em+Utah&form=hpcapt&mkt=pt-br",
+        "title": "Neve, neve no campo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231218_CapitolReefSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c9401494334436b42980aae9f02ba07e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -3925,5 +3925,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2238a3f2a71869eb5ed8d744d082728f": {
+        "startdate": "20231218",
+        "fullstartdate": "202312180800",
+        "enddate": "20231219",
+        "url": "/th?id=OHR.CapitolReefSnow_ROW5391162531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CapitolReefSnow_ROW5391162531",
+        "copyright": "Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=hpcapt&filters=HpDate%3a%2220231218_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231218_CapitolReefSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2238a3f2a71869eb5ed8d744d082728f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
