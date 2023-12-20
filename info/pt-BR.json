@@ -3959,5 +3959,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c1b288eae14144f62b08da068b0f65ac": {
+        "startdate": "20231220",
+        "fullstartdate": "202312200300",
+        "enddate": "20231221",
+        "url": "/th?id=OHR.ValGardenaItaly_PT-BR7927921008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ValGardenaItaly_PT-BR7927921008",
+        "copyright": "Aldeia em Val Gardena no Natal, Dolomitas, Itália (© Ingus Kruklitis/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Val+Gardena+nas+Dolomitas&form=hpcapt&mkt=pt-br",
+        "title": "Luzes das Dolomitas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231220_ValGardenaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c1b288eae14144f62b08da068b0f65ac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

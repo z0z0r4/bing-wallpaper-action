@@ -3959,5 +3959,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6dc2e7202a31f503064994d1530fd79a": {
+        "startdate": "20231220",
+        "fullstartdate": "202312202300",
+        "enddate": "20231221",
+        "url": "/th?id=OHR.LjubljanaLights_ES-ES3058445591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LjubljanaLights_ES-ES3058445591",
+        "copyright": "Liubliana, Eslovenia (© kasto80/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=Liubliana+Eslovenia&form=hpcapt&filters=HpDate%3a%2220231220_2300%22",
+        "title": "Alegría navideña al estilo esloveno",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231220_LjubljanaLights%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6dc2e7202a31f503064994d1530fd79a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
