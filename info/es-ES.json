@@ -3976,5 +3976,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7b38cb3378290a8f802ec10c99561e7d": {
+        "startdate": "20231221",
+        "fullstartdate": "202312212300",
+        "enddate": "20231222",
+        "url": "/th?id=OHR.WinterSolstice_ES-ES7825369117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WinterSolstice_ES-ES7825369117",
+        "copyright": "Riaño, León, Castilla y León, España (© Raul Villalon/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=solsticio+de+invierno&form=hpcapt&filters=HpDate%3a%2220231221_2300%22",
+        "title": "¡Un blanco y corto día!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231221_WinterSolstice%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7b38cb3378290a8f802ec10c99561e7d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
