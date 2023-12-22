@@ -3993,5 +3993,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "62173c7d457c83b2b45a95066a39e3ac": {
+        "startdate": "20231222",
+        "fullstartdate": "202312222300",
+        "enddate": "20231223",
+        "url": "/th?id=OHR.FestivusPenguins_ES-ES4832122757_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FestivusPenguins_ES-ES4832122757",
+        "copyright": "Pingüinos barbijo, Islas Sandwich del Sur, Océano Atlántico Sur (© Jan Vermeer/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Festivus&form=hpcapt&filters=HpDate%3a%2220231222_2300%22",
+        "title": "¡Vamos a hablar del tema!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231222_FestivusPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "62173c7d457c83b2b45a95066a39e3ac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

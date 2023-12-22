@@ -3993,5 +3993,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f4baeb7e6e8066eb13d7920518cd29a6": {
+        "startdate": "20231222",
+        "fullstartdate": "202312222300",
+        "enddate": "20231223",
+        "url": "/th?id=OHR.FestivusPenguins_FR-FR4244677283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FestivusPenguins_FR-FR4244677283",
+        "copyright": "Manchots à jugulaire, îles Sandwich du Sud, océan Atlantique Sud (© Jan Vermeer/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=manchots+%C3%A0+jugulaire&form=hpcapt&filters=HpDate%3a%2220231222_2300%22",
+        "title": "Un manchot… à jugulaire !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231222_FestivusPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f4baeb7e6e8066eb13d7920518cd29a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
