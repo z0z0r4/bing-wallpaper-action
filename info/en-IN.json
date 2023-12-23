@@ -4010,5 +4010,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "11f9dd0ea194c2db8d57bc3cdfd49fd3": {
+        "startdate": "20231223",
+        "fullstartdate": "202312231830",
+        "enddate": "20231224",
+        "url": "/th?id=OHR.EstoniaXmasEve_EN-IN6293418304_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EstoniaXmasEve_EN-IN6293418304",
+        "copyright": "Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=tartu+estonia&form=hpcapt&filters=HpDate%3a%2220231223_1830%22",
+        "title": "How lovely are your branches",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231223_EstoniaXmasEve%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "11f9dd0ea194c2db8d57bc3cdfd49fd3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

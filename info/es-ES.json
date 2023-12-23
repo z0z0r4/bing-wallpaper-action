@@ -4010,5 +4010,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "44ff1bd19c842aa03cb0a5d9f046feac": {
+        "startdate": "20231223",
+        "fullstartdate": "202312232300",
+        "enddate": "20231224",
+        "url": "/th?id=OHR.SantaClausRace_ES-ES7942033287_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaClausRace_ES-ES7942033287",
+        "copyright": "XII Carrera Solidaria de Papá Noel en Madrid, España (© Marcos del Mazo/Alamy Foto de stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Noche+Buena&form=hpcapt&filters=HpDate%3a%2220231223_2300%22",
+        "title": "¡Un día lleno de magia y diversión!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231223_SantaClausRace%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "44ff1bd19c842aa03cb0a5d9f046feac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
