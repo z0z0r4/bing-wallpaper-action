@@ -4027,5 +4027,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "40cd0167a71dad45b325aa0c017f0f0c": {
+        "startdate": "20231224",
+        "fullstartdate": "202312240800",
+        "enddate": "20231225",
+        "url": "/th?id=OHR.EstoniaXmasEve_ROW6703662783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EstoniaXmasEve_ROW6703662783",
+        "copyright": "Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=tartu+estonia&form=hpcapt&filters=HpDate%3a%2220231224_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231224_EstoniaXmasEve%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "40cd0167a71dad45b325aa0c017f0f0c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

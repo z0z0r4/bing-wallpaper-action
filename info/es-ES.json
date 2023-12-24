@@ -4027,5 +4027,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6b5ec4876bdd992d7069681783174c94": {
+        "startdate": "20231224",
+        "fullstartdate": "202312242300",
+        "enddate": "20231225",
+        "url": "/th?id=OHR.CaribouChristmas_ES-ES3276202379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CaribouChristmas_ES-ES3276202379",
+        "copyright": "Renos corriendo en la nieve, Alaska, EE.UU. (© Michael Quinton/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=renos&form=hpcapt&filters=HpDate%3a%2220231224_2300%22",
+        "title": "¡Celebra la Navidad!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231224_CaribouChristmas%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6b5ec4876bdd992d7069681783174c94",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
