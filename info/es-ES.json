@@ -4061,5 +4061,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ac5ebe805aec97f0bcfa11e0a2b52b7c": {
+        "startdate": "20231226",
+        "fullstartdate": "202312262300",
+        "enddate": "20231227",
+        "url": "/th?id=OHR.KirkjufellAurora_ES-ES5949558087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KirkjufellAurora_ES-ES5949558087",
+        "copyright": "Kirkjufell, península de Snæfellsnes, Islandia (© Ratnakorn Piyasirisorost/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kirkjufell+Islandia&form=hpcapt&filters=HpDate%3a%2220231226_2300%22",
+        "title": "El país del hielo y el fuego",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231226_KirkjufellAurora%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ac5ebe805aec97f0bcfa11e0a2b52b7c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
