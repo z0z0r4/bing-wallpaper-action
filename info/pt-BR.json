@@ -4078,5 +4078,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "58b616871870ea4db1123d2e2e288dd1": {
+        "startdate": "20231227",
+        "fullstartdate": "202312270300",
+        "enddate": "20231228",
+        "url": "/th?id=OHR.KirkjufellAurora_PT-BR0251942070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KirkjufellAurora_PT-BR0251942070",
+        "copyright": "Kirkjufell, península de Snæfellsnes, Islândia (© Ratnakorn Piyasirisorost/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kirkjufell+pen%C3%ADnsula+de+Sn%C3%A6fellsnes+Isl%C3%A2ndia&form=hpcapt&mkt=pt-br",
+        "title": "A terra do gelo e do fogo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231227_KirkjufellAurora%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "58b616871870ea4db1123d2e2e288dd1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

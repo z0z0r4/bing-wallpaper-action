@@ -4078,5 +4078,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5aa731c34d790054d2a1e35add9794c8": {
+        "startdate": "20231227",
+        "fullstartdate": "202312270800",
+        "enddate": "20231228",
+        "url": "/th?id=OHR.KirkjufellAurora_ROW6194176356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KirkjufellAurora_ROW6194176356",
+        "copyright": "Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kirkjufell+Iceland&form=hpcapt&filters=HpDate%3a%2220231227_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231227_KirkjufellAurora%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5aa731c34d790054d2a1e35add9794c8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
