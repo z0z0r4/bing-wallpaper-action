@@ -4095,5 +4095,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d8bbcdc307f725c00f22ef210ba8df6b": {
+        "startdate": "20231228",
+        "fullstartdate": "202312280800",
+        "enddate": "20231229",
+        "url": "/th?id=OHR.GreenlandHumpback_ROW6556097961_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenlandHumpback_ROW6556097961",
+        "copyright": "Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Humpback+whale&form=hpcapt&filters=HpDate%3a%2220231228_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231228_GreenlandHumpback%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d8bbcdc307f725c00f22ef210ba8df6b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

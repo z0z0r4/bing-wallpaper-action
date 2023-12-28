@@ -4078,5 +4078,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5e0a235893f294a4d8b63e5b8c678254": {
+        "startdate": "20231228",
+        "fullstartdate": "202312280000",
+        "enddate": "20231229",
+        "url": "/th?id=OHR.GreenlandHumpback_EN-GB8931241370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GreenlandHumpback_EN-GB8931241370",
+        "copyright": "Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Endangered+Species+Act+of+1973&form=hpcapt&filters=HpDate%3a%2220231228_0000%22",
+        "title": "Jumping off the endangered list",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231228_GreenlandHumpback%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5e0a235893f294a4d8b63e5b8c678254",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

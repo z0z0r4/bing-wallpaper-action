@@ -4095,5 +4095,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4185fbe8c8431b91dce58c265d604b6c": {
+        "startdate": "20231228",
+        "fullstartdate": "202312282300",
+        "enddate": "20231229",
+        "url": "/th?id=OHR.BlueAmsterdam_ES-ES6291079085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueAmsterdam_ES-ES6291079085",
+        "copyright": "Barrio de Oud-West, Ámsterdam, Países Bajos (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Amsterdam&form=hpcapt&filters=HpDate%3a%2220231228_2300%22",
+        "title": "¡Canales con luz propia!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231228_BlueAmsterdam%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4185fbe8c8431b91dce58c265d604b6c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
