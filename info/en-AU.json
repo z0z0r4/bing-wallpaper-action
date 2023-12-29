@@ -4112,5 +4112,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8122d1c5f4eba7b94936aa532a37eab3": {
+        "startdate": "20231229",
+        "fullstartdate": "202312290800",
+        "enddate": "20231230",
+        "url": "/th?id=OHR.BlueAmsterdam_ROW2114868148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueAmsterdam_ROW2114868148",
+        "copyright": "Oud-West neighborhood, Amsterdam, Netherlands (© George Pachantouris/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Amsterdam+Netherlands&form=hpcapt&filters=HpDate%3a%2220231229_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231229_BlueAmsterdam%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8122d1c5f4eba7b94936aa532a37eab3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

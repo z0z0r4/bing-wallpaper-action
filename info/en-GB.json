@@ -4095,5 +4095,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4ebc3fe9ad1e1f278249e2562197a573": {
+        "startdate": "20231229",
+        "fullstartdate": "202312290000",
+        "enddate": "20231230",
+        "url": "/th?id=OHR.HogmanayFireworksSoctland_EN-GB9543718054_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HogmanayFireworksSoctland_EN-GB9543718054",
+        "copyright": "Hogmanay firework display, Edinburgh, Scotland (© The Travel Library/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Hogmanay&form=hpcapt&filters=HpDate%3a%2220231229_0000%22",
+        "title": "Lang may yer lum reek",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231229_HogmanayFireworksSoctland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4ebc3fe9ad1e1f278249e2562197a573",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

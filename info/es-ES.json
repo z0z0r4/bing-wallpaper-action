@@ -4112,5 +4112,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "60c8ceb49534596999f6cc90637f6796": {
+        "startdate": "20231229",
+        "fullstartdate": "202312292300",
+        "enddate": "20231230",
+        "url": "/th?id=OHR.TadamiWinter_ES-ES7930493260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TadamiWinter_ES-ES7930493260",
+        "copyright": "Puente sobre el río Daiichi Tadami, Fukushima, Japón (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rio+Tadami&form=hpcapt&filters=HpDate%3a%2220231229_2300%22",
+        "title": "Un viaje sobre el azul intenso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231229_TadamiWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "60c8ceb49534596999f6cc90637f6796",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
