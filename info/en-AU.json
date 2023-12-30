@@ -4129,5 +4129,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "088ea981b7942069b9c5f52050eb225a": {
+        "startdate": "20231230",
+        "fullstartdate": "202312300800",
+        "enddate": "20231231",
+        "url": "/th?id=OHR.TadamiWinter_ROW4137202525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TadamiWinter_ROW4137202525",
+        "copyright": "Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tadami+River&form=hpcapt&filters=HpDate%3a%2220231230_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231230_TadamiWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "088ea981b7942069b9c5f52050eb225a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
