@@ -4146,5 +4146,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cd8225996732658c265aa0a2bcfc03a0": {
+        "startdate": "20231231",
+        "fullstartdate": "202312310800",
+        "enddate": "20240101",
+        "url": "/th?id=OHR.ThailandNewYears_ROW4469238374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThailandNewYears_ROW4469238374",
+        "copyright": "Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Phra+Nakhon+Khiri&form=hpcapt&filters=HpDate%3a%2220231231_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20231231_ThailandNewYears%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cd8225996732658c265aa0a2bcfc03a0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
