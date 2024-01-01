@@ -4163,5 +4163,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6c7b12f59aa844d336df615597fa751b": {
+        "startdate": "20240101",
+        "fullstartdate": "202401012300",
+        "enddate": "20240102",
+        "url": "/th?id=OHR.BhutanSolstice_FR-FR0006679350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BhutanSolstice_FR-FR0006679350",
+        "copyright": "Drapeaux de prière dans la vallée de Phobjikha, Bhoutan (© John Warburton-Lee/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=bhoutan&form=hpcapt&filters=HpDate%3a%2220240101_2300%22",
+        "title": "Fabriquez votre propre arc-en-ciel !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240101_BhutanSolstice%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6c7b12f59aa844d336df615597fa751b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
