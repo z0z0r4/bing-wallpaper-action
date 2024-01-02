@@ -4180,5 +4180,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8df268b441606fdef8864af5b5ffe7b7": {
+        "startdate": "20240102",
+        "fullstartdate": "202401020800",
+        "enddate": "20240103",
+        "url": "/th?id=OHR.MehrangarhJodhpur_ROW6285752767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MehrangarhJodhpur_ROW6285752767",
+        "copyright": "Jaswant Thada and Mehrangarh Fort, Jodhpur, Rajasthan, India (© Twenty47studio/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mehrangarh+Fort&form=hpcapt&filters=HpDate%3a%2220240102_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240102_MehrangarhJodhpur%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8df268b441606fdef8864af5b5ffe7b7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
