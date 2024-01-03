@@ -4197,5 +4197,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6fe4caf01aa774861039b3ac223f6a7c": {
+        "startdate": "20240103",
+        "fullstartdate": "202401030300",
+        "enddate": "20240104",
+        "url": "/th?id=OHR.BodleianCeiling_PT-BR0267945002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BodleianCeiling_PT-BR0267945002",
+        "copyright": "Biblioteca Bodleian, Universidade de Oxford, Inglaterra (© Andrew Holt/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+J.R.R.+Tolkien&form=hpcapt&mkt=pt-br",
+        "title": "Uma biblioteca para governar todas elas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240103_BodleianCeiling%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "6fe4caf01aa774861039b3ac223f6a7c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

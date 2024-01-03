@@ -4197,5 +4197,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d3601c920f7f5b8118c2cb8ed5f298b4": {
+        "startdate": "20240103",
+        "fullstartdate": "202401031500",
+        "enddate": "20240104",
+        "url": "/th?id=OHR.GoldenGateLight_JA-JP2205373586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoldenGateLight_JA-JP2205373586",
+        "copyright": "ゴールデン・ゲート・ブリッジ, 米国 サンフランシスコ (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8&form=hpcapt&filters=HpDate%3a%2220240103_1500%22",
+        "title": "ライトアップされた美しい吊り橋",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240103_GoldenGateLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d3601c920f7f5b8118c2cb8ed5f298b4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

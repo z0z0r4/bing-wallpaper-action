@@ -4197,5 +4197,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d22eb4f96707d424dce75d46fe5cbe3a": {
+        "startdate": "20240103",
+        "fullstartdate": "202401030800",
+        "enddate": "20240104",
+        "url": "/th?id=OHR.MinnewankaLake_ROW6920967945_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MinnewankaLake_ROW6920967945",
+        "copyright": "Lake Minnewanka, Alberta, Canada (© Ken Phung/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Minnewanka+Alberta&form=hpcapt&filters=HpDate%3a%2220240103_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240103_MinnewankaLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d22eb4f96707d424dce75d46fe5cbe3a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
