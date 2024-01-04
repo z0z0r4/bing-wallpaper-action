@@ -4214,5 +4214,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "96834913f6dbfcac9c33b70a61cf3e72": {
+        "startdate": "20240104",
+        "fullstartdate": "202401040800",
+        "enddate": "20240105",
+        "url": "/th?id=OHR.GoldenGateLight_ROW1901187150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoldenGateLight_ROW1901187150",
+        "copyright": "Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Golden+Gate+Bridge&form=hpcapt&filters=HpDate%3a%2220240104_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240104_GoldenGateLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "96834913f6dbfcac9c33b70a61cf3e72",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

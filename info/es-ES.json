@@ -4214,5 +4214,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cfea78d7a488f1c5865a01c0e4763dab": {
+        "startdate": "20240104",
+        "fullstartdate": "202401042300",
+        "enddate": "20240105",
+        "url": "/th?id=OHR.KingsDay_ES-ES9269541177_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KingsDay_ES-ES9269541177",
+        "copyright": "Mercadillo navideño en la Plaza Mayor, Madrid, España (© Mattia Bicchi/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Los+Reyes+Magos&form=hpcapt&filters=HpDate%3a%2220240104_2300%22",
+        "title": "¡Vienen los reyes cargados de magia!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240104_KingsDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cfea78d7a488f1c5865a01c0e4763dab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
