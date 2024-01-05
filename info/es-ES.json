@@ -4231,5 +4231,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ffdb0bad1906f568263208c154ae9dbd": {
+        "startdate": "20240105",
+        "fullstartdate": "202401052300",
+        "enddate": "20240106",
+        "url": "/th?id=OHR.CrabappleChaffinch_ES-ES9402342278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CrabappleChaffinch_ES-ES9402342278",
+        "copyright": "Pinzón vulgar macho posado en un manzano cangrejo en invierno (© Mark Hamblin/2020VISION/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=manzanas&form=hpcapt&filters=HpDate%3a%2220240105_2300%22",
+        "title": "¡Una manzana!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240105_CrabappleChaffinch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ffdb0bad1906f568263208c154ae9dbd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
