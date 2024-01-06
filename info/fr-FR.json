@@ -4248,5 +4248,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4e9722552521eea2a03c637837cbc41a": {
+        "startdate": "20240106",
+        "fullstartdate": "202401062300",
+        "enddate": "20240107",
+        "url": "/th?id=OHR.DevilsMarbles_FR-FR1418224441_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DevilsMarbles_FR-FR1418224441",
+        "copyright": "Karlu Karlu, Réserve de conservation des billes du diable, Australie (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=les+marbres+du+diable+australie&form=hpcapt&filters=HpDate%3a%2220240106_2300%22",
+        "title": "La nature en équilibre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240106_DevilsMarbles%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4e9722552521eea2a03c637837cbc41a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -4248,5 +4248,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4fb1e95a41f06592fa5c962d9beae1c7": {
+        "startdate": "20240106",
+        "fullstartdate": "202401060500",
+        "enddate": "20240107",
+        "url": "/th?id=OHR.VermilionLakesCA_EN-CA5785272161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VermilionLakesCA_EN-CA5785272161",
+        "copyright": "Vermilion Lakes, Banff, Canada (© Carlos Fernandez/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vermilion+Lakes+Banff&form=hpcapt&filters=HpDate%3a%2220240106_0500%22",
+        "title": "The sky isn't always blue",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240106_VermilionLakesCA%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4fb1e95a41f06592fa5c962d9beae1c7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

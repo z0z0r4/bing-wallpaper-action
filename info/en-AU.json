@@ -4248,5 +4248,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e6d3aa67ab24766507e0df31cd8b151a": {
+        "startdate": "20240106",
+        "fullstartdate": "202401060800",
+        "enddate": "20240107",
+        "url": "/th?id=OHR.CrabappleChaffinch_ROW0592693286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CrabappleChaffinch_ROW0592693286",
+        "copyright": "Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Crab+apple&form=hpcapt&filters=HpDate%3a%2220240106_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240106_CrabappleChaffinch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e6d3aa67ab24766507e0df31cd8b151a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
