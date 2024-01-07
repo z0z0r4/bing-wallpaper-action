@@ -4265,5 +4265,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c7dc4cd314fe4a2bd5f00dc23c266918": {
+        "startdate": "20240107",
+        "fullstartdate": "202401072300",
+        "enddate": "20240108",
+        "url": "/th?id=OHR.BerninaPass_ES-ES9729899080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerninaPass_ES-ES9729899080",
+        "copyright": "Esquiador en el paso de Bernina, Graubunden, Suiza (© Francesco Bergamaschi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paso+de+Bernina&form=hpcapt&filters=HpDate%3a%2220240107_2300%22",
+        "title": "¡Siente la frescura de la velocidad!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240107_BerninaPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c7dc4cd314fe4a2bd5f00dc23c266918",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
