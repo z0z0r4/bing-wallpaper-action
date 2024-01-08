@@ -4282,5 +4282,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "05e7b666c179d0898262240c617936e9": {
+        "startdate": "20240108",
+        "fullstartdate": "202401080800",
+        "enddate": "20240109",
+        "url": "/th?id=OHR.BerninaPass_ROW0768513959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BerninaPass_ROW0768513959",
+        "copyright": "Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bernina+Pass+Switzerland&form=hpcapt&filters=HpDate%3a%2220240108_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240108_BerninaPass%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "05e7b666c179d0898262240c617936e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -4282,5 +4282,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aa7ce33bc3ee559ede20d16949cacc86": {
+        "startdate": "20240108",
+        "fullstartdate": "202401082300",
+        "enddate": "20240109",
+        "url": "/th?id=OHR.BalloonDay_ES-ES6385510449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BalloonDay_ES-ES6385510449",
+        "copyright": "Globos aerostáticos sobre el Río Grande, Albuquerque, Nuevo México, EE.UU. (© Jennifer MacCornack/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=globo+aerost%C3%A1tico&form=hpcapt&filters=HpDate%3a%2220240108_2300%22",
+        "title": "¡Vamos a inflar globos!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240108_BalloonDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aa7ce33bc3ee559ede20d16949cacc86",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
