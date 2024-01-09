@@ -4299,5 +4299,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "603337cc1dc3d42ef6d2c3d51298fdd1": {
+        "startdate": "20240109",
+        "fullstartdate": "202401090800",
+        "enddate": "20240110",
+        "url": "/th?id=OHR.BalloonDay_ROW1865946659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BalloonDay_ROW1865946659",
+        "copyright": "Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=hot+air+balloon&form=hpcapt&filters=HpDate%3a%2220240109_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240109_BalloonDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "603337cc1dc3d42ef6d2c3d51298fdd1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

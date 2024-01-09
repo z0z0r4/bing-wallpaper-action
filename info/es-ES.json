@@ -4299,5 +4299,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0f11945a2c543489b73f1cfed09eaf9f": {
+        "startdate": "20240109",
+        "fullstartdate": "202401092300",
+        "enddate": "20240110",
+        "url": "/th?id=OHR.MilopotamosStairs_ES-ES0000761095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilopotamosStairs_ES-ES0000761095",
+        "copyright": "Escaleras en la costa de Mylopotamos, Tesalia, Grecia (© Orestis Zoumpos/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=periferia+de+Tesalia&form=hpcapt&filters=HpDate%3a%2220240109_2300%22",
+        "title": "¡Sólo un escalón más!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240109_MilopotamosStairs%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0f11945a2c543489b73f1cfed09eaf9f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

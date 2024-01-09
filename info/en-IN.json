@@ -4299,5 +4299,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2ce641620a9a6370ebd9f1b0027db4a7": {
+        "startdate": "20240109",
+        "fullstartdate": "202401091830",
+        "enddate": "20240110",
+        "url": "/th?id=OHR.MilopotamosStairs_EN-IN7483499264_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MilopotamosStairs_EN-IN7483499264",
+        "copyright": "Stairs on the shoreline at Mylopotamos, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Thessaly+Greece&form=hpcapt&filters=HpDate%3a%2220240109_1830%22",
+        "title": "Step up to the challenge!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240109_MilopotamosStairs%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2ce641620a9a6370ebd9f1b0027db4a7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

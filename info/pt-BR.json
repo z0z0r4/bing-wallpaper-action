@@ -4299,5 +4299,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fe084b17fd036266ca2bf47728536572": {
+        "startdate": "20240109",
+        "fullstartdate": "202401090300",
+        "enddate": "20240110",
+        "url": "/th?id=OHR.BalloonDay_PT-BR2020170449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BalloonDay_PT-BR2020170449",
+        "copyright": "Balões de ar quente sobre o Rio Grande, Albuquerque, Novo México, EUA (© Jennifer MacCornack/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bal%C3%B5es+de+ar+quente&form=hpcapt&mkt=pt-br",
+        "title": "Chegando com tudo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240109_BalloonDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fe084b17fd036266ca2bf47728536572",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
