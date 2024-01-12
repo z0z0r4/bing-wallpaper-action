@@ -4350,5 +4350,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e9a420238df6c6e57683bdd3f6f15f11": {
+        "startdate": "20240112",
+        "fullstartdate": "202401120300",
+        "enddate": "20240113",
+        "url": "/th?id=OHR.BukhansanSeoul_PT-BR9378454130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BukhansanSeoul_PT-BR9378454130",
+        "copyright": "Parque Nacional de Bukhansan, Coreia do Sul (© TRAVEL TAKE PHOTOS/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Bukhansan%2c+Coreia+do+Sul&form=hpcapt&mkt=pt-br",
+        "title": "O ponto mais alto de Seul",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240112_BukhansanSeoul%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e9a420238df6c6e57683bdd3f6f15f11",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

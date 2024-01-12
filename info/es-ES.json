@@ -4350,5 +4350,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4cdacd761f10a527889b350efb2e5c68": {
+        "startdate": "20240112",
+        "fullstartdate": "202401122300",
+        "enddate": "20240113",
+        "url": "/th?id=OHR.HanaHighway_ES-ES1267688219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HanaHighway_ES-ES1267688219",
+        "copyright": "Carretera a Hana, Maui, Hawai, EE.UU. (© Matteo Colombo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hana+Maui&form=hpcapt&filters=HpDate%3a%2220240112_2300%22",
+        "title": "Despacio, ¡disfruta del viaje!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240112_HanaHighway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4cdacd761f10a527889b350efb2e5c68",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
