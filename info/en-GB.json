@@ -4350,5 +4350,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "80cd67ca858c2b647cc5c74f394ca1ec": {
+        "startdate": "20240113",
+        "fullstartdate": "202401130000",
+        "enddate": "20240114",
+        "url": "/th?id=OHR.HanaHighway_EN-GB1532378824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HanaHighway_EN-GB1532378824",
+        "copyright": "Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hana+Highway&form=hpcapt&filters=HpDate%3a%2220240113_0000%22",
+        "title": "Slow down, enjoy the journey!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240113_HanaHighway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "80cd67ca858c2b647cc5c74f394ca1ec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

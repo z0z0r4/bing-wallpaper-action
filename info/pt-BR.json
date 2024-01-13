@@ -4367,5 +4367,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "02db701eb4374927bba269ee9bfaa034": {
+        "startdate": "20240113",
+        "fullstartdate": "202401130300",
+        "enddate": "20240114",
+        "url": "/th?id=OHR.HanaHighway_PT-BR9575647146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HanaHighway_PT-BR9575647146",
+        "copyright": "Estrada para Hana, Maui, Havai, EUA (© Matteo Colombo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Estrada+para+Hana+Maui+Havai+EUA&form=hpcapt&mkt=pt-br",
+        "title": "Aproveite a viagem!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240113_HanaHighway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "02db701eb4374927bba269ee9bfaa034",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

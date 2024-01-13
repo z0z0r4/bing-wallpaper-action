@@ -4367,5 +4367,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "22a531bed0eefcfa2fd88ae0367a1108": {
+        "startdate": "20240113",
+        "fullstartdate": "202401130800",
+        "enddate": "20240114",
+        "url": "/th?id=OHR.HanaHighway_ROW4004952811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HanaHighway_ROW4004952811",
+        "copyright": "Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hana+Highway&form=hpcapt&filters=HpDate%3a%2220240113_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240113_HanaHighway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "22a531bed0eefcfa2fd88ae0367a1108",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
