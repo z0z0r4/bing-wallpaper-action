@@ -4384,5 +4384,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "779a4661c91abfff0cb40b90e850f6bd": {
+        "startdate": "20240114",
+        "fullstartdate": "202401142300",
+        "enddate": "20240115",
+        "url": "/th?id=OHR.IceChapel_ES-ES1557442050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IceChapel_ES-ES1557442050",
+        "copyright": "La Eiskapelle (Capilla de Hielo) al pie de la montaña Watzmann, Baviera, Alemania (© Christian Bäck/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Watzmann&form=hpcapt&filters=HpDate%3a%2220240114_2300%22",
+        "title": "¡Una cueva sobrenatural!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240114_IceChapel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "779a4661c91abfff0cb40b90e850f6bd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
