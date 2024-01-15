@@ -4401,5 +4401,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c3e6c974dac1f0b1c9c4360709b24476": {
+        "startdate": "20240115",
+        "fullstartdate": "202401150800",
+        "enddate": "20240116",
+        "url": "/th?id=OHR.IceChapel_ROW4612088880_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IceChapel_ROW4612088880",
+        "copyright": "The Eiskapelle (Ice Chapel) at the foot of Watzmann mountain, Bavaria, Germany (© Christian Bäck/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Ice+Chapel+Watzmann+mountain&form=hpcapt&filters=HpDate%3a%2220240115_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240115_IceChapel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c3e6c974dac1f0b1c9c4360709b24476",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
