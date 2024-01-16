@@ -4418,5 +4418,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "06bef2c3d3ebd327a065a5d59be3a125": {
+        "startdate": "20240116",
+        "fullstartdate": "202401160300",
+        "enddate": "20240117",
+        "url": "/th?id=OHR.LakeLouise_PT-BR0201889430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeLouise_PT-BR0201889430",
+        "copyright": "Lago Louise, Parque Nacional de Banff, Alberta, Canadá (© Mr. Simon Paul/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Louise+Parque+Nacional+de+Banff+Alberta+Canad%C3%A1&form=hpcapt&mkt=pt-br",
+        "title": "Um pouco de descanso e relaxamento",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240116_LakeLouise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "06bef2c3d3ebd327a065a5d59be3a125",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

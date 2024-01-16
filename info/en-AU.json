@@ -4418,5 +4418,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2b3d8a1c2cc0e10eda25e46d32af03c5": {
+        "startdate": "20240116",
+        "fullstartdate": "202401160800",
+        "enddate": "20240117",
+        "url": "/th?id=OHR.LakeLouise_ROW5223454467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeLouise_ROW5223454467",
+        "copyright": "Lake Louise, Banff National Park, Alberta, Canada (© Mr. Simon Paul/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Louise+Banff+National+Park&form=hpcapt&filters=HpDate%3a%2220240116_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240116_LakeLouise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2b3d8a1c2cc0e10eda25e46d32af03c5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
