@@ -4435,5 +4435,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4c683a69d85606e10145bcf31a69c173": {
+        "startdate": "20240117",
+        "fullstartdate": "202401170300",
+        "enddate": "20240118",
+        "url": "/th?id=OHR.GiantAnteaterBR_PT-BR0815796970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiantAnteaterBR_PT-BR0815796970",
+        "copyright": "Um tamanduá passeando pelo Pantanal brasileiro (© Pedro Ferreira do Amaral/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=tamandu%C3%A1&form=hpcapt&mkt=pt-br",
+        "title": "Um gigante comedor de formiga",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240117_GiantAnteaterBR%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4c683a69d85606e10145bcf31a69c173",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
