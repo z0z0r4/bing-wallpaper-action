@@ -4452,5 +4452,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "850aaeaa14608dd40da86f0ceb7c6e4c": {
+        "startdate": "20240118",
+        "fullstartdate": "202401180300",
+        "enddate": "20240119",
+        "url": "/th?id=OHR.ParisBridge_PT-BR5007932654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisBridge_PT-BR5007932654",
+        "copyright": "A Ponte Alexandre III ao crepúsculo, Paris, França (© Sizun Eye/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=A+Ponte+Alexandre+III+paris&form=hpcapt&mkt=pt-br",
+        "title": "Sob o olhar de Pégaso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240118_ParisBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "850aaeaa14608dd40da86f0ceb7c6e4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
