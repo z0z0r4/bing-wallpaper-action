@@ -4469,5 +4469,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "55e4a72d18b36d5bc360b1482e18647e": {
+        "startdate": "20240119",
+        "fullstartdate": "202401190800",
+        "enddate": "20240120",
+        "url": "/th?id=OHR.PlitviceWinter_ROW6330120035_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlitviceWinter_ROW6330120035",
+        "copyright": "Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Plitvice+lakes+national+park&form=hpcapt&filters=HpDate%3a%2220240119_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240119_PlitviceWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "55e4a72d18b36d5bc360b1482e18647e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

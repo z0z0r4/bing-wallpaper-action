@@ -4469,5 +4469,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "551ed9062a67bf7118d1b6386016ae82": {
+        "startdate": "20240119",
+        "fullstartdate": "202401192300",
+        "enddate": "20240120",
+        "url": "/th?id=OHR.MacaroniPenguins_ES-ES2099572646_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MacaroniPenguins_ES-ES2099572646",
+        "copyright": "Pingüinos macaroni, Pasaje de Drake, Chile (© Paul Souders/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ping%C3%BCinos+macarrones&form=hpcapt&filters=HpDate%3a%2220240119_2300%22",
+        "title": "¡Macarrones congelados!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240119_MacaroniPenguins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "551ed9062a67bf7118d1b6386016ae82",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
