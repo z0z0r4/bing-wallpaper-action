@@ -4503,5 +4503,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4d4212ed6476fb337df83c91641e3d53": {
+        "startdate": "20240121",
+        "fullstartdate": "202401212300",
+        "enddate": "20240122",
+        "url": "/th?id=OHR.RenanusBridge_DE-DE1445260424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RenanusBridge_DE-DE1445260424",
+        "copyright": "Beatus-Rhenanus-Brücke über den Rhein, zwischen Straßburg und Kehl, Straßburg, Frankreich (© mauritius images GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Beatus-Rhenanus-Br%C3%BCcke&form=hpcapt&filters=HpDate%3a%2220240121_2300%22",
+        "title": "Brücke der Einheit?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240121_RenanusBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4d4212ed6476fb337df83c91641e3d53",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
