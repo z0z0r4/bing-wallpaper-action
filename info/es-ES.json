@@ -4520,5 +4520,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cef48d53ad84791cd9f1650ea9a790fa": {
+        "startdate": "20240122",
+        "fullstartdate": "202401222300",
+        "enddate": "20240123",
+        "url": "/th?id=OHR.MaldivesAtolls_ES-ES2469932499_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaldivesAtolls_ES-ES2469932499",
+        "copyright": "Atolones del océano Índico, Maldivas (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Maldivas&form=hpcapt&filters=HpDate%3a%2220240122_2300%22",
+        "title": "Ojos del Océano Índico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240122_MaldivesAtolls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cef48d53ad84791cd9f1650ea9a790fa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
