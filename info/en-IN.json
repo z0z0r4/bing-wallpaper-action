@@ -4537,5 +4537,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ac60b5c61a9997b6d15acd745a84f7e6": {
+        "startdate": "20240123",
+        "fullstartdate": "202401231830",
+        "enddate": "20240124",
+        "url": "/th?id=OHR.IcelandBeach_EN-IN3783601162_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcelandBeach_EN-IN3783601162",
+        "copyright": "Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Diamond+Beach+Iceland&form=hpcapt&filters=HpDate%3a%2220240123_1830%22",
+        "title": "A gem of a place",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240123_IcelandBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ac60b5c61a9997b6d15acd745a84f7e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -4537,5 +4537,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3a85ef1ea43bcc05ceb5411f228774f3": {
+        "startdate": "20240123",
+        "fullstartdate": "202401230800",
+        "enddate": "20240124",
+        "url": "/th?id=OHR.MaldivesAtolls_ROW2005051819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaldivesAtolls_ROW2005051819",
+        "copyright": "Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Maldives&form=hpcapt&filters=HpDate%3a%2220240123_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240123_MaldivesAtolls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3a85ef1ea43bcc05ceb5411f228774f3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

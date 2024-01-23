@@ -4537,5 +4537,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "66b43e74966a624acd459786b042c1bf": {
+        "startdate": "20240123",
+        "fullstartdate": "202401230300",
+        "enddate": "20240124",
+        "url": "/th?id=OHR.MaldivesAtolls_PT-BR2284826864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaldivesAtolls_PT-BR2284826864",
+        "copyright": "Atóis no Oceano Índico, Maldivas (© Amazing Aerial Premium/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Maldivas&form=hpcapt&mkt=pt-br",
+        "title": "Os olhos do Oceano Índico",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240123_MaldivesAtolls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "66b43e74966a624acd459786b042c1bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
