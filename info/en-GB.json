@@ -4537,5 +4537,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c0c7473425fe597475e719234e88460b": {
+        "startdate": "20240124",
+        "fullstartdate": "202401240000",
+        "enddate": "20240125",
+        "url": "/th?id=OHR.IcelandBeach_EN-GB3731647332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcelandBeach_EN-GB3731647332",
+        "copyright": "Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Jokulsarlon+Iceland&form=hpcapt&filters=HpDate%3a%2220240124_0000%22",
+        "title": "A gem of a place",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240124_IcelandBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c0c7473425fe597475e719234e88460b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

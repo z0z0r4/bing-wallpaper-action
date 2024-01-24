@@ -4554,5 +4554,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0e99f4ea2920253ab012b056770fe726": {
+        "startdate": "20240124",
+        "fullstartdate": "202401242300",
+        "enddate": "20240125",
+        "url": "/th?id=OHR.DwynwensDay_ES-ES2710084737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DwynwensDay_ES-ES2710084737",
+        "copyright": "Ruinas de la iglesia de San Dwynwen, Ynys Llanddwyn, Gales, Reino Unido (© Photos by R A Kearton/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gales&form=hpcapt&filters=HpDate%3a%2220240124_2300%22",
+        "title": "Un portal al pasado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240124_DwynwensDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0e99f4ea2920253ab012b056770fe726",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
