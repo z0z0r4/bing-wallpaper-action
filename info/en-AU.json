@@ -4571,5 +4571,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "df823b494a7c4b6b3dfdbaf29266e0db": {
+        "startdate": "20240125",
+        "fullstartdate": "202401250800",
+        "enddate": "20240126",
+        "url": "/th?id=OHR.DwynwensDay_ROW2715947734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DwynwensDay_ROW2715947734",
+        "copyright": "Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales, United Kingdom (© Photos by R A Kearton/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ynys+Llanddwyn&form=hpcapt&filters=HpDate%3a%2220240125_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240125_DwynwensDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "df823b494a7c4b6b3dfdbaf29266e0db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
