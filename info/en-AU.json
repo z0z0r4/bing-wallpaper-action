@@ -4588,5 +4588,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0267e000a4da01e46d80fec466f470a7": {
+        "startdate": "20240126",
+        "fullstartdate": "202401260800",
+        "enddate": "20240127",
+        "url": "/th?id=OHR.HawkOwl_ROW3302676798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawkOwl_ROW3302676798",
+        "copyright": "Northern hawk-owl (© Remo Savisaar/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Northern+hawk+owl&form=hpcapt&filters=HpDate%3a%2220240126_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240126_HawkOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0267e000a4da01e46d80fec466f470a7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
