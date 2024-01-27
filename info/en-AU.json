@@ -4605,5 +4605,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d74ef2d3e3d36e5d85bcfedaebe08d6d": {
+        "startdate": "20240127",
+        "fullstartdate": "202401270800",
+        "enddate": "20240128",
+        "url": "/th?id=OHR.ToucanetEmpoleirado_ROW9638468657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ToucanetEmpoleirado_ROW9638468657",
+        "copyright": "Spot-billed toucanet, Atlantic Forest, Brazil (© aaprophoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Spot-billed+toucanet&form=hpcapt&filters=HpDate%3a%2220240127_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240127_ToucanetEmpoleirado%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d74ef2d3e3d36e5d85bcfedaebe08d6d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -4605,5 +4605,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "811206583700146ec15cbf406b45fef4": {
+        "startdate": "20240127",
+        "fullstartdate": "202401272300",
+        "enddate": "20240128",
+        "url": "/th?id=OHR.SanLesmesBurgos_ES-ES5995468445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanLesmesBurgos_ES-ES5995468445",
+        "copyright": "Catedral de Burgos, Burgos, España (© Marco Bottigelli/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Burgos&form=hpcapt&filters=HpDate%3a%2220240127_2300%22",
+        "title": "¡Un viaje en el tiempo!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240127_SanLesmesBurgos%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "811206583700146ec15cbf406b45fef4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
