@@ -4622,5 +4622,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5d3fde48a0e592a30fae65a0a366f018": {
+        "startdate": "20240128",
+        "fullstartdate": "202401280800",
+        "enddate": "20240129",
+        "url": "/th?id=OHR.ChannelOutback_ROW9844310249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChannelOutback_ROW9844310249",
+        "copyright": "Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Channel+Country+Australia&form=hpcapt&filters=HpDate%3a%2220240128_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240128_ChannelOutback%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5d3fde48a0e592a30fae65a0a366f018",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
