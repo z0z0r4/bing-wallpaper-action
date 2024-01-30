@@ -4656,5 +4656,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "146669e90e3bb6dae2d668b5eb99744a": {
+        "startdate": "20240130",
+        "fullstartdate": "202401302300",
+        "enddate": "20240131",
+        "url": "/th?id=OHR.ZebraMother_DE-DE8530297892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ZebraMother_DE-DE8530297892",
+        "copyright": "Burchell-Zebra Mutter und Fohlen, Rietvlei Nature Reserve, Südafrika (© Richard Du Toit/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Burchell-Zebra&form=hpcapt&filters=HpDate%3a%2220240130_2300%22",
+        "title": "Kennen Sie diese Gattung der Zebras?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240130_ZebraMother%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "146669e90e3bb6dae2d668b5eb99744a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

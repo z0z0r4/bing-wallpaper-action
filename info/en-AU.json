@@ -4656,5 +4656,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "763ba480acdd36deb4985eab38831e0a": {
+        "startdate": "20240130",
+        "fullstartdate": "202401300800",
+        "enddate": "20240131",
+        "url": "/th?id=OHR.AlbaceteSpain_ROW2288661839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlbaceteSpain_ROW2288661839",
+        "copyright": "Ayna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ayna+Albacete+Spain&form=hpcapt&filters=HpDate%3a%2220240130_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240130_AlbaceteSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "763ba480acdd36deb4985eab38831e0a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
