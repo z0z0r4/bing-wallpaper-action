@@ -4673,5 +4673,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "84d422279949471a6f68721f4a150c30": {
+        "startdate": "20240131",
+        "fullstartdate": "202401310500",
+        "enddate": "20240201",
+        "url": "/th?id=OHR.ZebraMother_EN-CA5020659638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ZebraMother_EN-CA5020659638",
+        "copyright": "Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Burchells+zebra&form=hpcapt&filters=HpDate%3a%2220240131_0500%22",
+        "title": "Stripe a pose",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240131_ZebraMother%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "84d422279949471a6f68721f4a150c30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

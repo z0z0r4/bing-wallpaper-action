@@ -4673,5 +4673,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8267a7a2daf568f7c1c005f9d6e3e507": {
+        "startdate": "20240131",
+        "fullstartdate": "202401310300",
+        "enddate": "20240201",
+        "url": "/th?id=OHR.MacawParrot_PT-BR2174373090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MacawParrot_PT-BR2174373090",
+        "copyright": "Arara-canindé voando na floresta do Pantanal, Brasil (© Ondrej Prosicky/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Arara+caninde&form=hpcapt&mkt=pt-br",
+        "title": "Um vôo colorido no céu do Pantanal!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240131_MacawParrot%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8267a7a2daf568f7c1c005f9d6e3e507",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

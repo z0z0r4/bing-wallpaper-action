@@ -4673,5 +4673,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "922095d072c22d76596712d7bee8327c": {
+        "startdate": "20240131",
+        "fullstartdate": "202401312300",
+        "enddate": "20240201",
+        "url": "/th?id=OHR.HalbinselJasmund_ES-ES6725793206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HalbinselJasmund_ES-ES6725793206",
+        "copyright": "Faro de Sassnitz en la isla de Rügen, Alemania (© Christian Back/eStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Sassnitz+Alemania&form=hpcapt&filters=HpDate%3a%2220240131_2300%22",
+        "title": "¡Reluciente torre de nieve!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240131_HalbinselJasmund%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "922095d072c22d76596712d7bee8327c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
