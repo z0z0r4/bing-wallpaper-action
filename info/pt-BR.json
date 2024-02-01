@@ -4690,5 +4690,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b4fed813deb6536d5669d7774922b6fe": {
+        "startdate": "20240201",
+        "fullstartdate": "202402010300",
+        "enddate": "20240202",
+        "url": "/th?id=OHR.HalbinselJasmund_PT-BR2384900992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HalbinselJasmund_PT-BR2384900992",
+        "copyright": "Farol de Sassnitz, Rügen, Mecklenburg-Pomerânia Ocidental (© Christian Back/eStock)",
+        "copyrightlink": "https://www.bing.com/search?q=Sassnitz&form=hpcapt&mkt=pt-br",
+        "title": "Torre de neve brilhante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240201_HalbinselJasmund%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b4fed813deb6536d5669d7774922b6fe",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
