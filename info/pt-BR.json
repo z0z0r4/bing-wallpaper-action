@@ -4707,5 +4707,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ef6eef6047a2662f758deda6a78af633": {
+        "startdate": "20240202",
+        "fullstartdate": "202402020300",
+        "enddate": "20240203",
+        "url": "/th?id=OHR.AlpineMarmot_PT-BR7817972128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlpineMarmot_PT-BR7817972128",
+        "copyright": "Marmota espreitando para fora de sua toca (© Scacciamosche/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=dia+da+marmota&form=hpcapt&mkt=pt-br",
+        "title": "Marmotas meteorologistas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240202_AlpineMarmot%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ef6eef6047a2662f758deda6a78af633",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -4707,5 +4707,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "37d0b8c77f939a479a5f80d369e82121": {
+        "startdate": "20240202",
+        "fullstartdate": "202402022300",
+        "enddate": "20240203",
+        "url": "/th?id=OHR.VeniceCarnival_ES-ES7097735024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceCarnival_ES-ES7097735024",
+        "copyright": "Gran Canal con la Basílica de Santa Maria della Salute, Venecia, Italia (© RudyBalasko/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=carnaval+de+venecia&form=hpcapt&filters=HpDate%3a%2220240202_2300%22",
+        "title": "¡Luce tus mejores galas festivas!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240202_VeniceCarnival%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "37d0b8c77f939a479a5f80d369e82121",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
