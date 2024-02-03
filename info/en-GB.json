@@ -4707,5 +4707,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a9be0688e6e833d8a00294c9899bcb3f": {
+        "startdate": "20240203",
+        "fullstartdate": "202402030000",
+        "enddate": "20240204",
+        "url": "/th?id=OHR.VeniceCarnival_EN-GB9928247347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VeniceCarnival_EN-GB9928247347",
+        "copyright": "Grand Canal, Venice, Italy (© RudyBalasko/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Carnival+of+venice+history&form=hpcapt&filters=HpDate%3a%2220240203_0000%22",
+        "title": "Days of disguises",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240203_VeniceCarnival%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a9be0688e6e833d8a00294c9899bcb3f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
