@@ -4741,5 +4741,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7d35ceb592d91d91c8ace59ede8f23d3": {
+        "startdate": "20240204",
+        "fullstartdate": "202402042300",
+        "enddate": "20240205",
+        "url": "/th?id=OHR.MunichOperaHouse_DE-DE1491407214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MunichOperaHouse_DE-DE1491407214",
+        "copyright": "Innenansicht Münchner Nationaltheater Opernhaus, München, Bayern (© plainpicture/RelaxImages/WRIGHT)",
+        "copyrightlink": "https://www.bing.com/search?q=M%C3%BCnchner+Nationaltheater+Opernhaus&form=hpcapt&filters=HpDate%3a%2220240204_2300%22",
+        "title": "Wunder der Akustik!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240204_MunichOperaHouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7d35ceb592d91d91c8ace59ede8f23d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

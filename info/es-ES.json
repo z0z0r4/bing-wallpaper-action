@@ -4741,5 +4741,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "377510ad6b801efdb632f62142582c27": {
+        "startdate": "20240204",
+        "fullstartdate": "202402042300",
+        "enddate": "20240205",
+        "url": "/th?id=OHR.WesternMonarchs_ES-ES7926880512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WesternMonarchs_ES-ES7926880512",
+        "copyright": "Mariposas monarca, Goleta, California, EE.UU. (© Craig Rademacher/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mariposas+monarca&form=hpcapt&filters=HpDate%3a%2220240204_2300%22",
+        "title": "Ballet de mariposas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240204_WesternMonarchs%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "377510ad6b801efdb632f62142582c27",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

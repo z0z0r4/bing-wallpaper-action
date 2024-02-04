@@ -4741,5 +4741,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6a5840febf24c33a4d18c558562273ca": {
+        "startdate": "20240204",
+        "fullstartdate": "202402040300",
+        "enddate": "20240205",
+        "url": "/th?id=OHR.DevetashkaCave_PT-BR2895645670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DevetashkaCave_PT-BR2895645670",
+        "copyright": "Caverna Devetashka, Devetaki, Bulgária (© Jasmine_K/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bulgaria&form=hpcapt&mkt=pt-br",
+        "title": "Um toque de luz",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240204_DevetashkaCave%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6a5840febf24c33a4d18c558562273ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
