@@ -4758,5 +4758,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6230afcfaa6801640e71fe1f6fe944f1": {
+        "startdate": "20240205",
+        "fullstartdate": "202402052300",
+        "enddate": "20240206",
+        "url": "/th?id=OHR.LakeTahoeRock_ES-ES8162819510_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeTahoeRock_ES-ES8162819510",
+        "copyright": "Bonsai Rock, Lago Tahoe, EE.UU. (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Tahoe+California&form=hpcapt&filters=HpDate%3a%2220240205_2300%22",
+        "title": "¡Un bosque diminuto!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240205_LakeTahoeRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6230afcfaa6801640e71fe1f6fe944f1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
