@@ -4775,5 +4775,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4614b5820f8c518d120c5bb0e469fabd": {
+        "startdate": "20240206",
+        "fullstartdate": "202402060800",
+        "enddate": "20240207",
+        "url": "/th?id=OHR.LakeTahoeRock_ROW4668263342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeTahoeRock_ROW4668263342",
+        "copyright": "Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Tahoe&form=hpcapt&filters=HpDate%3a%2220240206_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240206_LakeTahoeRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4614b5820f8c518d120c5bb0e469fabd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

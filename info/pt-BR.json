@@ -4775,5 +4775,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2f2c8d00688aa57b47e5828f46f5e61d": {
+        "startdate": "20240206",
+        "fullstartdate": "202402060300",
+        "enddate": "20240207",
+        "url": "/th?id=OHR.LakeTahoeRock_PT-BR3293078683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeTahoeRock_PT-BR3293078683",
+        "copyright": "Bonsai Rock, Lago Tahoe, EUA (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Tahoe&form=hpcapt&mkt=pt-br",
+        "title": "Um bonsai natural",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240206_LakeTahoeRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2f2c8d00688aa57b47e5828f46f5e61d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
