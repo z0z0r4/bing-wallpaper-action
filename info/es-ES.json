@@ -4792,5 +4792,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a691e8baa077001c0257fdeaa0f116c6": {
+        "startdate": "20240207",
+        "fullstartdate": "202402072300",
+        "enddate": "20240208",
+        "url": "/th?id=OHR.MtHoodOregon_ES-ES8487119175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MtHoodOregon_ES-ES8487119175",
+        "copyright": "Monte Hood, Oregón, EE.UU. (© Inigo Cia/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monte+Hood+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220240207_2300%22",
+        "title": "Un gigante dormido",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240207_MtHoodOregon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a691e8baa077001c0257fdeaa0f116c6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
