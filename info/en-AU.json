@@ -4826,5 +4826,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "331605d5f623d3d40ce94f275d02c4be": {
+        "startdate": "20240209",
+        "fullstartdate": "202402090800",
+        "enddate": "20240210",
+        "url": "/th?id=OHR.PegadungRocks_ROW3539053744_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PegadungRocks_ROW3539053744",
+        "copyright": "Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lampung+Sumatra+Indonesia&form=hpcapt&filters=HpDate%3a%2220240209_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_PegadungRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "331605d5f623d3d40ce94f275d02c4be",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

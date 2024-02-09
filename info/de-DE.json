@@ -4826,5 +4826,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "58a9f3e02d84f3be3dc2831a30479aab": {
+        "startdate": "20240209",
+        "fullstartdate": "202402092300",
+        "enddate": "20240210",
+        "url": "/th?id=OHR.ChinaDragon_DE-DE3426075443_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChinaDragon_DE-DE3426075443",
+        "copyright": "Chinesisches Neujahr, Luzhou, China (© Liu Guoxing/VCG via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Chinesisches+Neujahr&form=hpcapt&filters=HpDate%3a%2220240209_2300%22",
+        "title": "Willkommen im Jahr des Drachen!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_ChinaDragon%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "58a9f3e02d84f3be3dc2831a30479aab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -4826,5 +4826,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6494b9a74b26214247ea3008a238f6ec": {
+        "startdate": "20240209",
+        "fullstartdate": "202402090300",
+        "enddate": "20240210",
+        "url": "/th?id=OHR.PraiadeCopacabana_PT-BR1256625219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PraiadeCopacabana_PT-BR1256625219",
+        "copyright": "Praia de Copacabana, Rio de Janeiro, Brasil (© Anton Petrus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Praia+de+Copacabana&form=hpcapt&mkt=pt-br",
+        "title": "Famosa em todo o mundo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_PraiadeCopacabana%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6494b9a74b26214247ea3008a238f6ec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

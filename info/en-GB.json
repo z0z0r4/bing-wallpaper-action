@@ -4809,5 +4809,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f77b0e179e852ef1894959bec16f5843": {
+        "startdate": "20240209",
+        "fullstartdate": "202402090000",
+        "enddate": "20240210",
+        "url": "/th?id=OHR.PegadungRocks_EN-GB6159819116_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PegadungRocks_EN-GB6159819116",
+        "copyright": "Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lampung+Sumatra+Indonesia&form=hpcapt&filters=HpDate%3a%2220240209_0000%22",
+        "title": "Rocks and roll",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240209_PegadungRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f77b0e179e852ef1894959bec16f5843",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
