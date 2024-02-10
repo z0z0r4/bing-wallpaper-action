@@ -4843,5 +4843,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4979bfc332f374970fa1e778b5f0f424": {
+        "startdate": "20240210",
+        "fullstartdate": "202402100300",
+        "enddate": "20240211",
+        "url": "/th?id=OHR.ChinaDragon_PT-BR1649344638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChinaDragon_PT-BR1649344638",
+        "copyright": "Chinese New Year, Luzhou, China (© Liu Guoxing/VCG via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ano+Novo+Lunar+Curiosidades&form=hpcapt&mkt=pt-br",
+        "title": "O ano do Dragão",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240210_ChinaDragon%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "4979bfc332f374970fa1e778b5f0f424",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
