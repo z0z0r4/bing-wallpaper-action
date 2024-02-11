@@ -4860,5 +4860,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aaec5b442f1f3127b9aa2940de5aefcc": {
+        "startdate": "20240211",
+        "fullstartdate": "202402112300",
+        "enddate": "20240212",
+        "url": "/th?id=OHR.GiantTortoise_DE-DE4591798432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiantTortoise_DE-DE4591798432",
+        "copyright": "Riesenschildkröten am Vulkan Alcedo, Insel Isabela, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Galapagosinseln+Ecuador&form=hpcapt&filters=HpDate%3a%2220240211_2300%22",
+        "title": "Sanfte Riesen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240211_GiantTortoise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aaec5b442f1f3127b9aa2940de5aefcc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

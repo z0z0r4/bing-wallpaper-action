@@ -4860,5 +4860,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b71d3582855ef7730f31395edb22f36c": {
+        "startdate": "20240211",
+        "fullstartdate": "202402110300",
+        "enddate": "20240212",
+        "url": "/th?id=OHR.FolegandrosGreece_PT-BR2119893846_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FolegandrosGreece_PT-BR2119893846",
+        "copyright": "Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilha+Folegandros+Grecia&form=hpcapt&mkt=pt-br",
+        "title": "Campos Elísios na Terra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240211_FolegandrosGreece%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b71d3582855ef7730f31395edb22f36c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

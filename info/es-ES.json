@@ -4860,5 +4860,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d64edcfc4acee744eaaeb04b5ca56b5e": {
+        "startdate": "20240211",
+        "fullstartdate": "202402112300",
+        "enddate": "20240212",
+        "url": "/th?id=OHR.GiantTortoise_ES-ES0844160920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiantTortoise_ES-ES0844160920",
+        "copyright": "Tortugas gigantes del Volcán Alcedo, Isla Isabela, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=islas+gal%C3%A1pagos+ecuador&form=hpcapt&filters=HpDate%3a%2220240211_2300%22",
+        "title": "Hogar, dulce volcán",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240211_GiantTortoise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d64edcfc4acee744eaaeb04b5ca56b5e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
