@@ -4877,5 +4877,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "09bc7bda748f74ff42a7ddc96fd87b54": {
+        "startdate": "20240212",
+        "fullstartdate": "202402120800",
+        "enddate": "20240213",
+        "url": "/th?id=OHR.GiantTortoise_ROW5660004796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiantTortoise_ROW5660004796",
+        "copyright": "Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Galapagos+Islands+Ecuador&form=hpcapt&filters=HpDate%3a%2220240212_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240212_GiantTortoise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "09bc7bda748f74ff42a7ddc96fd87b54",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
