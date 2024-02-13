@@ -4894,5 +4894,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d3db74d2fab1e4d303c590a9f901e238": {
+        "startdate": "20240213",
+        "fullstartdate": "202402130800",
+        "enddate": "20240214",
+        "url": "/th?id=OHR.Chandeleur_ROW5889328263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Chandeleur_ROW5889328263",
+        "copyright": "L’arche de Port-Blanc, Saint-Pierre-Quiberon, France (© DaLiu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saint-Pierre-Quiberon&form=hpcapt&filters=HpDate%3a%2220240213_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240213_Chandeleur%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d3db74d2fab1e4d303c590a9f901e238",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

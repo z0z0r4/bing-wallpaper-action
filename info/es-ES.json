@@ -4894,5 +4894,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "49c105fdf5fdc9542a3a259b37f6b531": {
+        "startdate": "20240213",
+        "fullstartdate": "202402132300",
+        "enddate": "20240214",
+        "url": "/th?id=OHR.BowingCrane_ES-ES1063645662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BowingCrane_ES-ES1063645662",
+        "copyright": "Grulla de coronilla roja saludando a su pareja en Hokkaido, Japón (© Steve Bloom Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+San+Valentin&form=hpcapt&filters=HpDate%3a%2220240213_2300%22",
+        "title": "Mejor juntos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240213_BowingCrane%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "49c105fdf5fdc9542a3a259b37f6b531",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
