@@ -4911,5 +4911,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "47082a8b8c406841a148df2cb3b9052e": {
+        "startdate": "20240214",
+        "fullstartdate": "202402140800",
+        "enddate": "20240215",
+        "url": "/th?id=OHR.BowingCrane_ROW6062736647_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BowingCrane_ROW6062736647",
+        "copyright": "Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Red-crowned+crane&form=hpcapt&filters=HpDate%3a%2220240214_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240214_BowingCrane%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "47082a8b8c406841a148df2cb3b9052e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
