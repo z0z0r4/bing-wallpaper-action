@@ -4928,5 +4928,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0cc5014a37e747e9c325571dc4fa3648": {
+        "startdate": "20240215",
+        "fullstartdate": "202402152300",
+        "enddate": "20240216",
+        "url": "/th?id=OHR.BackyardBird_ES-ES5058549868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BackyardBird_ES-ES5058549868",
+        "copyright": "Una hembra de pyrrhuloxia se posa en un cactus espinoso en Texas, EE.UU. (© outtakes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cardenal+ave&form=hpcapt&filters=HpDate%3a%2220240215_2300%22",
+        "title": "Haz que cada pájaro cuente",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240215_BackyardBird%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0cc5014a37e747e9c325571dc4fa3648",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
