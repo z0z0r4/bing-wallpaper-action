@@ -4945,5 +4945,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b8eb4844119430810f1526a4d5ab86ea": {
+        "startdate": "20240216",
+        "fullstartdate": "202402162300",
+        "enddate": "20240217",
+        "url": "/th?id=OHR.LakeDolomites_DE-DE3348859489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeDolomites_DE-DE3348859489",
+        "copyright": "Der Pragser Wildsee in den Dolomiten, Südtirol, Italien (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pragser+Wildsee&form=hpcapt&filters=HpDate%3a%2220240216_2300%22",
+        "title": "Die Perle der Dolomiten",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240216_LakeDolomites%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b8eb4844119430810f1526a4d5ab86ea",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

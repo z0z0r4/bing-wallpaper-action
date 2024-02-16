@@ -4945,5 +4945,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "821c0b173a1d8d05aa1eff75bb4f3867": {
+        "startdate": "20240216",
+        "fullstartdate": "202402162300",
+        "enddate": "20240217",
+        "url": "/th?id=OHR.CarnavalTenerife_ES-ES6332745599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CarnavalTenerife_ES-ES6332745599",
+        "copyright": "Casas de colores en Punta Brava, Puerto de la Cruz, Tenerife, España (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=santa+cruz+de+tenerife&form=hpcapt&filters=HpDate%3a%2220240216_2300%22",
+        "title": "¡Colores vibrantes todo el año!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240216_CarnavalTenerife%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "821c0b173a1d8d05aa1eff75bb4f3867",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

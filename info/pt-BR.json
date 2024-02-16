@@ -4945,5 +4945,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b1483dbcb73e2b91bac4c978c0f2c97c": {
+        "startdate": "20240216",
+        "fullstartdate": "202402160300",
+        "enddate": "20240217",
+        "url": "/th?id=OHR.BackyardBird_PT-BR4739609894_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BackyardBird_PT-BR4739609894",
+        "copyright": "Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/images/search?q=cardeis+aves&form=hpcapt&mkt=pt-br",
+        "title": "Viu algum pássaro hoje?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240216_BackyardBird%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b1483dbcb73e2b91bac4c978c0f2c97c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
