@@ -4962,5 +4962,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a5c6379cefcc115c5931fc80ebfdba18": {
+        "startdate": "20240217",
+        "fullstartdate": "202402170800",
+        "enddate": "20240218",
+        "url": "/th?id=OHR.LakeDolomites_ROW9668753915_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeDolomites_ROW9668753915",
+        "copyright": "The Pragser Wildsee in the Dolomites, South Tyrol, Italy (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pragser+Wildsee&form=hpcapt&filters=HpDate%3a%2220240217_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240217_LakeDolomites%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a5c6379cefcc115c5931fc80ebfdba18",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
