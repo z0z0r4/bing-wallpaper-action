@@ -4996,5 +4996,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "52c675e52ef7321223c444e1c8ab1616": {
+        "startdate": "20240219",
+        "fullstartdate": "202402192300",
+        "enddate": "20240220",
+        "url": "/th?id=OHR.PeakDistrictNP_ES-ES1714203483_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeakDistrictNP_ES-ES1714203483",
+        "copyright": "Kinder Scout al amanecer, Parque Nacional de Peak District, Reino Unido (© john finney photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Kinder+Scout&form=hpcapt&filters=HpDate%3a%2220240219_2300%22",
+        "title": "Un parque helado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240219_PeakDistrictNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "52c675e52ef7321223c444e1c8ab1616",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

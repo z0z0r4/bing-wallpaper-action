@@ -4996,5 +4996,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f15e975c4a6edd1f25d118c46e3e5a41": {
+        "startdate": "20240219",
+        "fullstartdate": "202402190800",
+        "enddate": "20240220",
+        "url": "/th?id=OHR.CarnavalTenerife_ROW8519647971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CarnavalTenerife_ROW8519647971",
+        "copyright": "Aerial view of colourful houses on a headland in Puerto de la Cruz, Tenerife, Spain (© Marco Bottigelli/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Puerto+de+la+Cruz&form=hpcapt&filters=HpDate%3a%2220240219_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240219_CarnavalTenerife%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f15e975c4a6edd1f25d118c46e3e5a41",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
