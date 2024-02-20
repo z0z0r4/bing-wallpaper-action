@@ -5013,5 +5013,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "828530103276dcc7b1d8be9e88c1de86": {
+        "startdate": "20240220",
+        "fullstartdate": "202402202300",
+        "enddate": "20240221",
+        "url": "/th?id=OHR.YosemiteFirefall_ES-ES1887496607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YosemiteFirefall_ES-ES1887496607",
+        "copyright": "Cascada de fuego en Horsetail Fall, Parque Nacional de Yosemite, California, EE.UU. (© Gregory B Cuvelier/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=horsetail+firefall+en+california&form=hpcapt&filters=HpDate%3a%2220240220_2300%22",
+        "title": "Una cascada inexplicable",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240220_YosemiteFirefall%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "828530103276dcc7b1d8be9e88c1de86",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
