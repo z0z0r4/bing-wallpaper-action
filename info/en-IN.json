@@ -5047,5 +5047,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "02a47f517231ab8e80a6a490ff5bccd1": {
+        "startdate": "20240222",
+        "fullstartdate": "202402221830",
+        "enddate": "20240223",
+        "url": "/th?id=OHR.HaghartsinMonastery_EN-IN0847461521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HaghartsinMonastery_EN-IN0847461521",
+        "copyright": "Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Haghartsin+Monastery&form=hpcapt&filters=HpDate%3a%2220240222_1830%22",
+        "title": "Where eagles dance",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240222_HaghartsinMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "02a47f517231ab8e80a6a490ff5bccd1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -5047,5 +5047,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "52146f53833afd76f9c0e73c2563a1cb": {
+        "startdate": "20240222",
+        "fullstartdate": "202402222300",
+        "enddate": "20240223",
+        "url": "/th?id=OHR.HaghartsinMonastery_DE-DE6295908879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HaghartsinMonastery_DE-DE6295908879",
+        "copyright": "Kloster Haghartsin, Dilijan-Nationalpark, Armenien (© Alexey Kharitonov/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Kloster+Haghartsin%2c+Dilijan-Nationalpark%2c+Armenien&form=hpcapt&filters=HpDate%3a%2220240222_2300%22",
+        "title": "Wo die Adler tanzen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240222_HaghartsinMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "52146f53833afd76f9c0e73c2563a1cb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

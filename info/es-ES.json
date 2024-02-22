@@ -5047,5 +5047,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "44efb538e789b59e0131376b905b22e3": {
+        "startdate": "20240222",
+        "fullstartdate": "202402222300",
+        "enddate": "20240223",
+        "url": "/th?id=OHR.HaghartsinMonastery_ES-ES1400026000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HaghartsinMonastery_ES-ES1400026000",
+        "copyright": "Monasterio de Haghartsin, Parque Nacional de Dilijan, Armenia (© Alexey Kharitonov/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Monasterio+de+Haghartsin+en+Armenia&form=hpcapt&filters=HpDate%3a%2220240222_2300%22",
+        "title": "Donde danzan las águilas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240222_HaghartsinMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "44efb538e789b59e0131376b905b22e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
