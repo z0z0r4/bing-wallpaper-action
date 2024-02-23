@@ -5064,5 +5064,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "48ebf6b76200477f5246e53b17eea5a2": {
+        "startdate": "20240223",
+        "fullstartdate": "202402232300",
+        "enddate": "20240224",
+        "url": "/th?id=OHR.HanselGretelHouse_DE-DE6769523400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HanselGretelHouse_DE-DE6769523400",
+        "copyright": "Hänsel und Gretel Haus in Oberammergau, Bayern (© Tim Graham/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wilhelm+Grimm&form=hpcapt&filters=HpDate%3a%2220240223_2300%22",
+        "title": "Märchen oder Wirklichkeit?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240223_HanselGretelHouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "48ebf6b76200477f5246e53b17eea5a2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

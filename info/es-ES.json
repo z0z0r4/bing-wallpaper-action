@@ -5064,5 +5064,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c7a09a2434cb8dde4440dc9e8e5ee9e8": {
+        "startdate": "20240223",
+        "fullstartdate": "202402232300",
+        "enddate": "20240224",
+        "url": "/th?id=OHR.AlmondBloom_ES-ES1883019018_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlmondBloom_ES-ES1883019018",
+        "copyright": "Almendros en flor, California, EE.UU. (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=almendro&form=hpcapt&filters=HpDate%3a%2220240223_2300%22",
+        "title": "Susurros de primavera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240223_AlmondBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c7a09a2434cb8dde4440dc9e8e5ee9e8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
