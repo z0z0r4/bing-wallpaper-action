@@ -5081,5 +5081,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e5b36044c9bd25762ef289dac53795f3": {
+        "startdate": "20240224",
+        "fullstartdate": "202402240300",
+        "enddate": "20240225",
+        "url": "/th?id=OHR.AlmondBloom_PT-BR9517500813_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlmondBloom_PT-BR9517500813",
+        "copyright": "Amendoeiras em plena floração, Califórnia, EUA (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Amendoeiras&form=hpcapt&mkt=pt-br",
+        "title": "Sussurros da primavera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240224_AlmondBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e5b36044c9bd25762ef289dac53795f3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
