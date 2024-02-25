@@ -5098,5 +5098,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4c13d3f5fdf80482d69127f471093e67": {
+        "startdate": "20240225",
+        "fullstartdate": "202402250800",
+        "enddate": "20240226",
+        "url": "/th?id=OHR.MtPrevostDuncan_ROW3469232708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MtPrevostDuncan_ROW3469232708",
+        "copyright": "Mist in the Cowichan Valley on Vancouver Island, British Columbia, Canada (© Kevin Oke/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Cowichan+Valley&form=hpcapt&filters=HpDate%3a%2220240225_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240225_MtPrevostDuncan%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4c13d3f5fdf80482d69127f471093e67",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
