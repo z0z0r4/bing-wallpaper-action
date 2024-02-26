@@ -5115,5 +5115,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b7687473a4ced80b44a417f9ad989799": {
+        "startdate": "20240226",
+        "fullstartdate": "202402261830",
+        "enddate": "20240227",
+        "url": "/th?id=OHR.PolarBearCubs_EN-IN7268694911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PolarBearCubs_EN-IN7268694911",
+        "copyright": "Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220240226_1830%22",
+        "title": "An ice day to play",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240226_PolarBearCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b7687473a4ced80b44a417f9ad989799",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

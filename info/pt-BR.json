@@ -5115,5 +5115,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8adb0f050a849bfeb7366eed6457854d": {
+        "startdate": "20240226",
+        "fullstartdate": "202402260300",
+        "enddate": "20240227",
+        "url": "/th?id=OHR.GrandCanyonWinter_PT-BR0593676326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GrandCanyonWinter_PT-BR0593676326",
+        "copyright": "Parque Nacional do Grand Canyon, Arizona, EUA (© Jeremy Janus/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Gran+Canyon&form=hpcapt&mkt=pt-br",
+        "title": "Profundo e abissal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240226_GrandCanyonWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8adb0f050a849bfeb7366eed6457854d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
