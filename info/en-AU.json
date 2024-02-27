@@ -5132,5 +5132,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5c78ea0285ecc5356a82f5b6759f8f09": {
+        "startdate": "20240227",
+        "fullstartdate": "202402270800",
+        "enddate": "20240228",
+        "url": "/th?id=OHR.PolarBearCubs_ROW3833335910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PolarBearCubs_ROW3833335910",
+        "copyright": "Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220240227_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240227_PolarBearCubs%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5c78ea0285ecc5356a82f5b6759f8f09",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
