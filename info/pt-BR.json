@@ -5149,5 +5149,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "488208cedbdcd6fa041d4d448a05191b": {
+        "startdate": "20240228",
+        "fullstartdate": "202402280300",
+        "enddate": "20240229",
+        "url": "/th?id=OHR.BamburghCastleUK_PT-BR0750396632_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BamburghCastleUK_PT-BR0750396632",
+        "copyright": "Castelo de Bamburgo, Northumberland, Inglaterra (© Blackbeck/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castelo+Bamburgo+Northumberland&form=hpcapt&mkt=pt-br",
+        "title": "Crescendo com o vento",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240228_BamburghCastleUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "488208cedbdcd6fa041d4d448a05191b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
