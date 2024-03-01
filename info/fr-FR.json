@@ -5183,5 +5183,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d0464f0915d4bf1c4fb06ae24e85d8bf": {
+        "startdate": "20240301",
+        "fullstartdate": "202403012300",
+        "enddate": "20240302",
+        "url": "/th?id=OHR.ModicaItaly_FR-FR5433904766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ModicaItaly_FR-FR5433904766",
+        "copyright": "Modica, Sicile, Italie  (© Sandro Bisaro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Modica+Sicile+&form=hpcapt&filters=HpDate%3a%2220240301_2300%22",
+        "title": "Un petit bout de Sicile",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240301_ModicaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d0464f0915d4bf1c4fb06ae24e85d8bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
