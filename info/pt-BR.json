@@ -5200,5 +5200,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0805a55061b37fb56fbb809860edd545": {
+        "startdate": "20240302",
+        "fullstartdate": "202403020300",
+        "enddate": "20240303",
+        "url": "/th?id=OHR.ModicaItaly_PT-BR1634339196_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ModicaItaly_PT-BR1634339196",
+        "copyright": "Módica, Sicília, Itália (© Sandro Bisaro/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Modica+Sicilia+Italia&form=hpcapt&mkt=pt-br",
+        "title": "Uma fatia da Sicília",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240302_ModicaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0805a55061b37fb56fbb809860edd545",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
