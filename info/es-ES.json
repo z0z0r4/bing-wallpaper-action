@@ -5217,5 +5217,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9f179528a0ee4052476f2fbacacdc1ab": {
+        "startdate": "20240303",
+        "fullstartdate": "202403032300",
+        "enddate": "20240304",
+        "url": "/th?id=OHR.ArenalCostaRica_ES-ES6180859689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArenalCostaRica_ES-ES6180859689",
+        "copyright": "Volcán Arenal visto desde Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=volc%C3%A1n+Arenal&form=hpcapt&filters=HpDate%3a%2220240303_2300%22",
+        "title": "Una bella durmiente",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240303_ArenalCostaRica%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9f179528a0ee4052476f2fbacacdc1ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

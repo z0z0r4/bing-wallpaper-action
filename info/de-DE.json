@@ -5217,5 +5217,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4ba0ab29835aea0ebdc920b20f9dd443": {
+        "startdate": "20240303",
+        "fullstartdate": "202403032300",
+        "enddate": "20240304",
+        "url": "/th?id=OHR.ArenalCostaRica_DE-DE6048833504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArenalCostaRica_DE-DE6048833504",
+        "copyright": "Vulkan Arenal in Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arenal+Vulkan&form=hpcapt&filters=HpDate%3a%2220240303_2300%22",
+        "title": "Eine schlafende Schönheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240303_ArenalCostaRica%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4ba0ab29835aea0ebdc920b20f9dd443",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
