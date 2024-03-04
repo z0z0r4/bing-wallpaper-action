@@ -5234,5 +5234,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3cb77dd734db50e38a09ff417efda96d": {
+        "startdate": "20240304",
+        "fullstartdate": "202403042300",
+        "enddate": "20240305",
+        "url": "/th?id=OHR.BangkokCircle_ES-ES6741125775_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BangkokCircle_ES-ES6741125775",
+        "copyright": "Rotonda y autopista en Bangkok, Tailandia (© Avigator Fortuner/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Bangkok&form=hpcapt&filters=HpDate%3a%2220240304_2300%22",
+        "title": "¿Atascado en un bucle?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240304_BangkokCircle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3cb77dd734db50e38a09ff417efda96d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

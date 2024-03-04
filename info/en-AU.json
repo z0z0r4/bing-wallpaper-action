@@ -5234,5 +5234,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "14f7914d5f8451d2ea8e856c8c78bf85": {
+        "startdate": "20240304",
+        "fullstartdate": "202403040800",
+        "enddate": "20240305",
+        "url": "/th?id=OHR.ArenalCostaRica_ROW5701844535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArenalCostaRica_ROW5701844535",
+        "copyright": "Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arenal+Volcano&form=hpcapt&filters=HpDate%3a%2220240304_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240304_ArenalCostaRica%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "14f7914d5f8451d2ea8e856c8c78bf85",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

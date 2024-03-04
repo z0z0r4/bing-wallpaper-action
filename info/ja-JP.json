@@ -5234,5 +5234,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "001e2e0eabc4a7e12e35ff9a5d7b3485": {
+        "startdate": "20240304",
+        "fullstartdate": "202403041500",
+        "enddate": "20240305",
+        "url": "/th?id=OHR.BangkokCircle_JA-JP1249849159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BangkokCircle_JA-JP1249849159",
+        "copyright": "バンコク, タイ (© Avigator Fortuner/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220240304_1500%22",
+        "title": "高速道路の空撮夜景",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240304_BangkokCircle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "001e2e0eabc4a7e12e35ff9a5d7b3485",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
