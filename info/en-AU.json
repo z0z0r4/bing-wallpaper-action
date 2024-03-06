@@ -5268,5 +5268,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7b80682c0281c9ff0eca12b5ee6c709f": {
+        "startdate": "20240306",
+        "fullstartdate": "202403060800",
+        "enddate": "20240307",
+        "url": "/th?id=OHR.WahclellaFalls_ROW6019537644_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WahclellaFalls_ROW6019537644",
+        "copyright": "Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Wahclella+Falls+Oregon+United+States&form=hpcapt&filters=HpDate%3a%2220240306_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240306_WahclellaFalls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7b80682c0281c9ff0eca12b5ee6c709f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
