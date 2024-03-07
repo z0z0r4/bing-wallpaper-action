@@ -5285,5 +5285,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "11c22c3a0f01010fb255a081b94fabba": {
+        "startdate": "20240307",
+        "fullstartdate": "202403070800",
+        "enddate": "20240308",
+        "url": "/th?id=OHR.TarragonaSpain_ROW6236675282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TarragonaSpain_ROW6236675282",
+        "copyright": "Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Roques+de+Benet+rocks+Spain&form=hpcapt&filters=HpDate%3a%2220240307_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240307_TarragonaSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "11c22c3a0f01010fb255a081b94fabba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
