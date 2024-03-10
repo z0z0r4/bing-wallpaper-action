@@ -5336,5 +5336,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "54d64922f216f48818d2d2f084583b9c": {
+        "startdate": "20240310",
+        "fullstartdate": "202403102300",
+        "enddate": "20240311",
+        "url": "/th?id=OHR.SleepyKoala_ES-ES6859106237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SleepyKoala_ES-ES6859106237",
+        "copyright": "Un koala durmiendo en un eucalipto, Australia (© Anton Rogozin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Koala&form=hpcapt&filters=HpDate%3a%2220240310_2300%22",
+        "title": "Los dulces sueños están hechos de hojas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240310_SleepyKoala%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "54d64922f216f48818d2d2f084583b9c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
