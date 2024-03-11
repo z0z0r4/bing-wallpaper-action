@@ -5353,5 +5353,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4f029971469e552272318e7ab54d3a2f": {
+        "startdate": "20240311",
+        "fullstartdate": "202403110300",
+        "enddate": "20240312",
+        "url": "/th?id=OHR.SleepyKoala_PT-BR9818387982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SleepyKoala_PT-BR9818387982",
+        "copyright": "Um coala dormindo em uma árvore de eucalipto, Austrália (© Anton Rogozin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Coala&form=hpcapt&mkt=pt-br",
+        "title": "Quem dorme bem, vive melhor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240311_SleepyKoala%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4f029971469e552272318e7ab54d3a2f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

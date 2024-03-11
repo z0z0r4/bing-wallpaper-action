@@ -5353,5 +5353,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e925e7c3878c78360ad2cf723b34a1d9": {
+        "startdate": "20240311",
+        "fullstartdate": "202403110700",
+        "enddate": "20240312",
+        "url": "/th?id=OHR.SleepyKoala_ROW4497881755_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SleepyKoala_ROW4497881755",
+        "copyright": "A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=koala&form=hpcapt&filters=HpDate%3a%2220240311_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240311_SleepyKoala%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e925e7c3878c78360ad2cf723b34a1d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
