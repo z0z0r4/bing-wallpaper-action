@@ -5370,5 +5370,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7db325314ba68a7f39c53c9f772f89dc": {
+        "startdate": "20240312",
+        "fullstartdate": "202403120300",
+        "enddate": "20240313",
+        "url": "/th?id=OHR.BryceSnow_PT-BR0096570080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BryceSnow_PT-BR0096570080",
+        "copyright": "Parque Nacional Bryce Canyon, Utah, EUA (© Jim Patterson/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Bryce+Canyon+National+Park+Estados+Unidos&form=hpcapt&mkt=pt-br",
+        "title": "Guardiões do cânion",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240312_BryceSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7db325314ba68a7f39c53c9f772f89dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
