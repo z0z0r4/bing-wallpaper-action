@@ -5387,5 +5387,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "67ae6e2a3ade12f926ca3cd3ce94aecf": {
+        "startdate": "20240313",
+        "fullstartdate": "202403132300",
+        "enddate": "20240314",
+        "url": "/th?id=OHR.AyutthayaTree_ES-ES7297623437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AyutthayaTree_ES-ES7297623437",
+        "copyright": "Wat Phra Ngam, Parque Histórico de Ayutthaya, Tailandia (© boonchai wedmakawand/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Pi&form=hpcapt&filters=HpDate%3a%2220240313_2300%22",
+        "title": "Un pedazo de pi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240313_AyutthayaTree%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "67ae6e2a3ade12f926ca3cd3ce94aecf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
