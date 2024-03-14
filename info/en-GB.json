@@ -5387,5 +5387,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f0762af15c180f7293cf0a89fd5c0e17": {
+        "startdate": "20240314",
+        "fullstartdate": "202403140000",
+        "enddate": "20240315",
+        "url": "/th?id=OHR.AyutthayaTree_EN-GB6491490381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AyutthayaTree_EN-GB6491490381",
+        "copyright": "Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Pi+Day&form=hpcapt&filters=HpDate%3a%2220240314_0000%22",
+        "title": "A piece of pi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240314_AyutthayaTree%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f0762af15c180f7293cf0a89fd5c0e17",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

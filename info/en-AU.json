@@ -5404,5 +5404,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9f90a2d03d08aa74e4720d2f00d86ad9": {
+        "startdate": "20240314",
+        "fullstartdate": "202403140700",
+        "enddate": "20240315",
+        "url": "/th?id=OHR.AyutthayaTree_ROW5031263766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AyutthayaTree_ROW5031263766",
+        "copyright": "Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Phra+Ngam+Thailand&form=hpcapt&filters=HpDate%3a%2220240314_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240314_AyutthayaTree%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9f90a2d03d08aa74e4720d2f00d86ad9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
