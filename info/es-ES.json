@@ -5421,5 +5421,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "351ba0e85a18ed04bddde4a260b919e3": {
+        "startdate": "20240315",
+        "fullstartdate": "202403152300",
+        "enddate": "20240316",
+        "url": "/th?id=OHR.BambooPanda_ES-ES8233000547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BambooPanda_ES-ES8233000547",
+        "copyright": "Panda gigante comiendo bambú, Chengdu, China (© Suzi Eszterhas/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Panda+gigante&form=hpcapt&filters=HpDate%3a%2220240315_2300%22",
+        "title": "Un poco de bambú",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240315_BambooPanda%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "351ba0e85a18ed04bddde4a260b919e3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

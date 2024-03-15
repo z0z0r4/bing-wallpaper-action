@@ -5404,5 +5404,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "81790c3e0de4a5606a9baa0beae07cee": {
+        "startdate": "20240315",
+        "fullstartdate": "202403150000",
+        "enddate": "20240316",
+        "url": "/th?id=OHR.AnzaBorregoBloom_EN-GB6213504183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AnzaBorregoBloom_EN-GB6213504183",
+        "copyright": "Anza-Borrego Desert State Park, California, USA (© Stephen Matera/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Anza-Borrego+Desert+State+Park+California&form=hpcapt&filters=HpDate%3a%2220240315_0000%22",
+        "title": "A splash of spring",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240315_AnzaBorregoBloom%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "81790c3e0de4a5606a9baa0beae07cee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
