@@ -5438,5 +5438,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b18448c6dfdbe38cbdeb5faedb7c42e2": {
+        "startdate": "20240316",
+        "fullstartdate": "202403160700",
+        "enddate": "20240317",
+        "url": "/th?id=OHR.EurasianBlueTitUK_ROW5686330565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EurasianBlueTitUK_ROW5686330565",
+        "copyright": "Eurasian blue tit, United Kingdom (© Anne Coatesy/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cyanistes+caeruleus&form=hpcapt&filters=HpDate%3a%2220240316_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240316_EurasianBlueTitUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b18448c6dfdbe38cbdeb5faedb7c42e2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
