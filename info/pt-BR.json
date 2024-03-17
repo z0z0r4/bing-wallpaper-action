@@ -5455,5 +5455,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "41b6ec84b044074be7fbfa5698eccd67": {
+        "startdate": "20240317",
+        "fullstartdate": "202403170300",
+        "enddate": "20240318",
+        "url": "/th?id=OHR.StFiniansBay_PT-BR2316790024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StFiniansBay_PT-BR2316790024",
+        "copyright": "Finian's Bay, Condado de Kerry, Irlanda (© Atlantide Phototravel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+Sao+Patricio&form=hpcapt&mkt=pt-br",
+        "title": "Dia de usar verde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240317_StFiniansBay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "41b6ec84b044074be7fbfa5698eccd67",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

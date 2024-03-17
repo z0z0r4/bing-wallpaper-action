@@ -5455,5 +5455,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "821a82fd590fb5643769788d0e39888a": {
+        "startdate": "20240317",
+        "fullstartdate": "202403172300",
+        "enddate": "20240318",
+        "url": "/th?id=OHR.ElephantRock_ES-ES8654521374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElephantRock_ES-ES8654521374",
+        "copyright": "Roca del Elefante, Al-Ula, Arabia Saudí (© Lubo Ivanko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Al+Ula&form=hpcapt&filters=HpDate%3a%2220240317_2300%22",
+        "title": "El gigante de las dunas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240317_ElephantRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "821a82fd590fb5643769788d0e39888a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

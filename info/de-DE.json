@@ -5455,5 +5455,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "032a3a862c5f1ac88e86155ded0040f3": {
+        "startdate": "20240317",
+        "fullstartdate": "202403172300",
+        "enddate": "20240318",
+        "url": "/th?id=OHR.ElephantRock_DE-DE1966506205_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElephantRock_DE-DE1966506205",
+        "copyright": "Elephant Rock, Al-ʿUla, Saudi-Arabien (© Lubo Ivanko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Al-%CA%BFUla+Saudi+Arabien&form=hpcapt&filters=HpDate%3a%2220240317_2300%22",
+        "title": "Sanfter Riese der Dünen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240317_ElephantRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "032a3a862c5f1ac88e86155ded0040f3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
