@@ -5472,5 +5472,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ddc66a3b105d1c57708e051d1216a835": {
+        "startdate": "20240318",
+        "fullstartdate": "202403180300",
+        "enddate": "20240319",
+        "url": "/th?id=OHR.ElephantRock_PT-BR3465039308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ElephantRock_PT-BR3465039308",
+        "copyright": "Pedra do Elefante, Al-Ula, Arábia Saudita (© Lubo Ivanko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Al+Ula+Ar%C3%A1bia+Saudita&form=hpcapt&mkt=pt-br",
+        "title": "Um gentil gigante das dunas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240318_ElephantRock%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ddc66a3b105d1c57708e051d1216a835",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
