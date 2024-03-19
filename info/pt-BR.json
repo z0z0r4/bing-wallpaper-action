@@ -5489,5 +5489,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9feee3fd876fcbcb159b8f35ec41f6d7": {
+        "startdate": "20240319",
+        "fullstartdate": "202403190300",
+        "enddate": "20240320",
+        "url": "/th?id=OHR.SpringFrog_PT-BR2957338911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringFrog_PT-BR2957338911",
+        "copyright": "Cave Dale e Castelo de Peveril em Castleton, Parque Nacional de Peak District, Derbyshire, Inglaterra (© James Osmond/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Castelo+de+Peveril+&form=hpcapt&mkt=pt-br",
+        "title": "Uma caminhada pelo desfiladeiro",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240319_SpringFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9feee3fd876fcbcb159b8f35ec41f6d7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

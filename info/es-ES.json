@@ -5489,5 +5489,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "03e9a1ac2ca01db9a86d9a828a7d8759": {
+        "startdate": "20240319",
+        "fullstartdate": "202403192300",
+        "enddate": "20240320",
+        "url": "/th?id=OHR.SpringFrog_ES-ES8842639194_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringFrog_ES-ES8842639194",
+        "copyright": "Rana de árbol sobre hoja (© Tetsuya Tanooka/DEEPOL by plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=equinoccios&form=hpcapt&filters=HpDate%3a%2220240319_2300%22",
+        "title": "¡Salta a la primavera!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240319_SpringFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "03e9a1ac2ca01db9a86d9a828a7d8759",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

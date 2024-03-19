@@ -5489,5 +5489,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "914003d0f51ac51f68ab7c4817420245": {
+        "startdate": "20240319",
+        "fullstartdate": "202403190700",
+        "enddate": "20240320",
+        "url": "/th?id=OHR.SpringFrog_ROW6691479828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SpringFrog_ROW6691479828",
+        "copyright": "Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Tree+frog&form=hpcapt&filters=HpDate%3a%2220240319_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240319_SpringFrog%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "914003d0f51ac51f68ab7c4817420245",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
