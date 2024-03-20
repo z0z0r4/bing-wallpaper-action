@@ -5506,5 +5506,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "41a62c5bfef3025e3ad876a255424a91": {
+        "startdate": "20240320",
+        "fullstartdate": "202403201830",
+        "enddate": "20240321",
+        "url": "/th?id=OHR.BwindiNationalForest_EN-IN2480914473_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BwindiNationalForest_EN-IN2480914473",
+        "copyright": "Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Day+of+Forests&form=hpcapt&filters=HpDate%3a%2220240320_1830%22",
+        "title": "Woodn't it be nice",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240320_BwindiNationalForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "41a62c5bfef3025e3ad876a255424a91",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
