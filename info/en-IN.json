@@ -5523,5 +5523,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5e0753186bc0704de5349c56c983b0af": {
+        "startdate": "20240321",
+        "fullstartdate": "202403211830",
+        "enddate": "20240322",
+        "url": "/th?id=OHR.WaikatoWater_EN-IN0496434558_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaikatoWater_EN-IN0496434558",
+        "copyright": "Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Water+Day&form=hpcapt&filters=HpDate%3a%2220240321_1830%22",
+        "title": "'Water' we celebrating?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240321_WaikatoWater%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5e0753186bc0704de5349c56c983b0af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
