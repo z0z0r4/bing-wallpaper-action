@@ -5540,5 +5540,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f721ba7833ad3dfaf1946793ab3ec56b": {
+        "startdate": "20240322",
+        "fullstartdate": "202403220300",
+        "enddate": "20240323",
+        "url": "/th?id=OHR.WaikatoWater_PT-BR9033741044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaikatoWater_PT-BR9033741044",
+        "copyright": "Rio Azul, Te Waihou Passagem,Nova Zelândia (© Ian Beattie/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+%C3%81gua&form=hpcapt&mkt=pt-br",
+        "title": "Vamos celebrar a água",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240322_WaikatoWater%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f721ba7833ad3dfaf1946793ab3ec56b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

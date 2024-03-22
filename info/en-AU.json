@@ -5540,5 +5540,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "196e1bb14cd0f29157554ebcbd49d039": {
+        "startdate": "20240322",
+        "fullstartdate": "202403220700",
+        "enddate": "20240323",
+        "url": "/th?id=OHR.WaikatoWater_ROW0303259467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WaikatoWater_ROW0303259467",
+        "copyright": "Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Waihou+river+New+Zealand&filters=HpDate%3a%2220240322_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240322_WaikatoWater%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "196e1bb14cd0f29157554ebcbd49d039",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
