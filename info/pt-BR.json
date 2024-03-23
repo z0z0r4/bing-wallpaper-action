@@ -5557,5 +5557,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e51c2dbb93de2aae3d52d569c8271973": {
+        "startdate": "20240323",
+        "fullstartdate": "202403230300",
+        "enddate": "20240324",
+        "url": "/th?id=OHR.ChapadaDiamantinaBahia_PT-BR8776626015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChapadaDiamantinaBahia_PT-BR8776626015",
+        "copyright": "Poço encantado em Chapada Diamantina, Bahia (© Cavan Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=chapada+diamantina+po%C3%A7os&form=hpcapt&mkt=pt-br",
+        "title": "Naturalmente iluminada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240323_ChapadaDiamantinaBahia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e51c2dbb93de2aae3d52d569c8271973",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
