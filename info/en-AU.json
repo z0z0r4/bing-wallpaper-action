@@ -5591,5 +5591,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d000e9096102ec430ae41cd9fc7c94e5": {
+        "startdate": "20240325",
+        "fullstartdate": "202403250700",
+        "enddate": "20240326",
+        "url": "/th?id=OHR.TulipAbbotsford_ROW2466486358_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TulipAbbotsford_ROW2466486358",
+        "copyright": "Tulip fields in Fraser Valley, Abbotsford, British Columbia, Canada (© LeonU/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Abbotsford+British+Columbia&form=hpcapt&filters=HpDate%3a%2220240325_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240325_TulipAbbotsford%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d000e9096102ec430ae41cd9fc7c94e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
