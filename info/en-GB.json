@@ -5591,5 +5591,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "32a2f0f752be311c3bc3107fa8965bf0": {
+        "startdate": "20240326",
+        "fullstartdate": "202403260000",
+        "enddate": "20240327",
+        "url": "/th?id=OHR.HangRaiVietnam_EN-GB3016593740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HangRaiVietnam_EN-GB3016593740",
+        "copyright": "Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=hang+rai+cave&form=hpcapt&filters=HpDate%3a%2220240326_0000%22",
+        "title": "A tidal tango",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240326_HangRaiVietnam%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "32a2f0f752be311c3bc3107fa8965bf0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

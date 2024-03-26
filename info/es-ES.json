@@ -5608,5 +5608,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ab36786f8ea5aac122e5fd4cb54d3f0f": {
+        "startdate": "20240326",
+        "fullstartdate": "202403262300",
+        "enddate": "20240327",
+        "url": "/th?id=OHR.TeatroColon_ES-ES8480561009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TeatroColon_ES-ES8480561009",
+        "copyright": "Teatro Colón de Buenos Aires, Argentina (© Wei Hao Ho/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=d%C3%ADa+mundial+del+teatro&form=hpcapt&filters=HpDate%3a%2220240326_2300%22",
+        "title": "El teatro toma protagonismo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240326_TeatroColon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ab36786f8ea5aac122e5fd4cb54d3f0f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
