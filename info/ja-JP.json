@@ -5625,5 +5625,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e71dafc4ded40ffdd0de7a863e06ff66": {
+        "startdate": "20240327",
+        "fullstartdate": "202403271500",
+        "enddate": "20240328",
+        "url": "/th?id=OHR.HangRaiVietnam_JA-JP5262793326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HangRaiVietnam_JA-JP5262793326",
+        "copyright": "ハンライ, ベトナム (© Thang Tat Nguyen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Hang+Rai&form=hpcapt&filters=HpDate%3a%2220240327_1500%22",
+        "title": "海岸沿いの岩場",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240327_HangRaiVietnam%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e71dafc4ded40ffdd0de7a863e06ff66",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

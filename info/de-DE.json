@@ -5625,5 +5625,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "81e6bfa2d703028c92f85f75b6d79851": {
+        "startdate": "20240327",
+        "fullstartdate": "202403272300",
+        "enddate": "20240328",
+        "url": "/th?id=OHR.ShanghaiBlossoms_DE-DE4316919248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShanghaiBlossoms_DE-DE4316919248",
+        "copyright": "Kirschblüten in Shanghai, China (© Yaorusheng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bl%C3%BCtenkirsche&form=hpcapt&filters=HpDate%3a%2220240327_2300%22",
+        "title": "Der Weg der Blütenblätter",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240327_ShanghaiBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "81e6bfa2d703028c92f85f75b6d79851",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

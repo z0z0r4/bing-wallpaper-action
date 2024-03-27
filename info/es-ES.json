@@ -5625,5 +5625,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b0ed3435eb5aa5c10d20bef102b79a66": {
+        "startdate": "20240327",
+        "fullstartdate": "202403272300",
+        "enddate": "20240328",
+        "url": "/th?id=OHR.ShanghaiBlossoms_ES-ES8634368979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShanghaiBlossoms_ES-ES8634368979",
+        "copyright": "Cerezos en flor en Shanghai, China (© Yaorusheng/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cerezos+en+flor+Sakura&form=hpcapt&filters=HpDate%3a%2220240327_2300%22",
+        "title": "Un camino entre pétalos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240327_ShanghaiBlossoms%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b0ed3435eb5aa5c10d20bef102b79a66",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
