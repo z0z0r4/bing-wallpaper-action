@@ -5642,5 +5642,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "648eeb1124b883ee7f086048b1f609f2": {
+        "startdate": "20240328",
+        "fullstartdate": "202403282300",
+        "enddate": "20240329",
+        "url": "/th?id=OHR.SouthStackLight_DE-DE4463746049_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SouthStackLight_DE-DE4463746049",
+        "copyright": "South Stack Leuchtturm bei Sonnenuntergang, Holyhead, Wales, UK (© mariotlr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=South+Stack+Leuchtturm&form=hpcapt&filters=HpDate%3a%2220240328_2300%22",
+        "title": "Leuchtfeuer der Abenddämmerung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240328_SouthStackLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "648eeb1124b883ee7f086048b1f609f2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
