@@ -5659,5 +5659,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "600cf8610f3458f6ad26afb78f71150c": {
+        "startdate": "20240329",
+        "fullstartdate": "202403290700",
+        "enddate": "20240330",
+        "url": "/th?id=OHR.SouthStackLight_ROW3392466188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SouthStackLight_ROW3392466188",
+        "copyright": "South Stack Lighthouse at sunset, Holyhead, Wales, UK (© mariotlr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=South+Stack+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240329_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240329_SouthStackLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "600cf8610f3458f6ad26afb78f71150c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

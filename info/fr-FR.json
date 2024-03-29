@@ -5659,5 +5659,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a92178c9c4b80f6e5ce1ace2860bce44": {
+        "startdate": "20240329",
+        "fullstartdate": "202403292300",
+        "enddate": "20240330",
+        "url": "/th?id=OHR.SleepySloth_FR-FR0657179763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SleepySloth_FR-FR0657179763",
+        "copyright": "Paresseux à gorge brune dormant dans un arbre cécropia, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paresseux+%C3%A0+gorge+brune&form=hpcapt&filters=HpDate%3a%2220240329_2300%22",
+        "title": "La tête à l’envers !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240329_SleepySloth%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a92178c9c4b80f6e5ce1ace2860bce44",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

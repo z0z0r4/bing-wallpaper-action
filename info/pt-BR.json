@@ -5659,5 +5659,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "18786dbda0c2911bfffa452841be26b0": {
+        "startdate": "20240329",
+        "fullstartdate": "202403290300",
+        "enddate": "20240330",
+        "url": "/th?id=OHR.AniversarioSalvador_PT-BR0763407699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AniversarioSalvador_PT-BR0763407699",
+        "copyright": "Igreja do Nosso Senhor do Bonfim, Pelourinho (© Grafissimo/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=igreja+do+nosso+senhor+do+bonfim&form=hpcapt&mkt=pt-br",
+        "title": "Símbolo da Capital baiana",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240329_AniversarioSalvador%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "18786dbda0c2911bfffa452841be26b0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
