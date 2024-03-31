@@ -5693,5 +5693,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dc73166b046a53d64579d88d1fbf1a20": {
+        "startdate": "20240331",
+        "fullstartdate": "202403311830",
+        "enddate": "20240401",
+        "url": "/th?id=OHR.PalazzoFarnese_EN-IN6555201202_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PalazzoFarnese_EN-IN6555201202",
+        "copyright": "'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Palazzo+Farnese&form=hpcapt&filters=HpDate%3a%2220240331_1830%22",
+        "title": "Don't believe your eyes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240331_PalazzoFarnese%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "dc73166b046a53d64579d88d1fbf1a20",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
