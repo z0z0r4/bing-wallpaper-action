@@ -5710,5 +5710,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "537f06a5b3ec754481446cd6fcda231a": {
+        "startdate": "20240401",
+        "fullstartdate": "202404010700",
+        "enddate": "20240402",
+        "url": "/th?id=OHR.MontBlancGlacier_ROW4096751608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MontBlancGlacier_ROW4096751608",
+        "copyright": "Mer de Glace on the Mont Blanc massif, Chamonix, France (© Hagenmuller Jean-François/Hemis/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Mer+de+Glace&form=hpcapt&filters=HpDate%3a%2220240401_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240401_MontBlancGlacier%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "537f06a5b3ec754481446cd6fcda231a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
