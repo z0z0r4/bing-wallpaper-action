@@ -5727,5 +5727,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3831faf7771323f57ddf2499f846c120": {
+        "startdate": "20240402",
+        "fullstartdate": "202404022200",
+        "enddate": "20240403",
+        "url": "/th?id=OHR.KyrgyzstanRainbow_ES-ES0679850164_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyrgyzstanRainbow_ES-ES0679850164",
+        "copyright": "Un arco iris en el distrito de At-Bashy, montañas de Kakshaal Too, provincia de Naryn, Kirguistán (© Emad aljumah/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arcoiris&form=hpcapt&filters=HpDate%3a%2220240402_2200%22",
+        "title": "Navega por la iridiscencia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240402_KyrgyzstanRainbow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3831faf7771323f57ddf2499f846c120",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -5710,5 +5710,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e8cc2998051596b6b47d69e7aab5bf62": {
+        "startdate": "20240402",
+        "fullstartdate": "202404022300",
+        "enddate": "20240403",
+        "url": "/th?id=OHR.NewcastleUponTyneUK_EN-GB5615473754_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NewcastleUponTyneUK_EN-GB5615473754",
+        "copyright": "Newcastle Upon Tyne, England (© Allan Baxter/The Image Bank/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Newcastle+Upon+Tyne+England&form=hpcapt&filters=HpDate%3a%2220240402_2300%22",
+        "title": "Once upon a 'Tyne'",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240402_NewcastleUponTyneUK%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e8cc2998051596b6b47d69e7aab5bf62",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

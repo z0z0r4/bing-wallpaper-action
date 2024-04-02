@@ -5727,5 +5727,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d095313ea53c7d1138f70cf161322c6e": {
+        "startdate": "20240402",
+        "fullstartdate": "202404022200",
+        "enddate": "20240403",
+        "url": "/th?id=OHR.KyrgyzstanRainbow_DE-DE6804066855_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KyrgyzstanRainbow_DE-DE6804066855",
+        "copyright": "Ein Regenbogen im Bezirk Atbaschy, Kakshaal Too-Gebirge, Naryn, Kirgisistan (© Emad aljumah/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Regenbogen&form=hpcapt&filters=HpDate%3a%2220240402_2200%22",
+        "title": "Wiesentraum, Berge im Farbenschaum",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240402_KyrgyzstanRainbow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d095313ea53c7d1138f70cf161322c6e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -5727,5 +5727,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "96466ad5b80accbc27cb106a186f52be": {
+        "startdate": "20240402",
+        "fullstartdate": "202404020300",
+        "enddate": "20240403",
+        "url": "/th?id=OHR.SouthStackLight_PT-BR0876989984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SouthStackLight_PT-BR0876989984",
+        "copyright": "Farol de South Stack ao pôr do sol, Holyhead, País de Gales, Reino Unido (© mariotlr/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Farol+de+South+Stack&form=hpcapt&mkt=pt-br",
+        "title": "Marés altas e luzes brilhantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240402_SouthStackLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "96466ad5b80accbc27cb106a186f52be",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
