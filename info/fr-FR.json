@@ -5761,5 +5761,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "21f1c3bec92199ca4bce5a7d291c3ed3": {
+        "startdate": "20240404",
+        "fullstartdate": "202404042200",
+        "enddate": "20240405",
+        "url": "/th?id=OHR.BahamasSpace_FR-FR2737935866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BahamasSpace_FR-FR2737935866",
+        "copyright": "Les Bahamas vues depuis la Station spatiale internationale (© NASA)",
+        "copyrightlink": "https://www.bing.com/search?q=Les+Bahamas&form=hpcapt&filters=HpDate%3a%2220240404_2200%22",
+        "title": "Le Grand Bleu",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240404_BahamasSpace%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "21f1c3bec92199ca4bce5a7d291c3ed3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

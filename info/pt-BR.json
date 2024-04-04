@@ -5761,5 +5761,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b96afeebbea5ca232ff78b568526a99d": {
+        "startdate": "20240404",
+        "fullstartdate": "202404040300",
+        "enddate": "20240405",
+        "url": "/th?id=OHR.AntelopeBotswana_PT-BR1126611308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AntelopeBotswana_PT-BR1126611308",
+        "copyright": "Rebanho de cobo-de-leche vermelho cruzando a planície pantanosa do Delta do Okavango, Botsuana (© Ibrahim Suha Derbent/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Conhe%C3%A7a+Kobus+leche&form=hpcapt&mkt=pt-br",
+        "title": "Andarilhos dos pântanos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240404_AntelopeBotswana%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b96afeebbea5ca232ff78b568526a99d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
