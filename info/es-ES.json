@@ -5778,5 +5778,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7faa2e8b2074e7d891b55aa006c43b37": {
+        "startdate": "20240405",
+        "fullstartdate": "202404052200",
+        "enddate": "20240406",
+        "url": "/th?id=OHR.NeogothicBarcelona_ES-ES5800770786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeogothicBarcelona_ES-ES5800770786",
+        "copyright": "Pont del Bisbe, Barrio Gótico de Barcelona, España (© Alexander Spatari/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=barrio+gotico&form=hpcapt&filters=HpDate%3a%2220240405_2200%22",
+        "title": "¡Calles misteriosas!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240405_NeogothicBarcelona%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7faa2e8b2074e7d891b55aa006c43b37",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

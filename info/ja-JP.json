@@ -5778,5 +5778,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2e198252114eacff00b461b0912715ae": {
+        "startdate": "20240405",
+        "fullstartdate": "202404051500",
+        "enddate": "20240406",
+        "url": "/th?id=OHR.JapanHimeji_JA-JP3641774172_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapanHimeji_JA-JP3641774172",
+        "copyright": "姫路城, 兵庫県 姫路市 (© Julian Elliott Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A7%AB%E8%B7%AF%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220240405_1500%22",
+        "title": "今日は「城の日」",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240405_JapanHimeji%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2e198252114eacff00b461b0912715ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
