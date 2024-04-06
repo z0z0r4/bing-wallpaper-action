@@ -5795,5 +5795,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "93d15ab5501902e651b6f011c7217c1c": {
+        "startdate": "20240406",
+        "fullstartdate": "202404060300",
+        "enddate": "20240407",
+        "url": "/th?id=OHR.JapanHimeji_PT-BR1183252233_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.JapanHimeji_PT-BR1183252233",
+        "copyright": "O Castelo de Himeji, Himeji, Prefeitura de Hyōgo, Japão (© Julian Elliott Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castelo+de+Himeji+Jap%C3%A3o&form=hpcapt&mkt=pt-br",
+        "title": "Uma vista real",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_JapanHimeji%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "93d15ab5501902e651b6f011c7217c1c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

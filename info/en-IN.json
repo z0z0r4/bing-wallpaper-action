@@ -5795,5 +5795,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "07baa443cbbfd56608607a6dd9b3cbd4": {
+        "startdate": "20240406",
+        "fullstartdate": "202404061830",
+        "enddate": "20240407",
+        "url": "/th?id=OHR.BeaverDenali_EN-IN4459281854_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverDenali_EN-IN4459281854",
+        "copyright": "North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Beaver+&form=hpcapt&filters=HpDate%3a%2220240406_1830%22",
+        "title": "Look, I'm a branch manager!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_BeaverDenali%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "07baa443cbbfd56608607a6dd9b3cbd4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

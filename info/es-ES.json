@@ -5795,5 +5795,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "529b9c1f947c14c2a795ad751b938d50": {
+        "startdate": "20240406",
+        "fullstartdate": "202404062200",
+        "enddate": "20240407",
+        "url": "/th?id=OHR.BeaverDenali_ES-ES5993015272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverDenali_ES-ES5993015272",
+        "copyright": "Castor norteamericano en un estanque cerca del lago Wonder, Parque Nacional Denali, Alaska, EE.UU. (© Paul Souders/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castor&form=hpcapt&filters=HpDate%3a%2220240406_2200%22",
+        "title": "¡Mira! ¡Soy un gran ingeniero!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_BeaverDenali%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "529b9c1f947c14c2a795ad751b938d50",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

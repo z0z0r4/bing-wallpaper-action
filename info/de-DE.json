@@ -5795,5 +5795,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "502c19b388708888488d3597c3e901d3": {
+        "startdate": "20240406",
+        "fullstartdate": "202404062200",
+        "enddate": "20240407",
+        "url": "/th?id=OHR.BeaverDenali_DE-DE4088011437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeaverDenali_DE-DE4088011437",
+        "copyright": "Kanadischer Biber in einem Teich in der Nähe des Wonder Lake, Denali-Nationalpark, Alaska, USA (© Paul Souders/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Biber&form=hpcapt&filters=HpDate%3a%2220240406_2200%22",
+        "title": "Biber vs. Bieber: Wer ist putziger?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240406_BeaverDenali%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "502c19b388708888488d3597c3e901d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
