@@ -5829,5 +5829,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fee80b3961e71bbeb5cf9f9addf75278": {
+        "startdate": "20240408",
+        "fullstartdate": "202404080300",
+        "enddate": "20240409",
+        "url": "/th?id=OHR.CuiabaAniversary_PT-BR5141528738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CuiabaAniversary_PT-BR5141528738",
+        "copyright": "Vista aérea da cidade de Cuiabá e do rio Cuiabá, Mato Grosso (© Lucas Ninno/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cuiab%C3%A1&form=hpcapt&mkt=pt-br",
+        "title": "A cidade verde e amarela",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240408_CuiabaAniversary%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fee80b3961e71bbeb5cf9f9addf75278",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

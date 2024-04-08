@@ -5829,5 +5829,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c0644d2c2a05d478fd0ed4a44e9a8a8b": {
+        "startdate": "20240408",
+        "fullstartdate": "202404080700",
+        "enddate": "20240409",
+        "url": "/th?id=OHR.HedgehogMeadow_ROW1328424022_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HedgehogMeadow_ROW1328424022",
+        "copyright": "European hedgehog in a garden with dandelions, Bad Driburg, Germany (© Oksana Schmidt/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=European+hedgehog&form=hpcapt&filters=HpDate%3a%2220240408_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240408_HedgehogMeadow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c0644d2c2a05d478fd0ed4a44e9a8a8b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
