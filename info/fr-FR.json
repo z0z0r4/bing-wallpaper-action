@@ -5863,5 +5863,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dba2d4cf06677297be59771502661423": {
+        "startdate": "20240410",
+        "fullstartdate": "202404102200",
+        "enddate": "20240411",
+        "url": "/th?id=OHR.DragonWaterfall_FR-FR6498141179_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DragonWaterfall_FR-FR6498141179",
+        "copyright": "Vue aérienne de la cascade de Churun-Meru, Venezuela (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Venezuela&form=hpcapt&filters=HpDate%3a%2220240410_2200%22",
+        "title": "Une chute vertigineuse",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240410_DragonWaterfall%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dba2d4cf06677297be59771502661423",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

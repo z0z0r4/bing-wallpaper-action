@@ -5863,5 +5863,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d3d5f0b05eaf19c028e766bcd6364a5c": {
+        "startdate": "20240410",
+        "fullstartdate": "202404100700",
+        "enddate": "20240411",
+        "url": "/th?id=OHR.OwlSiblings_ROW6315129665_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OwlSiblings_ROW6315129665",
+        "copyright": "Burrowing owl chicks near a burrow, Wyoming, USA (© Danita Delimont/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Burrowing+owl&form=hpcapt&filters=HpDate%3a%2220240410_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240410_OwlSiblings%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d3d5f0b05eaf19c028e766bcd6364a5c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
