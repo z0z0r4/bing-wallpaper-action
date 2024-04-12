@@ -5897,5 +5897,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "920474af83b7dfca5fe14ff56d9576d9": {
+        "startdate": "20240412",
+        "fullstartdate": "202404120300",
+        "enddate": "20240413",
+        "url": "/th?id=OHR.Curitiba_PT-BR8811404397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Curitiba_PT-BR8811404397",
+        "copyright": "Jardim botânico de Curitiba, Paraná (© Marcelo Araujo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jardim+Bot%C3%A2nico+de+Curitiba&form=hpcapt&mkt=pt-br",
+        "title": "Cartão-postal do Paraná",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240412_Curitiba%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "920474af83b7dfca5fe14ff56d9576d9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

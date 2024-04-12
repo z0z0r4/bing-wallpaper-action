@@ -5897,5 +5897,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4e6eb27f6caecf2a5219562fcdcb1d93": {
+        "startdate": "20240412",
+        "fullstartdate": "202404120400",
+        "enddate": "20240413",
+        "url": "/th?id=OHR.SunsetArchesNP_EN-CA3137398130_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunsetArchesNP_EN-CA3137398130",
+        "copyright": "Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah (© Anthony Heflin/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park&form=hpcapt&filters=HpDate%3a%2220240412_0400%22",
+        "title": "A work of arch",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240412_SunsetArchesNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4e6eb27f6caecf2a5219562fcdcb1d93",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
