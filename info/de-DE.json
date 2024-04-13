@@ -5914,5 +5914,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4a94b96107eb0a917873592867bd84af": {
+        "startdate": "20240413",
+        "fullstartdate": "202404132200",
+        "enddate": "20240414",
+        "url": "/th?id=OHR.WeenerPrimroses_DE-DE5775502209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WeenerPrimroses_DE-DE5775502209",
+        "copyright": "Stängellose Schlüsselblumen, Weener, Niedersachsen (© Mohssen Assanimoghaddam/picture alliance via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=St%C3%A4ngellose+Schl%C3%BCsselblume&form=hpcapt&filters=HpDate%3a%2220240413_2200%22",
+        "title": "Blumenteppich",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240413_WeenerPrimroses%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4a94b96107eb0a917873592867bd84af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

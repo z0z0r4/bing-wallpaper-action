@@ -5914,5 +5914,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e00eab878300e9cbd60552c409fc5cc6": {
+        "startdate": "20240413",
+        "fullstartdate": "202404132200",
+        "enddate": "20240414",
+        "url": "/th?id=OHR.BowlingBallCali_FR-FR7572590133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BowlingBallCali_FR-FR7572590133",
+        "copyright": "Coucher de soleil sur la plage de Bowling Ball, Californie, États-Unis (© Melo Qiao/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=plage+de+Bowling+Ball&form=hpcapt&filters=HpDate%3a%2220240413_2200%22",
+        "title": "Un bowling à la plage ?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240413_BowlingBallCali%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e00eab878300e9cbd60552c409fc5cc6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
