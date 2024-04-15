@@ -5948,5 +5948,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5f5ed961bdb0a61d2b937fee7231f648": {
+        "startdate": "20240415",
+        "fullstartdate": "202404151830",
+        "enddate": "20240416",
+        "url": "/th?id=OHR.UnionSquareNYC_EN-IN8922742719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UnionSquareNYC_EN-IN8922742719",
+        "copyright": "Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Union+Square+Manhattan&form=hpcapt&filters=HpDate%3a%2220240415_1830%22",
+        "title": "Lights, camera, New York!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240415_UnionSquareNYC%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5f5ed961bdb0a61d2b937fee7231f648",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

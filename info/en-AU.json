@@ -5948,5 +5948,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20ec9a8ed536971b131fedd88e107323": {
+        "startdate": "20240415",
+        "fullstartdate": "202404150700",
+        "enddate": "20240416",
+        "url": "/th?id=OHR.ChambordCastle_ROW6581384117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChambordCastle_ROW6581384117",
+        "copyright": "Château de Chambord, Centre-Val de Loire, France (© Susanne Kremer/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=The+Chateau+de+Chambord+Centre-Val+de+Loire+France&form=hpcapt&filters=HpDate%3a%2220240415_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240415_ChambordCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "20ec9a8ed536971b131fedd88e107323",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

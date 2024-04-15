@@ -5948,5 +5948,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "983c459132061996016784236a7bcdb2": {
+        "startdate": "20240415",
+        "fullstartdate": "202404152200",
+        "enddate": "20240416",
+        "url": "/th?id=OHR.UnionSquareNYC_FR-FR8135739524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UnionSquareNYC_FR-FR8135739524",
+        "copyright": "Union Square dans le sud de Manhattan au crépuscule, New York, États-Unis (© Sean Pavone/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Union+Square+&form=hpcapt&filters=HpDate%3a%2220240415_2200%22",
+        "title": "La ville qui ne dort jamais",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240415_UnionSquareNYC%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "983c459132061996016784236a7bcdb2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
