@@ -5982,5 +5982,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b92ff9048c81af2cf4e926bb8ca1777a": {
+        "startdate": "20240417",
+        "fullstartdate": "202404172200",
+        "enddate": "20240418",
+        "url": "/th?id=OHR.AvilaSpain_DE-DE5639007447_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AvilaSpain_DE-DE5639007447",
+        "copyright": "Mittelalterliche Stadtmauern, Ávila, Spanien (© Scott Suriano/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Denkm%C3%A4ler+und+St%C3%A4tten&form=hpcapt&filters=HpDate%3a%2220240417_2200%22",
+        "title": "Wall of fame",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240417_AvilaSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b92ff9048c81af2cf4e926bb8ca1777a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

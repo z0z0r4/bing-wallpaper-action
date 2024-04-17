@@ -5982,5 +5982,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "23ef25c8f0ede8cd0cae02829e8820b6": {
+        "startdate": "20240417",
+        "fullstartdate": "202404172200",
+        "enddate": "20240418",
+        "url": "/th?id=OHR.AvilaSpain_ES-ES9451845380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AvilaSpain_ES-ES9451845380",
+        "copyright": "Murallas medievales, Ávila, España (© Alberto Loyo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=d%C3%ADa+internacional+de+los+monumentos+y+sitios&form=hpcapt&filters=HpDate%3a%2220240417_2200%22",
+        "title": "Las torres de la fama",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240417_AvilaSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "23ef25c8f0ede8cd0cae02829e8820b6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -5982,5 +5982,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "236104be2af79252bee1cebbfa7aee2c": {
+        "startdate": "20240417",
+        "fullstartdate": "202404171830",
+        "enddate": "20240418",
+        "url": "/th?id=OHR.AvilaSpain_EN-IN0356835550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AvilaSpain_EN-IN0356835550",
+        "copyright": "Mediaeval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=international+day+for+monuments+and+sites&form=hpcapt&filters=HpDate%3a%2220240417_1830%22",
+        "title": "Wall of fame",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240417_AvilaSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "236104be2af79252bee1cebbfa7aee2c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
