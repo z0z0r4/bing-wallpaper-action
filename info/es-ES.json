@@ -5999,5 +5999,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5ef5eb86114a34c1a7b2c97f0f382718": {
+        "startdate": "20240418",
+        "fullstartdate": "202404182200",
+        "enddate": "20240419",
+        "url": "/th?id=OHR.OrkneyStones_ES-ES1176985734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OrkneyStones_ES-ES1176985734",
+        "copyright": "El Anillo de Brodgar, Orcadas, Escocia (© Paul Williams - FunkyStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=C%C3%ADrculo+de+Brodgar&form=hpcapt&filters=HpDate%3a%2220240418_2200%22",
+        "title": "La historia ha cerrado el círculo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240418_OrkneyStones%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5ef5eb86114a34c1a7b2c97f0f382718",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

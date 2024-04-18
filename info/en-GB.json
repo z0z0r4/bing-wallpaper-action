@@ -5982,5 +5982,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "791da66fd1cf256bf90792c2f44fe1cc": {
+        "startdate": "20240418",
+        "fullstartdate": "202404182300",
+        "enddate": "20240419",
+        "url": "/th?id=OHR.OrkneyStones_EN-GB3162909571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OrkneyStones_EN-GB3162909571",
+        "copyright": "The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ring+of+Brodgar&form=hpcapt&filters=HpDate%3a%2220240418_2300%22",
+        "title": "History has come full circle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240418_OrkneyStones%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "791da66fd1cf256bf90792c2f44fe1cc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
