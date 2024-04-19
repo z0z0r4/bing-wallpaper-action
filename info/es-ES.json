@@ -6016,5 +6016,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "715c30b3670b7c03bb75a87ac3ec158d": {
+        "startdate": "20240419",
+        "fullstartdate": "202404192200",
+        "enddate": "20240420",
+        "url": "/th?id=OHR.YellowstoneGeyser_ES-ES1324165406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowstoneGeyser_ES-ES1324165406",
+        "copyright": "Gran Fuente Prismática al amanecer, Parque Nacional de Yellowstone, Wyoming, EE.UU. (© XIN WANG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gran+Fuente+Prism%C3%A1tica&form=hpcapt&filters=HpDate%3a%2220240419_2200%22",
+        "title": "¡Un jacuzzi natural!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240419_YellowstoneGeyser%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "715c30b3670b7c03bb75a87ac3ec158d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
