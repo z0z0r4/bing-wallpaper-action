@@ -6033,5 +6033,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3b94c0c6bfadac9b1f8c693306a26f65": {
+        "startdate": "20240420",
+        "fullstartdate": "202404200700",
+        "enddate": "20240421",
+        "url": "/th?id=OHR.YellowstoneGeyser_ROW4895098228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YellowstoneGeyser_ROW4895098228",
+        "copyright": "Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming, USA (© XIN WANG/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand+Prismatic+Spring+USA&form=hpcapt&filters=HpDate%3a%2220240420_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240420_YellowstoneGeyser%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3b94c0c6bfadac9b1f8c693306a26f65",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

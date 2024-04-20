@@ -6033,5 +6033,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7fc43940f4c7fb3e6ef36e09a4818ff1": {
+        "startdate": "20240420",
+        "fullstartdate": "202404202200",
+        "enddate": "20240421",
+        "url": "/th?id=OHR.CologneFlowerBed_DE-DE3966467653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CologneFlowerBed_DE-DE3966467653",
+        "copyright": "Blumenbeete mit Tulpen und anderen Frühlingsblumen im Rheinpark, Köln (© Elisabeth Schittenhelm/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rheinpark&form=hpcapt&filters=HpDate%3a%2220240420_2200%22",
+        "title": "Blumenbeet oder Blumenbett?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240420_CologneFlowerBed%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7fc43940f4c7fb3e6ef36e09a4818ff1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
