@@ -6050,5 +6050,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ad79fbfad562a72c4d749fdff6995413": {
+        "startdate": "20240421",
+        "fullstartdate": "202404212200",
+        "enddate": "20240422",
+        "url": "/th?id=OHR.EarthDayTurtle_ES-ES1732756969_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EarthDayTurtle_ES-ES1732756969",
+        "copyright": "Tortuga verde marina, San Diego, California, EE.UU. (© Ralph Pace/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+la+Tierra&form=hpcapt&filters=HpDate%3a%2220240421_2200%22",
+        "title": "El ecosistema perfecto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240421_EarthDayTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ad79fbfad562a72c4d749fdff6995413",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
