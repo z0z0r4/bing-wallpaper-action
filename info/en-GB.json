@@ -6050,5 +6050,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6dc5f1919566315e7db581d05aae5c30": {
+        "startdate": "20240422",
+        "fullstartdate": "202404222300",
+        "enddate": "20240423",
+        "url": "/th?id=OHR.SaintGeorgePaoloUccello_EN-GB4189497272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaintGeorgePaoloUccello_EN-GB4189497272",
+        "copyright": "Painting titled 'Saint George and the Dragon' by Paolo Uccello (© Photo 12/Universal Images Group via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Saint+Georges+Day&form=hpcapt&filters=HpDate%3a%2220240422_2300%22",
+        "title": "Happy Saint George's Day!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240422_SaintGeorgePaoloUccello%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6dc5f1919566315e7db581d05aae5c30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

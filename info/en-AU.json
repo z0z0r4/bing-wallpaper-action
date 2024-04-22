@@ -6067,5 +6067,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d31b27f5a12fed21415c94e925d1ca9a": {
+        "startdate": "20240422",
+        "fullstartdate": "202404220700",
+        "enddate": "20240423",
+        "url": "/th?id=OHR.EarthDayTurtle_ROW5102473875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EarthDayTurtle_ROW5102473875",
+        "copyright": "Green sea turtle, San Diego, California, USA (© Ralph Pace/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Green+sea+turtle&form=hpcapt&filters=HpDate%3a%2220240422_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240422_EarthDayTurtle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d31b27f5a12fed21415c94e925d1ca9a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

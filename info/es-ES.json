@@ -6067,5 +6067,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "af82663958bb786eaf47c8715972147e": {
+        "startdate": "20240422",
+        "fullstartdate": "202404222200",
+        "enddate": "20240423",
+        "url": "/th?id=OHR.AragonDay_ES-ES4026437518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AragonDay_ES-ES4026437518",
+        "copyright": "Pueblo medieval de Albarracín al amanecer, Teruel, Aragón, España (© Domingo Leiva/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Arag%C3%B3n&form=hpcapt&filters=HpDate%3a%2220240422_2200%22",
+        "title": "¡Hay fiesta ahí abajo!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240422_AragonDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "af82663958bb786eaf47c8715972147e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
