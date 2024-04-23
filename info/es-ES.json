@@ -6084,5 +6084,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "058b4a2df23cd5ecb8fed078a2dd1370": {
+        "startdate": "20240423",
+        "fullstartdate": "202404232200",
+        "enddate": "20240424",
+        "url": "/th?id=OHR.TrilliumOntario_ES-ES4860531409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrilliumOntario_ES-ES4860531409",
+        "copyright": "Trillium blanco en flor en Ontario, Canadá (© Jun Zhang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Trillium+blanco&form=hpcapt&filters=HpDate%3a%2220240423_2200%22",
+        "title": "¿Cómo estás creciendo hoy?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240423_TrilliumOntario%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "058b4a2df23cd5ecb8fed078a2dd1370",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

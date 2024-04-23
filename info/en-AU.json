@@ -6084,5 +6084,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "623aa0090be0cefb1300eddda1ea2fff": {
+        "startdate": "20240423",
+        "fullstartdate": "202404230700",
+        "enddate": "20240424",
+        "url": "/th?id=OHR.DolomitesSeiserAlm_ROW5696043794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolomitesSeiserAlm_ROW5696043794",
+        "copyright": "Seiser Alm in the Dolomites, South Tyrol, Italy (© Achim Thomae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Seiser+Alm&form=hpcapt&filters=HpDate%3a%2220240423_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240423_DolomitesSeiserAlm%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "623aa0090be0cefb1300eddda1ea2fff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

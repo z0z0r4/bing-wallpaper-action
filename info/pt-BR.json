@@ -6084,5 +6084,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0bd759120656b25c0c41d2a332c77794": {
+        "startdate": "20240423",
+        "fullstartdate": "202404230300",
+        "enddate": "20240424",
+        "url": "/th?id=OHR.TrinityDublin_PT-BR4634069744_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrinityDublin_PT-BR4634069744",
+        "copyright": "Biblioteca da Universidade Trinity, Dublin, Irlanda (© Vincent Isore/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+do+Livro+e+dos+Direitos+Autorais&form=hpcapt&mkt=pt-br",
+        "title": "Uma nova aventura literária",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240423_TrinityDublin%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0bd759120656b25c0c41d2a332c77794",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
