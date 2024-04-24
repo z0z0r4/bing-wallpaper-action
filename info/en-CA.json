@@ -6101,5 +6101,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "18e8664753f1fd920d6fab3c6158cd5b": {
+        "startdate": "20240424",
+        "fullstartdate": "202404240400",
+        "enddate": "20240425",
+        "url": "/th?id=OHR.TrilliumOntario_EN-CA6497010654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrilliumOntario_EN-CA6497010654",
+        "copyright": "White trillium blooming in Ontario, Canada (© Jun Zhang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=White+trillium&form=hpcapt&filters=HpDate%3a%2220240424_0400%22",
+        "title": "Hey, how's it growing today?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240424_TrilliumOntario%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "18e8664753f1fd920d6fab3c6158cd5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
