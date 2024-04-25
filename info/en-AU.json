@@ -6118,5 +6118,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c0c04f29a4521f2d011c121ecf62a2c3": {
+        "startdate": "20240425",
+        "fullstartdate": "202404250700",
+        "enddate": "20240426",
+        "url": "/th?id=OHR.PenguinDirections_ROW6068670140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PenguinDirections_ROW6068670140",
+        "copyright": "Adélie penguins on an iceberg, Antarctica (© Patrick J. Endres/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ad%C3%A9lie+penguins&form=hpcapt&filters=HpDate%3a%2220240425_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240425_PenguinDirections%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c0c04f29a4521f2d011c121ecf62a2c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
