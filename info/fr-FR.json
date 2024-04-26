@@ -6135,5 +6135,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b80135f5b9ce875fdec89cc6887e96e8": {
+        "startdate": "20240426",
+        "fullstartdate": "202404262200",
+        "enddate": "20240427",
+        "url": "/th?id=OHR.Canigou_FR-FR9013566099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Canigou_FR-FR9013566099",
+        "copyright": "L'abbaye Saint-Martin du Canigou, Casteil, Occitanie, France (© Cyril Gosselin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Canigou&form=hpcapt&filters=HpDate%3a%2220240426_2200%22",
+        "title": "Une abbaye millénaire",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240426_Canigou%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b80135f5b9ce875fdec89cc6887e96e8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
