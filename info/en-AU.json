@@ -6152,5 +6152,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "53d6181ee7bc54ff085354c067a77142": {
+        "startdate": "20240427",
+        "fullstartdate": "202404270700",
+        "enddate": "20240428",
+        "url": "/th?id=OHR.LeucisticHummingbird_ROW5322996138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LeucisticHummingbird_ROW5322996138",
+        "copyright": "Leucistic Anna's hummingbird in the Australia Garden, UCSC Arboretum, Santa Cruz, California, USA (© yhelfman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Anna%27s+hummingbird&form=hpcapt&filters=HpDate%3a%2220240427_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240427_LeucisticHummingbird%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "53d6181ee7bc54ff085354c067a77142",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

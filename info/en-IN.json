@@ -6152,5 +6152,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d579b3a31efeede645e84d58190b5312": {
+        "startdate": "20240427",
+        "fullstartdate": "202404271830",
+        "enddate": "20240428",
+        "url": "/th?id=OHR.GuadalupeTexas_EN-IN9443629617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GuadalupeTexas_EN-IN9443629617",
+        "copyright": "El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Guadalupe+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220240427_1830%22",
+        "title": "Let's park here",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240427_GuadalupeTexas%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d579b3a31efeede645e84d58190b5312",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
