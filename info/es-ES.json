@@ -6169,5 +6169,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "75201df15b6cced4b3067cc27f52ac45": {
+        "startdate": "20240428",
+        "fullstartdate": "202404282200",
+        "enddate": "20240429",
+        "url": "/th?id=OHR.TulouFujian_ES-ES2621683417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TulouFujian_ES-ES2621683417",
+        "copyright": "Tulou de Fujian, edificios del patrimonio histórico y cultural de la provincia de Fujian, China (© Hongjie Han/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tulou+de+Fujian&form=hpcapt&filters=HpDate%3a%2220240428_2200%22",
+        "title": "En perfecto estado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240428_TulouFujian%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "75201df15b6cced4b3067cc27f52ac45",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

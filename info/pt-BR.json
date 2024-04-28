@@ -6169,5 +6169,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "df346d400b63d0b579a304266a95857e": {
+        "startdate": "20240428",
+        "fullstartdate": "202404280300",
+        "enddate": "20240429",
+        "url": "/th?id=OHR.GuadalupeTexas_PT-BR4550245879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GuadalupeTexas_PT-BR4550245879",
+        "copyright": "El Capitan ao nascer do sol no Parque Nacional das Montanhas Guadalupe, Texas, EUA (© Adam Mowery/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+das+Montanhas+Guadalupe+Texas&form=hpcapt&mkt=pt-br",
+        "title": "É hora de conhecer o parque",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240428_GuadalupeTexas%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "df346d400b63d0b579a304266a95857e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
