@@ -6186,5 +6186,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "246b3b86d3fe210ceb3782ae14da89da": {
+        "startdate": "20240429",
+        "fullstartdate": "202404292200",
+        "enddate": "20240430",
+        "url": "/th?id=OHR.CheetahRain_DE-DE3160302306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CheetahRain_DE-DE3160302306",
+        "copyright": "Gepard im Morgenregen, Ndutu-Region, Ngorongoro, Tansania (© Paul Souders/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gepard&form=hpcapt&filters=HpDate%3a%2220240429_2200%22",
+        "title": "Heilig und gefährdet",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240429_CheetahRain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "246b3b86d3fe210ceb3782ae14da89da",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
