@@ -6203,5 +6203,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "21d9524c35e37adc1be2b81d8e4cf088": {
+        "startdate": "20240430",
+        "fullstartdate": "202404302200",
+        "enddate": "20240501",
+        "url": "/th?id=OHR.HawaiianLei_FR-FR1676452706_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawaiianLei_FR-FR1676452706",
+        "copyright": "Colliers de fleurs hawaïens (© Jotika Pun/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=hawaii&form=hpcapt&filters=HpDate%3a%2220240430_2200%22",
+        "title": "Des colliers venus du Paradis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240430_HawaiianLei%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "21d9524c35e37adc1be2b81d8e4cf088",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

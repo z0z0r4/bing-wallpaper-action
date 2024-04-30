@@ -6203,5 +6203,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ccc4705192fdc9db78e929516d563bad": {
+        "startdate": "20240430",
+        "fullstartdate": "202404302200",
+        "enddate": "20240501",
+        "url": "/th?id=OHR.HawaiianLei_ES-ES3282014146_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HawaiianLei_ES-ES3282014146",
+        "copyright": "Guirnaldas de flores de lei hawaianas (© Jotika Pun/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Haw%C3%A1i&form=hpcapt&filters=HpDate%3a%2220240430_2200%22",
+        "title": "¡Aloha, el susurro del paraíso!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240430_HawaiianLei%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ccc4705192fdc9db78e929516d563bad",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
