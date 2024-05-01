@@ -6220,5 +6220,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "159ff2189f6837537d06f9cbfdeca0b3": {
+        "startdate": "20240501",
+        "fullstartdate": "202405012200",
+        "enddate": "20240502",
+        "url": "/th?id=OHR.MadridOpen_ES-ES2650206128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MadridOpen_ES-ES2650206128",
+        "copyright": "Gran Vía y Edificio Metrópolis en Madrid, España (© RudyBalasko/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+la+Comunidad+de+Madrid&form=hpcapt&filters=HpDate%3a%2220240501_2200%22",
+        "title": "¡El pulso de Madrid está en cada volea!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240501_MadridOpen%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "159ff2189f6837537d06f9cbfdeca0b3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
