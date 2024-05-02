@@ -6237,5 +6237,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "81282d3777c79fb0b5ecfe0751fb8b3d": {
+        "startdate": "20240502",
+        "fullstartdate": "202405020700",
+        "enddate": "20240503",
+        "url": "/th?id=OHR.CratersOfTheMoon_ROW5553418734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CratersOfTheMoon_ROW5553418734",
+        "copyright": "Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho, USA (© Alan Majchrowicz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Craters+of+the+Moon+National+Monument+and+Preserve&form=hpcapt&filters=HpDate%3a%2220240502_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240502_CratersOfTheMoon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "81282d3777c79fb0b5ecfe0751fb8b3d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
