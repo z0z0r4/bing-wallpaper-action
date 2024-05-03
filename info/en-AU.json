@@ -6254,5 +6254,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4a9dac0973fb85e638524d49ff498f5c": {
+        "startdate": "20240503",
+        "fullstartdate": "202405030700",
+        "enddate": "20240504",
+        "url": "/th?id=OHR.SonoranSpring_ROW6193014422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SonoranSpring_ROW6193014422",
+        "copyright": "Brittlebushes blooming in springtime, Sonoran Desert, Arizona, USA (© Charles Harker/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=The+Sonoran+Desert&form=hpcapt&filters=HpDate%3a%2220240503_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240503_SonoranSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4a9dac0973fb85e638524d49ff498f5c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
