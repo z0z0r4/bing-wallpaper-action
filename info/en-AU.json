@@ -6288,5 +6288,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "97b9f0ba4700e73584b45a951dc6ffbc": {
+        "startdate": "20240505",
+        "fullstartdate": "202405050700",
+        "enddate": "20240506",
+        "url": "/th?id=OHR.SanMiguelAllende_ROW6741888493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanMiguelAllende_ROW6741888493",
+        "copyright": "Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=San+Miguel+de+Allende+Guanajuato+Mexico&form=hpcapt&filters=HpDate%3a%2220240505_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240505_SanMiguelAllende%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "97b9f0ba4700e73584b45a951dc6ffbc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

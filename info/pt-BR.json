@@ -6288,5 +6288,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "83c1152223141e6097859066cfbc986c": {
+        "startdate": "20240505",
+        "fullstartdate": "202405050300",
+        "enddate": "20240506",
+        "url": "/th?id=OHR.SanMiguelAllende_PT-BR8483156225_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanMiguelAllende_PT-BR8483156225",
+        "copyright": "Colunata em San Miguel de Allende, Guanajuato, México (© Mint Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=San+Miguel+de+Allende&form=hpcapt&mkt=pt-br",
+        "title": "Encante-se com San Miguel de Allende!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240505_SanMiguelAllende%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "83c1152223141e6097859066cfbc986c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
