@@ -6305,5 +6305,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "21f63345541062b0c8010fd636f02e78": {
+        "startdate": "20240506",
+        "fullstartdate": "202405060300",
+        "enddate": "20240507",
+        "url": "/th?id=OHR.RiverNekarHeidelberg_PT-BR6227220024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RiverNekarHeidelberg_PT-BR6227220024",
+        "copyright": "Heidelberg, no rio Neckar, em Baden-Württemberg, Alemanha (© Juergen Sack/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Heidelberg&form=hpcapt&mkt=pt-br",
+        "title": "Vista de cartão postal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240506_RiverNekarHeidelberg%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "21f63345541062b0c8010fd636f02e78",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

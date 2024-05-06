@@ -6305,5 +6305,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "982b6b051737733ec44a5d3549a3cfd2": {
+        "startdate": "20240506",
+        "fullstartdate": "202405062200",
+        "enddate": "20240507",
+        "url": "/th?id=OHR.LittleDuckling_ES-ES9482906211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LittleDuckling_ES-ES9482906211",
+        "copyright": "Un patito nadando en un estanque, Suffolk, Inglaterra (© Nick Hurst/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pato&form=hpcapt&filters=HpDate%3a%2220240506_2200%22",
+        "title": "Plumas amarillas con melodía",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240506_LittleDuckling%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "982b6b051737733ec44a5d3549a3cfd2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
