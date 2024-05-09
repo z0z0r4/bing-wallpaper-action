@@ -6356,5 +6356,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a035f7b64700a122255088d4e6a458ba": {
+        "startdate": "20240509",
+        "fullstartdate": "202405090700",
+        "enddate": "20240510",
+        "url": "/th?id=OHR.EmirganPark_ROW8526066417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EmirganPark_ROW8526066417",
+        "copyright": "Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Emirgan+Park+Istanbul&form=hpcapt&filters=HpDate%3a%2220240509_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240509_EmirganPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a035f7b64700a122255088d4e6a458ba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

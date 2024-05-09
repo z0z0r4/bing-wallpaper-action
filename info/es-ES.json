@@ -6356,5 +6356,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "87e88f354341b6fc21e7cc5626f77eeb": {
+        "startdate": "20240509",
+        "fullstartdate": "202405092200",
+        "enddate": "20240510",
+        "url": "/th?id=OHR.MisoolRajaAmpat_ES-ES0084451413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MisoolRajaAmpat_ES-ES0084451413",
+        "copyright": "Misool, Islas Raja Ampat, Indonesia (© Giordano Cipriani/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Islas+Raja+Ampat&form=hpcapt&filters=HpDate%3a%2220240509_2200%22",
+        "title": "¡Las islas te llaman!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240509_MisoolRajaAmpat%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "87e88f354341b6fc21e7cc5626f77eeb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

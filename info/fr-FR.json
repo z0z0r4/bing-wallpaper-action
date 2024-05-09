@@ -6356,5 +6356,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6585ca9487ebd096bcb877768d747c65": {
+        "startdate": "20240509",
+        "fullstartdate": "202405092200",
+        "enddate": "20240510",
+        "url": "/th?id=OHR.MisoolRajaAmpat_FR-FR9641192055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MisoolRajaAmpat_FR-FR9641192055",
+        "copyright": "Misool, îles Raja Ampat, Indonésie (© Giordano Cipriani/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Misool+Indon%C3%A9sie&form=hpcapt&filters=HpDate%3a%2220240509_2200%22",
+        "title": "Les reflets du paradis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240509_MisoolRajaAmpat%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6585ca9487ebd096bcb877768d747c65",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

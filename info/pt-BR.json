@@ -6356,5 +6356,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e3ce80093619483c896c6e54ed9d9005": {
+        "startdate": "20240509",
+        "fullstartdate": "202405090300",
+        "enddate": "20240510",
+        "url": "/th?id=OHR.EmirganPark_PT-BR9433604698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EmirganPark_PT-BR9433604698",
+        "copyright": "Tulipas no Emirgan Park em Istambul, Turquia (© Ozbalci/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Emirgan+Park+em+Istambul&form=hpcapt&mkt=pt-br",
+        "title": "Tulipas em tons vibrantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240509_EmirganPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e3ce80093619483c896c6e54ed9d9005",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
