@@ -6373,5 +6373,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dc1ac75e4c0fad1301b672e384db80c0": {
+        "startdate": "20240510",
+        "fullstartdate": "202405100300",
+        "enddate": "20240511",
+        "url": "/th?id=OHR.MisoolRajaAmpat_PT-BR6517717174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MisoolRajaAmpat_PT-BR6517717174",
+        "copyright": "Misool, Ilhas Raja Ampat, Indonésia (© Giordano Cipriani/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilhas+Raja+Ampat&form=hpcapt&mkt=pt-br",
+        "title": "A magia da ilha",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240510_MisoolRajaAmpat%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dc1ac75e4c0fad1301b672e384db80c0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

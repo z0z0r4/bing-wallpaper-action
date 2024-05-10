@@ -6373,5 +6373,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aea36973aac5e849f43a1bd76df5817c": {
+        "startdate": "20240510",
+        "fullstartdate": "202405101830",
+        "enddate": "20240511",
+        "url": "/th?id=OHR.TexasIndigoBunting_EN-IN8017166670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TexasIndigoBunting_EN-IN8017166670",
+        "copyright": "An indigo bunting perched on a branch, Texas (© Jeff R Clow/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Indigo+bunting&form=hpcapt&filters=HpDate%3a%2220240510_1830%22",
+        "title": "Tweeting 'bon voyage'",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240510_TexasIndigoBunting%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aea36973aac5e849f43a1bd76df5817c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

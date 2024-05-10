@@ -6373,5 +6373,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "36a0e87c12553b1c5423de4549cbcf3a": {
+        "startdate": "20240510",
+        "fullstartdate": "202405100700",
+        "enddate": "20240511",
+        "url": "/th?id=OHR.MisoolRajaAmpat_ROW8754952138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MisoolRajaAmpat_ROW8754952138",
+        "copyright": "Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Raja+Ampat+Islands&form=hpcapt&filters=HpDate%3a%2220240510_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240510_MisoolRajaAmpat%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "36a0e87c12553b1c5423de4549cbcf3a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
