@@ -6390,5 +6390,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c9232e6af62f5e689a5c6ba5fccfc7b7": {
+        "startdate": "20240511",
+        "fullstartdate": "202405112200",
+        "enddate": "20240512",
+        "url": "/th?id=OHR.SanMiguelAllende_ES-ES3153624819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanMiguelAllende_ES-ES3153624819",
+        "copyright": "San Miguel de Allende, Guanajuato, México (© Mint Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=San+Miguel+de+Allende&form=hpcapt&filters=HpDate%3a%2220240511_2200%22",
+        "title": "¡Salud por México!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240511_SanMiguelAllende%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c9232e6af62f5e689a5c6ba5fccfc7b7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
