@@ -6407,5 +6407,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7efd1a06f90f777405a3fc7383beba1d": {
+        "startdate": "20240512",
+        "fullstartdate": "202405122200",
+        "enddate": "20240513",
+        "url": "/th?id=OHR.NamibiaCanyon_ES-ES0636008379_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NamibiaCanyon_ES-ES0636008379",
+        "copyright": "Cañón del río Fish, Namibia (© R. M. Nunes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ca%C3%B1%C3%B3n+del+r%C3%ADo+Fish&form=hpcapt&filters=HpDate%3a%2220240512_2200%22",
+        "title": "Vista de ojo de pez",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240512_NamibiaCanyon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7efd1a06f90f777405a3fc7383beba1d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
