@@ -6424,5 +6424,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "64505f76b5dcf3e5ee748acf0efaed22": {
+        "startdate": "20240513",
+        "fullstartdate": "202405132200",
+        "enddate": "20240514",
+        "url": "/th?id=OHR.CarlsbadNP_DE-DE9906842955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CarlsbadNP_DE-DE9906842955",
+        "copyright": "Gang der in den Big Room führt, Carlsbad-Caverns-Nationalpark, New Mexico, USA (© Doug Meek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Carlsbad-Caverns-Nationalpark&form=hpcapt&filters=HpDate%3a%2220240513_2200%22",
+        "title": "Geologische Größe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240513_CarlsbadNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "64505f76b5dcf3e5ee748acf0efaed22",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

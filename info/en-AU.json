@@ -6424,5 +6424,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a351f29d3feb110ac12b5e835ffc4870": {
+        "startdate": "20240513",
+        "fullstartdate": "202405130700",
+        "enddate": "20240514",
+        "url": "/th?id=OHR.NamibiaCanyon_ROW0680691554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NamibiaCanyon_ROW0680691554",
+        "copyright": "Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fish+River+Canyon+Namibia&form=hpcapt&filters=HpDate%3a%2220240513_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240513_NamibiaCanyon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a351f29d3feb110ac12b5e835ffc4870",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

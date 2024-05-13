@@ -6424,5 +6424,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3995f0c6093da5d8e89efad2f888cbac": {
+        "startdate": "20240513",
+        "fullstartdate": "202405132200",
+        "enddate": "20240514",
+        "url": "/th?id=OHR.CarlsbadNP_ES-ES0756476646_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CarlsbadNP_ES-ES0756476646",
+        "copyright": "Pasarela de acceso a la Gran Sala, Cavernas de Carlsbad, Nuevo México, EE.UU. (© Doug Meek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+de+las+Cavernas+de+Carlsbad&form=hpcapt&filters=HpDate%3a%2220240513_2200%22",
+        "title": "Danzando por las profundidades",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240513_CarlsbadNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3995f0c6093da5d8e89efad2f888cbac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
