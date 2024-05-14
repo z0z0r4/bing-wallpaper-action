@@ -6441,5 +6441,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ae29dd5918ced29e31ed83839e8cede5": {
+        "startdate": "20240514",
+        "fullstartdate": "202405140300",
+        "enddate": "20240515",
+        "url": "/th?id=OHR.CarlsbadNP_PT-BR7544935694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CarlsbadNP_PT-BR7544935694",
+        "copyright": "Trilha que leva ao Big Room, Grutas de Carlsbad, Novo México (© Doug Meek/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grutas+de+Carlsbad+Novo+M%C3%A9xico&form=hpcapt&mkt=pt-br",
+        "title": "Maravilhas subterrâneas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240514_CarlsbadNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ae29dd5918ced29e31ed83839e8cede5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
