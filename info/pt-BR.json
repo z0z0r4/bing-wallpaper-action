@@ -6458,5 +6458,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fcba5aeadc762afec24b028ec5ee49b0": {
+        "startdate": "20240515",
+        "fullstartdate": "202405150300",
+        "enddate": "20240516",
+        "url": "/th?id=OHR.BlueCityIndia_PT-BR7765486791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueCityIndia_PT-BR7765486791",
+        "copyright": "A Cidade Azul de Jodhpur, Índia (© cinoby/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jodhpur+%C3%8Dndia&form=hpcapt&mkt=pt-br",
+        "title": "A magia da Cidade Azul",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240515_BlueCityIndia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fcba5aeadc762afec24b028ec5ee49b0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

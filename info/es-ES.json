@@ -6458,5 +6458,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "508d1e8abbc8e1693764fd0701010e18": {
+        "startdate": "20240515",
+        "fullstartdate": "202405152200",
+        "enddate": "20240516",
+        "url": "/th?id=OHR.ParaglidingChampion_ES-ES1439141263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParaglidingChampion_ES-ES1439141263",
+        "copyright": "Campeonato de Europa de Parapente. Pegalajar, Jaén, España (© Jorgefontestad/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pegalajar+Ja%C3%A9n&form=hpcapt&filters=HpDate%3a%2220240515_2200%22",
+        "title": "¡Viento en popa!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240515_ParaglidingChampion%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "508d1e8abbc8e1693764fd0701010e18",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

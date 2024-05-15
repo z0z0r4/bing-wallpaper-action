@@ -6441,5 +6441,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "060337775f9c83086a5bb65bad1e885a": {
+        "startdate": "20240515",
+        "fullstartdate": "202405152300",
+        "enddate": "20240516",
+        "url": "/th?id=OHR.DayOfLight_EN-GB6642931428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DayOfLight_EN-GB6642931428",
+        "copyright": "'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China (© Feng Li/Getty Images News)",
+        "copyrightlink": "https://www.bing.com/search?q=international+day+of+light&form=hpcapt&filters=HpDate%3a%2220240515_2300%22",
+        "title": "Photon pavilion",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240515_DayOfLight%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "060337775f9c83086a5bb65bad1e885a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
