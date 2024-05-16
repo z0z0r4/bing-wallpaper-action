@@ -6475,5 +6475,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "061ff380ca1857f374df7e3dabb33295": {
+        "startdate": "20240516",
+        "fullstartdate": "202405160700",
+        "enddate": "20240517",
+        "url": "/th?id=OHR.ReconquistaVigo_ROW5882713366_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ReconquistaVigo_ROW5882713366",
+        "copyright": "The Rande Bridge in Vigo, Spain (© Julio Conde/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vigo&form=hpcapt&filters=HpDate%3a%2220240516_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240516_ReconquistaVigo%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "061ff380ca1857f374df7e3dabb33295",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
