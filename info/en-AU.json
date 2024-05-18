@@ -6509,5 +6509,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a459f61d3b50a3fe326419712ba57719": {
+        "startdate": "20240518",
+        "fullstartdate": "202405180700",
+        "enddate": "20240519",
+        "url": "/th?id=OHR.PacificRimNationalPark_ROW3040512807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PacificRimNationalPark_ROW3040512807",
+        "copyright": "Broken Group Islands, Pacific Rim National Park Reserve, Vancouver Island, British Columbia, Canada (© Ron Watts/Design Pics/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pacific+Rim+National+Park+Reserve&form=hpcapt&filters=HpDate%3a%2220240518_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240518_PacificRimNationalPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a459f61d3b50a3fe326419712ba57719",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

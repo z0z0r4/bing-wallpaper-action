@@ -6509,5 +6509,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "75cb093e7d1014abfe5350d303c188dc": {
+        "startdate": "20240518",
+        "fullstartdate": "202405182200",
+        "enddate": "20240519",
+        "url": "/th?id=OHR.VernazzaItaly_ES-ES4215156011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VernazzaItaly_ES-ES4215156011",
+        "copyright": "Pueblo de Vernazza, Cinque Terre, Liguria, Italia (© Roberto Moiola/Sysaworld/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vernazza+Liguria&form=hpcapt&filters=HpDate%3a%2220240518_2200%22",
+        "title": "Donde la historia se encuentra con el mar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240518_VernazzaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "75cb093e7d1014abfe5350d303c188dc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
