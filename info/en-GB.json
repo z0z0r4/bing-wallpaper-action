@@ -6509,5 +6509,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1d8ec3aa189ffd282bf13d8b0c9c8bdf": {
+        "startdate": "20240519",
+        "fullstartdate": "202405192300",
+        "enddate": "20240520",
+        "url": "/th?id=OHR.HoneycombBee_EN-GB4546978575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoneycombBee_EN-GB4546978575",
+        "copyright": "Bee tending a honeycomb (© Simun Ascic/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Bee+Day&form=hpcapt&filters=HpDate%3a%2220240519_2300%22",
+        "title": "I can't bee-lieve it!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240519_HoneycombBee%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1d8ec3aa189ffd282bf13d8b0c9c8bdf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

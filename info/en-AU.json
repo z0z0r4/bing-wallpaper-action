@@ -6526,5 +6526,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "af857bd4afc251cdc4543acfd2f68bf8": {
+        "startdate": "20240519",
+        "fullstartdate": "202405190700",
+        "enddate": "20240520",
+        "url": "/th?id=OHR.VernazzaItaly_ROW3505652305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.VernazzaItaly_ROW3505652305",
+        "copyright": "Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vernazza+Liguria&form=hpcapt&filters=HpDate%3a%2220240519_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240519_VernazzaItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "af857bd4afc251cdc4543acfd2f68bf8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

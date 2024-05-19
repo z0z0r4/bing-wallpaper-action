@@ -6526,5 +6526,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "60d7ce536b7cd1138b3c3500df9f9a57": {
+        "startdate": "20240519",
+        "fullstartdate": "202405192200",
+        "enddate": "20240520",
+        "url": "/th?id=OHR.HoneycombBee_ES-ES4459802642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoneycombBee_ES-ES4459802642",
+        "copyright": "Abeja cuidando un panal (© Simun Ascic/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+Mundial+de+las+Abejas&form=hpcapt&filters=HpDate%3a%2220240519_2200%22",
+        "title": "¡Lo he encontrado!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240519_HoneycombBee%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "60d7ce536b7cd1138b3c3500df9f9a57",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
