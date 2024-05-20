@@ -6543,5 +6543,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "21929db1e6f6823c7b31e57b9ae29c01": {
+        "startdate": "20240520",
+        "fullstartdate": "202405200300",
+        "enddate": "20240521",
+        "url": "/th?id=OHR.HoneycombBee_PT-BR0168442685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoneycombBee_PT-BR0168442685",
+        "copyright": "Abelha cuidando do favo de mel (© Simun Ascic/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+das+Abelhas&form=hpcapt&mkt=pt-br",
+        "title": "A dança das abelhas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240520_HoneycombBee%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "21929db1e6f6823c7b31e57b9ae29c01",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
