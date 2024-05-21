@@ -6560,5 +6560,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8ed0ad46140e6ef948c3020bf07dcd42": {
+        "startdate": "20240521",
+        "fullstartdate": "202405210700",
+        "enddate": "20240522",
+        "url": "/th?id=OHR.ChapadaDiamantinaBahia_ROW4759498139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChapadaDiamantinaBahia_ROW4759498139",
+        "copyright": "Poço Encantado cave in Chapada Diamantina, Bahia, Brazil (© Cavan Images/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Poco+Encantado&form=hpcapt&filters=HpDate%3a%2220240521_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240521_ChapadaDiamantinaBahia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8ed0ad46140e6ef948c3020bf07dcd42",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
