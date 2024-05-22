@@ -6577,5 +6577,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d137bd86bc3833d5b3a081be254cf18c": {
+        "startdate": "20240522",
+        "fullstartdate": "202405220400",
+        "enddate": "20240523",
+        "url": "/th?id=OHR.SnowGumTasmania_EN-CA3820234055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowGumTasmania_EN-CA3820234055",
+        "copyright": "Tasmanian snow gum, Mount Field National Park, Tasmania, Australia (© Ignacio Palacios/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Day+for+Biological+Diversity&form=hpcapt&filters=HpDate%3a%2220240522_0400%22",
+        "title": "Dive into diversity",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240522_SnowGumTasmania%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d137bd86bc3833d5b3a081be254cf18c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

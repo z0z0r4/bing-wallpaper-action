@@ -6577,5 +6577,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6b011313161086b5cfc810f0c16740ca": {
+        "startdate": "20240522",
+        "fullstartdate": "202405222200",
+        "enddate": "20240523",
+        "url": "/th?id=OHR.IndianStarTortoise_DE-DE8901102439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IndianStarTortoise_DE-DE8901102439",
+        "copyright": "Indische Sternschildkröte, Sri Lanka (© Robin Chittenden/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+der+Schildkr%C3%B6te&form=hpcapt&filters=HpDate%3a%2220240522_2200%22",
+        "title": "Überall ein Haus, überall zu Hause?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240522_IndianStarTortoise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6b011313161086b5cfc810f0c16740ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
