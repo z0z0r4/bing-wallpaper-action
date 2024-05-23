@@ -6594,5 +6594,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "147952a1bf80f52d7135532412c92cac": {
+        "startdate": "20240523",
+        "fullstartdate": "202405230700",
+        "enddate": "20240524",
+        "url": "/th?id=OHR.IndianStarTortoise_ROW5346928445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IndianStarTortoise_ROW5346928445",
+        "copyright": "Indian star tortoise, Sri Lanka (© Robin Chittenden/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Indian+star+tortoise&form=hpcapt&filters=HpDate%3a%2220240523_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240523_IndianStarTortoise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "147952a1bf80f52d7135532412c92cac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
