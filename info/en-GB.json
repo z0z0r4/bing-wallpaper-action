@@ -6594,5 +6594,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5c1c0e13702be778c25ee1fab9142067": {
+        "startdate": "20240524",
+        "fullstartdate": "202405242300",
+        "enddate": "20240525",
+        "url": "/th?id=OHR.MoroccoBenhaddou_EN-GB8113662497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MoroccoBenhaddou_EN-GB8113662497",
+        "copyright": "Aït Benhaddou, Morocco (© Grant Faint/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ait+BenHaddou+Morocco&form=hpcapt&filters=HpDate%3a%2220240524_2300%22",
+        "title": "Guardians of the dunes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240524_MoroccoBenhaddou%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5c1c0e13702be778c25ee1fab9142067",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
