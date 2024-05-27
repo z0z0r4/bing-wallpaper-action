@@ -6662,5 +6662,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "227d64f81eca65194df88e9284a6e196": {
+        "startdate": "20240527",
+        "fullstartdate": "202405270300",
+        "enddate": "20240528",
+        "url": "/th?id=OHR.MataAtlantica_PT-BR0600772527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MataAtlantica_PT-BR0600772527",
+        "copyright": "Parque Nacional Serra dos Órgãos em Petrópolis, Río de Janeiro (© MesquitaFMS/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Onde+h%C3%A1+Mata+Atl%C3%A2ntica&form=hpcapt&mkt=pt-br",
+        "title": "Além do horizonte",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240527_MataAtlantica%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "227d64f81eca65194df88e9284a6e196",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

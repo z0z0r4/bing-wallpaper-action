@@ -6662,5 +6662,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3565444f4c906601465c9f7ac191180a": {
+        "startdate": "20240527",
+        "fullstartdate": "202405271500",
+        "enddate": "20240528",
+        "url": "/th?id=OHR.MeteoraMonastery_JA-JP2717990749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MeteoraMonastery_JA-JP2717990749",
+        "copyright": "ルサヌ修道院, ギリシャ (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%AB%E3%82%B5%E3%83%8C%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&filters=HpDate%3a%2220240527_1500%22",
+        "title": "切り立つ岩の上に建てられた修道院",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240527_MeteoraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3565444f4c906601465c9f7ac191180a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

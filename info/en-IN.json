@@ -6662,5 +6662,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ce2fb77dfc1b359493b77563c3d32df3": {
+        "startdate": "20240527",
+        "fullstartdate": "202405271830",
+        "enddate": "20240528",
+        "url": "/th?id=OHR.MeteoraMonastery_EN-IN0876656339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MeteoraMonastery_EN-IN0876656339",
+        "copyright": "Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monastery+of+Roussanou+Greece&form=hpcapt&filters=HpDate%3a%2220240527_1830%22",
+        "title": "On top of the world",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240527_MeteoraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ce2fb77dfc1b359493b77563c3d32df3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

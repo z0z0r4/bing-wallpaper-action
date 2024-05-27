@@ -6662,5 +6662,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cda5de8193289601a0c319bb18397784": {
+        "startdate": "20240527",
+        "fullstartdate": "202405272200",
+        "enddate": "20240528",
+        "url": "/th?id=OHR.MeteoraMonastery_ES-ES5821145513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MeteoraMonastery_ES-ES5821145513",
+        "copyright": "Monasterio de Roussanou, Meteora, Tesalia, Grecia (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.google.com/search?q=Monasterios+de+Meteora&form=hpcapt&filters=HpDate%3a%2220240527_2200%22",
+        "title": "En la cima del mundo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240527_MeteoraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cda5de8193289601a0c319bb18397784",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
