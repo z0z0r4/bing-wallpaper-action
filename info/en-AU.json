@@ -6679,5 +6679,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7fca8aa9fef0f5c8b60a1b22c0c85911": {
+        "startdate": "20240528",
+        "fullstartdate": "202405280700",
+        "enddate": "20240529",
+        "url": "/th?id=OHR.MeteoraMonastery_ROW7444671796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MeteoraMonastery_ROW7444671796",
+        "copyright": "Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Monastery+of+Roussanou+Greece&form=hpcapt&filters=HpDate%3a%2220240528_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240528_MeteoraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7fca8aa9fef0f5c8b60a1b22c0c85911",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

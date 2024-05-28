@@ -6679,5 +6679,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dc42f48c7805be24529517a4f3dab3b9": {
+        "startdate": "20240528",
+        "fullstartdate": "202405280300",
+        "enddate": "20240529",
+        "url": "/th?id=OHR.MeteoraMonastery_PT-BR0665856775_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MeteoraMonastery_PT-BR0665856775",
+        "copyright": "Mosteiro de Roussanou, Meteora, Tessália, Grécia (© Marius Roman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mosteiro+de+Roussanou+Gr%C3%A9cia&form=hpcapt&mkt=pt-br",
+        "title": "No topo do mundo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240528_MeteoraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dc42f48c7805be24529517a4f3dab3b9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
