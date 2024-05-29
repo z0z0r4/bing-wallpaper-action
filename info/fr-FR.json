@@ -6696,5 +6696,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d855f77b24751b8c51d477bf8ab108fc": {
+        "startdate": "20240529",
+        "fullstartdate": "202405292200",
+        "enddate": "20240530",
+        "url": "/th?id=OHR.Everglades90th_FR-FR1353947188_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Everglades90th_FR-FR1353947188",
+        "copyright": "Pins sylvestres, parc national des Everglades, Floride, États-Unis (© Jonathan Gewirtz/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Everglades+%C3%A9tats-unis&form=hpcapt&filters=HpDate%3a%2220240529_2200%22",
+        "title": "Le plus grand écosystème subtropical américain",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240529_Everglades90th%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d855f77b24751b8c51d477bf8ab108fc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -6696,5 +6696,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "187092e4c4644abf15dad0b39bdfd2b2": {
+        "startdate": "20240529",
+        "fullstartdate": "202405292200",
+        "enddate": "20240530",
+        "url": "/th?id=OHR.Everglades90th_ES-ES6056767360_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Everglades90th_ES-ES6056767360",
+        "copyright": "Pinos elliotis en el Parque Nacional de los Everglades, Florida, EE.UU. (© Jonathan Gewirtz/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Florida&form=hpcapt&filters=HpDate%3a%2220240529_2200%22",
+        "title": "El poder de la naturaleza",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240529_Everglades90th%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "187092e4c4644abf15dad0b39bdfd2b2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

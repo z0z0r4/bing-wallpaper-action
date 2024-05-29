@@ -6696,5 +6696,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9747c7d8cf88e7240b96df59b0817538": {
+        "startdate": "20240529",
+        "fullstartdate": "202405290400",
+        "enddate": "20240530",
+        "url": "/th?id=OHR.MullOtter_EN-CA6618769900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MullOtter_EN-CA6618769900",
+        "copyright": "Adolescent European otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=World+Otter+Day&form=hpcapt&filters=HpDate%3a%2220240529_0400%22",
+        "title": "'Otter' you looking at?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240529_MullOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9747c7d8cf88e7240b96df59b0817538",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

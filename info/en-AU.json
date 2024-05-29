@@ -6696,5 +6696,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a3096326b5e632c4ffc2c24d947d1de7": {
+        "startdate": "20240529",
+        "fullstartdate": "202405290700",
+        "enddate": "20240530",
+        "url": "/th?id=OHR.MullOtter_ROW8840823080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MullOtter_ROW8840823080",
+        "copyright": "Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+otter&form=hpcapt&filters=HpDate%3a%2220240529_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240529_MullOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a3096326b5e632c4ffc2c24d947d1de7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
