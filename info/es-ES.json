@@ -6747,5 +6747,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0dc58df1d5113db284ffddfd446b476b": {
+        "startdate": "20240601",
+        "fullstartdate": "202406012200",
+        "enddate": "20240602",
+        "url": "/th?id=OHR.MenRuz_ES-ES3990544497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MenRuz_ES-ES3990544497",
+        "copyright": "Faro de Ploumanac'h, Costas de Armor, Francia (© Christian Handl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ploumanac%27h&form=hpcapt&filters=HpDate%3a%2220240601_2200%22",
+        "title": "Una luz en la noche",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240601_MenRuz%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0dc58df1d5113db284ffddfd446b476b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

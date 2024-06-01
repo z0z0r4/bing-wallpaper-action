@@ -6747,5 +6747,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9ce8da916ff2c8827e04696cb2d4e2f9": {
+        "startdate": "20240601",
+        "fullstartdate": "202406010700",
+        "enddate": "20240602",
+        "url": "/th?id=OHR.CancaoDoExilio_ROW1763279159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CancaoDoExilio_ROW1763279159",
+        "copyright": "Imperial palm trees in the Rio de Janeiro Botanical Garden, Brazil (© Marcia Silva de Mendonca/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rio+de+Janeiro+Botanical+Garden&form=hpcapt&filters=HpDate%3a%2220240601_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240601_CancaoDoExilio%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9ce8da916ff2c8827e04696cb2d4e2f9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
