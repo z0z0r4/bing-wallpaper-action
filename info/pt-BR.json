@@ -6764,5 +6764,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "70d0dc34e59b62a1df878c15b96a37af": {
+        "startdate": "20240602",
+        "fullstartdate": "202406020300",
+        "enddate": "20240603",
+        "url": "/th?id=OHR.CopenhagenBicycles_PT-BR5476760078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CopenhagenBicycles_PT-BR5476760078",
+        "copyright": "Bicicletas em Copenhague, Dinamarca (© Alphotographic/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bicicletas+no+mundo&form=hpcapt&mkt=pt-br",
+        "title": "Uma pedalada de cada vez",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240602_CopenhagenBicycles%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "70d0dc34e59b62a1df878c15b96a37af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

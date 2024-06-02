@@ -6764,5 +6764,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b6faafb276a7cdbb7b8dc2be51908c77": {
+        "startdate": "20240602",
+        "fullstartdate": "202406020700",
+        "enddate": "20240603",
+        "url": "/th?id=OHR.MenRuz_ROW6978713406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MenRuz_ROW6978713406",
+        "copyright": "Ploumanac'h Lighthouse, Côtes-d'Armor, France (© Christian Handl/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ploumanac%27h+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240602_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240602_MenRuz%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b6faafb276a7cdbb7b8dc2be51908c77",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
