@@ -6781,5 +6781,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "74dacbd157263cf80f0c14cb5c89fc87": {
+        "startdate": "20240603",
+        "fullstartdate": "202406030700",
+        "enddate": "20240604",
+        "url": "/th?id=OHR.CopenhagenBicycles_ROW7187318932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CopenhagenBicycles_ROW7187318932",
+        "copyright": "Bicycles in Copenhagen, Denmark (© Alphotographic/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bicycle&form=hpcapt&filters=HpDate%3a%2220240603_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240603_CopenhagenBicycles%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "74dacbd157263cf80f0c14cb5c89fc87",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

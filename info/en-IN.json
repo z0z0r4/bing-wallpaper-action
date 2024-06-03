@@ -6781,5 +6781,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ae88f6711d226746ef7a070fb4d76806": {
+        "startdate": "20240603",
+        "fullstartdate": "202406031830",
+        "enddate": "20240604",
+        "url": "/th?id=OHR.ChestnutBeeEater_EN-IN6283551210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChestnutBeeEater_EN-IN6283551210",
+        "copyright": "Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Chestnut-headed+bee-eater&form=hpcapt&filters=HpDate%3a%2220240603_1830%22",
+        "title": "Birds of a feather…",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240603_ChestnutBeeEater%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ae88f6711d226746ef7a070fb4d76806",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
