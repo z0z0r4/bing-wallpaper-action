@@ -6815,5 +6815,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "41b2baffefc8b6c7c22cf9c12ed4bda9": {
+        "startdate": "20240605",
+        "fullstartdate": "202406052200",
+        "enddate": "20240606",
+        "url": "/th?id=OHR.TenerifeBluetrail_ES-ES5009256833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TenerifeBluetrail_ES-ES5009256833",
+        "copyright": "Parque Nacional del Teide, Tenerife, España (© Santiago Urquijo/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Teide&form=hpcapt&filters=HpDate%3a%2220240605_2200%22",
+        "title": "¡Hasta la cima, esa es la meta!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240605_TenerifeBluetrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "41b2baffefc8b6c7c22cf9c12ed4bda9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

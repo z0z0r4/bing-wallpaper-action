@@ -6815,5 +6815,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "338f804974c12c1d1b37fca369be11a7": {
+        "startdate": "20240605",
+        "fullstartdate": "202406050700",
+        "enddate": "20240606",
+        "url": "/th?id=OHR.MadagascarRiver_ROW7537069728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MadagascarRiver_ROW7537069728",
+        "copyright": "Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Masoala+National+Park+in+Madagascar&form=hpcapt&filters=HpDate%3a%2220240605_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240605_MadagascarRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "338f804974c12c1d1b37fca369be11a7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
