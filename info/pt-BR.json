@@ -6832,5 +6832,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "40139ebcbfa4e491a7de52775aabd835": {
+        "startdate": "20240606",
+        "fullstartdate": "202406060300",
+        "enddate": "20240607",
+        "url": "/th?id=OHR.LesBravesNormandy_PT-BR7484983029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LesBravesNormandy_PT-BR7484983029",
+        "copyright": "Monumento Les Braves na praia de Omaha, Normandia, França (© Christopher Furlong/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Desembarques+da+Normandia&form=hpcapt&mkt=pt-br",
+        "title": "Honrando os heróis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240606_LesBravesNormandy%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "40139ebcbfa4e491a7de52775aabd835",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

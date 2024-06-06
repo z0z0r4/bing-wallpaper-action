@@ -6832,5 +6832,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "367ea4dd5ea36e885de3318a6c9e0dac": {
+        "startdate": "20240606",
+        "fullstartdate": "202406060700",
+        "enddate": "20240607",
+        "url": "/th?id=OHR.CamargueFlamingos_ROW7729058337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CamargueFlamingos_ROW7729058337",
+        "copyright": "Greater flamingos at Pont de Gau Ornithological Park, Camargue, France (© Yann Guichaoua-Photos/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Greater+flamingo&form=hpcapt&filters=HpDate%3a%2220240606_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240606_CamargueFlamingos%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "367ea4dd5ea36e885de3318a6c9e0dac",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
