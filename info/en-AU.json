@@ -6849,5 +6849,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b09b3951ac2de30710e101062100adca": {
+        "startdate": "20240607",
+        "fullstartdate": "202406070700",
+        "enddate": "20240608",
+        "url": "/th?id=OHR.HumpbackFamily_ROW7950107628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HumpbackFamily_ROW7950107628",
+        "copyright": "Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Humpback+whale&form=hpcapt&filters=HpDate%3a%2220240607_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240607_HumpbackFamily%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b09b3951ac2de30710e101062100adca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
