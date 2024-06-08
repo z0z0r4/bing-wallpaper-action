@@ -6866,5 +6866,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c30feddf2ebbdb63888fe06513bbc47a": {
+        "startdate": "20240608",
+        "fullstartdate": "202406082200",
+        "enddate": "20240609",
+        "url": "/th?id=OHR.RegionMurciaDay_ES-ES1540507455_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RegionMurciaDay_ES-ES1540507455",
+        "copyright": "Atardecer en Murcia, España (© Medvedkov/iStock/Getty Images Plus)",
+        "copyrightlink": "https://www.bing.com/search?q=Regi%C3%B3n+de+murcia&form=hpcapt&filters=HpDate%3a%2220240608_2200%22",
+        "title": "Costa cálida",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240608_RegionMurciaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c30feddf2ebbdb63888fe06513bbc47a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
