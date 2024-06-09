@@ -6883,5 +6883,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2c20ab1db05552df5369c796f5bb9483": {
+        "startdate": "20240609",
+        "fullstartdate": "202406091600",
+        "enddate": "20240610",
+        "url": "/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853",
+        "copyright": "龙舟池日出，集美区，厦门，中国 (© outcast85/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82&form=hpcapt&mkt=zh-cn",
+        "title": "比赛将在这里开始！",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240609_DragonBoatFestival2024%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2c20ab1db05552df5369c796f5bb9483",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

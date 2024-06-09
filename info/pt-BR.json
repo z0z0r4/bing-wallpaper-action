@@ -6883,5 +6883,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6ecbe981e12568240b6c0dbad2f33177": {
+        "startdate": "20240609",
+        "fullstartdate": "202406090300",
+        "enddate": "20240610",
+        "url": "/th?id=OHR.BardenasBiosphere_PT-BR8155922865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BardenasBiosphere_PT-BR8155922865",
+        "copyright": "Reserva da Biosfera e Parque Natural Bardenas Reales, Bardenas, Navarra, Espanha (© Aliaume Chapelle/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Reserva+da+Biosfera+Bardenas+Reales&form=hpcapt&mkt=pt-br",
+        "title": "Natureza de tirar o fôlego",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240609_BardenasBiosphere%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6ecbe981e12568240b6c0dbad2f33177",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

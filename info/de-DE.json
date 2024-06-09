@@ -6883,5 +6883,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "08572f9238e99413e67f187c3aa4484e": {
+        "startdate": "20240609",
+        "fullstartdate": "202406092200",
+        "enddate": "20240610",
+        "url": "/th?id=OHR.OsakaNight_DE-DE9198520321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OsakaNight_DE-DE9198520321",
+        "copyright": "Osaka bei Nacht, Japan (© wichianduangsri/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Osaka+Japan&form=hpcapt&filters=HpDate%3a%2220240609_2200%22",
+        "title": "Ein japanischer Schmelztiegel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240609_OsakaNight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "08572f9238e99413e67f187c3aa4484e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
