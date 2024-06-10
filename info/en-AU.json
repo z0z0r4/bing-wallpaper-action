@@ -6900,5 +6900,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bf5c045a909c30c18db5f89ef9af8580": {
+        "startdate": "20240610",
+        "fullstartdate": "202406100700",
+        "enddate": "20240611",
+        "url": "/th?id=OHR.OsakaNight_ROW8667000347_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OsakaNight_ROW8667000347",
+        "copyright": "Osaka at night, Japan (© wichianduangsri/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Osaka+Japan&form=hpcapt&filters=HpDate%3a%2220240610_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240610_OsakaNight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bf5c045a909c30c18db5f89ef9af8580",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
