@@ -6917,5 +6917,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "57e13e766ef4f04ff26899cbd4081365": {
+        "startdate": "20240611",
+        "fullstartdate": "202406112200",
+        "enddate": "20240612",
+        "url": "/th?id=OHR.BigBendMilkyWay_DE-DE9932033977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BigBendMilkyWay_DE-DE9932033977",
+        "copyright": "Milchstraße über dem Big-Bend-Nationalpark, Texas, USA (© wisanuboonrawd/Adobe Stock)",
+        "copyrightlink": "https://www.bing.com/search?q=Big+Bend+Nationalpark&form=hpcapt&filters=HpDate%3a%2220240611_2200%22",
+        "title": "Ein galaktischer Gig",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240611_BigBendMilkyWay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "57e13e766ef4f04ff26899cbd4081365",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
