@@ -6917,5 +6917,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "74373092eadc6d68502cc02cbaa963b3": {
+        "startdate": "20240612",
+        "fullstartdate": "202406122300",
+        "enddate": "20240613",
+        "url": "/th?id=OHR.RegistanUzbekistan_EN-GB2667913913_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RegistanUzbekistan_EN-GB2667913913",
+        "copyright": "Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220240612_2300%22",
+        "title": "Tile tales",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240612_RegistanUzbekistan%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "74373092eadc6d68502cc02cbaa963b3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

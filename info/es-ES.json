@@ -6934,5 +6934,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "acbc3770a592969eb543ade3d4c405c6": {
+        "startdate": "20240612",
+        "fullstartdate": "202406122200",
+        "enddate": "20240613",
+        "url": "/th?id=OHR.RegistanUzbekistan_ES-ES3215569621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RegistanUzbekistan_ES-ES3215569621",
+        "copyright": "Fachada de mosaicos en la Plaza Registán, Samarcanda, Uzbekistán (© da-kuk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Regist%C3%A1n%2c+Uzbekist%C3%A1n&form=hpcapt&filters=HpDate%3a%2220240612_2200%22",
+        "title": "Azul de azulejos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240612_RegistanUzbekistan%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "acbc3770a592969eb543ade3d4c405c6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
