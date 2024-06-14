@@ -6968,5 +6968,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "52275ee205bea2daaf20ee703d4c28a6": {
+        "startdate": "20240614",
+        "fullstartdate": "202406142200",
+        "enddate": "20240615",
+        "url": "/th?id=OHR.NazareWave_DE-DE6510576584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NazareWave_DE-DE6510576584",
+        "copyright": "Wellenreiter in Nazaré, Portugal (© Rui Caria/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Internationaler+Surftag&form=hpcapt&filters=HpDate%3a%2220240614_2200%22",
+        "title": "Die perfekte Welle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240614_NazareWave%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "52275ee205bea2daaf20ee703d4c28a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

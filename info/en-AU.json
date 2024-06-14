@@ -6968,5 +6968,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3fe4d01ba960cd2a25e3d7c75fb4ecf6": {
+        "startdate": "20240614",
+        "fullstartdate": "202406140700",
+        "enddate": "20240615",
+        "url": "/th?id=OHR.PeggysCove_ROW1535272828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PeggysCove_ROW1535272828",
+        "copyright": "Peggy's Cove Lighthouse, Nova Scotia, Canada (© Pugalenthi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Peggy%27s+Cove+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240614_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240614_PeggysCove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3fe4d01ba960cd2a25e3d7c75fb4ecf6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
