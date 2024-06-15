@@ -6985,5 +6985,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c28e5877959c322fe59fc61c04335ffb": {
+        "startdate": "20240615",
+        "fullstartdate": "202406150300",
+        "enddate": "20240616",
+        "url": "/th?id=OHR.NazareWave_PT-BR1726789452_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NazareWave_PT-BR1726789452",
+        "copyright": "Surfista pegando onda em Nazaré, Portugal (© Rui Caria/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+do+Surfe&form=hpcapt&mkt=pt-br",
+        "title": "Na crista da onda",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240615_NazareWave%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c28e5877959c322fe59fc61c04335ffb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

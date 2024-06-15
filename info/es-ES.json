@@ -6985,5 +6985,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d869a84eb57ac10c27113ea0e2d6cf0b": {
+        "startdate": "20240615",
+        "fullstartdate": "202406152200",
+        "enddate": "20240616",
+        "url": "/th?id=OHR.KillikRiverAlaska_ES-ES6266165210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KillikRiverAlaska_ES-ES6266165210",
+        "copyright": "Confluencia de Easter Creek y el río Killik, Parque Nacional de las Puertas del Ártico, Alaska, EE.UU. (© Patrick J. Endres/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+y+Reserva+Puertas+del+Artico+Alaska&form=hpcapt&filters=HpDate%3a%2220240615_2200%22",
+        "title": "El encuentro de las aguas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240615_KillikRiverAlaska%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d869a84eb57ac10c27113ea0e2d6cf0b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

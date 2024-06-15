@@ -6985,5 +6985,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bee81fe138bd4922812535c362a4773a": {
+        "startdate": "20240615",
+        "fullstartdate": "202406150700",
+        "enddate": "20240616",
+        "url": "/th?id=OHR.NazareWave_ROW1847563109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NazareWave_ROW1847563109",
+        "copyright": "Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nazar%C3%A9&form=hpcapt&filters=HpDate%3a%2220240615_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240615_NazareWave%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bee81fe138bd4922812535c362a4773a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
