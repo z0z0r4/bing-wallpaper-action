@@ -7019,5 +7019,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4507aaebd307cfe8a946f739d82166e6": {
+        "startdate": "20240617",
+        "fullstartdate": "202406172200",
+        "enddate": "20240618",
+        "url": "/th?id=OHR.LupinIceland_ES-ES4150475711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupinIceland_ES-ES4150475711",
+        "copyright": "Campos de altramuces e iglesia al amanecer, Península de Snæfellsnes, Islandia (© Matteo Colombo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sn%C3%A6fellsnes&form=hpcapt&filters=HpDate%3a%2220240617_2200%22",
+        "title": "Paisaje lunar",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240617_LupinIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4507aaebd307cfe8a946f739d82166e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
