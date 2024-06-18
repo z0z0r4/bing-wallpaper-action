@@ -7036,5 +7036,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "be3c8c9edcdc9b50dd1dc2c120458364": {
+        "startdate": "20240618",
+        "fullstartdate": "202406180700",
+        "enddate": "20240619",
+        "url": "/th?id=OHR.LupinIceland_ROW2520380870_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LupinIceland_ROW2520380870",
+        "copyright": "Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Snaefellsnes&form=hpcapt&filters=HpDate%3a%2220240618_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240618_LupinIceland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "be3c8c9edcdc9b50dd1dc2c120458364",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
