@@ -7053,5 +7053,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "60577e3acca3796b5c03784052ffe140": {
+        "startdate": "20240619",
+        "fullstartdate": "202406192200",
+        "enddate": "20240620",
+        "url": "/th?id=OHR.KokinoMacedonia_ES-ES7264523423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KokinoMacedonia_ES-ES7264523423",
+        "copyright": "Kokino, antiguo observatorio megalítico, Macedonia del Norte (© stoimilov/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Solsticio+de+verano&form=hpcapt&filters=HpDate%3a%2220240619_2200%22",
+        "title": "Amanecer del solsticio",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240619_KokinoMacedonia%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "60577e3acca3796b5c03784052ffe140",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
