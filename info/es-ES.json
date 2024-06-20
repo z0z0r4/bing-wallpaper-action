@@ -7070,5 +7070,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4f8ba2b928578c8600ad4b8cf5de578a": {
+        "startdate": "20240620",
+        "fullstartdate": "202406202200",
+        "enddate": "20240621",
+        "url": "/th?id=OHR.LewaGiraffe_ES-ES7726305144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LewaGiraffe_ES-ES7726305144",
+        "copyright": "Jirafa madre reticulada saludando a su cría, Lewa Wildlife Conservancy, Kenia (© Sean Crane/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Jirafa&form=hpcapt&filters=HpDate%3a%2220240620_2200%22",
+        "title": "Conexión perfecta",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240620_LewaGiraffe%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4f8ba2b928578c8600ad4b8cf5de578a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
