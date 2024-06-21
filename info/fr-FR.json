@@ -7087,5 +7087,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4ba6ec0eea1bfd0f8cf6060903924f33": {
+        "startdate": "20240621",
+        "fullstartdate": "202406212200",
+        "enddate": "20240622",
+        "url": "/th?id=OHR.BrazilRainforest_FR-FR5609224020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BrazilRainforest_FR-FR5609224020",
+        "copyright": "Forêt amazonienne, Brésil (© Claus Meyer/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=for%C3%AAt+tropicale&form=hpcapt&filters=HpDate%3a%2220240621_2200%22",
+        "title": "Se perdre dans la brume",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240621_BrazilRainforest%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4ba6ec0eea1bfd0f8cf6060903924f33",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
