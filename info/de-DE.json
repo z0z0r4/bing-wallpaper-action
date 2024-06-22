@@ -7104,5 +7104,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "99292c9c261c3ea9f9b63832ef8d2579": {
+        "startdate": "20240622",
+        "fullstartdate": "202406222200",
+        "enddate": "20240623",
+        "url": "/th?id=OHR.DhakaBangladesh_DE-DE1601087316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DhakaBangladesh_DE-DE1601087316",
+        "copyright": "Luftaufnahme eines Verkehrskreisels in Dhaka, Bangladesch (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Dhaka&form=hpcapt&filters=HpDate%3a%2220240622_2200%22",
+        "title": "Lichter der Stadt in dunkler Nacht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240622_DhakaBangladesh%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "99292c9c261c3ea9f9b63832ef8d2579",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

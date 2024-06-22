@@ -7104,5 +7104,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d0a4a933a47c22a12b09f60e716c795c": {
+        "startdate": "20240622",
+        "fullstartdate": "202406222200",
+        "enddate": "20240623",
+        "url": "/th?id=OHR.SanJuanMenorca_ES-ES8672078305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SanJuanMenorca_ES-ES8672078305",
+        "copyright": "Cala Macarelleta, Menorca, Islas Baleares, España (© Matteo Colombo/DigitalVision/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fiesta+de+San+Juan&form=hpcapt&filters=HpDate%3a%2220240622_2200%22",
+        "title": "Noche de San Juan",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240622_SanJuanMenorca%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d0a4a933a47c22a12b09f60e716c795c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
