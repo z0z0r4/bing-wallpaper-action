@@ -7138,5 +7138,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b0cfd1e8f46e8db3d5aeaafdc540613b": {
+        "startdate": "20240624",
+        "fullstartdate": "202406242200",
+        "enddate": "20240625",
+        "url": "/th?id=OHR.FireWave_FR-FR6210914317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FireWave_FR-FR6210914317",
+        "copyright": "Formation rocheuse Fire Wave, parc d'État de Valley of Fire, Nevada, États-Unis (© Clint Losee/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=d%C3%A9sert+des+Mojaves+Valley+of+Fire+&form=hpcapt&filters=HpDate%3a%2220240624_2200%22",
+        "title": "Chaud devant !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240624_FireWave%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b0cfd1e8f46e8db3d5aeaafdc540613b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -7138,5 +7138,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1834dc90bc168b77efee815b188e5d32": {
+        "startdate": "20240624",
+        "fullstartdate": "202406242200",
+        "enddate": "20240625",
+        "url": "/th?id=OHR.FireWave_ES-ES9125556493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FireWave_ES-ES9125556493",
+        "copyright": "Parque Estatal del Valle del Fuego, Nevada, EE.UU. (© Clint Losee/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Nevada+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220240624_2200%22",
+        "title": "Un lugar ideal para tus fotos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240624_FireWave%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1834dc90bc168b77efee815b188e5d32",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

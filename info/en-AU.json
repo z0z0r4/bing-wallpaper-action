@@ -7138,5 +7138,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7a13fdcc3f0176e9471bd7dfdd94bf69": {
+        "startdate": "20240624",
+        "fullstartdate": "202406240700",
+        "enddate": "20240625",
+        "url": "/th?id=OHR.FloresIsland_ROW5747422444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FloresIsland_ROW5747422444",
+        "copyright": "Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Kelimutu+Flores+Indonesia&form=hpcapt&filters=HpDate%3a%2220240624_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240624_FloresIsland%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7a13fdcc3f0176e9471bd7dfdd94bf69",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
