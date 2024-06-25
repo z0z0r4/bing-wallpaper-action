@@ -7155,5 +7155,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f05254e1e8e38b8ed3a012a17c0203ab": {
+        "startdate": "20240625",
+        "fullstartdate": "202406250700",
+        "enddate": "20240626",
+        "url": "/th?id=OHR.FireWave_ROW7768526925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FireWave_ROW7768526925",
+        "copyright": "The Fire Wave, a rock formation in Valley of Fire State Park, Nevada, USA (© Clint Losee/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Valley+of+Fire+State+Park+Nevada+&form=hpcapt&filters=HpDate%3a%2220240625_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240625_FireWave%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f05254e1e8e38b8ed3a012a17c0203ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
