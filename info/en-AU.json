@@ -7189,5 +7189,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "166ad0c61ac889af102a14eebc3aac5f": {
+        "startdate": "20240627",
+        "fullstartdate": "202406270700",
+        "enddate": "20240628",
+        "url": "/th?id=OHR.FlorenceDuomo_ROW2872192157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlorenceDuomo_ROW2872192157",
+        "copyright": "Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Duomo+Santa+Maria+del+Fiore&form=hpcapt&filters=HpDate%3a%2220240627_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240627_FlorenceDuomo%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "166ad0c61ac889af102a14eebc3aac5f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

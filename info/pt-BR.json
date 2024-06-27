@@ -7189,5 +7189,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "50cf288ca67d88dfaf0678b27864db62": {
+        "startdate": "20240627",
+        "fullstartdate": "202406270300",
+        "enddate": "20240628",
+        "url": "/th?id=OHR.FlorenceDuomo_PT-BR4528036954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlorenceDuomo_PT-BR4528036954",
+        "copyright": "Catedral Santa Maria del Fiore ao anoitecer, Florença, Itália (© Elena Pueyo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Duomo+Santa+Maria+del+Fiore+Floren%C3%A7a&form=hpcapt&mkt=pt-br",
+        "title": "Colosso florentino!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240627_FlorenceDuomo%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "50cf288ca67d88dfaf0678b27864db62",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
