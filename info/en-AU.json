@@ -7206,5 +7206,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7bd5ae6dc4ff21b4b51675e5665724e6": {
+        "startdate": "20240628",
+        "fullstartdate": "202406280700",
+        "enddate": "20240629",
+        "url": "/th?id=OHR.ChauseyIslands_ROW7325592526_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ChauseyIslands_ROW7325592526",
+        "copyright": "Chausey islands off the coast of Normandy, France (© Tuul & Bruno Morandi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Chausey+islands&form=hpcapt&filters=HpDate%3a%2220240628_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240628_ChauseyIslands%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7bd5ae6dc4ff21b4b51675e5665724e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
