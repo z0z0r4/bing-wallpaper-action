@@ -7223,5 +7223,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0f5a5c20d9f4a0a96d248f461d45876b": {
+        "startdate": "20240629",
+        "fullstartdate": "202406292200",
+        "enddate": "20240630",
+        "url": "/th?id=OHR.UbudBali_DE-DE9291119795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UbudBali_DE-DE9291119795",
+        "copyright": "Steinmetzarbeiten in einem Tempel in Ubud, Bali, Indonesien (© R. Schönebaum/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Tempel+in+Ubud&form=hpcapt&filters=HpDate%3a%2220240629_2200%22",
+        "title": "Mythische Steingeschöpfe",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240629_UbudBali%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0f5a5c20d9f4a0a96d248f461d45876b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

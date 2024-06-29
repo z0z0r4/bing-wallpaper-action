@@ -7223,5 +7223,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3b9c3dc493d8ebfd99ef956bf31fa6a4": {
+        "startdate": "20240629",
+        "fullstartdate": "202406290300",
+        "enddate": "20240630",
+        "url": "/th?id=OHR.TourCorsica_PT-BR5751262525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TourCorsica_PT-BR5751262525",
+        "copyright": "Ciclistas no Volta a França de 2013, Córsega, França (© Pascal Pochard-Casabianca/AFP via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Volta+a+Fran%C3%A7a+2024&form=hpcapt&mkt=pt-br",
+        "title": "Hora de vencer a corrida",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240629_TourCorsica%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "3b9c3dc493d8ebfd99ef956bf31fa6a4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
