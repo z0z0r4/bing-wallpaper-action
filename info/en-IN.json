@@ -7240,5 +7240,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "aaf7a2910213068065cc9392ff65beff": {
+        "startdate": "20240630",
+        "fullstartdate": "202406301830",
+        "enddate": "20240701",
+        "url": "/th?id=OHR.FisgardLighthouse_EN-IN6359811191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FisgardLighthouse_EN-IN6359811191",
+        "copyright": "Fisgard Lighthouse, Esquimalt Harbour, Colwood, British Columbia, Canada (© davemantel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fisgard+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240630_1830%22",
+        "title": "House of lights",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_FisgardLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "aaf7a2910213068065cc9392ff65beff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

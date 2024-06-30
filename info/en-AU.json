@@ -7240,5 +7240,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d1e594ccebbd89261cdc19c29bb90da2": {
+        "startdate": "20240630",
+        "fullstartdate": "202406300700",
+        "enddate": "20240701",
+        "url": "/th?id=OHR.UbudBali_ROW3802411932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UbudBali_ROW3802411932",
+        "copyright": "Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Ubud+history&form=hpcapt&filters=HpDate%3a%2220240630_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_UbudBali%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d1e594ccebbd89261cdc19c29bb90da2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

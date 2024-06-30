@@ -7240,5 +7240,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "44b84054848e91051de02e870e83371c": {
+        "startdate": "20240630",
+        "fullstartdate": "202406302200",
+        "enddate": "20240701",
+        "url": "/th?id=OHR.FisgardLighthouse_FR-FR7596685906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FisgardLighthouse_FR-FR7596685906",
+        "copyright": "Phare de Fisgard, port d'Esquimalt, Colwood, Colombie-Britannique, Canada (© davemantel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=F%C3%AAte+du+Canada&form=hpcapt&filters=HpDate%3a%2220240630_2200%22",
+        "title": "Unis sous la feuille d’érable du Pacifique à l’Atlantique !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_FisgardLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "44b84054848e91051de02e870e83371c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

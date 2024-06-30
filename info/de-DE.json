@@ -7240,5 +7240,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "27721848e9cee37af910ab446a16dc7a": {
+        "startdate": "20240630",
+        "fullstartdate": "202406302200",
+        "enddate": "20240701",
+        "url": "/th?id=OHR.HeidelbergCastle_DE-DE7111251205_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HeidelbergCastle_DE-DE7111251205",
+        "copyright": "Schloss Heidelberg, Heidelberg, Baden-Württemberg (© Hans Blossey/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Schloss+Heidelberg&form=hpcapt&filters=HpDate%3a%2220240630_2200%22",
+        "title": "Ein fränkisches Märchenschloss",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_HeidelbergCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "27721848e9cee37af910ab446a16dc7a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

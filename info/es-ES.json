@@ -7240,5 +7240,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ef193a331cd76d79b4f43328c84bded5": {
+        "startdate": "20240630",
+        "fullstartdate": "202406302200",
+        "enddate": "20240701",
+        "url": "/th?id=OHR.FisgardLighthouse_ES-ES6235120426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FisgardLighthouse_ES-ES6235120426",
+        "copyright": "Faro de Fisgard, Puerto de Esquimalt, Colwood, Columbia Británica, Canadá (© davemantel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Columbia+Britanica&form=hpcapt&filters=HpDate%3a%2220240630_2200%22",
+        "title": "¡He aquí la orilla!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240630_FisgardLighthouse%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ef193a331cd76d79b4f43328c84bded5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
