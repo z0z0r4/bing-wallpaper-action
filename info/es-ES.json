@@ -7257,5 +7257,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e82c596fe50a180766db74dfc9e04c9c": {
+        "startdate": "20240701",
+        "fullstartdate": "202407012200",
+        "enddate": "20240702",
+        "url": "/th?id=OHR.ItalicaRuins_ES-ES6907151535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItalicaRuins_ES-ES6907151535",
+        "copyright": "Itálica, antigua ciudad romana en Santiponce, Sevilla, Andalucía, España (© Moses Palermo/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Italica&form=hpcapt&filters=HpDate%3a%2220240701_2200%22",
+        "title": "Fantasmas de ciudades pasadas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240701_ItalicaRuins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e82c596fe50a180766db74dfc9e04c9c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
