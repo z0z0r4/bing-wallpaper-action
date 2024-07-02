@@ -7274,5 +7274,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "17faaa9f2fe81d683fa9ac41be07e5ca": {
+        "startdate": "20240702",
+        "fullstartdate": "202407020700",
+        "enddate": "20240703",
+        "url": "/th?id=OHR.ItalicaRuins_ROW4476572398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItalicaRuins_ROW4476572398",
+        "copyright": "Italica, an old Roman city in Santiponce, Sevilla, Andalusia, Spain (© Moses Palermo/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Italica+Spain&form=hpcapt&filters=HpDate%3a%2220240702_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240702_ItalicaRuins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "17faaa9f2fe81d683fa9ac41be07e5ca",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
