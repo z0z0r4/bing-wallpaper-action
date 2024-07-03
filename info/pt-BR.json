@@ -7291,5 +7291,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b81cddcf6fed46e558ddc3cc20eedd4e": {
+        "startdate": "20240703",
+        "fullstartdate": "202407030300",
+        "enddate": "20240704",
+        "url": "/th?id=OHR.MeerkatManor_PT-BR7654628186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MeerkatManor_PT-BR7654628186",
+        "copyright": "Família dos suricatos (© anetapics/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+do+Suricato&form=hpcapt&mkt=pt-br",
+        "title": "Espere! Quem está aí?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240703_MeerkatManor%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b81cddcf6fed46e558ddc3cc20eedd4e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
