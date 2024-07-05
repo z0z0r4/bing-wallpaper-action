@@ -7308,5 +7308,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7a4b32115a57ed014ceac653c750ead3": {
+        "startdate": "20240705",
+        "fullstartdate": "202407052300",
+        "enddate": "20240706",
+        "url": "/th?id=OHR.ConwyRiver_EN-GB6240387587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ConwyRiver_EN-GB6240387587",
+        "copyright": "Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Conwy+River+Festival&form=hpcapt&filters=HpDate%3a%2220240705_2300%22",
+        "title": "Rock the boat",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240705_ConwyRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7a4b32115a57ed014ceac653c750ead3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

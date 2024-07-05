@@ -7325,5 +7325,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "774a0dd727acc84f344cbad981d6d586": {
+        "startdate": "20240705",
+        "fullstartdate": "202407050300",
+        "enddate": "20240706",
+        "url": "/th?id=OHR.NoahBeach_PT-BR8215908491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NoahBeach_PT-BR8215908491",
+        "copyright": "Praia de Noah na floresta tropical de Daintree, Queensland, Austrália (© bjeayes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Floresta+tropical+Daintree&form=hpcapt&mkt=pt-br",
+        "title": "Um encontro na costa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240705_NoahBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "774a0dd727acc84f344cbad981d6d586",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

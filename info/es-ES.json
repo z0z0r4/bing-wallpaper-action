@@ -7325,5 +7325,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "38bcfc99862258c2dd4a673325df38ae": {
+        "startdate": "20240705",
+        "fullstartdate": "202407052200",
+        "enddate": "20240706",
+        "url": "/th?id=OHR.ConwyRiver_ES-ES1249409412_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ConwyRiver_ES-ES1249409412",
+        "copyright": "Castillo de Conwy, Gales (© David Chapman/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=rio+de+Conwy&form=hpcapt&filters=HpDate%3a%2220240705_2200%22",
+        "title": "¡Que empiece la fiesta!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240705_ConwyRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "38bcfc99862258c2dd4a673325df38ae",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
