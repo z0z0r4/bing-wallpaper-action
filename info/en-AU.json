@@ -7342,5 +7342,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4f248046a562287f5e538c4d9cfefd28": {
+        "startdate": "20240706",
+        "fullstartdate": "202407060700",
+        "enddate": "20240707",
+        "url": "/th?id=OHR.ConwyRiver_ROW6100023169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ConwyRiver_ROW6100023169",
+        "copyright": "Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Conwy+Castle+Wales&form=hpcapt&filters=HpDate%3a%2220240706_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240706_ConwyRiver%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4f248046a562287f5e538c4d9cfefd28",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
