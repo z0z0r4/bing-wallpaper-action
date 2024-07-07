@@ -7359,5 +7359,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5ca98da50c677030b3e9d5b49ca8298f": {
+        "startdate": "20240707",
+        "fullstartdate": "202407072200",
+        "enddate": "20240708",
+        "url": "/th?id=OHR.NorwayBlueberries_ES-ES1837982963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NorwayBlueberries_ES-ES1837982963",
+        "copyright": "Arándanos azules silvestres (© Baac3nes/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Arandano&form=hpcapt&filters=HpDate%3a%2220240707_2200%22",
+        "title": "Una dosis de antioxidantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240707_NorwayBlueberries%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5ca98da50c677030b3e9d5b49ca8298f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
