@@ -7376,5 +7376,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ada4af45471ed438e3a9247322a9aecb": {
+        "startdate": "20240708",
+        "fullstartdate": "202407082200",
+        "enddate": "20240709",
+        "url": "/th?id=OHR.TalampayaNP_ES-ES2038373529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TalampayaNP_ES-ES2038373529",
+        "copyright": "Parque Nacional Talampaya, provincia de La Rioja, Argentina (© Gonzalo Azumendi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=parque+nacional+talampaya+argentina&form=hpcapt&filters=HpDate%3a%2220240708_2200%22",
+        "title": "Un lugar cautivador",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240708_TalampayaNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ada4af45471ed438e3a9247322a9aecb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
