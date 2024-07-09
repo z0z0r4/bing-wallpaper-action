@@ -7393,5 +7393,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "74f4bb387a3164907719c24c13345897": {
+        "startdate": "20240709",
+        "fullstartdate": "202407090300",
+        "enddate": "20240710",
+        "url": "/th?id=OHR.TalampayaNP_PT-BR9006778184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TalampayaNP_PT-BR9006778184",
+        "copyright": "Parque Nacional de Talampaya, província de La Rioja, Argentina (© Gonzalo Azumendi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Talampaya+na+Argentina&form=hpcapt&mkt=pt-br",
+        "title": "Uma joia geológica",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240709_TalampayaNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "74f4bb387a3164907719c24c13345897",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
