@@ -7410,5 +7410,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "35d8882e4cbded2bde19b300140b533f": {
+        "startdate": "20240710",
+        "fullstartdate": "202407100700",
+        "enddate": "20240711",
+        "url": "/th?id=OHR.CollaredAracari_ROW9660042641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CollaredAracari_ROW9660042641",
+        "copyright": "Collared aracari, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Collared+Aracari&form=hpcapt&filters=HpDate%3a%2220240710_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240710_CollaredAracari%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "35d8882e4cbded2bde19b300140b533f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
