@@ -7427,5 +7427,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d124b3afb05db0bdc412d1d0ae6b32df": {
+        "startdate": "20240711",
+        "fullstartdate": "202407111830",
+        "enddate": "20240712",
+        "url": "/th?id=OHR.RainierWildflowers_EN-IN6153414101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RainierWildflowers_EN-IN6153414101",
+        "copyright": "Wildflowers in Mount Rainier National Park, Washington (© RomanKhomlyak/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mount+Rainier+National+Park&form=hpcapt&filters=HpDate%3a%2220240711_1830%22",
+        "title": "Come Rainier or shine",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240711_RainierWildflowers%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d124b3afb05db0bdc412d1d0ae6b32df",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

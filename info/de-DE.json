@@ -7427,5 +7427,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "553c014f2483c3bbe13d2a930fab377e": {
+        "startdate": "20240711",
+        "fullstartdate": "202407112200",
+        "enddate": "20240712",
+        "url": "/th?id=OHR.RainierWildflowers_DE-DE3042432788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RainierWildflowers_DE-DE3042432788",
+        "copyright": "Wildblumen im Mount Rainier-Nationalpark, Washington, USA (© RomanKhomlyak/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mount+Rainier+Nationalpark&form=hpcapt&filters=HpDate%3a%2220240711_2200%22",
+        "title": "Der Ruf der Freiheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240711_RainierWildflowers%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "553c014f2483c3bbe13d2a930fab377e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
