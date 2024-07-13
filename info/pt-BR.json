@@ -7461,5 +7461,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3f5b5e0643f8c217d4907e7293f2843f": {
+        "startdate": "20240713",
+        "fullstartdate": "202407130300",
+        "enddate": "20240714",
+        "url": "/th?id=OHR.CappadociaRocks_PT-BR0064255602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CappadociaRocks_PT-BR0064255602",
+        "copyright": "Chaminés de fadas e grutas na Capadócia, Turquia (© Storm Is Me/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Rochas&form=hpcapt&mkt=pt-br",
+        "title": "Esculturas do tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240713_CappadociaRocks%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3f5b5e0643f8c217d4907e7293f2843f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

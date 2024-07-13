@@ -7461,5 +7461,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bd58a9e71241d0d93767744d9f075138": {
+        "startdate": "20240713",
+        "fullstartdate": "202407132200",
+        "enddate": "20240714",
+        "url": "/th?id=OHR.SilkyShark_ES-ES4829919734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SilkyShark_ES-ES4829919734",
+        "copyright": "Tiburón sedoso en Jardines de la Reina, Cuba (© Christian Vizl/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Tiburones&form=hpcapt&filters=HpDate%3a%2220240713_2200%22",
+        "title": "Día de la conciencia por los tiburones",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240713_SilkyShark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bd58a9e71241d0d93767744d9f075138",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
