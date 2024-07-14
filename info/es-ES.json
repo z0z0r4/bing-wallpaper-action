@@ -7478,5 +7478,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f42425ebd28f20ae79465e8c7490eb4f": {
+        "startdate": "20240714",
+        "fullstartdate": "202407142200",
+        "enddate": "20240715",
+        "url": "/th?id=OHR.TateishiPark_ES-ES5379923028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TateishiPark_ES-ES5379923028",
+        "copyright": "Parque Tateishi, prefectura de Kanagawa, Japón (© blew_s/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Marino+Japon&form=hpcapt&filters=HpDate%3a%2220240714_2200%22",
+        "title": "Un día la mar de bien",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240714_TateishiPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f42425ebd28f20ae79465e8c7490eb4f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
