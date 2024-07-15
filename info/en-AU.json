@@ -7495,5 +7495,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c61762082f921d2be7d06865a5c80116": {
+        "startdate": "20240715",
+        "fullstartdate": "202407150700",
+        "enddate": "20240716",
+        "url": "/th?id=OHR.TateishiPark_ROW1515207137_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TateishiPark_ROW1515207137",
+        "copyright": "Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Kanagawa+Prefecture+Japan&form=hpcapt&filters=HpDate%3a%2220240715_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240715_TateishiPark%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c61762082f921d2be7d06865a5c80116",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
