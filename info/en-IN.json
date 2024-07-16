@@ -7512,5 +7512,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9648a49a56319f639c1efcb32413f19d": {
+        "startdate": "20240716",
+        "fullstartdate": "202407161830",
+        "enddate": "20240717",
+        "url": "/th?id=OHR.MedievalRothenburg_EN-IN3166503485_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MedievalRothenburg_EN-IN3166503485",
+        "copyright": "Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rothenburg+ob+der+Tauber+Germany&form=hpcapt&filters=HpDate%3a%2220240716_1830%22",
+        "title": "Towering with history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240716_MedievalRothenburg%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9648a49a56319f639c1efcb32413f19d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
