@@ -7529,5 +7529,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a457d470fab51325efefbe7ed7b97e13": {
+        "startdate": "20240717",
+        "fullstartdate": "202407170300",
+        "enddate": "20240718",
+        "url": "/th?id=OHR.DiadoCurupira_PT-BR5262042998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiadoCurupira_PT-BR5262042998",
+        "copyright": "Vista de um barco na Amazônia (© StreetFlash/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Curupira&form=hpcapt&mkt=pt-br",
+        "title": "No interior das matas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240717_DiadoCurupira%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a457d470fab51325efefbe7ed7b97e13",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
