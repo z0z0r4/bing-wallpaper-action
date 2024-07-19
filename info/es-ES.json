@@ -7563,5 +7563,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "41344ef542c6ae2bf823b30671e72fd0": {
+        "startdate": "20240719",
+        "fullstartdate": "202407192200",
+        "enddate": "20240720",
+        "url": "/th?id=OHR.MineralMoon_ES-ES8732088445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MineralMoon_ES-ES8732088445",
+        "copyright": "La Luna (© Victor Blum/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=satelite+luna&form=hpcapt&filters=HpDate%3a%2220240719_2200%22",
+        "title": "Hasta la Luna y mas allá",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240719_MineralMoon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "41344ef542c6ae2bf823b30671e72fd0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

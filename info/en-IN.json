@@ -7563,5 +7563,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "19a93f54e4231b2a8a3a94d889d7b965": {
+        "startdate": "20240719",
+        "fullstartdate": "202407191830",
+        "enddate": "20240720",
+        "url": "/th?id=OHR.MineralMoon_EN-IN9361063674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MineralMoon_EN-IN9361063674",
+        "copyright": "The moon (© Victor Blum/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=moon&form=hpcapt&filters=HpDate%3a%2220240719_1830%22",
+        "title": "To the moon and back",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240719_MineralMoon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "19a93f54e4231b2a8a3a94d889d7b965",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
