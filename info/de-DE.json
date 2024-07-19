@@ -7546,5 +7546,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8905982398735541c786144ff941c901": {
+        "startdate": "20240718",
+        "fullstartdate": "202407182200",
+        "enddate": "20240719",
+        "url": "/th?id=OHR.YoungJaguar_DE-DE4250993040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YoungJaguar_DE-DE4250993040",
+        "copyright": "Ein junger Jaguar am Flussufer, Pantanal, Brasilien (© Tambako the Jaguar/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Jaguar+Gro%C3%9Fkatze&form=hpcapt&filters=HpDate%3a%2220240718_2200%22",
+        "title": "Clevere Tarnung",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240718_YoungJaguar%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8905982398735541c786144ff941c901",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
