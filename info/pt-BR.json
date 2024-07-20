@@ -7563,5 +7563,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1fa12b1754563621a81a30d5cc6c9547": {
+        "startdate": "20240720",
+        "fullstartdate": "202407200300",
+        "enddate": "20240721",
+        "url": "/th?id=OHR.MineralMoon_PT-BR1317802439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MineralMoon_PT-BR1317802439",
+        "copyright": "A lua (© Victor Blum/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lua&form=hpcapt&mkt=pt-br",
+        "title": "Até o infinito e mais além!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240720_MineralMoon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1fa12b1754563621a81a30d5cc6c9547",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

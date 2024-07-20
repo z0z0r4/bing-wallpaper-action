@@ -7580,5 +7580,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "caec65f771123912ad0e42b3beedcade": {
+        "startdate": "20240720",
+        "fullstartdate": "202407202200",
+        "enddate": "20240721",
+        "url": "/th?id=OHR.ZanzibarBoats_ES-ES9050362882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ZanzibarBoats_ES-ES9050362882",
+        "copyright": "Barcos de pesca de madera en el pueblo de Kendwa, Zanzíbar, Tanzania (© Lubos Paukeje/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=zanzibar&form=hpcapt&filters=HpDate%3a%2220240720_2200%22",
+        "title": "El paraíso de las especias",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240720_ZanzibarBoats%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "caec65f771123912ad0e42b3beedcade",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
