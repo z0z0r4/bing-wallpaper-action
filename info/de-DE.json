@@ -7597,5 +7597,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7b6cacaa4673def31513e59da5dbd60d": {
+        "startdate": "20240721",
+        "fullstartdate": "202407212200",
+        "enddate": "20240722",
+        "url": "/th?id=OHR.WickerBeachBaskets_DE-DE6881369278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WickerBeachBaskets_DE-DE6881369278",
+        "copyright": "Strandkörbe auf der Insel Rügen, Deutschland (© Peter Adams/Getty images)",
+        "copyrightlink": "https://www.bing.com/search?q=Strandk%C3%B6rbe+auf+R%C3%BCgen&form=hpcapt&filters=HpDate%3a%2220240721_2200%22",
+        "title": "Ein Wohnzimmer am Meer",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240721_WickerBeachBaskets%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "7b6cacaa4673def31513e59da5dbd60d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

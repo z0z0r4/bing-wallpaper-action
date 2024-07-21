@@ -7580,5 +7580,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1f761defafe5af6a232c3ebb22a0d2e0": {
+        "startdate": "20240721",
+        "fullstartdate": "202407212300",
+        "enddate": "20240722",
+        "url": "/th?id=OHR.BuckinghamOpening2024_EN-GB9070142687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BuckinghamOpening2024_EN-GB9070142687",
+        "copyright": "Buckingham Palace, London (© Zoonar/Andriy Kravchenko/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Buckingham+Palace+London&form=hpcapt&filters=HpDate%3a%2220240721_2300%22",
+        "title": "Keeping it regal",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240721_BuckinghamOpening2024%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1f761defafe5af6a232c3ebb22a0d2e0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
