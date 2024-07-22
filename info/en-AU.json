@@ -7597,5 +7597,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "497fa0d9f0bc2f8e688252450d406970": {
+        "startdate": "20240722",
+        "fullstartdate": "202407220700",
+        "enddate": "20240723",
+        "url": "/th?id=OHR.HammockCamping_ROW2610450253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HammockCamping_ROW2610450253",
+        "copyright": "Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Hammock+camping&form=hpcapt&filters=HpDate%3a%2220240722_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240722_HammockCamping%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "497fa0d9f0bc2f8e688252450d406970",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

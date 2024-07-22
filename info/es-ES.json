@@ -7614,5 +7614,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "14fb8751e528f233e2d2e92a5040ed02": {
+        "startdate": "20240722",
+        "fullstartdate": "202407222200",
+        "enddate": "20240723",
+        "url": "/th?id=OHR.MethoniCastle_ES-ES0213833516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MethoniCastle_ES-ES0213833516",
+        "copyright": "Castillo de Methoni, Mesenia, Grecia (© Andrew Mayovskyy/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Mesenia+Grecia&form=hpcapt&filters=HpDate%3a%2220240722_2200%22",
+        "title": "Ecos de historia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240722_MethoniCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "14fb8751e528f233e2d2e92a5040ed02",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

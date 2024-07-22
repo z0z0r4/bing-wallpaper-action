@@ -7597,5 +7597,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "41e65e8f7c69562f0296b16f6bd62e50": {
+        "startdate": "20240722",
+        "fullstartdate": "202407222300",
+        "enddate": "20240723",
+        "url": "/th?id=OHR.MethoniCastle_EN-GB9389537440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MethoniCastle_EN-GB9389537440",
+        "copyright": "Methoni Castle, Messinia, Greece (© Andrew Mayovskyy/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Methoni+Castle&form=hpcapt&filters=HpDate%3a%2220240722_2300%22",
+        "title": "Echoes of history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240722_MethoniCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "41e65e8f7c69562f0296b16f6bd62e50",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
