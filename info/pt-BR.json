@@ -7614,5 +7614,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5513d25c8e2610ac1a9c01745b94165c": {
+        "startdate": "20240723",
+        "fullstartdate": "202407230300",
+        "enddate": "20240724",
+        "url": "/th?id=OHR.MethoniCastle_PT-BR2033564506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MethoniCastle_PT-BR2033564506",
+        "copyright": "Castelo de Methoni, Messina, Grécia (© Andrew Mayovskyy/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Castelo+de+Methoni&form=hpcapt&mkt=pt-br",
+        "title": "Ecos da história",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240723_MethoniCastle%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5513d25c8e2610ac1a9c01745b94165c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
