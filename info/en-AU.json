@@ -7631,5 +7631,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0230606e4f4bc3c55e1d63203fd3a1f0": {
+        "startdate": "20240724",
+        "fullstartdate": "202407240700",
+        "enddate": "20240725",
+        "url": "/th?id=OHR.SheepCousins_ROW2935792160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SheepCousins_ROW2935792160",
+        "copyright": "Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Swaledale+sheep&form=hpcapt&filters=HpDate%3a%2220240724_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240724_SheepCousins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0230606e4f4bc3c55e1d63203fd3a1f0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

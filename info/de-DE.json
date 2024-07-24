@@ -7648,5 +7648,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6e3db87703148bf96733da3f38936878": {
+        "startdate": "20240724",
+        "fullstartdate": "202407242200",
+        "enddate": "20240725",
+        "url": "/th?id=OHR.SmokyMountainTrail_DE-DE2050151888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SmokyMountainTrail_DE-DE2050151888",
+        "copyright": "Waldweg im Great-Smoky-Mountains-Nationalpark, Tennessee, USA (© putmanphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+Smoky+Mountains+Nationalpark&form=hpcapt&filters=HpDate%3a%2220240724_2200%22",
+        "title": "Mittendrin statt nur dabei",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240724_SmokyMountainTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6e3db87703148bf96733da3f38936878",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
