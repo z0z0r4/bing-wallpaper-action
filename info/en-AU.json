@@ -7648,5 +7648,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a921d0231157bea7f4082038f599815f": {
+        "startdate": "20240725",
+        "fullstartdate": "202407250700",
+        "enddate": "20240726",
+        "url": "/th?id=OHR.SmokyMountainTrail_ROW3133203649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SmokyMountainTrail_ROW3133203649",
+        "copyright": "Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+Smoky+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220240725_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240725_SmokyMountainTrail%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a921d0231157bea7f4082038f599815f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
