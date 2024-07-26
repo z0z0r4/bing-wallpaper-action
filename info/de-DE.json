@@ -7682,5 +7682,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7ea7f45488c3d9492d44cf3bd76ea8c2": {
+        "startdate": "20240726",
+        "fullstartdate": "202407262200",
+        "enddate": "20240727",
+        "url": "/th?id=OHR.RhinelandVineyards_DE-DE4066969313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RhinelandVineyards_DE-DE4066969313",
+        "copyright": "Weinberge im Moseltal, Rheinland-Pfalz (© Jorg Greuel/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pfalz+Weinregion&form=hpcapt&filters=HpDate%3a%2220240726_2200%22",
+        "title": "Riesling in Perfektion",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240726_RhinelandVineyards%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7ea7f45488c3d9492d44cf3bd76ea8c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
