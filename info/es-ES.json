@@ -7699,5 +7699,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "887856113fdefa9ab0d9556f778dc499": {
+        "startdate": "20240727",
+        "fullstartdate": "202407272200",
+        "enddate": "20240728",
+        "url": "/th?id=OHR.BeachHutsSweden_ES-ES3277485240_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeachHutsSweden_ES-ES3277485240",
+        "copyright": "Casetas de playa en la provincia de Escania, Suecia (© Martin Wahlborg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Provincia+de+Escania&form=hpcapt&filters=HpDate%3a%2220240727_2200%22",
+        "title": "Una costa multicolor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240727_BeachHutsSweden%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "887856113fdefa9ab0d9556f778dc499",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -7699,5 +7699,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d216d6848c4c71711bfa0a54e91cf944": {
+        "startdate": "20240727",
+        "fullstartdate": "202407271830",
+        "enddate": "20240728",
+        "url": "/th?id=OHR.BeachHutsSweden_EN-IN3846650845_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeachHutsSweden_EN-IN3846650845",
+        "copyright": "Bathing huts on the beach in Skåne County, Sweden (© Martin Wahlborg/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Skane+County+Sweden&form=hpcapt&filters=HpDate%3a%2220240727_1830%22",
+        "title": "Chromatic coastline",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240727_BeachHutsSweden%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d216d6848c4c71711bfa0a54e91cf944",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
