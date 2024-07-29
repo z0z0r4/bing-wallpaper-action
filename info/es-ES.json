@@ -7733,5 +7733,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b399c6b9370351827e2157d0ad484451": {
+        "startdate": "20240729",
+        "fullstartdate": "202407292200",
+        "enddate": "20240730",
+        "url": "/th?id=OHR.GimignanoTuscany_ES-ES3492198518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GimignanoTuscany_ES-ES3492198518",
+        "copyright": "San Gimignano, Siena, Toscana, Italia (© MNStudio/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=san+gimignano&form=hpcapt&filters=HpDate%3a%2220240729_2200%22",
+        "title": "Hasta las nubes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240729_GimignanoTuscany%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b399c6b9370351827e2157d0ad484451",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
