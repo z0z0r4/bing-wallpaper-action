@@ -7767,5 +7767,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5aba185b31f956bfb8dc58a7730715af": {
+        "startdate": "20240731",
+        "fullstartdate": "202407312200",
+        "enddate": "20240801",
+        "url": "/th?id=OHR.KaptaiLake_ES-ES3810492985_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KaptaiLake_ES-ES3810492985",
+        "copyright": "Mercado flotante, Lago Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=El+lago+Kaptai+de+Bangladesh&form=hpcapt&filters=HpDate%3a%2220240731_2200%22",
+        "title": "Un cargo de gangas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240731_KaptaiLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5aba185b31f956bfb8dc58a7730715af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

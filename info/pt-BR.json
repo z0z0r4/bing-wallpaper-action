@@ -7750,5 +7750,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9617a574d565874474644957a7a51c1c": {
+        "startdate": "20240731",
+        "fullstartdate": "202407310300",
+        "enddate": "20240801",
+        "url": "/th?id=OHR.HoodoosBryce_PT-BR8116004606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoodoosBryce_PT-BR8116004606",
+        "copyright": "Hoodoos, Sunset Point, Parque Nacional de Bryce Canyon, Utah, EUA (© Tim Fitzharris/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Bryce+Canyon+Utah&form=hpcapt&mkt=pt-br",
+        "title": "Uma floresta de pedras",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240731_HoodoosBryce%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9617a574d565874474644957a7a51c1c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
