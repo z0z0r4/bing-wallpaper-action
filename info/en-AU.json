@@ -7818,5 +7818,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "de8e87087e4a1f722da545151cc5b67c": {
+        "startdate": "20240824",
+        "fullstartdate": "202408240700",
+        "enddate": "20240825",
+        "url": "/th?id=OHR.KatahdinWoods_ROW4600559064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KatahdinWoods_ROW4600559064",
+        "copyright": "Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Katahdin+Woods+and+Waters+National+Monument&form=hpcapt&filters=HpDate%3a%2220240824_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240824_KatahdinWoods%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "de8e87087e4a1f722da545151cc5b67c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
