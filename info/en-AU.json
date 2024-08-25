@@ -7835,5 +7835,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "026206da976ec417724351d9bab513b2": {
+        "startdate": "20240825",
+        "fullstartdate": "202408250700",
+        "enddate": "20240826",
+        "url": "/th?id=OHR.SwiftcurrentLake_ROW4729110075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SwiftcurrentLake_ROW4729110075",
+        "copyright": "Sunrise over Swiftcurrent Lake, Glacier National Park, Montana (© Jason Savage/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Swiftcurrent+Lake&form=hpcapt&filters=HpDate%3a%2220240825_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240825_SwiftcurrentLake%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "026206da976ec417724351d9bab513b2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
