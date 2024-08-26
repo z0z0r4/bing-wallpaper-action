@@ -7869,5 +7869,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b144113ba73629848d452e0c1161d525": {
+        "startdate": "20240826",
+        "fullstartdate": "202408262200",
+        "enddate": "20240827",
+        "url": "/th?id=OHR.YoungCaiman_DE-DE7313829626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YoungCaiman_DE-DE7313829626",
+        "copyright": "Junger schwarzer Kaiman, Reserva Nacional Tambopata, Peru (© Maxime Aliaga/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Schwarzer+Kaiman&form=hpcapt&filters=HpDate%3a%2220240826_2200%22",
+        "title": "Einfach mal abtauchen!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240826_YoungCaiman%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b144113ba73629848d452e0c1161d525",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

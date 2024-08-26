@@ -7869,5 +7869,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "59f2db8853ef22c0a9ce6cf37c965993": {
+        "startdate": "20240826",
+        "fullstartdate": "202408262200",
+        "enddate": "20240827",
+        "url": "/th?id=OHR.YoungCaiman_ES-ES2920526153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YoungCaiman_ES-ES2920526153",
+        "copyright": "Caimán negro, Reserva Nacional Tambopata, Perú (© Maxime Aliaga/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Caiman+Negro&form=hpcapt&filters=HpDate%3a%2220240826_2200%22",
+        "title": "Más ordinario que sirena de pantano",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240826_YoungCaiman%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "59f2db8853ef22c0a9ce6cf37c965993",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
