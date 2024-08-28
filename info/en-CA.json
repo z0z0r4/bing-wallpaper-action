@@ -7886,5 +7886,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fcd58e5358a8b390cb537e4075a8df36": {
+        "startdate": "20240828",
+        "fullstartdate": "202408280400",
+        "enddate": "20240829",
+        "url": "/th?id=OHR.ParalympicsParis_EN-CA3661228731_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParalympicsParis_EN-CA3661228731",
+        "copyright": "Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=2024+Summer+Paralympics&form=hpcapt&filters=HpDate%3a%2220240828_0400%22",
+        "title": "Game on",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240828_ParalympicsParis%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fcd58e5358a8b390cb537e4075a8df36",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -7886,5 +7886,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6d11c6bea9ff5c5d5a43e751bb0aab4f": {
+        "startdate": "20240828",
+        "fullstartdate": "202408280700",
+        "enddate": "20240829",
+        "url": "/th?id=OHR.ParalympicsParis_ROW1372193453_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParalympicsParis_ROW1372193453",
+        "copyright": "Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Montmartre+and+Sacre+C%C5%93ur&form=hpcapt&filters=HpDate%3a%2220240828_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240828_ParalympicsParis%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6d11c6bea9ff5c5d5a43e751bb0aab4f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
