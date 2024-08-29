@@ -7920,5 +7920,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "97cd0a20da375e2361eee8ee74112d41": {
+        "startdate": "20240829",
+        "fullstartdate": "202408292200",
+        "enddate": "20240830",
+        "url": "/th?id=OHR.WhaleSharkDay_DE-DE9045925984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhaleSharkDay_DE-DE9045925984",
+        "copyright": "Walhai in der Cenderawasih-Bucht, West Papua, Indonesien (© Andy Lerner/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Walhaie&form=hpcapt&filters=HpDate%3a%2220240829_2200%22",
+        "title": "Majestätische Unterwasserriesen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240829_WhaleSharkDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "97cd0a20da375e2361eee8ee74112d41",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
