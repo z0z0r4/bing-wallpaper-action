@@ -7920,5 +7920,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "99b419415d3e8c7d7a31584222fd192b": {
+        "startdate": "20240830",
+        "fullstartdate": "202408300700",
+        "enddate": "20240831",
+        "url": "/th?id=OHR.WhaleSharkDay_ROW6113482072_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhaleSharkDay_ROW6113482072",
+        "copyright": "A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Whale+sharks&form=hpcapt&filters=HpDate%3a%2220240830_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240830_WhaleSharkDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "99b419415d3e8c7d7a31584222fd192b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

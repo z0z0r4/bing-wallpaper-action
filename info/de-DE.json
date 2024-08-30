@@ -7937,5 +7937,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "83d37d05ca91c42b3e088335cef1d975": {
+        "startdate": "20240830",
+        "fullstartdate": "202408302200",
+        "enddate": "20240831",
+        "url": "/th?id=OHR.DjanetAlgeria_DE-DE9446379437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DjanetAlgeria_DE-DE9446379437",
+        "copyright": "Felsformationen in der Sahara, Djanet, Algerien (© Airpano/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Djanet&form=hpcapt&filters=HpDate%3a%2220240830_2200%22",
+        "title": "Eine felsige Wüstenlandschaft",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240830_DjanetAlgeria%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "83d37d05ca91c42b3e088335cef1d975",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
