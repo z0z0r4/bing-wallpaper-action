@@ -7954,5 +7954,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "62b5a62c41eee134c50f6865d6a04d75": {
+        "startdate": "20240831",
+        "fullstartdate": "202408312200",
+        "enddate": "20240901",
+        "url": "/th?id=OHR.ThamesLondon_FR-FR8520495131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThamesLondon_FR-FR8520495131",
+        "copyright": "Tamise, Londres, Angleterre (© Puthipong Worasaran/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=tamise+londres&form=hpcapt&filters=HpDate%3a%2220240831_2200%22",
+        "title": "Au flux de la mémoire britannique",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240831_ThamesLondon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "62b5a62c41eee134c50f6865d6a04d75",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
