@@ -7954,5 +7954,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "088b9b48c5b013d3fa2f13f10fae9b03": {
+        "startdate": "20240901",
+        "fullstartdate": "202409010300",
+        "enddate": "20240902",
+        "url": "/th?id=OHR.ThamesLondon_PT-BR5304149458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThamesLondon_PT-BR5304149458",
+        "copyright": "Rio Tâmisa, Londres, Inglaterra (© Puthipong Worasaran/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rio+T%C3%A2misa%2c+Londres%2c+Inglaterra&form=hpcapt&mkt=pt-br",
+        "title": "Explorando o Tâmisa navegando com serenidade",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240901_ThamesLondon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "088b9b48c5b013d3fa2f13f10fae9b03",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

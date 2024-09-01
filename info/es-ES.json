@@ -7971,5 +7971,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6b6626c5ef421f670130af36df9842c1": {
+        "startdate": "20240901",
+        "fullstartdate": "202409012200",
+        "enddate": "20240902",
+        "url": "/th?id=OHR.BuracodasAraras_ES-ES4509423904_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BuracodasAraras_ES-ES4509423904",
+        "copyright": "Guacamayo aliverde, Mato Grosso do Sul, Brasil (© Ellen Goff/Danita Delimont)",
+        "copyrightlink": "https://www.bing.com/search?q=guacamayo&form=hpcapt&filters=HpDate%3a%2220240901_2200%22",
+        "title": "¡Guay-camayos al aire!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240901_BuracodasAraras%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6b6626c5ef421f670130af36df9842c1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

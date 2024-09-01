@@ -7954,5 +7954,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1bf39e1f0a55e32838238d29f422e2d3": {
+        "startdate": "20240901",
+        "fullstartdate": "202409010700",
+        "enddate": "20240902",
+        "url": "/th?id=OHR.ThamesLondon_ROW6580939487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ThamesLondon_ROW6580939487",
+        "copyright": "River Thames, London, England (© Puthipong Worasaran/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220240901_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240901_ThamesLondon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1bf39e1f0a55e32838238d29f422e2d3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
