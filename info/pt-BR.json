@@ -7971,5 +7971,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "956e453f9e9b9268dfdc3f57082aee3a": {
+        "startdate": "20240902",
+        "fullstartdate": "202409020300",
+        "enddate": "20240903",
+        "url": "/th?id=OHR.BuracodasAraras_PT-BR5512338223_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BuracodasAraras_PT-BR5512338223",
+        "copyright": "Araras-vermelhas, Mato Grosso do Sul, Brasil (© Ellen Goff/Danita Delimont)",
+        "copyrightlink": "https://www.bing.com/search?q=Arara-vermelha&form=hpcapt&mkt=pt-br",
+        "title": "Casa das Araras",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240902_BuracodasAraras%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "956e453f9e9b9268dfdc3f57082aee3a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
