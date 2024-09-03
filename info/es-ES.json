@@ -8005,5 +8005,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8bb7b15d6dcbc47c6b6c213a95d06ad6": {
+        "startdate": "20240903",
+        "fullstartdate": "202409032200",
+        "enddate": "20240904",
+        "url": "/th?id=OHR.LaVueltaJerez_ES-ES7910099478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LaVueltaJerez_ES-ES7910099478",
+        "copyright": "La Vuelta en Peñas Blancas, Estepona, Málaga (© Tim de Waele/Staff/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vuelta+a+Espana&form=hpcapt&filters=HpDate%3a%2220240903_2200%22",
+        "title": "¡Pedalea hasta la meta!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240903_LaVueltaJerez%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8bb7b15d6dcbc47c6b6c213a95d06ad6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

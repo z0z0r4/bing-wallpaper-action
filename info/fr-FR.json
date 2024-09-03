@@ -8005,5 +8005,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cee18401450ec0ed41f29a0bb1480b26": {
+        "startdate": "20240903",
+        "fullstartdate": "202409032200",
+        "enddate": "20240904",
+        "url": "/th?id=OHR.DuskyOwls_FR-FR0673543438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DuskyOwls_FR-FR0673543438",
+        "copyright": "Grand-duc de Coromandel, Pakistan (© zahoor salmi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Grand-duc+de+Coromandel&form=hpcapt&filters=HpDate%3a%2220240903_2200%22",
+        "title": "Les seigneurs de la nuit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240903_DuskyOwls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cee18401450ec0ed41f29a0bb1480b26",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

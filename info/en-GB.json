@@ -7988,5 +7988,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "eaa2f4a79c5c42687689e1af56151b0a": {
+        "startdate": "20240903",
+        "fullstartdate": "202409032300",
+        "enddate": "20240904",
+        "url": "/th?id=OHR.DuskyOwls_EN-GB7904137343_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DuskyOwls_EN-GB7904137343",
+        "copyright": "Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dusky+eagle+owls&form=hpcapt&filters=HpDate%3a%2220240903_2300%22",
+        "title": "Birds of a feather hoot together",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240903_DuskyOwls%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "eaa2f4a79c5c42687689e1af56151b0a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
