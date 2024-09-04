@@ -8005,5 +8005,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e020b364c8be5afd85fb38998bc5de01": {
+        "startdate": "20240904",
+        "fullstartdate": "202409042300",
+        "enddate": "20240905",
+        "url": "/th?id=OHR.TIFF2024_EN-GB9508001268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TIFF2024_EN-GB9508001268",
+        "copyright": "Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Toronto+International+Film+Festival+2024&form=hpcapt&filters=HpDate%3a%2220240904_2300%22",
+        "title": "Lights, camera, TIFF '24!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240904_TIFF2024%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e020b364c8be5afd85fb38998bc5de01",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
