@@ -8056,5 +8056,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d39fd7fa87781923538c223377d27fa4": {
+        "startdate": "20240906",
+        "fullstartdate": "202409062200",
+        "enddate": "20240907",
+        "url": "/th?id=OHR.SantaCruzHummer_FR-FR8767186794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaCruzHummer_FR-FR8767186794",
+        "copyright": "Colibri d'Anna, Santa Cruz, Californie, États-Unis (© yhelfman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=colibri+d%27Anna&form=hpcapt&filters=HpDate%3a%2220240906_2200%22",
+        "title": "En chantant...",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240906_SantaCruzHummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d39fd7fa87781923538c223377d27fa4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -8039,5 +8039,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a34864363b26aaced0f387bbe9a6ea3c": {
+        "startdate": "20240906",
+        "fullstartdate": "202409062300",
+        "enddate": "20240907",
+        "url": "/th?id=OHR.SantaCruzHummer_EN-GB3567004947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SantaCruzHummer_EN-GB3567004947",
+        "copyright": "Anna's hummingbird, Santa Cruz, California, USA (© yhelfman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Annas+hummingbird&form=hpcapt&filters=HpDate%3a%2220240906_2300%22",
+        "title": "Humming along",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240906_SantaCruzHummer%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a34864363b26aaced0f387bbe9a6ea3c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
