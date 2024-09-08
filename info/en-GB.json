@@ -8073,5 +8073,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ab231423202c8fd62493e95dba90391f": {
+        "startdate": "20240908",
+        "fullstartdate": "202409082300",
+        "enddate": "20240909",
+        "url": "/th?id=OHR.IguazuRainbow_EN-GB4381351481_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IguazuRainbow_EN-GB4381351481",
+        "copyright": "Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)",
+        "copyrightlink": "https://www.bing.com/search?q=Iguazu+falls&form=hpcapt&filters=HpDate%3a%2220240908_2300%22",
+        "title": "Rainbow waves in 'big water'",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240908_IguazuRainbow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ab231423202c8fd62493e95dba90391f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -8073,5 +8073,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9670fea37420d0b2c842451b820e7aaa": {
+        "startdate": "20240908",
+        "fullstartdate": "202409080700",
+        "enddate": "20240909",
+        "url": "/th?id=OHR.Canigou_ROW3533660009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Canigou_ROW3533660009",
+        "copyright": "Abbey of Saint-Martin-du-Canigou, Northern Catalonia, France (© Cyril Gosselin/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Abbey+of+Saint-Martin-du-Canigou&form=hpcapt&filters=HpDate%3a%2220240908_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240908_Canigou%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9670fea37420d0b2c842451b820e7aaa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
