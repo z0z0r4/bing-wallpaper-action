@@ -8107,5 +8107,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ad7e718f4ed89151813b221b16f823e6": {
+        "startdate": "20240909",
+        "fullstartdate": "202409092200",
+        "enddate": "20240910",
+        "url": "/th?id=OHR.BridgeLisbon_ES-ES6670987033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BridgeLisbon_ES-ES6670987033",
+        "copyright": "Puente Vasco da Gama, Lisboa, Portugal (© Achim Thomae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Puente+Vasco+da+Gama&form=hpcapt&filters=HpDate%3a%2220240909_2200%22",
+        "title": "Del horizonte al agua",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240909_BridgeLisbon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ad7e718f4ed89151813b221b16f823e6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

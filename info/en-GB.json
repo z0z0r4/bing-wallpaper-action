@@ -8090,5 +8090,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d4ccd8031326dbb034fcf144987991bd": {
+        "startdate": "20240909",
+        "fullstartdate": "202409092300",
+        "enddate": "20240910",
+        "url": "/th?id=OHR.BridgeLisbon_EN-GB4169546026_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BridgeLisbon_EN-GB4169546026",
+        "copyright": "Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vasco+da+Gama+Bridge&form=hpcapt&filters=HpDate%3a%2220240909_2300%22",
+        "title": "From skyline to water",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240909_BridgeLisbon%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d4ccd8031326dbb034fcf144987991bd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
