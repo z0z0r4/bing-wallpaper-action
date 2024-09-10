@@ -8107,5 +8107,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "db540075a79b720a6d67ad3679415913": {
+        "startdate": "20240910",
+        "fullstartdate": "202409102300",
+        "enddate": "20240911",
+        "url": "/th?id=OHR.RapaNuiSunrise_EN-GB5251109643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RapaNuiSunrise_EN-GB5251109643",
+        "copyright": "Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ahu+Tongariki&form=hpcapt&filters=HpDate%3a%2220240910_2300%22",
+        "title": "MOAIrning glory!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240910_RapaNuiSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "db540075a79b720a6d67ad3679415913",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
