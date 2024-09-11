@@ -8141,5 +8141,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "82bc10cfbf60aafecfc6f2f3ead45029": {
+        "startdate": "20240911",
+        "fullstartdate": "202409112200",
+        "enddate": "20240912",
+        "url": "/th?id=OHR.DolphinReunion_FR-FR0184396607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DolphinReunion_FR-FR0184396607",
+        "copyright": "Pod de dauphins près de l'île de la Réunion, océan Indien (© Joost van Uffelen/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=dauphin&form=hpcapt&filters=HpDate%3a%2220240911_2200%22",
+        "title": "Le grand bleu",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240911_DolphinReunion%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "82bc10cfbf60aafecfc6f2f3ead45029",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
