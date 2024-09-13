@@ -8158,5 +8158,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8621d0a07704c46b36ec16b5d3025cc2": {
+        "startdate": "20240913",
+        "fullstartdate": "202409132300",
+        "enddate": "20240914",
+        "url": "/th?id=OHR.LastNightOfTheProms2024_EN-GB2327761214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LastNightOfTheProms2024_EN-GB2327761214",
+        "copyright": "Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Last+Night+of+the+Proms&form=hpcapt&filters=HpDate%3a%2220240913_2300%22",
+        "title": "Orchestrating some fun",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240913_LastNightOfTheProms2024%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8621d0a07704c46b36ec16b5d3025cc2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
