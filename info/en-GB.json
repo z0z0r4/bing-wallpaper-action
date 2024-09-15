@@ -8192,5 +8192,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "114b257e9779c5a9b86711ef5458c035": {
+        "startdate": "20240915",
+        "fullstartdate": "202409152300",
+        "enddate": "20240916",
+        "url": "/th?id=OHR.SunriseWallabies_EN-GB4531988184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunriseWallabies_EN-GB4531988184",
+        "copyright": "Wallabies, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wallaby&form=hpcapt&filters=HpDate%3a%2220240915_2300%22",
+        "title": "Hoppily ever after",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240915_SunriseWallabies%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "114b257e9779c5a9b86711ef5458c035",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
