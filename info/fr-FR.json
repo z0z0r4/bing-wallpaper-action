@@ -8226,5 +8226,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "089598dc3fceef1fc320a81391ff93be": {
+        "startdate": "20240916",
+        "fullstartdate": "202409162200",
+        "enddate": "20240917",
+        "url": "/th?id=OHR.NordicWalkingDay_FR-FR1412128674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NordicWalkingDay_FR-FR1412128674",
+        "copyright": "Vue aérienne de champs géométriques de raisin, vignoble en Alsace (© Alexander Sorokopud/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=marche+nordique&form=hpcapt&filters=HpDate%3a%2220240916_2200%22",
+        "title": "En marche !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240916_NordicWalkingDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "089598dc3fceef1fc320a81391ff93be",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

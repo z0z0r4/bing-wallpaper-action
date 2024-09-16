@@ -8209,5 +8209,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8843de9e645bcdafb9f5e3290f3fe0b1": {
+        "startdate": "20240916",
+        "fullstartdate": "202409160700",
+        "enddate": "20240917",
+        "url": "/th?id=OHR.SunriseWallabies_ROW4908014597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SunriseWallabies_ROW4908014597",
+        "copyright": "Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Wallaby&form=hpcapt&filters=HpDate%3a%2220240916_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240916_SunriseWallabies%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8843de9e645bcdafb9f5e3290f3fe0b1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

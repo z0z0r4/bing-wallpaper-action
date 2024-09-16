@@ -8209,5 +8209,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2abb5c19d8920688aefafcabf39dc5e5": {
+        "startdate": "20240916",
+        "fullstartdate": "202409162300",
+        "enddate": "20240917",
+        "url": "/th?id=OHR.MidAutumnSingapore_EN-GB4580876082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MidAutumnSingapore_EN-GB4580876082",
+        "copyright": "Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Mid-Autumn+Festival&form=hpcapt&filters=HpDate%3a%2220240916_2300%22",
+        "title": "Lanterns and mooncakes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240916_MidAutumnSingapore%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "2abb5c19d8920688aefafcabf39dc5e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
