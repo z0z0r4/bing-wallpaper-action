@@ -8243,5 +8243,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "519e454002db068c82c920de860a5ce4": {
+        "startdate": "20240917",
+        "fullstartdate": "202409172200",
+        "enddate": "20240918",
+        "url": "/th?id=OHR.GujoHachiman_ES-ES8969263083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GujoHachiman_ES-ES8969263083",
+        "copyright": "Castillo de Gujō Hachiman, prefectura de Gifu, Japón (© ta2funk ito/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castillo+de+Gujo+Hachiman+prefectura+de+Gifu+Japon&form=hpcapt&filters=HpDate%3a%2220240917_2200%22",
+        "title": "Un castillo en las nubes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240917_GujoHachiman%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "519e454002db068c82c920de860a5ce4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
