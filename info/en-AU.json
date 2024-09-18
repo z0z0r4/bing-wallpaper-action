@@ -8243,5 +8243,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4ee4d2f01f1f0464506c4ef3927dadce": {
+        "startdate": "20240918",
+        "fullstartdate": "202409180700",
+        "enddate": "20240919",
+        "url": "/th?id=OHR.GujoHachiman_ROW5500166549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GujoHachiman_ROW5500166549",
+        "copyright": "Gujō Hachiman Castle, Gifu Prefecture, Japan (© ta2funk ito/500px/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gujo+Hachiman+Castle&form=hpcapt&filters=HpDate%3a%2220240918_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240918_GujoHachiman%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4ee4d2f01f1f0464506c4ef3927dadce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
