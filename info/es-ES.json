@@ -8277,5 +8277,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2ad68f5043812413c70ddfd7a11da74a": {
+        "startdate": "20240919",
+        "fullstartdate": "202409192200",
+        "enddate": "20240920",
+        "url": "/th?id=OHR.OcracokeLight_ES-ES5015251723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OcracokeLight_ES-ES5015251723",
+        "copyright": "Faro de Ocracoke en la isla de Ocracoke, Carolina del Norte, EE.UU. (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Faro+de+Ocracoke&form=hpcapt&filters=HpDate%3a%2220240919_2200%22",
+        "title": "El refugio final de un bucanero",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240919_OcracokeLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2ad68f5043812413c70ddfd7a11da74a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
