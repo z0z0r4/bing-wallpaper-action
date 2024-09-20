@@ -8294,5 +8294,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "af82d2fe95ecf257dfb4662cd313dc6b": {
+        "startdate": "20240920",
+        "fullstartdate": "202409202200",
+        "enddate": "20240921",
+        "url": "/th?id=OHR.MunichBeerfest_ES-ES5226807539_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MunichBeerfest_ES-ES5226807539",
+        "copyright": "Oktoberfest en Múnich desde lo alto al atardecer (© AllesSuper21/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=oktoberfest&form=hpcapt&filters=HpDate%3a%2220240920_2200%22",
+        "title": "¡Salud, Oktoberfest!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240920_MunichBeerfest%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "af82d2fe95ecf257dfb4662cd313dc6b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

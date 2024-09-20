@@ -8277,5 +8277,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "09037eb32fcec1b032e46cca17f849d8": {
+        "startdate": "20240920",
+        "fullstartdate": "202409200300",
+        "enddate": "20240921",
+        "url": "/th?id=OHR.OcracokeLight_PT-BR0175808147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OcracokeLight_PT-BR0175808147",
+        "copyright": "Faro de Ocracoke na ilha de Ocracoke, Carolina do Norte, EUA (© Chansak Joe/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Farol+de+Ocracocke&form=hpcapt&mkt=pt-br",
+        "title": "O último refúgio de um viajante",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240920_OcracokeLight%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "09037eb32fcec1b032e46cca17f849d8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
