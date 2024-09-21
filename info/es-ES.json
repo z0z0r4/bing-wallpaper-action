@@ -8311,5 +8311,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "22cb77e6a6ffad0aff81242180bf59c1": {
+        "startdate": "20240921",
+        "fullstartdate": "202409212200",
+        "enddate": "20240922",
+        "url": "/th?id=OHR.AragonAutumnLandscape_ES-ES5440172345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AragonAutumnLandscape_ES-ES5440172345",
+        "copyright": "Equinoccio de otoño en la Pradera de Ordesa, Huesca (© Susana Guzman/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Oto%C3%B1o&form=hpcapt&filters=HpDate%3a%2220240921_2200%22",
+        "title": "Otoño entrante, lluvias abundantes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240921_AragonAutumnLandscape%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "22cb77e6a6ffad0aff81242180bf59c1",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
