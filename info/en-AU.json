@@ -8328,5 +8328,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e396bfd282154be308a2706c05298d15": {
+        "startdate": "20240923",
+        "fullstartdate": "202409230700",
+        "enddate": "20240924",
+        "url": "/th?id=OHR.IcebergOtter_ROW6436603276_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcebergOtter_ROW6436603276",
+        "copyright": "Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sea+otter&form=hpcapt&filters=HpDate%3a%2220240923_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240923_IcebergOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e396bfd282154be308a2706c05298d15",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
