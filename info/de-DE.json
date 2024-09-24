@@ -8362,5 +8362,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c0cfd4a8ba65425418fc56fd4eb17dcc": {
+        "startdate": "20240924",
+        "fullstartdate": "202409242200",
+        "enddate": "20240925",
+        "url": "/th?id=OHR.GiantSequoias_DE-DE0297473056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiantSequoias_DE-DE0297473056",
+        "copyright": "Riesenmammutbäume, Sequoia-Nationalpark, Kalifornien, USA (© Galyna Andrushko/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Der+Sequoia-Nationalpark&form=hpcapt&filters=HpDate%3a%2220240924_2200%22",
+        "title": "Riesen aus Holz und Zeit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20240924_GiantSequoias%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c0cfd4a8ba65425418fc56fd4eb17dcc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
