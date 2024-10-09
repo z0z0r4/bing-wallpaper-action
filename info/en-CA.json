@@ -8362,5 +8362,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "be0fcfea9385f12f21622aa62cfa7c4c": {
+        "startdate": "20241009",
+        "fullstartdate": "202410090400",
+        "enddate": "20241010",
+        "url": "/th?id=OHR.AspensColorado_EN-CA0556453730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AspensColorado_EN-CA0556453730",
+        "copyright": "Aspens near Marble, Colorado, USA (© Jason Hatfield/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Aspen+tree&form=hpcapt&filters=HpDate%3a%2220241009_0400%22",
+        "title": "Colorado in full colour",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241009_AspensColorado%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "be0fcfea9385f12f21622aa62cfa7c4c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

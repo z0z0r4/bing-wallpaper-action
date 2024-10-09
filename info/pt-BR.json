@@ -8362,5 +8362,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "31780f5c5087ce6af89cea128aa3e987": {
+        "startdate": "20241009",
+        "fullstartdate": "202410090300",
+        "enddate": "20241010",
+        "url": "/th?id=OHR.AspensColorado_PT-BR8036769299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AspensColorado_PT-BR8036769299",
+        "copyright": "Álamos perto de Marble, Colorado, EUA (© Jason Hatfield/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%C3%A1lamo+%C3%A1rvore&form=hpcapt&mkt=pt-br",
+        "title": "Colorado em cores",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241009_AspensColorado%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "31780f5c5087ce6af89cea128aa3e987",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
