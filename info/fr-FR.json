@@ -8396,5 +8396,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5c422c38908be74ae28320ced912fac8": {
+        "startdate": "20241010",
+        "fullstartdate": "202410102200",
+        "enddate": "20241011",
+        "url": "/th?id=OHR.CelticColours_FR-FR3939645346_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CelticColours_FR-FR3939645346",
+        "copyright": "Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse, Canada (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Hautes-Terres-du-Cap-Breton+Canada+&form=hpcapt&filters=HpDate%3a%2220241010_2200%22",
+        "title": "Les Celtes à l'honneur",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241010_CelticColours%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5c422c38908be74ae28320ced912fac8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

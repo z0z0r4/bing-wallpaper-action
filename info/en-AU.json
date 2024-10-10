@@ -8379,5 +8379,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "18813d732b701e665ab9d0515641adc5": {
+        "startdate": "20241010",
+        "fullstartdate": "202410100700",
+        "enddate": "20241011",
+        "url": "/th?id=OHR.SoranoItaly_ROW9659332544_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SoranoItaly_ROW9659332544",
+        "copyright": "Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Sorano+comune&form=hpcapt&filters=HpDate%3a%2220241010_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241010_SoranoItaly%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "18813d732b701e665ab9d0515641adc5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
