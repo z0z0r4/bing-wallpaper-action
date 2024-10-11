@@ -8396,5 +8396,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4a06b85cfea20631f393169aef1ada39": {
+        "startdate": "20241011",
+        "fullstartdate": "202410110400",
+        "enddate": "20241012",
+        "url": "/th?id=OHR.CelticColours_EN-CA7718811490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CelticColours_EN-CA7718811490",
+        "copyright": "Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Coastal+Highlands+of+Cape+Breton&form=hpcapt&filters=HpDate%3a%2220241011_0400%22",
+        "title": "Celebrate the Celts",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241011_CelticColours%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4a06b85cfea20631f393169aef1ada39",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
