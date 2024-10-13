@@ -8447,5 +8447,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "83024e50c5bc51868e7f200b8fcb6fd2": {
+        "startdate": "20241013",
+        "fullstartdate": "202410132200",
+        "enddate": "20241014",
+        "url": "/th?id=OHR.CocoBeach_ES-ES6296595662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CocoBeach_ES-ES6296595662",
+        "copyright": "Barcos de pesca en la playa de Coco en Goa, India (© Abhinav Sah/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=goa+india&form=hpcapt&filters=HpDate%3a%2220241013_2200%22",
+        "title": "Atardeceres playeros",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241013_CocoBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "83024e50c5bc51868e7f200b8fcb6fd2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

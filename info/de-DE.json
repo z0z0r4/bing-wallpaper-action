@@ -8447,5 +8447,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b9ef964d126896f0d397802e2ce5056b": {
+        "startdate": "20241013",
+        "fullstartdate": "202410132200",
+        "enddate": "20241014",
+        "url": "/th?id=OHR.CocoBeach_DE-DE0655517413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CocoBeach_DE-DE0655517413",
+        "copyright": "Fischerboote am Coco Beach in Goa, Indien (© Abhinav Sah/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Coco+Beach+Goa&form=hpcapt&filters=HpDate%3a%2220241013_2200%22",
+        "title": "Ein indisches Strandparadies",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241013_CocoBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b9ef964d126896f0d397802e2ce5056b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

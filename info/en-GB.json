@@ -8430,5 +8430,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "376c2fd0eb4d4df5c0acde41cf32c706": {
+        "startdate": "20241013",
+        "fullstartdate": "202410132300",
+        "enddate": "20241014",
+        "url": "/th?id=OHR.CocoBeach_EN-GB1307746805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CocoBeach_EN-GB1307746805",
+        "copyright": "Coco Beach, Goa, India (© Abhinav Sah/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Coco+Beach+Goa&form=hpcapt&filters=HpDate%3a%2220241013_2300%22",
+        "title": "Sandy secrets and sunsets",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241013_CocoBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "376c2fd0eb4d4df5c0acde41cf32c706",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

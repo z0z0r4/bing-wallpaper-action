@@ -8430,5 +8430,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6110d5ec0152f7447f613a6f24b926e0": {
+        "startdate": "20241013",
+        "fullstartdate": "202410130700",
+        "enddate": "20241014",
+        "url": "/th?id=OHR.AlcazarSeville_ROW0922888067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlcazarSeville_ROW0922888067",
+        "copyright": "Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Alcazar+of+Seville&form=hpcapt&filters=HpDate%3a%2220241013_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241013_AlcazarSeville%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6110d5ec0152f7447f613a6f24b926e0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
