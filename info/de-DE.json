@@ -8464,5 +8464,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3272adcb259574af4013f9493ebeb90a": {
+        "startdate": "20241014",
+        "fullstartdate": "202410142200",
+        "enddate": "20241015",
+        "url": "/th?id=OHR.MaraMigration_DE-DE2892375339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaraMigration_DE-DE2892375339",
+        "copyright": "Große Gnuwanderung am Mara-Fluss, Kenia (© Ayzenstayn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gro%C3%9Fe+Gnuwanderung+Mara-Fluss+Kenia&form=hpcapt&filters=HpDate%3a%2220241014_2200%22",
+        "title": "Wettlauf ums Überleben",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241014_MaraMigration%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3272adcb259574af4013f9493ebeb90a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

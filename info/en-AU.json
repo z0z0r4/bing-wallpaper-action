@@ -8447,5 +8447,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a6a68d401a073ce53aa164534d169366": {
+        "startdate": "20241014",
+        "fullstartdate": "202410140700",
+        "enddate": "20241015",
+        "url": "/th?id=OHR.CocoBeach_ROW1563343376_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CocoBeach_ROW1563343376",
+        "copyright": "Fishing boats at Coco Beach in Goa, India (© Abhinav Sah/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Coco+Beach+Goa&form=hpcapt&filters=HpDate%3a%2220241014_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241014_CocoBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a6a68d401a073ce53aa164534d169366",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
