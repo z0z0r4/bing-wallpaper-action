@@ -8464,5 +8464,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ddb9c39edc7e8dd4e36ee14cddf8e0dd": {
+        "startdate": "20241015",
+        "fullstartdate": "202410150700",
+        "enddate": "20241016",
+        "url": "/th?id=OHR.MaraMigration_ROW5831345808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaraMigration_ROW5831345808",
+        "copyright": "Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+wildebeest+migration+at+Mara+River+Kenya&form=hpcapt&filters=HpDate%3a%2220241015_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241015_MaraMigration%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ddb9c39edc7e8dd4e36ee14cddf8e0dd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
