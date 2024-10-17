@@ -8515,5 +8515,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dade3500767479fa9a33874a1015eecd": {
+        "startdate": "20241017",
+        "fullstartdate": "202410172200",
+        "enddate": "20241018",
+        "url": "/th?id=OHR.CentralParkAutumn_ES-ES2052483366_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CentralParkAutumn_ES-ES2052483366",
+        "copyright": "Otoño en Central Park, Manhattan, Nueva York, EE. UU. (© mapman/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Central+Park+parque+urbano&form=hpcapt&filters=HpDate%3a%2220241017_2200%22",
+        "title": "Rastro del otoño",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241017_CentralParkAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dade3500767479fa9a33874a1015eecd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
