@@ -8566,5 +8566,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "110ef20f89281e781a8a6d1a36c1822b": {
+        "startdate": "20241123",
+        "fullstartdate": "202411232300",
+        "enddate": "20241124",
+        "url": "/th?id=OHR.ParisAutumn_FR-FR3278291664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ParisAutumn_FR-FR3278291664",
+        "copyright": "Paris aux couleurs de l’automne (© encrier/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=paris&form=hpcapt&filters=HpDate%3a%2220241123_2300%22",
+        "title": "Découvrez les secrets de Paris en automne",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241123_ParisAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "110ef20f89281e781a8a6d1a36c1822b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
