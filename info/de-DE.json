@@ -8583,5 +8583,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "21f7a3a30bcbdb148d5e028216717a30": {
+        "startdate": "20241124",
+        "fullstartdate": "202411242300",
+        "enddate": "20241125",
+        "url": "/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RegensburgChristmasMarket_DE-DE8576246094",
+        "copyright": "Weihnachtsmarkt in Regensburg, Bayern (© Harald Nachtmann/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Regensburg+Christkindlmarkt&form=hpcapt&filters=HpDate%3a%2220241124_2300%22",
+        "title": "Festliche Vorfreude",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241124_RegensburgChristmasMarket%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "21f7a3a30bcbdb148d5e028216717a30",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
