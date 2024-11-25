@@ -8600,5 +8600,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "399f038d1ebeaa4bf1ee4a03ab139cb3": {
+        "startdate": "20241125",
+        "fullstartdate": "202411252300",
+        "enddate": "20241126",
+        "url": "/th?id=OHR.TrulliGrove_ES-ES3236734802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrulliGrove_ES-ES3236734802",
+        "copyright": "Olivar, Valle de Itria, Apulia, Italia (© Massimo Santi/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=olivo+arbol&form=hpcapt&filters=HpDate%3a%2220241125_2300%22",
+        "title": "Siglos de olivos",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241125_TrulliGrove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "399f038d1ebeaa4bf1ee4a03ab139cb3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

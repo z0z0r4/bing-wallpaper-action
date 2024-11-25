@@ -8600,5 +8600,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6a0589ecfce66db5e5601f3d4340f49c": {
+        "startdate": "20241125",
+        "fullstartdate": "202411252300",
+        "enddate": "20241126",
+        "url": "/th?id=OHR.TrulliGrove_FR-FR3683617209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrulliGrove_FR-FR3683617209",
+        "copyright": "Oliveraie, vallée d'Itria, Pouilles, Italie (© Massimo Santi/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=olivier+arbre&form=hpcapt&filters=HpDate%3a%2220241125_2300%22",
+        "title": "Le symbole de paix et de la vie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241125_TrulliGrove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6a0589ecfce66db5e5601f3d4340f49c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

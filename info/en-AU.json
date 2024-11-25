@@ -8583,5 +8583,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "121ac86d2c1a25d0ed9da0eb25e6846a": {
+        "startdate": "20241125",
+        "fullstartdate": "202411250800",
+        "enddate": "20241126",
+        "url": "/th?id=OHR.AmboseliGiraffes_ROW0162747010_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AmboseliGiraffes_ROW0162747010",
+        "copyright": "Maasai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Amboseli+National+Park+Kenya&form=hpcapt&filters=HpDate%3a%2220241125_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241125_AmboseliGiraffes%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "121ac86d2c1a25d0ed9da0eb25e6846a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
