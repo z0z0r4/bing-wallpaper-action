@@ -8600,5 +8600,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "58923fa6afa98c3e5d2a12e015bd9c03": {
+        "startdate": "20241126",
+        "fullstartdate": "202411260800",
+        "enddate": "20241127",
+        "url": "/th?id=OHR.TrulliGrove_ROW4317379602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TrulliGrove_ROW4317379602",
+        "copyright": "Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Puglia+Italy&form=hpcapt&filters=HpDate%3a%2220241126_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241126_TrulliGrove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "58923fa6afa98c3e5d2a12e015bd9c03",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
