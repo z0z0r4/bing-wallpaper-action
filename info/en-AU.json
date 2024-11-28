@@ -8634,5 +8634,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7225f309897780b4c606c0f573c3472c": {
+        "startdate": "20241128",
+        "fullstartdate": "202411280800",
+        "enddate": "20241129",
+        "url": "/th?id=OHR.AssiniboineTS_ROW4675507438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AssiniboineTS_ROW4675507438",
+        "copyright": "Mount Assiniboine Provincial Park, British Columbia, Canada (© Jeff Lewis/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Mount+Assiniboine+Provincial+Park&form=hpcapt&filters=HpDate%3a%2220241128_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_AssiniboineTS%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7225f309897780b4c606c0f573c3472c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

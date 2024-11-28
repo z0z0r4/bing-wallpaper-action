@@ -8651,5 +8651,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "459fbd7ab785bf7f90d57c1ca04a7310": {
+        "startdate": "20241128",
+        "fullstartdate": "202411282300",
+        "enddate": "20241129",
+        "url": "/th?id=OHR.MtStMichel_FR-FR7113909915_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MtStMichel_FR-FR7113909915",
+        "copyright": "Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=le+mont+saint+michel&form=hpcapt&filters=HpDate%3a%2220241128_2300%22",
+        "title": "Un site unique et intemporel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241128_MtStMichel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "459fbd7ab785bf7f90d57c1ca04a7310",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
