@@ -8651,5 +8651,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d29425a2b241bad241433efe3255579c": {
+        "startdate": "20241129",
+        "fullstartdate": "202411290000",
+        "enddate": "20241130",
+        "url": "/th?id=OHR.MtStMichel_EN-GB8923576020_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MtStMichel_EN-GB8923576020",
+        "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mont+Saint+Michel+France&form=hpcapt&filters=HpDate%3a%2220241129_0000%22",
+        "title": "An island of time and tide",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241129_MtStMichel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d29425a2b241bad241433efe3255579c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
