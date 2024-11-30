@@ -8668,5 +8668,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1cf1144cd0bafd07433b0b54b3817c93": {
+        "startdate": "20241130",
+        "fullstartdate": "202411300800",
+        "enddate": "20241201",
+        "url": "/th?id=OHR.KilchurnAutumn_ROW4010675515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.KilchurnAutumn_ROW4010675515",
+        "copyright": "Kilchurn Castle reflecting in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Kilchurn+Castle&form=hpcapt&filters=HpDate%3a%2220241130_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241130_KilchurnAutumn%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1cf1144cd0bafd07433b0b54b3817c93",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
