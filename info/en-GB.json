@@ -8685,5 +8685,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cbba2036ec94e5880b8bccafe8f3befb": {
+        "startdate": "20241201",
+        "fullstartdate": "202412010000",
+        "enddate": "20241202",
+        "url": "/th?id=OHR.IcebergsAntarctica_EN-GB9447266279_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcebergsAntarctica_EN-GB9447266279",
+        "copyright": "Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Antarctica+Day&form=hpcapt&filters=HpDate%3a%2220241201_0000%22",
+        "title": "Protecting the last great wilderness",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241201_IcebergsAntarctica%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cbba2036ec94e5880b8bccafe8f3befb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

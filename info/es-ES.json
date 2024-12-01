@@ -8702,5 +8702,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7f3213d99f0e2ddb61a5d8610eeb4496": {
+        "startdate": "20241201",
+        "fullstartdate": "202412012300",
+        "enddate": "20241202",
+        "url": "/th?id=OHR.SnowMoose_ES-ES4746792183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowMoose_ES-ES4746792183",
+        "copyright": "Alce hembra, Parque Nacional Denali, Alaska, EE.UU. (© Cavan Images/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Alce&form=hpcapt&filters=HpDate%3a%2220241201_2300%22",
+        "title": "Una mirada salvaje",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241201_SnowMoose%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7f3213d99f0e2ddb61a5d8610eeb4496",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
