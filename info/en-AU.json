@@ -8702,5 +8702,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "895a48c3c41e568a8856e43c7c49c87a": {
+        "startdate": "20241202",
+        "fullstartdate": "202412020800",
+        "enddate": "20241203",
+        "url": "/th?id=OHR.SnowMoose_ROW4905648151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowMoose_ROW4905648151",
+        "copyright": "Female moose, Denali National Park, Alaska, USA (© Cavan Images/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=moose&form=hpcapt&filters=HpDate%3a%2220241202_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20241202_SnowMoose%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "895a48c3c41e568a8856e43c7c49c87a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
