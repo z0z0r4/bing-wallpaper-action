@@ -8753,5 +8753,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4b21646dec6997e17a10842c393bdfd2": {
+        "startdate": "20250118",
+        "fullstartdate": "202501182300",
+        "enddate": "20250119",
+        "url": "/th?id=OHR.NeptunesGrotto_ES-ES8086917702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeptunesGrotto_ES-ES8086917702",
+        "copyright": "Gruta de Neptuno, Cerdeña, Italia (© Carlo Murenu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Cerde%C3%B1a&form=hpcapt&filters=HpDate%3a%2220250118_2300%22",
+        "title": "Una gruta digna de dioses",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250118_NeptunesGrotto%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4b21646dec6997e17a10842c393bdfd2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

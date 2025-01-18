@@ -8753,5 +8753,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "98799f752e213a904055692365d72506": {
+        "startdate": "20250118",
+        "fullstartdate": "202501181500",
+        "enddate": "20250119",
+        "url": "/th?id=OHR.NeptunesGrotto_JA-JP9457027054_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeptunesGrotto_JA-JP9457027054",
+        "copyright": "ネプチューンの洞窟, イタリア (© Carlo Murenu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%8D%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%81%AE%E6%B4%9E%E7%AA%9F&form=hpcapt&filters=HpDate%3a%2220250118_1500%22",
+        "title": "鍾乳石と石筍の世界",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250118_NeptunesGrotto%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "98799f752e213a904055692365d72506",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
