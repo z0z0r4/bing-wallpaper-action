@@ -8753,5 +8753,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "567861e1d90d580a7267654b3e567f4f": {
+        "startdate": "20250119",
+        "fullstartdate": "202501190800",
+        "enddate": "20250120",
+        "url": "/th?id=OHR.NeptunesGrotto_ROW1184653075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeptunesGrotto_ROW1184653075",
+        "copyright": "Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Neptunes+Grotto&form=hpcapt&filters=HpDate%3a%2220250119_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250119_NeptunesGrotto%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "567861e1d90d580a7267654b3e567f4f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

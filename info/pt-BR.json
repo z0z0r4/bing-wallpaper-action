@@ -8753,5 +8753,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e3b96fd008941bd0202f67dcc718175c": {
+        "startdate": "20250119",
+        "fullstartdate": "202501190300",
+        "enddate": "20250120",
+        "url": "/th?id=OHR.NeptunesGrotto_PT-BR9754491184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NeptunesGrotto_PT-BR9754491184",
+        "copyright": "Gruta de Netuno, Sardenha, Itália (© Carlo Murenu/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gruta+de+Netuno+na+Sardenha&form=hpcapt&mkt=pt-br",
+        "title": "Uma gruta digna dos deuses",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250119_NeptunesGrotto%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e3b96fd008941bd0202f67dcc718175c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

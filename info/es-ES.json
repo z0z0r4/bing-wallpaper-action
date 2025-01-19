@@ -8770,5 +8770,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "16b1beaa8328043fb1a6dd14577ba01d": {
+        "startdate": "20250119",
+        "fullstartdate": "202501192300",
+        "enddate": "20250120",
+        "url": "/th?id=OHR.LasCarantonas_ES-ES8729775352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LasCarantonas_ES-ES8729775352",
+        "copyright": "Real Monasterio de Santa María de Guadalupe, Cáceres, Extremadura, España (© Rudolf Ernst/iStock/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Real+Monasterio+de+Santa+Mar%C3%ADa+de+Guadalupe&form=hpcapt&filters=HpDate%3a%2220250119_2300%22",
+        "title": "¡El guardián de historias!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250119_LasCarantonas%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "16b1beaa8328043fb1a6dd14577ba01d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
