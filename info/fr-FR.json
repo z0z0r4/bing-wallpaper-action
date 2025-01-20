@@ -8787,5 +8787,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d05f597138007e5788155f7972c31e8b": {
+        "startdate": "20250120",
+        "fullstartdate": "202501202300",
+        "enddate": "20250121",
+        "url": "/th?id=OHR.ColourfulBlueMonday_FR-FR0873171314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ColourfulBlueMonday_FR-FR0873171314",
+        "copyright": "Cabanes aux toits colorés recouvertes de neige à Gouville-sur-Mer, Normandie (© Andia/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=cabanes+gouville+sur+mer&form=hpcapt&filters=HpDate%3a%2220250120_2300%22",
+        "title": "Dites non au Blue Monday !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250120_ColourfulBlueMonday%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d05f597138007e5788155f7972c31e8b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

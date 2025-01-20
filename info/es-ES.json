@@ -8787,5 +8787,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9fdbffde69d9dda42b3223dd6f92bb2a": {
+        "startdate": "20250120",
+        "fullstartdate": "202501202300",
+        "enddate": "20250121",
+        "url": "/th?id=OHR.DutchSquirrel_ES-ES3993162395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchSquirrel_ES-ES3993162395",
+        "copyright": "Ardilla roja euroasiática junto a una seta, Países Bajos (© Edwin Giesbers/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Ardilla+roja+euroasi%C3%A1tica&form=hpcapt&filters=HpDate%3a%2220250120_2300%22",
+        "title": "¡Una bonita sorpresa!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250120_DutchSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9fdbffde69d9dda42b3223dd6f92bb2a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

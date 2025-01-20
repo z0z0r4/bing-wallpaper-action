@@ -8770,5 +8770,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "87ae772d5fb3b639244488bd12f692cf": {
+        "startdate": "20250120",
+        "fullstartdate": "202501200000",
+        "enddate": "20250121",
+        "url": "/th?id=OHR.WhiteSandsNP_EN-GB6124824986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhiteSandsNP_EN-GB6124824986",
+        "copyright": "White Sands National Park, New Mexico, USA (© Image Professionals GmbH/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=White+Sands+National+Park+New+Mexico&form=hpcapt&filters=HpDate%3a%2220250120_0000%22",
+        "title": "1,001 Mexican dunes",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250120_WhiteSandsNP%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "87ae772d5fb3b639244488bd12f692cf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
