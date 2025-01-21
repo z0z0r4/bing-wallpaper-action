@@ -8787,5 +8787,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3de9f3cfa751d5048df1f78277a3e7c3": {
+        "startdate": "20250121",
+        "fullstartdate": "202501210800",
+        "enddate": "20250122",
+        "url": "/th?id=OHR.DutchSquirrel_ROW1439673577_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchSquirrel_ROW1439673577",
+        "copyright": "Eurasian red squirrel with toadstool (© Edwin Giesbers/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220250121_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250121_DutchSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3de9f3cfa751d5048df1f78277a3e7c3",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

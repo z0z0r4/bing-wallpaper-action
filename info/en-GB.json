@@ -8787,5 +8787,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "21d7f9e57fde7f6e4c004569b5479496": {
+        "startdate": "20250121",
+        "fullstartdate": "202501210000",
+        "enddate": "20250122",
+        "url": "/th?id=OHR.DutchSquirrel_EN-GB5824691080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DutchSquirrel_EN-GB5824691080",
+        "copyright": "Eurasian red squirrel with toadstool (© Edwin Giesbers/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=hpcapt&filters=HpDate%3a%2220250121_0000%22",
+        "title": "Feeling squirrely?",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250121_DutchSquirrel%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "21d7f9e57fde7f6e4c004569b5479496",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

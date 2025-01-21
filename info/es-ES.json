@@ -8804,5 +8804,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6a6e1322f44dfc7db8872d1a6938176f": {
+        "startdate": "20250121",
+        "fullstartdate": "202501212300",
+        "enddate": "20250122",
+        "url": "/th?id=OHR.PetraMonastery_ES-ES6740525723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PetraMonastery_ES-ES6740525723",
+        "copyright": "Ed-Deir, Petra, Jordania (© Punnawit Suwuttananun/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ed-Deir%2c+Petra&form=hpcapt&filters=HpDate%3a%2220250121_2300%22",
+        "title": "La ciudad perdida",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250121_PetraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6a6e1322f44dfc7db8872d1a6938176f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

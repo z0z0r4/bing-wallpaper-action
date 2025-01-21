@@ -8804,5 +8804,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cc416873168eb6d83ae714f994a1b5e7": {
+        "startdate": "20250121",
+        "fullstartdate": "202501212300",
+        "enddate": "20250122",
+        "url": "/th?id=OHR.PetraMonastery_FR-FR1072501086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PetraMonastery_FR-FR1072501086",
+        "copyright": "Ad-Deir, Pétra, Jordanie (© Punnawit Suwuttananun/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ad-Deir%2c+Petra%2c+Jordanie&form=hpcapt&filters=HpDate%3a%2220250121_2300%22",
+        "title": "La plus belle des cités perdues",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250121_PetraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cc416873168eb6d83ae714f994a1b5e7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
