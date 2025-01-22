@@ -8804,5 +8804,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9f5deab028b27950c2c087d716d9d27b": {
+        "startdate": "20250122",
+        "fullstartdate": "202501220800",
+        "enddate": "20250123",
+        "url": "/th?id=OHR.PetraMonastery_ROW1669102086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PetraMonastery_ROW1669102086",
+        "copyright": "Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ad-Deir+Petra&form=hpcapt&filters=HpDate%3a%2220250122_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250122_PetraMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9f5deab028b27950c2c087d716d9d27b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

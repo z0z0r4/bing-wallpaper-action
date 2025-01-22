@@ -8821,5 +8821,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "57ce40e1b3639314097a551a7c2fc171": {
+        "startdate": "20250122",
+        "fullstartdate": "202501222300",
+        "enddate": "20250123",
+        "url": "/th?id=OHR.DeerValley_ES-ES7003891910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerValley_ES-ES7003891910",
+        "copyright": "Deer Valley al anochecer, Park City, Utah, EE. UU. (© Adventure_Photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Park+City%2c+Utah%2c+EEUU&form=hpcapt&filters=HpDate%3a%2220250122_2300%22",
+        "title": "Estrellas, montaña y magia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250122_DeerValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "57ce40e1b3639314097a551a7c2fc171",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
