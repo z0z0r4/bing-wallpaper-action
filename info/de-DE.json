@@ -8838,5 +8838,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c2b6bf0634a9e5521acbefb596417126": {
+        "startdate": "20250123",
+        "fullstartdate": "202501232300",
+        "enddate": "20250124",
+        "url": "/th?id=OHR.IcelandGeyser_DE-DE1379578975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcelandGeyser_DE-DE1379578975",
+        "copyright": "Strokkur-Geysir in Island (© John and Tina Reid/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Strokkur+Geysir&form=hpcapt&filters=HpDate%3a%2220250123_2300%22",
+        "title": "Spektakuläres Naturschauspiel",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250123_IcelandGeyser%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c2b6bf0634a9e5521acbefb596417126",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

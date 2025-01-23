@@ -8838,5 +8838,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dc15a74ebae5daea0500c440fd1368cb": {
+        "startdate": "20250123",
+        "fullstartdate": "202501232300",
+        "enddate": "20250124",
+        "url": "/th?id=OHR.IcelandGeyser_ES-ES1598539119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcelandGeyser_ES-ES1598539119",
+        "copyright": "Géiser Strokkur en Islandia (© John and Tina Reid/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=G%C3%A9iser+Strokkur+en+Islandia&form=hpcapt&filters=HpDate%3a%2220250123_2300%22",
+        "title": "Rebosante de poder",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250123_IcelandGeyser%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dc15a74ebae5daea0500c440fd1368cb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

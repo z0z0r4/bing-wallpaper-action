@@ -8821,5 +8821,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "155ab8bb8debfd4005d56709af52ad92": {
+        "startdate": "20250123",
+        "fullstartdate": "202501230800",
+        "enddate": "20250124",
+        "url": "/th?id=OHR.DeerValley_ROW1914911028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerValley_ROW1914911028",
+        "copyright": "Deer Valley at dusk, Park City, Utah, USA (© Adventure_Photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Park+City+Utah&form=hpcapt&filters=HpDate%3a%2220250123_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250123_DeerValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "155ab8bb8debfd4005d56709af52ad92",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

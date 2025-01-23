@@ -8821,5 +8821,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0f311915c686a9a258901f46cf93993e": {
+        "startdate": "20250123",
+        "fullstartdate": "202501230000",
+        "enddate": "20250124",
+        "url": "/th?id=OHR.DeerValley_EN-GB0738627342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DeerValley_EN-GB0738627342",
+        "copyright": "Deer Valley, Park City, Utah, USA (© Adventure_Photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sundance+Film+Festival&form=hpcapt&filters=HpDate%3a%2220250123_0000%22",
+        "title": "Movies, mountains and magic",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250123_DeerValley%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0f311915c686a9a258901f46cf93993e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
