@@ -8838,5 +8838,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b766858ea1d7bf12361bed49976b1dbf": {
+        "startdate": "20250124",
+        "fullstartdate": "202501240300",
+        "enddate": "20250125",
+        "url": "/th?id=OHR.IcelandGeyser_PT-BR7544029151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcelandGeyser_PT-BR7544029151",
+        "copyright": "Gêiser Strokkur na Islândia (© John and Tina Reid/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Isl%C3%A2ndia&form=hpcapt&mkt=pt-br",
+        "title": "Borbulhando de energia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250124_IcelandGeyser%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b766858ea1d7bf12361bed49976b1dbf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

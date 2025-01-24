@@ -8838,5 +8838,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "719c81c0caa4be8ba4470cf0527143db": {
+        "startdate": "20250124",
+        "fullstartdate": "202501240800",
+        "enddate": "20250125",
+        "url": "/th?id=OHR.IcelandGeyser_ROW4318186607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcelandGeyser_ROW4318186607",
+        "copyright": "Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Strokkur+geyser&form=hpcapt&filters=HpDate%3a%2220250124_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250124_IcelandGeyser%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "719c81c0caa4be8ba4470cf0527143db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

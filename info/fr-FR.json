@@ -8855,5 +8855,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2be042e817b6cd06bd4a8b7231d9777c": {
+        "startdate": "20250124",
+        "fullstartdate": "202501242300",
+        "enddate": "20250125",
+        "url": "/th?id=OHR.PortoSunset_FR-FR7243507947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PortoSunset_FR-FR7243507947",
+        "copyright": "Porto, Portugal (© Starcevic/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Porto+Portugal&form=hpcapt&filters=HpDate%3a%2220250124_2300%22",
+        "title": "L'heure dorée à Porto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250124_PortoSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2be042e817b6cd06bd4a8b7231d9777c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

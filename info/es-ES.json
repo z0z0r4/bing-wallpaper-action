@@ -8855,5 +8855,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "873c839b419561939aa90e1d9cceda77": {
+        "startdate": "20250124",
+        "fullstartdate": "202501242300",
+        "enddate": "20250125",
+        "url": "/th?id=OHR.PortoSunset_ES-ES3099666552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PortoSunset_ES-ES3099666552",
+        "copyright": "Oporto, Portugal (© Starcevic/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Oporto+Portugal&form=hpcapt&filters=HpDate%3a%2220250124_2300%22",
+        "title": "La hora dorada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250124_PortoSunset%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "873c839b419561939aa90e1d9cceda77",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

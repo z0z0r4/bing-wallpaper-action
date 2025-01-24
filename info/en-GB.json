@@ -8838,5 +8838,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c225589c1ffce47b9caab810c2f276af": {
+        "startdate": "20250124",
+        "fullstartdate": "202501240000",
+        "enddate": "20250125",
+        "url": "/th?id=OHR.IcelandGeyser_EN-GB0103989552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IcelandGeyser_EN-GB0103989552",
+        "copyright": "Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Thorrablot&form=hpcapt&filters=HpDate%3a%2220250124_0000%22",
+        "title": "Bubbling with power",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250124_IcelandGeyser%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c225589c1ffce47b9caab810c2f276af",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
