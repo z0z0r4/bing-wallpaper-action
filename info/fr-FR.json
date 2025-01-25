@@ -8872,5 +8872,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "25fe8613cf687602431f7bbc41ebbcba": {
+        "startdate": "20250125",
+        "fullstartdate": "202501252300",
+        "enddate": "20250126",
+        "url": "/th?id=OHR.FrostedBeech_FR-FR8535589917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrostedBeech_FR-FR8535589917",
+        "copyright": "Forêt de hêtres, Belgique (© Philippe Moes/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=h%C3%AAtres+arbre&form=hpcapt&filters=HpDate%3a%2220250125_2300%22",
+        "title": "Vieillir avec grâce",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250125_FrostedBeech%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "25fe8613cf687602431f7bbc41ebbcba",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

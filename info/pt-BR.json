@@ -8855,5 +8855,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1ffe77f11694edc8f404ae7e506a11ec": {
+        "startdate": "20250125",
+        "fullstartdate": "202501250300",
+        "enddate": "20250126",
+        "url": "/th?id=OHR.DiaBossaNova_PT-BR0445068072_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.DiaBossaNova_PT-BR0445068072",
+        "copyright": "Amanhecer no Rio de Janeiro (© Stanley Chen Xi, landscape and architecture photographer/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Bossa+Nova&form=hpcapt&mkt=pt-br",
+        "title": "Olha que coisa mais linda",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250125_DiaBossaNova%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1ffe77f11694edc8f404ae7e506a11ec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
