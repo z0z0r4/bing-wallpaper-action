@@ -8872,5 +8872,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "345255dc1d4da13ddb8550b16ec893e9": {
+        "startdate": "20250126",
+        "fullstartdate": "202501260000",
+        "enddate": "20250127",
+        "url": "/th?id=OHR.FrostedBeech_EN-GB0216949411_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FrostedBeech_EN-GB0216949411",
+        "copyright": "European beech forest in Belgium (© Philippe Moes/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=European+beech&form=hpcapt&filters=HpDate%3a%2220250126_0000%22",
+        "title": "Ageing gracefully",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250126_FrostedBeech%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "345255dc1d4da13ddb8550b16ec893e9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
