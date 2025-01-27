@@ -8906,5 +8906,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7e9e22b8f3e270f2a85992c43447c7cc": {
+        "startdate": "20250127",
+        "fullstartdate": "202501272300",
+        "enddate": "20250128",
+        "url": "/th?id=OHR.FlyingOwl_DE-DE4640467598_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingOwl_DE-DE4640467598",
+        "copyright": "Sumpfohreule bei der Jagd im starken Schneefall (© Dilshan Muthalib/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Sumpfohreule&form=hpcapt&filters=HpDate%3a%2220250127_2300%22",
+        "title": "Anmut im Schneegestöber",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250127_FlyingOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7e9e22b8f3e270f2a85992c43447c7cc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

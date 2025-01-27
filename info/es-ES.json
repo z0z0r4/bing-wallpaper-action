@@ -8906,5 +8906,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "9eb979c22a931c2d4131ea8ae549eddf": {
+        "startdate": "20250127",
+        "fullstartdate": "202501272300",
+        "enddate": "20250128",
+        "url": "/th?id=OHR.FlyingOwl_ES-ES3769864994_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingOwl_ES-ES3769864994",
+        "copyright": "Búho campestre cazando en la nieve (© Dilshan Muthalib/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=b%C3%BAho+campestre&form=hpcapt&filters=HpDate%3a%2220250127_2300%22",
+        "title": "Un caminante blanco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250127_FlyingOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "9eb979c22a931c2d4131ea8ae549eddf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

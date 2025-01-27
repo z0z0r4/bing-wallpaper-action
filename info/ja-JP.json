@@ -8906,5 +8906,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ca40cdf185c5e7ce4d244d2a51df084d": {
+        "startdate": "20250127",
+        "fullstartdate": "202501271500",
+        "enddate": "20250128",
+        "url": "/th?id=OHR.FlyingOwl_JA-JP5099744024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingOwl_JA-JP5099744024",
+        "copyright": "吹雪の中を飛ぶコミミズク (© Dilshan Muthalib/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B3%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220250127_1500%22",
+        "title": "狩りの名手",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250127_FlyingOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ca40cdf185c5e7ce4d244d2a51df084d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -8889,5 +8889,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "968f43fe320832abf6c93e5933ecd045": {
+        "startdate": "20250127",
+        "fullstartdate": "202501270300",
+        "enddate": "20250128",
+        "url": "/th?id=OHR.CanyonSnow_PT-BR4095354589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CanyonSnow_PT-BR4095354589",
+        "copyright": "Templo de Zoroastro, Parque Nacional do Grand Canyon, Arizona, EUA (© Nick Lake/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+do+Grand+Canyon&form=hpcapt&mkt=pt-br",
+        "title": "Histórias que a terra esculpiu",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250127_CanyonSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "968f43fe320832abf6c93e5933ecd045",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
