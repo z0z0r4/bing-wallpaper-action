@@ -8906,5 +8906,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d906be912a8b6789321b6ba001fea2ce": {
+        "startdate": "20250128",
+        "fullstartdate": "202501280800",
+        "enddate": "20250129",
+        "url": "/th?id=OHR.FlyingOwl_ROW4662526865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FlyingOwl_ROW4662526865",
+        "copyright": "Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=short+eared+owl&form=hpcapt&filters=HpDate%3a%2220250128_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250128_FlyingOwl%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d906be912a8b6789321b6ba001fea2ce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

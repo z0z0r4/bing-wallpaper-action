@@ -8923,5 +8923,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "806b04dc4f231dce3a278e88538f246a": {
+        "startdate": "20250128",
+        "fullstartdate": "202501282300",
+        "enddate": "20250129",
+        "url": "/th?id=OHR.LunarDragon_ES-ES3892690560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LunarDragon_ES-ES3892690560",
+        "copyright": "Danza del dragón, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=A%C3%B1o+Nuevo+Chino&form=hpcapt&filters=HpDate%3a%2220250128_2300%22",
+        "title": "¡Feliz Año Nuevo Chino!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250128_LunarDragon%22&FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "806b04dc4f231dce3a278e88538f246a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
