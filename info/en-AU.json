@@ -8923,5 +8923,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "dcc916cc5e6a12c19bc617614b6151a6": {
+        "startdate": "20250129",
+        "fullstartdate": "202501290800",
+        "enddate": "20250130",
+        "url": "/th?id=OHR.PrioroWinter_ROW4745417070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PrioroWinter_ROW4745417070",
+        "copyright": "Prioro, Castile and León, Spain (© Ruben Earth/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Prioro+Castile+and+Leon&form=hpcapt&filters=HpDate%3a%2220250129_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250129_PrioroWinter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "dcc916cc5e6a12c19bc617614b6151a6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
