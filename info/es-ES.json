@@ -8957,5 +8957,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a5228f64e43a0e058da4e590459b2124": {
+        "startdate": "20250130",
+        "fullstartdate": "202501302300",
+        "enddate": "20250131",
+        "url": "/th?id=OHR.TenerifeCarnival2025_ES-ES0044754668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.TenerifeCarnival2025_ES-ES0044754668",
+        "copyright": "Reina del Carnaval de Santa Cruz de Tenerife, España (© DESIREE MARTIN/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Santa+Cruz+de+Tenerife&form=hpcapt&filters=HpDate%3a%2220250130_2300%22",
+        "title": "¡Una fiesta única!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250130_TenerifeCarnival2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a5228f64e43a0e058da4e590459b2124",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

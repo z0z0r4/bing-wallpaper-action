@@ -8940,5 +8940,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e7a400953c2aead54d41b5303427cb32": {
+        "startdate": "20250130",
+        "fullstartdate": "202501300000",
+        "enddate": "20250131",
+        "url": "/th?id=OHR.OrdesaSpain_EN-GB0380328230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OrdesaSpain_EN-GB0380328230",
+        "copyright": "Roland's Breach, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Rolands+Breach&form=hpcapt&filters=HpDate%3a%2220250130_0000%22",
+        "title": "Once more unto the breach",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250130_OrdesaSpain%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e7a400953c2aead54d41b5303427cb32",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
