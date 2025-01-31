@@ -8957,5 +8957,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "840932d2c730e44513dc7baf81b8a208": {
+        "startdate": "20250131",
+        "fullstartdate": "202501310500",
+        "enddate": "20250201",
+        "url": "/th?id=OHR.PlainsZebra_EN-CA2255570448_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlainsZebra_EN-CA2255570448",
+        "copyright": "Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=International+Zebra+Day&form=hpcapt&filters=HpDate%3a%2220250131_0500%22",
+        "title": "Anything but plain",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250131_PlainsZebra%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "840932d2c730e44513dc7baf81b8a208",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
