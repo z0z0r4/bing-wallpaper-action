@@ -8974,5 +8974,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "02a79175364098afe64614b5027d18db": {
+        "startdate": "20250201",
+        "fullstartdate": "202502010800",
+        "enddate": "20250202",
+        "url": "/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ROW4984505024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ROW4984505024",
+        "copyright": "Königstein Fortress, Saxon Switzerland, Germany (© Bildagentur-online/Exss/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Konigstein+Fortress+Saxon+Switzerland&form=hpcapt&filters=HpDate%3a%2220250201_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250201_FestungKonigsteinElbsandsteingebirge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "02a79175364098afe64614b5027d18db",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
