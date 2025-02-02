@@ -9008,5 +9008,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ecc379648daf315b8bceee7087359152": {
+        "startdate": "20250202",
+        "fullstartdate": "202502022300",
+        "enddate": "20250203",
+        "url": "/th?id=OHR.RibbleheadViaduct_ES-ES5419364772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RibbleheadViaduct_ES-ES5419364772",
+        "copyright": "Viaducto de Ribblehead y montaña de Ingleborough, Yorkshire del Norte, Inglaterra, Reino Unido (© AWL Images/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Viaducto+de+Ribblehead&form=hpcapt&filters=HpDate%3a%2220250202_2300%22",
+        "title": "De arco en arco",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250202_RibbleheadViaduct%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ecc379648daf315b8bceee7087359152",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
