@@ -9008,5 +9008,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "78266b9fbe0324ea4e3451dfc7a0ea49": {
+        "startdate": "20250203",
+        "fullstartdate": "202502030800",
+        "enddate": "20250204",
+        "url": "/th?id=OHR.RibbleheadViaduct_ROW5135125866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.RibbleheadViaduct_ROW5135125866",
+        "copyright": "Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England, United Kingdom (© AWL Images/DanitaDelimont.com)",
+        "copyrightlink": "https://www.bing.com/search?q=Ribblehead+Viaduct&form=hpcapt&filters=HpDate%3a%2220250203_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250203_RibbleheadViaduct%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "78266b9fbe0324ea4e3451dfc7a0ea49",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

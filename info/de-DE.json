@@ -9025,5 +9025,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c219404be86c1ef05f53817da5085e08": {
+        "startdate": "20250203",
+        "fullstartdate": "202502032300",
+        "enddate": "20250204",
+        "url": "/th?id=OHR.GoldenBridge_DE-DE8445682123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoldenBridge_DE-DE8445682123",
+        "copyright": "Goldene Brücke, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Goldene+Br%C3%BCcke+Vietnam&form=hpcapt&filters=HpDate%3a%2220250203_2300%22",
+        "title": "Auf Händen getragen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250203_GoldenBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c219404be86c1ef05f53817da5085e08",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
