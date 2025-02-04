@@ -9025,5 +9025,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "afdee48dbdefa2385e2052be9341e199": {
+        "startdate": "20250204",
+        "fullstartdate": "202502040300",
+        "enddate": "20250205",
+        "url": "/th?id=OHR.GoldenBridge_PT-BR5001907624_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoldenBridge_PT-BR5001907624",
+        "copyright": "Ponte Dourada, Bà Nà Hills, Da Nang, Vietnã (© Hien Phung Thu/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Ponte+Dourada%2c+Vietn%C3%A3&form=hpcapt&mkt=pt-br",
+        "title": "Um passeio entre as nuvens",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250204_GoldenBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "afdee48dbdefa2385e2052be9341e199",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

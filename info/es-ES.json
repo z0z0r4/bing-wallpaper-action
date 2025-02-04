@@ -9042,5 +9042,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d562a1de09eb7287efbe131e77563eeb": {
+        "startdate": "20250204",
+        "fullstartdate": "202502042300",
+        "enddate": "20250205",
+        "url": "/th?id=OHR.ScottishSheep_ES-ES5976225157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ScottishSheep_ES-ES5976225157",
+        "copyright": "Ovejas escocesas Blackface, Aberdeenshire, Escocia (© Mike Powles/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Scottish+Blackface&form=hpcapt&filters=HpDate%3a%2220250204_2300%22",
+        "title": "¡Andar entre algodones!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250204_ScottishSheep%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d562a1de09eb7287efbe131e77563eeb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
