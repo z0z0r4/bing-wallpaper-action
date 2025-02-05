@@ -9059,5 +9059,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d9eca0018efaa8edfcb5a3792c5faeee": {
+        "startdate": "20250205",
+        "fullstartdate": "202502051830",
+        "enddate": "20250206",
+        "url": "/th?id=OHR.ScottishSheep_EN-IN6992172099_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ScottishSheep_EN-IN6992172099",
+        "copyright": "Scottish Blackface sheep, Aberdeenshire, Scotland (© Mike Powles/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Scottish+Blackface&form=hpcapt&filters=HpDate%3a%2220250205_1830%22",
+        "title": "Baa, baa, black sheep? No.",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250205_ScottishSheep%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d9eca0018efaa8edfcb5a3792c5faeee",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
