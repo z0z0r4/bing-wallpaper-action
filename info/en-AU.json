@@ -9059,5 +9059,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c3a0f7286e9e8ecce553117d575f22c8": {
+        "startdate": "20250206",
+        "fullstartdate": "202502060800",
+        "enddate": "20250207",
+        "url": "/th?id=OHR.WhararikiBeach_ROW4180919774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.WhararikiBeach_ROW4180919774",
+        "copyright": "Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Archway+Islands&form=hpcapt&filters=HpDate%3a%2220250206_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250206_WhararikiBeach%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c3a0f7286e9e8ecce553117d575f22c8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
