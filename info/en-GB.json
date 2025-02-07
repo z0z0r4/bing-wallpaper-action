@@ -9076,5 +9076,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fa7946ac9767be3d70cd00f1e2c7a3aa": {
+        "startdate": "20250207",
+        "fullstartdate": "202502070000",
+        "enddate": "20250208",
+        "url": "/th?id=OHR.BlueNorway_EN-GB4715422563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueNorway_EN-GB4715422563",
+        "copyright": "Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=trondheim+norway&form=hpcapt&filters=HpDate%3a%2220250207_0000%22",
+        "title": "Stuck in a blue moment",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250207_BlueNorway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fa7946ac9767be3d70cd00f1e2c7a3aa",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

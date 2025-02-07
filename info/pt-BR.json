@@ -9076,5 +9076,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f60befd26bc68eefea68dc6a6873a482": {
+        "startdate": "20250207",
+        "fullstartdate": "202502070300",
+        "enddate": "20250208",
+        "url": "/th?id=OHR.BlueNorway_PT-BR1972445946_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueNorway_PT-BR1972445946",
+        "copyright": "Hora azul em Trontêmio, Noruega (© Jeanny Mueller/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Tront%C3%AAmio+Noruega&form=hpcapt&mkt=pt-br",
+        "title": "Tudo azul",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250207_BlueNorway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f60befd26bc68eefea68dc6a6873a482",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
