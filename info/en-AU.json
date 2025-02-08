@@ -9093,5 +9093,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b56c2d19f09706ba932cb79bc6f6e1ce": {
+        "startdate": "20250208",
+        "fullstartdate": "202502080800",
+        "enddate": "20250209",
+        "url": "/th?id=OHR.SnowySvaneti_ROW3815244842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SnowySvaneti_ROW3815244842",
+        "copyright": "Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mestia&form=hpcapt&filters=HpDate%3a%2220250208_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250208_SnowySvaneti%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b56c2d19f09706ba932cb79bc6f6e1ce",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
