@@ -9110,5 +9110,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "daf05711d019cd0d8af33da631878a08": {
+        "startdate": "20250209",
+        "fullstartdate": "202502090300",
+        "enddate": "20250210",
+        "url": "/th?id=OHR.AlstromPoint_PT-BR0066857741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AlstromPoint_PT-BR0066857741",
+        "copyright": "Alstrom Point, Lago Powell, Utah, EUA (© T.M. Schultze/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Powell+nos+Estados+Unidos&form=hpcapt&mkt=pt-br",
+        "title": "Um reflexo inventado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250209_AlstromPoint%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "daf05711d019cd0d8af33da631878a08",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

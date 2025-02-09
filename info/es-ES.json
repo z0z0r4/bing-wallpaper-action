@@ -9127,5 +9127,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c38b21f1d4bc4b87db1ba550abf1ec07": {
+        "startdate": "20250209",
+        "fullstartdate": "202502092300",
+        "enddate": "20250210",
+        "url": "/th?id=OHR.UmbrellaDay_ES-ES9589999908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.UmbrellaDay_ES-ES9589999908",
+        "copyright": "Instalación artística de paraguas, Borough Market, Londres, Inglaterra (© Malcolm P Chapman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Londres&form=hpcapt&filters=HpDate%3a%2220250209_2300%22",
+        "title": "Par-aguas o para-sol",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250209_UmbrellaDay%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c38b21f1d4bc4b87db1ba550abf1ec07",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
