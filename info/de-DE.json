@@ -9144,5 +9144,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0dcd43023e78f984412cf4e8183eae9e": {
+        "startdate": "20250210",
+        "fullstartdate": "202502102300",
+        "enddate": "20250211",
+        "url": "/th?id=OHR.YungangGrottoes_DE-DE7812500680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YungangGrottoes_DE-DE7812500680",
+        "copyright": "Yungang-Grotten, Datong, Provinz Shanxi, China (© Eric Yang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Yungang-Grotten%2c+Datong%2c+Provinz+Shanxi%2c+China&form=hpcapt&filters=HpDate%3a%2220250210_2300%22",
+        "title": "Wächter unendlicher Weisheit",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250210_YungangGrottoes%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0dcd43023e78f984412cf4e8183eae9e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

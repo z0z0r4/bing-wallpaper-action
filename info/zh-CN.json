@@ -9144,5 +9144,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "db8a6e0efacbe62925f1f38b7d0d244a": {
+        "startdate": "20250210",
+        "fullstartdate": "202502101600",
+        "enddate": "20250211",
+        "url": "/th?id=OHR.YungangGrottoes_ZH-CN8275054060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YungangGrottoes_ZH-CN8275054060",
+        "copyright": "云冈石窟，大同，山西省，中国 (© Eric Yang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E5%90%8C%E4%BA%91%E5%86%88%E7%9F%B3%E7%AA%9F&form=hpcapt&mkt=zh-cn",
+        "title": "历史的守望之眼",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250210_YungangGrottoes%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "db8a6e0efacbe62925f1f38b7d0d244a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -9144,5 +9144,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "0cd20ff3179cb61fbd734ce475aad290": {
+        "startdate": "20250210",
+        "fullstartdate": "202502101830",
+        "enddate": "20250211",
+        "url": "/th?id=OHR.YungangGrottoes_EN-IN8770982427_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YungangGrottoes_EN-IN8770982427",
+        "copyright": "Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Yungang+Grottoes+Datong&form=hpcapt&filters=HpDate%3a%2220250210_1830%22",
+        "title": "The watchful eyes of history",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250210_YungangGrottoes%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "0cd20ff3179cb61fbd734ce475aad290",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
