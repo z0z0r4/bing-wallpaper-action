@@ -9161,5 +9161,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "561f75403732e7be2aab71e4a6a90e1b": {
+        "startdate": "20250211",
+        "fullstartdate": "202502111500",
+        "enddate": "20250212",
+        "url": "/th?id=OHR.PolarBearSwim_JA-JP3305613182_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PolarBearSwim_JA-JP3305613182",
+        "copyright": "ホッキョクグマ  (© Ondrej Prosicky/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E+&form=hpcapt&filters=HpDate%3a%2220250211_1500%22",
+        "title": "今日はダーウィンの日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250211_PolarBearSwim%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "561f75403732e7be2aab71e4a6a90e1b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

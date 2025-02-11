@@ -9144,5 +9144,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "565a7d3bf64daefe533baa04ea9f6f16": {
+        "startdate": "20250211",
+        "fullstartdate": "202502110800",
+        "enddate": "20250212",
+        "url": "/th?id=OHR.YungangGrottoes_ROW4043208628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.YungangGrottoes_ROW4043208628",
+        "copyright": "Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Yungang+Grottoes+Datong&form=hpcapt&filters=HpDate%3a%2220250211_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250211_YungangGrottoes%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "565a7d3bf64daefe533baa04ea9f6f16",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
