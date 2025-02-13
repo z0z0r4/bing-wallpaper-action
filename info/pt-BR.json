@@ -9178,5 +9178,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ff9c046d3bc3555044b4882ecc4daedb": {
+        "startdate": "20250213",
+        "fullstartdate": "202502130300",
+        "enddate": "20250214",
+        "url": "/th?id=OHR.LakeTyrrell_PT-BR2696993841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeTyrrell_PT-BR2696993841",
+        "copyright": "Lago Tyrrell, Victoria, Austrália (© Monica Bertolazzi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Vit%C3%B3ria+na+Austr%C3%A1lia&form=hpcapt&mkt=pt-br",
+        "title": "O sal da terra",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250213_LakeTyrrell%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ff9c046d3bc3555044b4882ecc4daedb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

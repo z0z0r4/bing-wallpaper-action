@@ -9178,5 +9178,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d320ad2d9c0d0185e5da114af0a9c832": {
+        "startdate": "20250213",
+        "fullstartdate": "202502130800",
+        "enddate": "20250214",
+        "url": "/th?id=OHR.LakeTyrrell_ROW4188112983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.LakeTyrrell_ROW4188112983",
+        "copyright": "Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lake+Tyrrell+Victoria+Australia&form=hpcapt&filters=HpDate%3a%2220250213_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250213_LakeTyrrell%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d320ad2d9c0d0185e5da114af0a9c832",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -9195,5 +9195,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6ab98de3aed42fa2d90ab98df2cfcd0f": {
+        "startdate": "20250213",
+        "fullstartdate": "202502132300",
+        "enddate": "20250214",
+        "url": "/th?id=OHR.PenguinLove_FR-FR7793534409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PenguinLove_FR-FR7793534409",
+        "copyright": "Deux manchots de Magellan, îles Malouines (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=saint+valentin&form=hpcapt&filters=HpDate%3a%2220250213_2300%22",
+        "title": "Regardez ces tourtereaux",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250213_PenguinLove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6ab98de3aed42fa2d90ab98df2cfcd0f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
