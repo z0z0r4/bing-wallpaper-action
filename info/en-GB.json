@@ -9195,5 +9195,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "112fb93a0601e6854ad916b52cb51d47": {
+        "startdate": "20250214",
+        "fullstartdate": "202502140000",
+        "enddate": "20250215",
+        "url": "/th?id=OHR.PenguinLove_EN-GB6356684660_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PenguinLove_EN-GB6356684660",
+        "copyright": "Two Magellanic penguins, Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=valentines+day&form=hpcapt&filters=HpDate%3a%2220250214_0000%22",
+        "title": "Look at these lovebirds",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250214_PenguinLove%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "112fb93a0601e6854ad916b52cb51d47",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

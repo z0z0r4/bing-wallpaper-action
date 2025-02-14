@@ -9195,5 +9195,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ed8be54bb47a02694bd77533417ed74f": {
+        "startdate": "20250214",
+        "fullstartdate": "202502140300",
+        "enddate": "20250215",
+        "url": "/th?id=OHR.PelourinhoSalvador_PT-BR8001944563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PelourinhoSalvador_PT-BR8001944563",
+        "copyright": "Centro histórico do Pelourinho, Salvador (© golero/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Pelourinho&form=hpcapt&mkt=pt-br",
+        "title": "Um passeio colorido",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250214_PelourinhoSalvador%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ed8be54bb47a02694bd77533417ed74f",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
