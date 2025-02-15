@@ -9212,5 +9212,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "fbd05471cc175718c75a8e7f022616f9": {
+        "startdate": "20250215",
+        "fullstartdate": "202502150000",
+        "enddate": "20250216",
+        "url": "/th?id=OHR.BigGardenBirdwatch2025_EN-GB9755191158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BigGardenBirdwatch2025_EN-GB9755191158",
+        "copyright": "A kingfisher perched on a branch (© NJphoto/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=Kingfisher&form=hpcapt&filters=HpDate%3a%2220250215_0000%22",
+        "title": "Winter's brightest catch",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250215_BigGardenBirdwatch2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fbd05471cc175718c75a8e7f022616f9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
