@@ -9246,5 +9246,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "833c4d172ca56add03f7cd812e6a8454": {
+        "startdate": "20250216",
+        "fullstartdate": "202502162300",
+        "enddate": "20250217",
+        "url": "/th?id=OHR.CatalanPyrenees_ES-ES0333843430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CatalanPyrenees_ES-ES0333843430",
+        "copyright": "Coll d'Ares, Pirineo Catalán, España (© CRISTIAN IONUT ZAHARIA/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Coll+d%27Ares&form=hpcapt&filters=HpDate%3a%2220250216_2300%22",
+        "title": "Una frontera helada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250216_CatalanPyrenees%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "833c4d172ca56add03f7cd812e6a8454",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
