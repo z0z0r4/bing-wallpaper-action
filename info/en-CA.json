@@ -9246,5 +9246,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "41c92bcb29e38e0efb51db0990561cdc": {
+        "startdate": "20250217",
+        "fullstartdate": "202502170500",
+        "enddate": "20250218",
+        "url": "/th?id=OHR.CatalanPyrenees_EN-CA2016949817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CatalanPyrenees_EN-CA2016949817",
+        "copyright": "Coll d'Ares, Catalan Pyrenees (© CRISTIAN IONUT ZAHARIA/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Coll+d%27Ares&form=hpcapt&filters=HpDate%3a%2220250217_0500%22",
+        "title": "An icy border",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250217_CatalanPyrenees%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "41c92bcb29e38e0efb51db0990561cdc",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
