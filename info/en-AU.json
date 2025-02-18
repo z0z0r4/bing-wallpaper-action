@@ -9263,5 +9263,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "43b11ef2e459ae815152a58ca1641cf0": {
+        "startdate": "20250218",
+        "fullstartdate": "202502180800",
+        "enddate": "20250219",
+        "url": "/th?id=OHR.BlueBelize_ROW4613488745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueBelize_ROW4613488745",
+        "copyright": "Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=Great+Blue+Hole+Belize&form=hpcapt&filters=HpDate%3a%2220250218_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250218_BlueBelize%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "43b11ef2e459ae815152a58ca1641cf0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
