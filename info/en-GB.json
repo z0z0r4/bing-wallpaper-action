@@ -9280,5 +9280,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "eccae135bb919531aaf97173c5264423": {
+        "startdate": "20250219",
+        "fullstartdate": "202502190000",
+        "enddate": "20250220",
+        "url": "/th?id=OHR.IceHoleOtter_EN-GB7580568123_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IceHoleOtter_EN-GB7580568123",
+        "copyright": "European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=European+river+otter&form=hpcapt&filters=HpDate%3a%2220250219_0000%22",
+        "title": "The 'otter' side of life",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250219_IceHoleOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "eccae135bb919531aaf97173c5264423",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

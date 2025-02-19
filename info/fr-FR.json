@@ -9297,5 +9297,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f96cd294cbd42a28d8f5a5309b8fc57d": {
+        "startdate": "20250219",
+        "fullstartdate": "202502192300",
+        "enddate": "20250220",
+        "url": "/th?id=OHR.BlueNorway_FR-FR6545553571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlueNorway_FR-FR6545553571",
+        "copyright": "Heure bleue à Trondheim, Norvège (© Jeanny Mueller/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Trondheim+Norv%C3%A8ge&form=hpcapt&filters=HpDate%3a%2220250219_2300%22",
+        "title": "Bleu comme la Norvège",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250219_BlueNorway%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f96cd294cbd42a28d8f5a5309b8fc57d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

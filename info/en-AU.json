@@ -9280,5 +9280,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "837a25697e5fc0ac29ff3137ba170c6c": {
+        "startdate": "20250219",
+        "fullstartdate": "202502190800",
+        "enddate": "20250220",
+        "url": "/th?id=OHR.IceHoleOtter_ROW4882603576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.IceHoleOtter_ROW4882603576",
+        "copyright": "European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=European+river+otter&form=hpcapt&filters=HpDate%3a%2220250219_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250219_IceHoleOtter%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "837a25697e5fc0ac29ff3137ba170c6c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

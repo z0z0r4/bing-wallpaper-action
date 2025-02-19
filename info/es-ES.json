@@ -9297,5 +9297,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4de5b8197b4bfe486bb01cbc6f84156c": {
+        "startdate": "20250219",
+        "fullstartdate": "202502192300",
+        "enddate": "20250220",
+        "url": "/th?id=OHR.CanadaDeer_ES-ES0627757323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CanadaDeer_ES-ES0627757323",
+        "copyright": "Ciervo rojo, Canadá (© Delbars/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ciervo+rojo&form=hpcapt&filters=HpDate%3a%2220250219_2300%22",
+        "title": "Un dúo majestuoso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250219_CanadaDeer%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4de5b8197b4bfe486bb01cbc6f84156c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
