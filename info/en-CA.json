@@ -9297,5 +9297,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f5b71334123b923f1e7b763e50b3173c": {
+        "startdate": "20250220",
+        "fullstartdate": "202502200500",
+        "enddate": "20250221",
+        "url": "/th?id=OHR.CanadaDeer_EN-CA2853783794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CanadaDeer_EN-CA2853783794",
+        "copyright": "Red deer, Canada (© Delbars/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Red+deer&form=hpcapt&filters=HpDate%3a%2220250220_0500%22",
+        "title": "A regal duo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250220_CanadaDeer%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f5b71334123b923f1e7b763e50b3173c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
