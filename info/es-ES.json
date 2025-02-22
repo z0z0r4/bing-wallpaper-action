@@ -9348,5 +9348,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "49170dd5b4291bb03ae58f4f15a48c14": {
+        "startdate": "20250222",
+        "fullstartdate": "202502222300",
+        "enddate": "20250223",
+        "url": "/th?id=OHR.MtFujiSunrise_ES-ES5111934664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MtFujiSunrise_ES-ES5111934664",
+        "copyright": "Monte Fuji al amanecer, lago Kawaguchi, Japón (© Twenty47studio/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=monte+fuji&form=hpcapt&filters=HpDate%3a%2220250222_2300%22",
+        "title": "Un pico muy famoso",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "49170dd5b4291bb03ae58f4f15a48c14",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

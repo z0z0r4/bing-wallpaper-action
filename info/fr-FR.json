@@ -9348,5 +9348,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b95de0d68141a8ed121b4dc6c227f7da": {
+        "startdate": "20250222",
+        "fullstartdate": "202502222300",
+        "enddate": "20250223",
+        "url": "/th?id=OHR.MtFujiSunrise_FR-FR3629705815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MtFujiSunrise_FR-FR3629705815",
+        "copyright": "Lever de soleil au mont Fuji, Lac Kawaguchi, Japon (© Twenty47studio/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mont+Fuji&form=hpcapt&filters=HpDate%3a%2220250222_2300%22",
+        "title": "L'appel du mont Fuji",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_MtFujiSunrise%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b95de0d68141a8ed121b4dc6c227f7da",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -9331,5 +9331,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "c281fc398bcb026a0ac02c35d1c3756a": {
+        "startdate": "20250222",
+        "fullstartdate": "202502220800",
+        "enddate": "20250223",
+        "url": "/th?id=OHR.StLouisArch_ROW2924911206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.StLouisArch_ROW2924911206",
+        "copyright": "Gateway Arch and St. Louis, Missouri, USA (© f11photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Gateway+Arch+National+Park&form=hpcapt&filters=HpDate%3a%2220250222_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250222_StLouisArch%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c281fc398bcb026a0ac02c35d1c3756a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
