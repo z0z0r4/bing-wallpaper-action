@@ -9365,5 +9365,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2c0c4f48a636c0b62ab3d404ea1e490a": {
+        "startdate": "20250223",
+        "fullstartdate": "202502232300",
+        "enddate": "20250224",
+        "url": "/th?id=OHR.GiantCuttlefish_ES-ES5593543587_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiantCuttlefish_ES-ES5593543587",
+        "copyright": "Grupo de sepias gigantes en el golfo de Spencer, frente a Whyalla, Australia (© Gary Bell/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Sepia+Gigante&form=hpcapt&filters=HpDate%3a%2220250223_2300%22",
+        "title": "Entintado y encubierto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250223_GiantCuttlefish%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2c0c4f48a636c0b62ab3d404ea1e490a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
