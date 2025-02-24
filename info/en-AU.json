@@ -9365,5 +9365,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b9179217a90f76b0ce7afabd0b7c33bb": {
+        "startdate": "20250224",
+        "fullstartdate": "202502240800",
+        "enddate": "20250225",
+        "url": "/th?id=OHR.GiantCuttlefish_ROW2970851266_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GiantCuttlefish_ROW2970851266",
+        "copyright": "Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Giant+cuttlefish&form=hpcapt&filters=HpDate%3a%2220250224_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250224_GiantCuttlefish%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b9179217a90f76b0ce7afabd0b7c33bb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
