@@ -9399,5 +9399,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "623726977050f8533af7f7f39fc1328c": {
+        "startdate": "20250225",
+        "fullstartdate": "202502252300",
+        "enddate": "20250226",
+        "url": "/th?id=OHR.ArgyllStalker_DE-DE7352876454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ArgyllStalker_DE-DE7352876454",
+        "copyright": "Castle Stalker am Loch Laich, Argyll, Schottland (© WLDavies/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Castle+Stalker+ist+ein+Tower+House&form=hpcapt&filters=HpDate%3a%2220250225_2300%22",
+        "title": "Schottische Postkarten",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250225_ArgyllStalker%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "623726977050f8533af7f7f39fc1328c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
