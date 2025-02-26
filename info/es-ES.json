@@ -9416,5 +9416,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f175c4479de5055aefdb6c03b0c967a0": {
+        "startdate": "20250226",
+        "fullstartdate": "202502262300",
+        "enddate": "20250227",
+        "url": "/th?id=OHR.PolarCub_ES-ES6085095422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PolarCub_ES-ES6085095422",
+        "copyright": "Cachorro de oso polar, Churchill, Manitoba, Canadá (© Eric Baccega/NPL/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Oso+Polar&form=hpcapt&filters=HpDate%3a%2220250226_2300%22",
+        "title": "Un tierno saludo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250226_PolarCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f175c4479de5055aefdb6c03b0c967a0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
