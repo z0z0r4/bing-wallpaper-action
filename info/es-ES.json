@@ -9433,5 +9433,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "5feed68cb1e3acd87413835310381d63": {
+        "startdate": "20250227",
+        "fullstartdate": "202502272300",
+        "enddate": "20250228",
+        "url": "/th?id=OHR.AndalusianStreet_ES-ES6181340886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.AndalusianStreet_ES-ES6181340886",
+        "copyright": "Iznájar, Andalucía, España (© Miguel Sotomayor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+Andaluc%C3%ADa&form=hpcapt&filters=HpDate%3a%2220250227_2300%22",
+        "title": "¡Un verde y blanco vibrante!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250227_AndalusianStreet%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5feed68cb1e3acd87413835310381d63",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

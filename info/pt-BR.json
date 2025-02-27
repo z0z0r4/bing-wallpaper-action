@@ -9416,5 +9416,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "44d93a24e677bec8cc95803c7a70e07e": {
+        "startdate": "20250227",
+        "fullstartdate": "202502270300",
+        "enddate": "20250228",
+        "url": "/th?id=OHR.PolarCub_PT-BR7907251443_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PolarCub_PT-BR7907251443",
+        "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+do+Urso+Polar&form=hpcapt&mkt=pt-br",
+        "title": "Sob o manto gelado",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250227_PolarCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "44d93a24e677bec8cc95803c7a70e07e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

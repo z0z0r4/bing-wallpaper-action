@@ -9416,5 +9416,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4eeac9d72a8c978a8e2489b42aee7988": {
+        "startdate": "20250227",
+        "fullstartdate": "202502270000",
+        "enddate": "20250228",
+        "url": "/th?id=OHR.PolarCub_EN-GB1844708002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PolarCub_EN-GB1844708002",
+        "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=international+polar+bear+day&form=hpcapt&filters=HpDate%3a%2220250227_0000%22",
+        "title": "Polar care",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250227_PolarCub%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4eeac9d72a8c978a8e2489b42aee7988",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
