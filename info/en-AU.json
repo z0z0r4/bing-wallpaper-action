@@ -9433,5 +9433,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "928968ef0d335ba9e0ec8c2802a9af48": {
+        "startdate": "20250228",
+        "fullstartdate": "202502280800",
+        "enddate": "20250301",
+        "url": "/th?id=OHR.BhutanMonastery_ROW3073381457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BhutanMonastery_ROW3073381457",
+        "copyright": "Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paro+Taktsang&form=hpcapt&filters=HpDate%3a%2220250228_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250228_BhutanMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "928968ef0d335ba9e0ec8c2802a9af48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
