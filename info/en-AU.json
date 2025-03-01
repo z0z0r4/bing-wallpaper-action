@@ -9450,5 +9450,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b5e8a2e007d4011e675397ff792dac6e": {
+        "startdate": "20250301",
+        "fullstartdate": "202503010800",
+        "enddate": "20250302",
+        "url": "/th?id=OHR.MaligneLakeJasper_ROW3095401066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaligneLakeJasper_ROW3095401066",
+        "copyright": "The aurora borealis over Spirit Island on Maligne Lake, Jasper National Park, Canada (© Mumemories/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Maligne+Lake&form=hpcapt&filters=HpDate%3a%2220250301_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250301_MaligneLakeJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b5e8a2e007d4011e675397ff792dac6e",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

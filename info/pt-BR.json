@@ -9450,5 +9450,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "016858418abffa667543dfb599deb826": {
+        "startdate": "20250301",
+        "fullstartdate": "202503010300",
+        "enddate": "20250302",
+        "url": "/th?id=OHR.MaligneLakeJasper_PT-BR9833593341_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MaligneLakeJasper_PT-BR9833593341",
+        "copyright": "Aurora boreal sobre a Ilha Spirit no Lago Maligne, Parque Nacional Jasper, Canadá (© Mumemories/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Lago+Maligne&form=hpcapt&mkt=pt-br",
+        "title": "Um lugar congelado no tempo",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250301_MaligneLakeJasper%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "016858418abffa667543dfb599deb826",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

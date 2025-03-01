@@ -9467,5 +9467,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "10237073065cb7cc559718bd3e0823c9": {
+        "startdate": "20250301",
+        "fullstartdate": "202503012300",
+        "enddate": "20250302",
+        "url": "/th?id=OHR.EucalyptusForest_ES-ES6432819032_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.EucalyptusForest_ES-ES6432819032",
+        "copyright": "Eucaliptos, Megalong Valley, Parque Nacional Montañas Azules, Nueva Gales del Sur, Australia (© Andrew Peacock/TANDEM Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Nueva+Gales+del+Sur&form=hpcapt&filters=HpDate%3a%2220250301_2300%22",
+        "title": "Una vista eucalíptica",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250301_EucalyptusForest%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "10237073065cb7cc559718bd3e0823c9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
