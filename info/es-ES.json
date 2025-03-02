@@ -9484,5 +9484,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "03f1fb095a699c9f6c21bb4fec2c9f00": {
+        "startdate": "20250302",
+        "fullstartdate": "202503022300",
+        "enddate": "20250303",
+        "url": "/th?id=OHR.HornbillPair_ES-ES6520167475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HornbillPair_ES-ES6520167475",
+        "copyright": "Cálaos de pico amarillo del sur en el Parque Nacional Kruger, Sudáfrica (© Richard Du Toit/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=Toco+piquigualdo+sure%C3%B1o&form=hpcapt&filters=HpDate%3a%2220250302_2300%22",
+        "title": "Salvajes sobre las sabanas áridas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250302_HornbillPair%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "03f1fb095a699c9f6c21bb4fec2c9f00",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
