@@ -9501,5 +9501,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "99b081d6510698b778015217f4906192": {
+        "startdate": "20250303",
+        "fullstartdate": "202503031600",
+        "enddate": "20250304",
+        "url": "/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MardiGrasJackson_ZH-CN3456301377",
+        "copyright": "杰克逊广场，新奥尔良，路易斯安那州，美国 (© SeanPavonePhoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AC%E8%92%82%C2%B7%E6%A0%BC%E6%8B%89%E6%96%AF%E7%8B%82%E6%AC%A2%E8%8A%82&form=hpcapt&mkt=zh-cn",
+        "title": "马蒂·格拉斯狂欢节",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250303_MardiGrasJackson%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "99b081d6510698b778015217f4906192",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
