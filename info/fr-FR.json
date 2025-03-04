@@ -9518,5 +9518,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7afbf11ba81791f765a7906f74bfe726": {
+        "startdate": "20250304",
+        "fullstartdate": "202503042300",
+        "enddate": "20250305",
+        "url": "/th?id=OHR.SuratThani_FR-FR5557578896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuratThani_FR-FR5557578896",
+        "copyright": "Vue aérienne du parc national de Khao Sok, Surat Thani, Thaïlande (© Peetatham Kongkapech/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Surat+Thani&form=hpcapt&filters=HpDate%3a%2220250304_2300%22",
+        "title": "En route pour l’aventure !",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250304_SuratThani%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7afbf11ba81791f765a7906f74bfe726",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

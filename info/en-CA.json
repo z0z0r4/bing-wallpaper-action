@@ -9501,5 +9501,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6da3022e2b8b16420f695b393228e5e5": {
+        "startdate": "20250304",
+        "fullstartdate": "202503040500",
+        "enddate": "20250305",
+        "url": "/th?id=OHR.MardiGrasJackson_EN-CA9265935084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.MardiGrasJackson_EN-CA9265935084",
+        "copyright": "Jackson Square, New Orleans, Louisiana, United States (© SeanPavonePhoto/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Mardi+Gras&form=hpcapt&filters=HpDate%3a%2220250304_0500%22",
+        "title": "Not your ordinary Tuesday",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250304_MardiGrasJackson%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6da3022e2b8b16420f695b393228e5e5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

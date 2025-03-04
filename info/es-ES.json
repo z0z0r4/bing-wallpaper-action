@@ -9518,5 +9518,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7aa7975832cfd92538f104d98aaa10ab": {
+        "startdate": "20250304",
+        "fullstartdate": "202503042300",
+        "enddate": "20250305",
+        "url": "/th?id=OHR.SuratThani_ES-ES6760904041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuratThani_ES-ES6760904041",
+        "copyright": "Vista aérea del Parque Nacional Khao Sok, Surat Thani, Tailandia (© Peetatham Kongkapech/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Surat+Thani&form=hpcapt&filters=HpDate%3a%2220250304_2300%22",
+        "title": "Una aventura en la selva",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250304_SuratThani%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7aa7975832cfd92538f104d98aaa10ab",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
