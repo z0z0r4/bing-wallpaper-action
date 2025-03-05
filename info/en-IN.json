@@ -9535,5 +9535,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e8ea1ea57fa001b9944c9faf574f52b0": {
+        "startdate": "20250305",
+        "fullstartdate": "202503051830",
+        "enddate": "20250306",
+        "url": "/th?id=OHR.NevadaBigHorns_EN-IN7899953604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NevadaBigHorns_EN-IN7899953604",
+        "copyright": "Desert bighorn sheep in Valley of Fire State Park, Nevada, United States (© Rachid Dahnoun/Cavan Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Valley+of+Fire+State+Park&form=hpcapt&filters=HpDate%3a%2220250305_1830%22",
+        "title": "Rocky relationship",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250305_NevadaBigHorns%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e8ea1ea57fa001b9944c9faf574f52b0",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

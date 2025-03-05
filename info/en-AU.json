@@ -9518,5 +9518,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "76918b83b0070c6581afabbbb6fc8b03": {
+        "startdate": "20250305",
+        "fullstartdate": "202503050800",
+        "enddate": "20250306",
+        "url": "/th?id=OHR.SuratThani_ROW3300336554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SuratThani_ROW3300336554",
+        "copyright": "Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Surat+Thani&form=hpcapt&filters=HpDate%3a%2220250305_0800%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250305_SuratThani%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "76918b83b0070c6581afabbbb6fc8b03",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
