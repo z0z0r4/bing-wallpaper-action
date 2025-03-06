@@ -9552,5 +9552,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bb2a6111eb86c8ede029d37af61d5f25": {
+        "startdate": "20250306",
+        "fullstartdate": "202503062300",
+        "enddate": "20250307",
+        "url": "/th?id=OHR.PlumBlossom_ES-ES6616013602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlumBlossom_ES-ES6616013602",
+        "copyright": "Flores de ciruelo, China (© zhikun sun/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Prunus+cerasifera&form=hpcapt&filters=HpDate%3a%2220250306_2300%22",
+        "title": "Los colores de la temporada",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250306_PlumBlossom%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bb2a6111eb86c8ede029d37af61d5f25",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
