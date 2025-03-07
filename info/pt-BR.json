@@ -9552,5 +9552,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d505e286d198315c7e465fa9ba8770e8": {
+        "startdate": "20250307",
+        "fullstartdate": "202503070300",
+        "enddate": "20250308",
+        "url": "/th?id=OHR.PlumBlossom_PT-BR9744325235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PlumBlossom_PT-BR9744325235",
+        "copyright": "Flores de ameixeira, China (© zhikun sun/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=ameixeira+na+China&form=hpcapt&mkt=pt-br",
+        "title": "China em flor",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250307_PlumBlossom%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d505e286d198315c7e465fa9ba8770e8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
