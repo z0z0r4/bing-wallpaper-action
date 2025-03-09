@@ -9603,5 +9603,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "b8471352ce6924a04b731a1350a40aec": {
+        "startdate": "20250309",
+        "fullstartdate": "202503092300",
+        "enddate": "20250310",
+        "url": "/th?id=OHR.NappingLion_FR-FR6791104694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingLion_FR-FR6791104694",
+        "copyright": "Lion au repos, parc national Queen Elizabeth, Ouganda (© Gunter Nuyts/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=sieste&form=hpcapt&filters=HpDate%3a%2220250309_2300%22",
+        "title": "Dans la jungle, paisible jungle",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250309_NappingLion%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b8471352ce6924a04b731a1350a40aec",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

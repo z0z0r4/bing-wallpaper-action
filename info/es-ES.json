@@ -9603,5 +9603,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4f4b66127685baecd8ccd8a99e1add9d": {
+        "startdate": "20250309",
+        "fullstartdate": "202503092300",
+        "enddate": "20250310",
+        "url": "/th?id=OHR.NappingLion_ES-ES7306945095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingLion_ES-ES7306945095",
+        "copyright": "Un león durmiendo en el sector de Ishasha, Parque nacional de la Reina Isabel, Uganda (© Gunter Nuyts/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+de+la+Reina+Isabel&form=hpcapt&filters=HpDate%3a%2220250309_2300%22",
+        "title": "¡Dale a postponer!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250309_NappingLion%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4f4b66127685baecd8ccd8a99e1add9d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

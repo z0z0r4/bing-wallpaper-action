@@ -9586,5 +9586,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ed84bbd7911ce888f7ca09aef01540cd": {
+        "startdate": "20250309",
+        "fullstartdate": "202503090700",
+        "enddate": "20250310",
+        "url": "/th?id=OHR.ItalyClock_ROW0695891607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItalyClock_ROW0695891607",
+        "copyright": "St Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=St+Marks+Clock+Tower&form=hpcapt&filters=HpDate%3a%2220250309_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250309_ItalyClock%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ed84bbd7911ce888f7ca09aef01540cd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -9603,5 +9603,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7044a87d54b90c5e5511e04926f91359": {
+        "startdate": "20250309",
+        "fullstartdate": "202503092300",
+        "enddate": "20250310",
+        "url": "/th?id=OHR.NappingLion_DE-DE3110844323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingLion_DE-DE3110844323",
+        "copyright": "Schlafender Löwe im Ishasha-Sektor, Queen-Elizabeth-Nationalpark, Uganda (© Gunter Nuyts/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=L%C3%B6we+Queen-Elizabeth-Nationalpark+Uganda&form=hpcapt&filters=HpDate%3a%2220250309_2300%22",
+        "title": "Schlummender König der Wildnis",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250309_NappingLion%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7044a87d54b90c5e5511e04926f91359",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

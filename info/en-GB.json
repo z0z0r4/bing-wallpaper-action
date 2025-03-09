@@ -9586,5 +9586,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2e52fc1ca3ae147db8f1f5f3417a950b": {
+        "startdate": "20250309",
+        "fullstartdate": "202503090000",
+        "enddate": "20250310",
+        "url": "/th?id=OHR.ShardLondon2025_EN-GB0574444826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ShardLondon2025_EN-GB0574444826",
+        "copyright": "The Shard, London (© Dennis Fischer Photography/Moment/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=The+Shard+London&form=hpcapt&filters=HpDate%3a%2220250309_0000%22",
+        "title": "London's sharpest landmark",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250309_ShardLondon2025%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2e52fc1ca3ae147db8f1f5f3417a950b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
