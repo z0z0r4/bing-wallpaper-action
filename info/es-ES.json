@@ -9620,5 +9620,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d0d6d2c0833fd08764eb344d791da263": {
+        "startdate": "20250310",
+        "fullstartdate": "202503102300",
+        "enddate": "20250311",
+        "url": "/th?id=OHR.NusaPenida_ES-ES7408212429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NusaPenida_ES-ES7408212429",
+        "copyright": "Playa Rota en Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Isla+Nusa+Penida&form=hpcapt&filters=HpDate%3a%2220250310_2300%22",
+        "title": "Cuando el océano rompe las reglas",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250310_NusaPenida%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d0d6d2c0833fd08764eb344d791da263",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

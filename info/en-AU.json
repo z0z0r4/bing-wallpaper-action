@@ -9603,5 +9603,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8c8670e208944a2ab044e529ee6a9f29": {
+        "startdate": "20250310",
+        "fullstartdate": "202503100700",
+        "enddate": "20250311",
+        "url": "/th?id=OHR.NappingLion_ROW7948970073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NappingLion_ROW7948970073",
+        "copyright": "A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Queen+Elizabeth+National+Park&form=hpcapt&filters=HpDate%3a%2220250310_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250310_NappingLion%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8c8670e208944a2ab044e529ee6a9f29",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
