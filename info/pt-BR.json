@@ -9620,5 +9620,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "406170ce7b7c8109abc22db8186de801": {
+        "startdate": "20250311",
+        "fullstartdate": "202503110300",
+        "enddate": "20250312",
+        "url": "/th?id=OHR.NusaPenida_PT-BR7092841551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NusaPenida_PT-BR7092841551",
+        "copyright": "Praia Quebrada em Nusa Penida, Bali, Indonésia (© joakimbkk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ilha+de+Nusa+Penida&form=hpcapt&mkt=pt-br",
+        "title": "Quando o oceano quebra as regras",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250311_NusaPenida%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "406170ce7b7c8109abc22db8186de801",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
