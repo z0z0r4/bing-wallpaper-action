@@ -9654,5 +9654,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6045a1de0a651dbcc3248414cc388f48": {
+        "startdate": "20250312",
+        "fullstartdate": "202503122300",
+        "enddate": "20250313",
+        "url": "/th?id=OHR.HoliColors_ES-ES7622213300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.HoliColors_ES-ES7622213300",
+        "copyright": "Celebración de Holi en Jaipur, India (© powerofforever/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Holi&form=hpcapt&filters=HpDate%3a%2220250312_2300%22",
+        "title": "Los colores del Holi",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250312_HoliColors%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6045a1de0a651dbcc3248414cc388f48",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
