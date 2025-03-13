@@ -9654,5 +9654,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "a31bfc43b0bfa4db6cf1db13ba4fe8d2": {
+        "startdate": "20250313",
+        "fullstartdate": "202503130700",
+        "enddate": "20250314",
+        "url": "/th?id=OHR.Piedmont_ROW7537490150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.Piedmont_ROW7537490150",
+        "copyright": "Gran Paradiso National Park, Piedmont, Italy (© Stefano Zaccaria/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=Gran+Paradiso+National+Park&form=hpcapt&filters=HpDate%3a%2220250313_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250313_Piedmont%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a31bfc43b0bfa4db6cf1db13ba4fe8d2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
