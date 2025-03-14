@@ -9671,5 +9671,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4825ea45d0b1ffc3743f54e57f7f6926": {
+        "startdate": "20250314",
+        "fullstartdate": "202503140400",
+        "enddate": "20250315",
+        "url": "/th?id=OHR.BasqueDolmen_EN-CA3900622159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BasqueDolmen_EN-CA3900622159",
+        "copyright": "Dolmen of Sorginetxe, Basque Country, Alava, Spain (© David Herraez Calzada/plainpicture)",
+        "copyrightlink": "https://www.bing.com/search?q=Pi+Day&form=hpcapt&filters=HpDate%3a%2220250314_0400%22",
+        "title": "Pi in the sky",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250314_BasqueDolmen%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4825ea45d0b1ffc3743f54e57f7f6926",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

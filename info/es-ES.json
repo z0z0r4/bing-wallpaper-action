@@ -9688,5 +9688,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "8d09903210aea785c2689c94e3ff5c3a": {
+        "startdate": "20250314",
+        "fullstartdate": "202503142300",
+        "enddate": "20250315",
+        "url": "/th?id=OHR.FallasSpainWomen_ES-ES9361742240_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.FallasSpainWomen_ES-ES9361742240",
+        "copyright": "Traje típico de fallera en las Fallas de Valencia, España (© Miguel Sotomayor/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Fallas+de+Valencia&form=hpcapt&filters=HpDate%3a%2220250314_2300%22",
+        "title": "Un día especial",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250314_FallasSpainWomen%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "8d09903210aea785c2689c94e3ff5c3a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
