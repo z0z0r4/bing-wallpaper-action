@@ -9688,5 +9688,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "242c7c7535947b69799430fbd2548cfb": {
+        "startdate": "20250315",
+        "fullstartdate": "202503150000",
+        "enddate": "20250316",
+        "url": "/th?id=OHR.ForumRomanum_EN-GB3747926761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ForumRomanum_EN-GB3747926761",
+        "copyright": "The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ides+of+March&form=hpcapt&filters=HpDate%3a%2220250315_0000%22",
+        "title": "Friends, Romans, countrymen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250315_ForumRomanum%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "242c7c7535947b69799430fbd2548cfb",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
