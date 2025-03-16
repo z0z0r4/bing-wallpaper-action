@@ -9705,5 +9705,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "d1d556e423212b38c7ea9f9438171b3b": {
+        "startdate": "20250316",
+        "fullstartdate": "202503160300",
+        "enddate": "20250317",
+        "url": "/th?id=OHR.PandaSnow_PT-BR5155103859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.PandaSnow_PT-BR5155103859",
+        "copyright": "Filhote de panda-gigante na neve, China (© Cheryl Schneider/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=panda-gigante&form=hpcapt&mkt=pt-br",
+        "title": "O mundo em branco e preto",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250316_PandaSnow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "d1d556e423212b38c7ea9f9438171b3b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

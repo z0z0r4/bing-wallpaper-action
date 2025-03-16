@@ -9722,5 +9722,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "635799df21f9a5863142d16f497469c2": {
+        "startdate": "20250316",
+        "fullstartdate": "202503161500",
+        "enddate": "20250317",
+        "url": "/th?id=OHR.BeckettBridge_JA-JP9875156013_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeckettBridge_JA-JP9875156013",
+        "copyright": "サミュエル・ベケット橋, アイルランド (© Colm Keating/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=%E3%82%B5%E3%83%9F%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%99%E3%82%B1%E3%83%83%E3%83%88%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220250316_1500%22",
+        "title": "今日は聖パトリックの祝日",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250316_BeckettBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "635799df21f9a5863142d16f497469c2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

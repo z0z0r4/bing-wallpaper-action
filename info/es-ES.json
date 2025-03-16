@@ -9722,5 +9722,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "cc52fe8ad6e52ff339122d399f563498": {
+        "startdate": "20250316",
+        "fullstartdate": "202503162300",
+        "enddate": "20250317",
+        "url": "/th?id=OHR.BeckettBridge_ES-ES8163072684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeckettBridge_ES-ES8163072684",
+        "copyright": "Puente Samuel Beckett, Dublín, Irlanda (© Colm Keating/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=D%C3%ADa+de+San+Patricio&form=hpcapt&filters=HpDate%3a%2220250316_2300%22",
+        "title": "¡Encuentra tu trébol!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250316_BeckettBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "cc52fe8ad6e52ff339122d399f563498",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

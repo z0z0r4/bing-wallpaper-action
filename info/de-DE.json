@@ -9722,5 +9722,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "892bf8363068ad9f25f378e22b9cfdff": {
+        "startdate": "20250316",
+        "fullstartdate": "202503162300",
+        "enddate": "20250317",
+        "url": "/th?id=OHR.BeckettBridge_DE-DE6303850469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeckettBridge_DE-DE6303850469",
+        "copyright": "Samuel Beckett Bridge, Dublin, Irland (© Colm Keating/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=St+Patricks+Day&form=hpcapt&filters=HpDate%3a%2220250316_2300%22",
+        "title": "Grün, soweit das Auge reicht",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250316_BeckettBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "892bf8363068ad9f25f378e22b9cfdff",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

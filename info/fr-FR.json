@@ -9722,5 +9722,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "ba62bb0677eedde314c74f8a31a9e9f6": {
+        "startdate": "20250316",
+        "fullstartdate": "202503162300",
+        "enddate": "20250317",
+        "url": "/th?id=OHR.BeckettBridge_FR-FR9410208549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeckettBridge_FR-FR9410208549",
+        "copyright": "Pont Samuel Beckett, Dublin, Irlande (© Colm Keating/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Saint-Patrick&form=hpcapt&filters=HpDate%3a%2220250316_2300%22",
+        "title": "Dublin s’illumine pour la Saint-Patrick",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250316_BeckettBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "ba62bb0677eedde314c74f8a31a9e9f6",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
