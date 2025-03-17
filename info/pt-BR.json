@@ -9722,5 +9722,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "4902593f45bd371861b15e688aed82bf": {
+        "startdate": "20250317",
+        "fullstartdate": "202503170300",
+        "enddate": "20250318",
+        "url": "/th?id=OHR.BeckettBridge_PT-BR3137652720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BeckettBridge_PT-BR3137652720",
+        "copyright": "Ponte Samuel Beckett, Dublin, Irlanda (© Colm Keating/Tandem Stills + Motion)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+de+S%C3%A3o+Patr%C3%ADcio&form=hpcapt&mkt=pt-br",
+        "title": "Um dia verde... e amarelo!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250317_BeckettBridge%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "4902593f45bd371861b15e688aed82bf",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
