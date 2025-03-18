@@ -9739,5 +9739,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "19883ca906fee62e31883fdb47b49fc4": {
+        "startdate": "20250318",
+        "fullstartdate": "202503180000",
+        "enddate": "20250319",
+        "url": "/th?id=OHR.SedonaSpring_EN-GB2852810114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SedonaSpring_EN-GB2852810114",
+        "copyright": "Red rock formations, Sedona, Arizona, United States (© Jim Ekstrand/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=sedona+arizona&form=hpcapt&filters=HpDate%3a%2220250318_0000%22",
+        "title": "A vortex state of mind",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250318_SedonaSpring%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "19883ca906fee62e31883fdb47b49fc4",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
