@@ -9756,5 +9756,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6ea454ea0052fdc5384ce8be60c18b5b": {
+        "startdate": "20250319",
+        "fullstartdate": "202503190700",
+        "enddate": "20250320",
+        "url": "/th?id=OHR.BlackHeron_ROW7581644114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlackHeron_ROW7581644114",
+        "copyright": "Black heron canopy hunting, Chobe National Park, Botswana (© Paul Souders/Minden PIctures)",
+        "copyrightlink": "https://www.bing.com/search?q=Black+heron&form=hpcapt&filters=HpDate%3a%2220250319_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250319_BlackHeron%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6ea454ea0052fdc5384ce8be60c18b5b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

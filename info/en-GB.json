@@ -9756,5 +9756,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "61676d1759203c9564936d40ad3271a2": {
+        "startdate": "20250319",
+        "fullstartdate": "202503190000",
+        "enddate": "20250320",
+        "url": "/th?id=OHR.BlackHeron_EN-GB3002716071_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BlackHeron_EN-GB3002716071",
+        "copyright": "Black heron canopy hunting, Chobe National Park, Botswana (© Paul Souders/Minden PIctures)",
+        "copyrightlink": "https://www.bing.com/search?q=Black+heron&form=hpcapt&filters=HpDate%3a%2220250319_0000%22",
+        "title": "Umbrella manoeuvre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250319_BlackHeron%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "61676d1759203c9564936d40ad3271a2",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
