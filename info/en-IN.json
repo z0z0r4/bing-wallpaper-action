@@ -9807,5 +9807,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "bc88422358e053e0814dfdd5dc6bbad5": {
+        "startdate": "20250321",
+        "fullstartdate": "202503211830",
+        "enddate": "20250322",
+        "url": "/th?id=OHR.NalandaRuins_EN-IN5140897796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NalandaRuins_EN-IN5140897796",
+        "copyright": "Nalanda mahavihara, Bihar (© bambam kumar jha/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Nalanda+mahavihara&form=hpcapt&filters=HpDate%3a%2220250321_1830%22",
+        "title": "Legends of Nalanda",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250321_NalandaRuins%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "bc88422358e053e0814dfdd5dc6bbad5",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
