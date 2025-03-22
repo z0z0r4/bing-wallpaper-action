@@ -9824,5 +9824,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "efd4eb3214e4b67c9f9db2a747170342": {
+        "startdate": "20250322",
+        "fullstartdate": "202503222300",
+        "enddate": "20250323",
+        "url": "/th?id=OHR.NebraskaStorm_FR-FR4537048706_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.NebraskaStorm_FR-FR4537048706",
+        "copyright": "Éclair et nuages d'orage au coucher du soleil près de Bowman, Nebraska, États-Unis (© john finney photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+m%C3%A9t%C3%A9orologique+mondiale+&form=hpcapt&filters=HpDate%3a%2220250322_2300%22",
+        "title": "Quand le ciel gronde",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250322_NebraskaStorm%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "efd4eb3214e4b67c9f9db2a747170342",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
