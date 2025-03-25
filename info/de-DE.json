@@ -9875,5 +9875,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "1eeda3323a3c7453db6917a45eb3019c": {
+        "startdate": "20250325",
+        "fullstartdate": "202503252300",
+        "enddate": "20250326",
+        "url": "/th?id=OHR.CrystalManatee_DE-DE8276334869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CrystalManatee_DE-DE8276334869",
+        "copyright": "Rundschwanzseekuh in Crystal River, Florida, USA (© Stephen Frink/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Rundschwanzseek%C3%BChe&form=hpcapt&filters=HpDate%3a%2220250325_2300%22",
+        "title": "Sanfte Riesen",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250325_CrystalManatee%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1eeda3323a3c7453db6917a45eb3019c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

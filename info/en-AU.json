@@ -9858,5 +9858,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "7a5eb7e14b85cf0efd12add15da3635a": {
+        "startdate": "20250325",
+        "fullstartdate": "202503250700",
+        "enddate": "20250326",
+        "url": "/th?id=OHR.GoldfinchSunflower_ROW8225520434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.GoldfinchSunflower_ROW8225520434",
+        "copyright": "European goldfinches in a sunflower field, Germany (© Juniors Bildarchiv GmbH/Alamy)",
+        "copyrightlink": "https://www.bing.com/search?q=European+Goldfinch&form=hpcapt&filters=HpDate%3a%2220250325_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250325_GoldfinchSunflower%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7a5eb7e14b85cf0efd12add15da3635a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

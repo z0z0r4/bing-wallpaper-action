@@ -9875,5 +9875,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "6320635d71d15067f553fd14b9688fef": {
+        "startdate": "20250325",
+        "fullstartdate": "202503252300",
+        "enddate": "20250326",
+        "url": "/th?id=OHR.CrystalManatee_ES-ES0107634100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CrystalManatee_ES-ES0107634100",
+        "copyright": "Manatí en Crystal River, Florida, EE. UU. (© Stephen Frink/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Manat%C3%AD&form=hpcapt&filters=HpDate%3a%2220250325_2300%22",
+        "title": "La vida bajo la superficie",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250325_CrystalManatee%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6320635d71d15067f553fd14b9688fef",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
