@@ -9892,5 +9892,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "49d7fd9496f93810e0538c2807e4ef40": {
+        "startdate": "20250326",
+        "fullstartdate": "202503262300",
+        "enddate": "20250327",
+        "url": "/th?id=OHR.OdeonAthens_FR-FR0023742153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OdeonAthens_FR-FR0023742153",
+        "copyright": "Théâtre de l'Odéon d'Hérode Atticus, Acropole d'Athènes, Grèce (© f11photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Journ%C3%A9e+mondiale+du+th%C3%A9%C3%A2tre+&form=hpcapt&filters=HpDate%3a%2220250326_2300%22",
+        "title": "Une ode au théâtre",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250326_OdeonAthens%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "49d7fd9496f93810e0538c2807e4ef40",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

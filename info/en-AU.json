@@ -9875,5 +9875,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2fded6f8b30015fb3c17e96e9c0c6861": {
+        "startdate": "20250326",
+        "fullstartdate": "202503260700",
+        "enddate": "20250327",
+        "url": "/th?id=OHR.CrystalManatee_ROW8398212778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CrystalManatee_ROW8398212778",
+        "copyright": "Manatee in Crystal River, Florida, United States (© Stephen Frink/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Crystal+River&form=hpcapt&filters=HpDate%3a%2220250326_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250326_CrystalManatee%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2fded6f8b30015fb3c17e96e9c0c6861",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
