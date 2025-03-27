@@ -9892,5 +9892,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "619a46ddfa8b31dd72cacbd338838ce9": {
+        "startdate": "20250327",
+        "fullstartdate": "202503270300",
+        "enddate": "20250328",
+        "url": "/th?id=OHR.OdeonAthens_PT-BR7363037534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.OdeonAthens_PT-BR7363037534",
+        "copyright": "Odeon of Herodes Atticus theater, Acropolis of Athens, Greece (© f11photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+do+Teatro&form=hpcapt&mkt=pt-br",
+        "title": "Para aplaudir de pé",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250327_OdeonAthens%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "619a46ddfa8b31dd72cacbd338838ce9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
