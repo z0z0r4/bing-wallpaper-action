@@ -9926,5 +9926,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2c02ffdc1c19202d534dab825c634604": {
+        "startdate": "20250328",
+        "fullstartdate": "202503282300",
+        "enddate": "20250329",
+        "url": "/th?id=OHR.SydneyHarbour_FR-FR4894871663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SydneyHarbour_FR-FR4894871663",
+        "copyright": "Vue aérienne du port de Sydney, Nouvelle-Galles du Sud, Australie (© jamenpercy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Baie+de+Sydney+Port+Jackson&form=hpcapt&filters=HpDate%3a%2220250328_2300%22",
+        "title": "Un panorama inoubliable",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250328_SydneyHarbour%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2c02ffdc1c19202d534dab825c634604",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
