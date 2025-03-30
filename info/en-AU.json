@@ -9943,5 +9943,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "607845f3e33a732097713ed84966f3a8": {
+        "startdate": "20250330",
+        "fullstartdate": "202503300700",
+        "enddate": "20250331",
+        "url": "/th?id=OHR.SydneyHarbour_ROW8845962045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SydneyHarbour_ROW8845962045",
+        "copyright": "Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Port+Jackson+Australia&form=hpcapt&filters=HpDate%3a%2220250330_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250330_SydneyHarbour%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "607845f3e33a732097713ed84966f3a8",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

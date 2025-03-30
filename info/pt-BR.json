@@ -9943,5 +9943,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "e24aa4282071b8af0e548e94c5e73f0c": {
+        "startdate": "20250330",
+        "fullstartdate": "202503300300",
+        "enddate": "20250331",
+        "url": "/th?id=OHR.SydneyHarbour_PT-BR9026745479_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SydneyHarbour_PT-BR9026745479",
+        "copyright": "Vista aérea do Porto de Sydney, Nova Gales do Sul, Austrália (© jamenpercy/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ba%C3%ADa+de+Sydney&form=hpcapt&mkt=pt-br",
+        "title": "Uma conexão majestosa",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250330_SydneyHarbour%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "e24aa4282071b8af0e548e94c5e73f0c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

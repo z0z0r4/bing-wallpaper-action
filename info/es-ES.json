@@ -9960,5 +9960,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "f2143e69815128bb687df5999c832a14": {
+        "startdate": "20250330",
+        "fullstartdate": "202503302200",
+        "enddate": "20250331",
+        "url": "/th?id=OHR.ItalyOstuni_ES-ES6756528922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItalyOstuni_ES-ES6756528922",
+        "copyright": "Ostuni al atardecer, Brindisi, Apulia, Italia (© Feng Wei Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Brindisi+Italia&form=hpcapt&filters=HpDate%3a%2220250330_2200%22",
+        "title": "La “Ciudad Blanca” de Apulia",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250330_ItalyOstuni%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f2143e69815128bb687df5999c832a14",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

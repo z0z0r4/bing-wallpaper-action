@@ -9960,5 +9960,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "80a7f41acbae96d0b3ecebdde0859e1d": {
+        "startdate": "20250330",
+        "fullstartdate": "202503302200",
+        "enddate": "20250331",
+        "url": "/th?id=OHR.ItalyOstuni_DE-DE7873606461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.ItalyOstuni_DE-DE7873606461",
+        "copyright": "Ostuni bei Dämmerung, Apulien, Italien (© Feng Wei Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Ostuni+Italien&form=hpcapt&filters=HpDate%3a%2220250330_2200%22",
+        "title": "Die „weiße Stadt“ von Apulien",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250330_ItalyOstuni%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "80a7f41acbae96d0b3ecebdde0859e1d",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
