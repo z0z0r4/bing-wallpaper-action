@@ -9977,5 +9977,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "977d734e42faf6404cdd2e5010db94c7": {
+        "startdate": "20250331",
+        "fullstartdate": "202503312200",
+        "enddate": "20250401",
+        "url": "/th?id=OHR.CerezoEnFlor_ES-ES6779922174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CerezoEnFlor_ES-ES6779922174",
+        "copyright": "Castillo de La Calahorra, Granada, Andalucía, España (© Ugo Mellone/Sime/eStock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=La+Calahorra+Granada&form=hpcapt&filters=HpDate%3a%2220250331_2200%22",
+        "title": "¡Un castillo de en sueño!",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250331_CerezoEnFlor%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "977d734e42faf6404cdd2e5010db94c7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
