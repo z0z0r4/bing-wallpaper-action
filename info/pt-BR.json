@@ -9977,5 +9977,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "64dee140fce32a7e00311fe57e561657": {
+        "startdate": "20250403",
+        "fullstartdate": "202504030300",
+        "enddate": "20250404",
+        "url": "/th?id=OHR.SaguaroRainbow_PT-BR3397933674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.SaguaroRainbow_PT-BR3397933674",
+        "copyright": "Arco-íris sobre o Wasson Peak, Parque Nacional de Saguaro, Arizona, EUA (© Frank Staub/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Saguaro&form=hpcapt&mkt=pt-br",
+        "title": "Do outro lado do arco-íris",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_SaguaroRainbow%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "64dee140fce32a7e00311fe57e561657",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

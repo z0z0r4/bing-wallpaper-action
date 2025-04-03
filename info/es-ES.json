@@ -9994,5 +9994,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "3800a9b9ed80f13ca3ed6cd2aa3ef806": {
+        "startdate": "20250403",
+        "fullstartdate": "202504032200",
+        "enddate": "20250404",
+        "url": "/th?id=OHR.CherryBlossomDC_ES-ES7682852036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CherryBlossomDC_ES-ES7682852036",
+        "copyright": "Festival Nacional  de los Cerezos en Flor, Washington D. C., EE. UU. (© f11photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Festival+Nacional+de+los+Cerezos+en+Flor&form=hpcapt&filters=HpDate%3a%2220250403_2200%22",
+        "title": "Los árboles de la primavera",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250403_CherryBlossomDC%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3800a9b9ed80f13ca3ed6cd2aa3ef806",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
