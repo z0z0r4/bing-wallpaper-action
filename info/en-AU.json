@@ -9994,5 +9994,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "2e1eff578b90bae4234f5656baaf033c": {
+        "startdate": "20250404",
+        "fullstartdate": "202504040700",
+        "enddate": "20250405",
+        "url": "/th?id=OHR.CherryBlossomDC_ROW7816114178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.CherryBlossomDC_ROW7816114178",
+        "copyright": "National Cherry Blossom Festival, Washington, DC, United States (© f11photo/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=National+Cherry+Blossom+Festival&form=hpcapt&filters=HpDate%3a%2220250404_0700%22",
+        "title": "Info",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250404_CherryBlossomDC%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "2e1eff578b90bae4234f5656baaf033c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }

@@ -9994,5 +9994,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "512dde651a231d456e5bcce229add9b9": {
+        "startdate": "20250404",
+        "fullstartdate": "202504040400",
+        "enddate": "20250405",
+        "url": "/th?id=OHR.BhutanMonastery_EN-CA6496050057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+        "urlbase": "/th?id=OHR.BhutanMonastery_EN-CA6496050057",
+        "copyright": "Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=Paro+Taktsang&form=hpcapt&filters=HpDate%3a%2220250404_0400%22",
+        "title": "Cliffside calm, spiritual charm",
+        "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20250404_BhutanMonastery%22&FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "512dde651a231d456e5bcce229add9b9",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
